@@ -1,0 +1,5002 @@
+[
+   {
+      "id":1,
+      "soal":"Penyanyi luar negeri yang susah nelen?",
+      "jawaban":"Ed Seret"
+   },
+   {
+      "id":2,
+      "soal":"Sayur apa yang pintar nyanyi?",
+      "jawaban":"Kolplay"
+   },
+   {
+      "id":3,
+      "soal":"Ikan apa yang suka berhenti?",
+      "jawaban":"Ikan pause"
+   },
+   {
+      "id":4,
+      "soal":"Kucing apa yang paling kuno?",
+      "jawaban":"Kucinggalan zaman"
+   },
+   {
+      "id":5,
+      "soal":"Hewan apa yang paling hening?",
+      "jawaban":"Semute"
+   },
+   {
+      "id":6,
+      "soal":"Burung apa yang suka nolak?",
+      "jawaban":"Burung kakatidak"
+   },
+   {
+      "id":7,
+      "soal":"Minyak apa yang bikin mabuk?",
+      "jawaban":"Minyaksikan kamu jalan sama dia"
+   },
+   {
+      "id":8,
+      "soal":"Kopi apa yang paling pahit?",
+      "jawaban":"Kopilih dia daripada aku"
+   },
+   {
+      "id":9,
+      "soal":"Susu apa yang paling indah?",
+      "jawaban":"Susungguhnya aku sayang kamu"
+   },
+   {
+      "id":10,
+      "soal":"Jalan apa yang selalu mentok?",
+      "jawaban":"Jalanin aja dulu"
+   },
+   {
+      "id":11,
+      "soal":"Malam apa yang paling sedih?",
+      "jawaban":"Malamar kamu tapi ditolak camer"
+   },
+   {
+      "id":12,
+      "soal":"Kipas apa yang paling ditunggu cewek?",
+      "jawaban":"Kipastian"
+   },
+   {
+      "id":13,
+      "soal":"Penyanyi yang sering gak sadar diri?",
+      "jawaban":"Pingsan Mambo"
+   },
+   {
+      "id":14,
+      "soal":"Buah apa yang paling rajin?",
+      "jawaban":"Apel pagi"
+   },
+   {
+      "id":15,
+      "soal":"Awan apa yang bikin seneng?",
+      "jawaban":"Awanna be with you"
+   },
+   {
+      "id":16,
+      "soal":"Setan apa yang paling romantis?",
+      "jawaban":"Setangkai bunga mawar untukmu"
+   },
+   {
+      "id":17,
+      "soal":"Bis apa yang bikin deg-degan?",
+      "jawaban":"Bisa-bisanya aku jatuh cinta padamu"
+   },
+   {
+      "id":18,
+      "soal":"Cuka apa yang manis?",
+      "jawaban":"Cuka sama kamu"
+   },
+   {
+      "id":19,
+      "soal":"Gubernur apa yang suka nyanyi?",
+      "jawaban":"Biduan Kamil"
+   },
+   {
+      "id":20,
+      "soal":"Hewan apa yang bersaudara?",
+      "jawaban":"Katak beradik"
+   },
+   {
+      "id":21,
+      "soal":"Kota yang banyak bapak-bapaknya?",
+      "jawaban":"Purwodaddy"
+   },
+   {
+      "id":22,
+      "soal":"Mobil apa yang bikin kaget?",
+      "jawaban":"Mobilang sayang tapi ditolak"
+   },
+   {
+      "id":23,
+      "soal":"Benda apa yang dari jauh mirip, dari dekat beda?",
+      "jawaban":"Mantan"
+   },
+   {
+      "id":24,
+      "soal":"Penyanyi yang suka ngajak jalan?",
+      "jawaban":"Melly Goeslaw"
+   },
+   {
+      "id":25,
+      "soal":"Hewan apa yang jago nyari duit?",
+      "jawaban":"Beruang"
+   },
+   {
+      "id":26,
+      "soal":"Buah apa yang suka bangun pagi tapi tetep telat?",
+      "jawaban":"Jeruk nipis"
+   },
+   {
+      "id":27,
+      "soal":"Penyakit apa yang suka diderita jomblo?",
+      "jawaban":"Kurang kasih sayang"
+   },
+   {
+      "id":28,
+      "soal":"Apa bedanya kamu sama modem?",
+      "jawaban":"Modem connect internet, kamu connect hatiku"
+   },
+   {
+      "id":29,
+      "soal":"Sayur apa yang suka manggil teman?",
+      "jawaban":"Kool"
+   },
+   {
+      "id":30,
+      "soal":"Penyanyi luar yang selalu kedinginan?",
+      "jawaban":"Coldplay"
+   },
+   {
+      "id":31,
+      "soal":"Hewan apa yang jago nyanyi?",
+      "jawaban":"Sing-a"
+   },
+   {
+      "id":32,
+      "soal":"Kunci apa yang bisa bikin orang joget?",
+      "jawaban":"Kunci-kunci hota hai"
+   },
+   {
+      "id":33,
+      "soal":"Benda apa yang kalau dibalik rusak?",
+      "jawaban":"Kasur"
+   },
+   {
+      "id":34,
+      "soal":"Kue apa yang bungkusnya di dalam, isinya di luar?",
+      "jawaban":"Kue salah bikin"
+   },
+   {
+      "id":35,
+      "soal":"Rambut apa yang gak bisa disisir?",
+      "jawaban":"Rambutan"
+   },
+   {
+      "id":36,
+      "soal":"Sapi apa yang larinya cepet banget?",
+      "jawaban":"Sapida motor"
+   },
+   {
+      "id":37,
+      "soal":"Benda apa yang depannya K, belakangnya L, bisa melar?",
+      "jawaban":"Ketapel"
+   },
+   {
+      "id":38,
+      "soal":"Kenapa nyamuk bunyinya nging nging?",
+      "jawaban":"Karena kalau gong gong itu anjing"
+   },
+   {
+      "id":39,
+      "soal":"Mobil apa yang bisa terbang?",
+      "jawaban":"Mobilang sayang"
+   },
+   {
+      "id":40,
+      "soal":"Ayam apa yang bikin sebel?",
+      "jawaban":"Ayam missing you"
+   },
+   {
+      "id":41,
+      "soal":"Bulu apa yang bisa bicara?",
+      "jawaban":"Bulurah"
+   },
+   {
+      "id":42,
+      "soal":"Ikan apa yang matanya banyak banget?",
+      "jawaban":"Ikan teri 1 kilo"
+   },
+   {
+      "id":43,
+      "soal":"Cuaca apa yang paling bikin baper?",
+      "jawaban":"Cuaca-cuaca pengen ketemu kamu"
+   },
+   {
+      "id":44,
+      "soal":"Kenapa matahari makin panas?",
+      "jawaban":"Karena matahari buka cabang"
+   },
+   {
+      "id":45,
+      "soal":"Daun apa yang gak pernah gugur?",
+      "jawaban":"Daun telinga"
+   },
+   {
+      "id":46,
+      "soal":"Sayur apa yang dingin?",
+      "jawaban":"Kembang cold"
+   },
+   {
+      "id":47,
+      "soal":"Kotak apa yang paling menyakitkan?",
+      "jawaban":"Kotak sadar aku suka kamu"
+   },
+   {
+      "id":48,
+      "soal":"Lemari apa yang bisa masuk kantong?",
+      "jawaban":"Lemaribuan"
+   },
+   {
+      "id":49,
+      "soal":"Penyanyi yang selalu sabar?",
+      "jawaban":"Ayu Ting-tinggal"
+   },
+   {
+      "id":50,
+      "soal":"Sandal apa yang paling enak di dunia?",
+      "jawaban":"Sandaran di bahumu"
+   },
+   {
+      "id":51,
+      "soal":"Kopi apa yang bikin bahagia?",
+      "jawaban":"Kopinang kau dengan bismillah"
+   },
+   {
+      "id":52,
+      "soal":"Candi apa yang bisa bikin nangis?",
+      "jawaban":"Candi-da cintamu lagi"
+   },
+   {
+      "id":53,
+      "soal":"Mie apa yang paling enak di dunia?",
+      "jawaban":"Milikin kamu seutuhnya"
+   },
+   {
+      "id":54,
+      "soal":"Lampu apa yang kalau dipecahin keluar orangnya?",
+      "jawaban":"Lampu tetangga"
+   },
+   {
+      "id":55,
+      "soal":"Buah apa yang ditakuti mahasiswa?",
+      "jawaban":"Belimbingan skripsi"
+   },
+   {
+      "id":56,
+      "soal":"Kupas apa yang paling menyenangkan?",
+      "jawaban":"Kupastikan kita naik pelaminan"
+   },
+   {
+      "id":57,
+      "soal":"Benda apa yang ditusuk malah keluar?",
+      "jawaban":"Kancing baju"
+   },
+   {
+      "id":58,
+      "soal":"Polisi apa yang paling beruntung?",
+      "jawaban":"Polisi tidur"
+   },
+   {
+      "id":59,
+      "soal":"Gajah apa yang belalainya pendek?",
+      "jawaban":"Gajah pesek"
+   },
+   {
+      "id":60,
+      "soal":"Orang apa yang ditembak gak mati?",
+      "jawaban":"Orang yang gak kena"
+   },
+   {
+      "id":61,
+      "soal":"Ular apa yang selalu sehat?",
+      "jawaban":"Ular raga"
+   },
+   {
+      "id":62,
+      "soal":"Jus apa yang rasanya gak manis?",
+      "jawaban":"Just a friend"
+   },
+   {
+      "id":63,
+      "soal":"Kupu-kupu apa yang masuk perut?",
+      "jawaban":"Butterflies in stomach"
+   },
+   {
+      "id":64,
+      "soal":"Kuda apa yang paling capek?",
+      "jawaban":"Kudaki gunung lewati lembah"
+   },
+   {
+      "id":65,
+      "soal":"Jarum apa yang bikin sakit hati?",
+      "jawaban":"Jarum-jarum rindu"
+   },
+   {
+      "id":66,
+      "soal":"Kenapa kucing kalau tidur ngegulung?",
+      "jawaban":"Karena gak punya selimut"
+   },
+   {
+      "id":67,
+      "soal":"Apa bedanya jam dinding sama kamu?",
+      "jawaban":"Jam dipajang, kamu disayang"
+   },
+   {
+      "id":68,
+      "soal":"Ditusuk bukan sate, dijaring bukan ikan?",
+      "jawaban":"Konde"
+   },
+   {
+      "id":69,
+      "soal":"Telor apa yang diinjek gak pecah?",
+      "jawaban":"Telortoar"
+   },
+   {
+      "id":70,
+      "soal":"Penyanyi yang selalu jadi bahan omongan?",
+      "jawaban":"Raisa-rasan"
+   },
+   {
+      "id":71,
+      "soal":"Sayur apa yang susah move on?",
+      "jawaban":"Bayam-bayam masa lalu"
+   },
+   {
+      "id":72,
+      "soal":"Kutu apa yang menakutkan?",
+      "jawaban":"Kutukan"
+   },
+   {
+      "id":73,
+      "soal":"Mandi apa yang gak pakai air?",
+      "jawaban":"Mandi keringat"
+   },
+   {
+      "id":74,
+      "soal":"Hantu apa yang pinter ngitung?",
+      "jawaban":"Han-tuyul"
+   },
+   {
+      "id":75,
+      "soal":"Kucing apa yang suka drama?",
+      "jawaban":"Kucing-kucingan"
+   },
+   {
+      "id":76,
+      "soal":"Binatang apa yang kaya raya?",
+      "jawaban":"Babi ngepet"
+   },
+   {
+      "id":77,
+      "soal":"Penyanyi yang hobi ngegas?",
+      "jawaban":"Rem-a"
+   },
+   {
+      "id":78,
+      "soal":"Buku apa yang gak bisa dibaca?",
+      "jawaban":"Buku bambu"
+   },
+   {
+      "id":79,
+      "soal":"Pulau apa yang suka begadang?",
+      "jawaban":"Pulau Bali"
+   },
+   {
+      "id":80,
+      "soal":"Ikan apa yang suka galau?",
+      "jawaban":"Ikan lele-lah hati ini"
+   },
+   {
+      "id":81,
+      "soal":"Tinta apa yang bikin sedih?",
+      "jawaban":"Tintamu padaku telah pudar"
+   },
+   {
+      "id":82,
+      "soal":"Bulan apa yang paling ditunggu?",
+      "jawaban":"Bulan madu kita"
+   },
+   {
+      "id":83,
+      "soal":"Orang apa yang berenang tapi rambut gak basah?",
+      "jawaban":"Orang botak"
+   },
+   {
+      "id":84,
+      "soal":"Sepatu apa yang bisa dipakai masak?",
+      "jawaban":"Sepatula"
+   },
+   {
+      "id":85,
+      "soal":"Gitar apa yang bunyinya nyebelin?",
+      "jawaban":"Gitar-tar aja bayarnya"
+   },
+   {
+      "id":86,
+      "soal":"Apa bedanya sarung sama kamu?",
+      "jawaban":"Sarung buat sholat, kamu disayang"
+   },
+   {
+      "id":87,
+      "soal":"Minuman apa yang suka ngajak ribut?",
+      "jawaban":"Tebas-tea"
+   },
+   {
+      "id":88,
+      "soal":"Burung apa yang warnanya cuma dua?",
+      "jawaban":"Burung pinguin"
+   },
+   {
+      "id":89,
+      "soal":"Tari apa yang menakutkan?",
+      "jawaban":"Taring harimau"
+   },
+   {
+      "id":90,
+      "soal":"Cacing apa yang badannya besar?",
+      "jawaban":"Cacing pita raksasa"
+   },
+   {
+      "id":91,
+      "soal":"Uang apa yang bikin ketawa?",
+      "jawaban":"Uang kembali"
+   },
+   {
+      "id":92,
+      "soal":"Katak apa yang bisa terbang?",
+      "jawaban":"Katak-nya sih pesawat"
+   },
+   {
+      "id":93,
+      "soal":"Bola apa yang bikin nangis?",
+      "jawaban":"Bola mata dicolok"
+   },
+   {
+      "id":94,
+      "soal":"Batu apa yang bisa nyanyi?",
+      "jawaban":"Batu nisan"
+   },
+   {
+      "id":95,
+      "soal":"Susu apa yang bikin gemuk?",
+      "jawaban":"Susu-k kental manis"
+   },
+   {
+      "id":96,
+      "soal":"Roti apa yang jahat?",
+      "jawaban":"Roti tawar menawar nyawa"
+   },
+   {
+      "id":97,
+      "soal":"Es apa yang paling panas?",
+      "jawaban":"Es-mosi"
+   },
+   {
+      "id":98,
+      "soal":"Kecap apa yang rasanya asam?",
+      "jawaban":"Kecapean"
+   },
+   {
+      "id":99,
+      "soal":"Mobil apa yang suka malu-malu?",
+      "jawaban":"Mobilang cinta tapi takut"
+   },
+   {
+      "id":100,
+      "soal":"Motor apa yang suka senyum?",
+      "jawaban":"Motor yamaha"
+   },
+   {
+      "id":101,
+      "soal":"Sapi apa yang bisa nulis?",
+      "jawaban":"Sapidol"
+   },
+   {
+      "id":102,
+      "soal":"Lele apa yang buat cewek seneng?",
+      "jawaban":"Lele-langkan hatimu untukku"
+   },
+   {
+      "id":103,
+      "soal":"Kera apa yang bikin sakit hati?",
+      "jawaban":"Kerad banget hatinya"
+   },
+   {
+      "id":104,
+      "soal":"Ayam apa yang paling besar?",
+      "jawaban":"Ayam semesta"
+   },
+   {
+      "id":105,
+      "soal":"Penyanyi yang sering kena tilang?",
+      "jawaban":"Budi Do-re-mi-nta surat-surat"
+   },
+   {
+      "id":106,
+      "soal":"Sayur apa yang jago bela diri?",
+      "jawaban":"Sawi-t"
+   },
+   {
+      "id":107,
+      "soal":"Gajah apa yang gak pernah salah?",
+      "jawaban":"Gajah-lantan"
+   },
+   {
+      "id":108,
+      "soal":"Bantal apa yang paling keras?",
+      "jawaban":"Bantal tetangga"
+   },
+   {
+      "id":109,
+      "soal":"Ikan apa yang suka dandan?",
+      "jawaban":"Ikan salmon"
+   },
+   {
+      "id":110,
+      "soal":"Kopi apa yang bikin sedih?",
+      "jawaban":"Kopingin kamu tapi gak bisa"
+   },
+   {
+      "id":111,
+      "soal":"Soto apa yang paling mahal?",
+      "jawaban":"Soto-r mobil Lamborghini"
+   },
+   {
+      "id":112,
+      "soal":"Apa bedanya kamu sama modem?",
+      "jawaban":"Modem nyambung ke internet, kamu nyambung ke masa depanku"
+   },
+   {
+      "id":113,
+      "soal":"Buah apa yang paling sopan?",
+      "jawaban":"Mangga, silakan"
+   },
+   {
+      "id":114,
+      "soal":"Penyanyi luar yang suka jualan?",
+      "jawaban":"Bruno Mars"
+   },
+   {
+      "id":115,
+      "soal":"Kenapa kucing bunyinya meong?",
+      "jawaban":"Karena kalau mbeee itu kambing"
+   },
+   {
+      "id":116,
+      "soal":"Sandal apa yang paling besar?",
+      "jawaban":"Sandal-a sesuatu"
+   },
+   {
+      "id":117,
+      "soal":"Ulet apa yang paling cantik?",
+      "jawaban":"Ulet-ilet dandan"
+   },
+   {
+      "id":118,
+      "soal":"Kambing apa yang bikin baper?",
+      "jawaban":"Kambing-ingat kenangan kita"
+   },
+   {
+      "id":119,
+      "soal":"Roti apa yang paling sedih?",
+      "jawaban":"Roti-nggal nikah"
+   },
+   {
+      "id":120,
+      "soal":"Tas apa yang paling wangi?",
+      "jawaban":"Tasyakuran"
+   },
+   {
+      "id":121,
+      "soal":"Kenapa air laut asin?",
+      "jawaban":"Karena ikannya pada keringetan"
+   },
+   {
+      "id":122,
+      "soal":"Kera apa yang bikin seneng?",
+      "jawaban":"Keramas pakai uang satu koper"
+   },
+   {
+      "id":123,
+      "soal":"Apa bedanya kamu sama kipas angin?",
+      "jawaban":"Kipas angin bikin adem ruangan, kamu bikin adem hati"
+   },
+   {
+      "id":124,
+      "soal":"Sayur apa yang paling kasihan?",
+      "jawaban":"Di-terong-in doang"
+   },
+   {
+      "id":125,
+      "soal":"Negara apa yang paling siap buat jomblo?",
+      "jawaban":"In-dia"
+   },
+   {
+      "id":126,
+      "soal":"Kenapa di komputer ada tombol 'Enter'?",
+      "jawaban":"Karena kalau 'Entar' jadinya nunda mulu"
+   },
+   {
+      "id":127,
+      "soal":"Hewan apa yang sering jadi wasit?",
+      "jawaban":"Kera-pu"
+   },
+   {
+      "id":128,
+      "soal":"Kenapa zombie kalau nyerang rame-rame?",
+      "jawaban":"Karena kalau sendiri namanya zomblo"
+   },
+   {
+      "id":129,
+      "soal":"Penyanyi yang suka ngajak diet?",
+      "jawaban":"Adele"
+   },
+   {
+      "id":130,
+      "soal":"Minuman apa yang bisa bikin kita kompak?",
+      "jawaban":"Teh-man sejati"
+   },
+   {
+      "id":131,
+      "soal":"Gajah apa yang paling baik hati?",
+      "jawaban":"Gajah-ti diriku kalau aku sayang kamu"
+   },
+   {
+      "id":132,
+      "soal":"Kenapa ayam berkokok matanya merem?",
+      "jawaban":"Karena dia udah hafal teksnya"
+   },
+   {
+      "id":133,
+      "soal":"Bantal apa yang dipukul gak sakit?",
+      "jawaban":"Bantal-an waktu buat ketemu"
+   },
+   {
+      "id":134,
+      "soal":"Kopi apa yang bikin capek?",
+      "jawaban":"Kopinjek-injek masa lalu"
+   },
+   {
+      "id":135,
+      "soal":"Sabun apa yang paling bau?",
+      "jawaban":"Sabun-tuan di tengah jalan"
+   },
+   {
+      "id":136,
+      "soal":"Kenapa superman ada huruf S di dadanya?",
+      "jawaban":"Karena kalau M jadinya Mas-mas"
+   },
+   {
+      "id":137,
+      "soal":"Ikan apa yang paling galak?",
+      "jawaban":"Ikan galak-tik"
+   },
+   {
+      "id":138,
+      "soal":"Burung apa yang paling serem?",
+      "jawaban":"Burung hantu-yul"
+   },
+   {
+      "id":139,
+      "soal":"Soto apa yang bikin kaget?",
+      "jawaban":"Soto-man"
+   },
+   {
+      "id":140,
+      "soal":"Kenapa nyamuk suka ngisap darah?",
+      "jawaban":"Karena dia gak punya uang"
+   },
+   {
+      "id":141,
+      "soal":"Apa bedanya jam dinding sama kamu?",
+      "jawaban":"Jam dinding muter di angka, kamu muter di pikiran"
+   },
+   {
+      "id":142,
+      "soal":"Ayam apa yang paling sopan?",
+      "jawaban":"Ayam-pun bang"
+   },
+   {
+      "id":143,
+      "soal":"Buah apa yang berbahaya?",
+      "jawaban":"Buah-ya darat"
+   },
+   {
+      "id":144,
+      "soal":"Minyak apa yang bikin capek?",
+      "jawaban":"Minyak-iti perasaan aku terus"
+   },
+   {
+      "id":145,
+      "soal":"Hewan apa yang kerjanya di bank?",
+      "jawaban":"Tell-ur"
+   },
+   {
+      "id":146,
+      "soal":"Lampu apa yang gak pernah nyala?",
+      "jawaban":"Lampu mati"
+   },
+   {
+      "id":147,
+      "soal":"Sayur apa yang bisa nyanyi?",
+      "jawaban":"Sayur-nara"
+   },
+   {
+      "id":148,
+      "soal":"Batu apa yang paling sedih?",
+      "jawaban":"Batu-li-kan perjuanganku"
+   },
+   {
+      "id":149,
+      "soal":"Penyanyi yang sering lupa lirik?",
+      "jawaban":"Ari Lupa"
+   },
+   {
+      "id":150,
+      "soal":"Kenapa kambing brewokan?",
+      "jawaban":"Karena gak punya uang buat cukuran"
+   },
+   {
+      "id":151,
+      "soal":"Apa bedanya lukisan sama kamu?",
+      "jawaban":"Lukisan makin antik, kamu makin cantik"
+   },
+   {
+      "id":152,
+      "soal":"Ikan apa yang paling suka pamer?",
+      "jawaban":"Ikan lohan"
+   },
+   {
+      "id":153,
+      "soal":"Sabun apa yang paling romantis?",
+      "jawaban":"Sabun-tuan doa agar berjodoh"
+   },
+   {
+      "id":154,
+      "soal":"Nasi apa yang gak pernah dimakan?",
+      "jawaban":"Nasi-hat"
+   },
+   {
+      "id":155,
+      "soal":"Kelinci apa yang paling jago silat?",
+      "jawaban":"Kelinci-lat"
+   },
+   {
+      "id":156,
+      "soal":"Apa bahasa jepangnya 'Saya dicopet'?",
+      "jawaban":"Sakuku diraba takada sisa"
+   },
+   {
+      "id":157,
+      "soal":"Kenapa monyet suka makan pisang?",
+      "jawaban":"Karena kalau makan nasi namanya manusia"
+   },
+   {
+      "id":158,
+      "soal":"Penyanyi yang sering bawa obor?",
+      "jawaban":"Tulus-an"
+   },
+   {
+      "id":159,
+      "soal":"Gula apa yang pahit?",
+      "jawaban":"Gula-m-gulam cintaku kau buang"
+   },
+   {
+      "id":160,
+      "soal":"Kenapa kalau hujan turunnya air?",
+      "jawaban":"Karena kalau turunnya kamu itu anugerah"
+   },
+   {
+      "id":161,
+      "soal":"Kecap apa yang paling pedas?",
+      "jawaban":"Kecap-an tetangga"
+   },
+   {
+      "id":162,
+      "soal":"Hewan apa yang sering telat?",
+      "jawaban":"Kaki seribu"
+   },
+   {
+      "id":163,
+      "soal":"Lari apa yang paling melelahkan?",
+      "jawaban":"Lari dari kenyataan"
+   },
+   {
+      "id":164,
+      "soal":"Kenapa bebek goreng rasanya enak?",
+      "jawaban":"Karena ada huruf B"
+   },
+   {
+      "id":165,
+      "soal":"Apa bedanya sikat gigi sama kamu?",
+      "jawaban":"Sikat gigi bersihin kuman, kamu bersihin keraguan"
+   },
+   {
+      "id":166,
+      "soal":"Bumi itu bulat, kalau kamu?",
+      "jawaban":"Kamu itu segalanya"
+   },
+   {
+      "id":167,
+      "soal":"Singa apa yang gak pernah gigit?",
+      "jawaban":"Singa-raja"
+   },
+   {
+      "id":168,
+      "soal":"Apa bedanya semut sama orang?",
+      "jawaban":"Orang bisa kesemutan, semut gak bisa keorang-orang-an"
+   },
+   {
+      "id":169,
+      "soal":"Bantal apa yang kalau didudukin gak kempes?",
+      "jawaban":"Bantal-an rel kereta"
+   },
+   {
+      "id":170,
+      "soal":"Hewan apa yang paling sederhana?",
+      "jawaban":"Ala-kadarnya"
+   },
+   {
+      "id":171,
+      "soal":"Kenapa matahari tenggelam?",
+      "jawaban":"Karena dia nggak bisa berenang"
+   },
+   {
+      "id":172,
+      "soal":"Apa bedanya kamu sama modem?",
+      "jawaban":"Modem konek internet, kamu konek hatiku"
+   },
+   {
+      "id":173,
+      "soal":"Susu apa yang nggak pernah telat?",
+      "jawaban":"Susu-dah waktunya bersama"
+   },
+   {
+      "id":174,
+      "soal":"Buah apa yang sering jadi dambaan?",
+      "jawaban":"Buah-hagia bersamamu"
+   },
+   {
+      "id":175,
+      "soal":"Sayur apa yang bisa nelfon?",
+      "jawaban":"Wortel-pon"
+   },
+   {
+      "id":176,
+      "soal":"Kenapa air kalau dimasak mendidih?",
+      "jawaban":"Karena kaget kena api"
+   },
+   {
+      "id":177,
+      "soal":"Kota apa yang paling pait?",
+      "jawaban":"Pare-pare"
+   },
+   {
+      "id":178,
+      "soal":"Sepatu apa yang bisa lari cepet banget?",
+      "jawaban":"Sepatu-motor"
+   },
+   {
+      "id":179,
+      "soal":"Cinta kita itu kayak kuku, kenapa?",
+      "jawaban":"Meski dipotong, bakal tumbuh terus"
+   },
+   {
+      "id":180,
+      "soal":"Awan apa yang paling ditakuti cewek?",
+      "jawaban":"Awanti-wanti dapet ghosting"
+   },
+   {
+      "id":181,
+      "soal":"Kenapa kaca spion ada dua?",
+      "jawaban":"Kalau satu namanya spionase"
+   },
+   {
+      "id":182,
+      "soal":"Penyanyi yang hobinya nunda kerjaan?",
+      "jawaban":"Nanti"
+   },
+   {
+      "id":183,
+      "soal":"Sate apa yang dari jepang?",
+      "jawaban":"Sate-ra"
+   },
+   {
+      "id":184,
+      "soal":"Apa bedanya jam 12 malem sama kamu?",
+      "jawaban":"Jam 12 itu sunyi, kamu itu kesayangan"
+   },
+   {
+      "id":185,
+      "soal":"Es apa yang bikin baper?",
+      "jawaban":"Es-teler"
+   },
+   {
+      "id":186,
+      "soal":"Negara apa yang selalu waspada?",
+      "jawaban":"U-kraina"
+   },
+   {
+      "id":187,
+      "soal":"Ikan apa yang paling suka bohong?",
+      "jawaban":"Ikan karang"
+   },
+   {
+      "id":188,
+      "soal":"Kenapa bola kalau ditendang menggelinding?",
+      "jawaban":"Kalau lari namanya pemain"
+   },
+   {
+      "id":189,
+      "soal":"Sabun apa yang paling sedih?",
+      "jawaban":"Sabun-tuan dari kamu yang aku harapkan"
+   },
+   {
+      "id":190,
+      "soal":"Ayam apa yang bikin merinding?",
+      "jawaban":"Ayam-bil mayat"
+   },
+   {
+      "id":191,
+      "soal":"Kopi apa yang bikin deg-degan?",
+      "jawaban":"Kopi-nang kamu dengan bismillah"
+   },
+   {
+      "id":192,
+      "soal":"Gajah apa yang paling kurus?",
+      "jawaban":"Gajah-ti diriku tanpamu"
+   },
+   {
+      "id":193,
+      "soal":"Kenapa kucing nggak pernah sekolah?",
+      "jawaban":"Karena takut dipalak anjing"
+   },
+   {
+      "id":194,
+      "soal":"Sayur apa yang jago gombal?",
+      "jawaban":"Kangkung"
+   },
+   {
+      "id":195,
+      "soal":"Apa bahasa jepangnya ibu hamil?",
+      "jawaban":"Akutu Takuda"
+   },
+   {
+      "id":196,
+      "soal":"Mobil apa yang paling panjang?",
+      "jawaban":"Mobilang sayang tapi ditolak"
+   },
+   {
+      "id":197,
+      "soal":"Telor apa yang rasanya sakit?",
+      "jawaban":"Telor-bis cintamu"
+   },
+   {
+      "id":198,
+      "soal":"Kenapa air laut biru?",
+      "jawaban":"Karena kalau hijau itu cendol"
+   },
+   {
+      "id":199,
+      "soal":"Hantu apa yang nggak punya temen?",
+      "jawaban":"Kuntilanak-tunggal"
+   },
+   {
+      "id":200,
+      "soal":"Apa bedanya nasi uduk sama kamu?",
+      "jawaban":"Nasi uduk pake emping, kamu pake e-sayang"
+   },
+   {
+      "id":201,
+      "soal":"Sandal apa yang paling ditunggu?",
+      "jawaban":"Sandal-a restu orang tuamu"
+   },
+   {
+      "id":202,
+      "soal":"Lampu apa yang bisa bikin pinter?",
+      "jawaban":"Lampu belajar"
+   },
+   {
+      "id":203,
+      "soal":"Buah apa yang suka ngajak jalan?",
+      "jawaban":"Apel"
+   },
+   {
+      "id":204,
+      "soal":"Kenapa burung terbang ke selatan?",
+      "jawaban":"Karena kalau jalan kaki kejauhan"
+   },
+   {
+      "id":205,
+      "soal":"Setan apa yang romantis?",
+      "jawaban":"Setangkai bunga mawar buat kamu"
+   },
+   {
+      "id":206,
+      "soal":"Apa bedanya matahari sama kamu?",
+      "jawaban":"Matahari menyinari bumi, kamu menyinari hidupku"
+   },
+   {
+      "id":207,
+      "soal":"Kunci apa yang bikin nangis?",
+      "jawaban":"Kunci-ntai kamu tapi kamu cinta dia"
+   },
+   {
+      "id":208,
+      "soal":"Sayur apa yang dingin banget?",
+      "jawaban":"Kembang cold"
+   },
+   {
+      "id":209,
+      "soal":"Kenapa ninja pake topeng?",
+      "jawaban":"Kalau pake bedak namanya penganten"
+   },
+   {
+      "id":210,
+      "soal":"Ikan apa yang kepalanya besar?",
+      "jawaban":"Ikan pakai helm"
+   },
+   {
+      "id":211,
+      "soal":"Sapi apa yang bisa nempel di tembok?",
+      "jawaban":"Sapiderman"
+   },
+   {
+      "id":212,
+      "soal":"Kopi apa yang paling lambat?",
+      "jawaban":"Kopi-ndah ke lain hati"
+   },
+   {
+      "id":213,
+      "soal":"Apa bedanya jam dinding sama kamu?",
+      "jawaban":"Jam dinding dipajang, kamu disayang"
+   },
+   {
+      "id":214,
+      "soal":"Ikan apa yang paling ganteng?",
+      "jawaban":"Ikan-dika kangen band"
+   },
+   {
+      "id":215,
+      "soal":"Sayur apa yang jago bela diri?",
+      "jawaban":"Sawi-t"
+   },
+   {
+      "id":216,
+      "soal":"Kenapa orang mikir pegang jidat?",
+      "jawaban":"Kalau pegang jidat orang lain ditampol"
+   },
+   {
+      "id":217,
+      "soal":"Monyet apa yang nyebelin?",
+      "jawaban":"Monyet-el lagu galau pas lagi happy"
+   },
+   {
+      "id":218,
+      "soal":"Penyanyi yang sering kena marah?",
+      "jawaban":"Afgan (Ah-ganteng doang lu)"
+   },
+   {
+      "id":219,
+      "soal":"Buah apa yang cocok buat jomblo?",
+      "jawaban":"Buah-hagia sendirian"
+   },
+   {
+      "id":220,
+      "soal":"Kenapa dokter nutup mulut pas operasi?",
+      "jawaban":"Kalau nutup mata nggak kelihatan"
+   },
+   {
+      "id":221,
+      "soal":"Setan apa yang paling laku?",
+      "jawaban":"Setan-dar dua"
+   },
+   {
+      "id":222,
+      "soal":"Apa bedanya kamu sama Garuda?",
+      "jawaban":"Garuda di dadaku, kamu di hatiku"
+   },
+   {
+      "id":223,
+      "soal":"Ikan apa yang matanya besar?",
+      "jawaban":"Ikan teri sekilo"
+   },
+   {
+      "id":224,
+      "soal":"Soto apa yang bikin kaget?",
+      "jawaban":"Soto-man"
+   },
+   {
+      "id":225,
+      "soal":"Lampu apa yang nggak pernah nyala?",
+      "jawaban":"Lampu mati"
+   },
+   {
+      "id":226,
+      "soal":"Benda apa yang kalau dipake malah dibuang?",
+      "jawaban":"Jaring ikan"
+   },
+   {
+      "id":227,
+      "soal":"Hewan apa yang paling damai?",
+      "jawaban":"Adem-ayem"
+   },
+   {
+      "id":228,
+      "soal":"Kenapa donat tengahnya bolong?",
+      "jawaban":"Kalau utuh namanya roti goreng"
+   },
+   {
+      "id":229,
+      "soal":"Sabun apa yang paling bau?",
+      "jawaban":"Sabun-tuan di jalan"
+   },
+   {
+      "id":230,
+      "soal":"Negara apa yang banyak komandannya?",
+      "jawaban":"Denmark"
+   },
+   {
+      "id":231,
+      "soal":"Sepatu apa yang buat berhenti?",
+      "jawaban":"Sepatu-ju di hati"
+   },
+   {
+      "id":232,
+      "soal":"Ayam apa yang paling besar?",
+      "jawaban":"Ayam semesta"
+   },
+   {
+      "id":233,
+      "soal":"Minyak apa yang bikin baper?",
+      "jawaban":"Minyaksikan kamu sama dia"
+   },
+   {
+      "id":234,
+      "soal":"Kucing apa yang paling kuno?",
+      "jawaban":"Kucing-galan zaman"
+   },
+   {
+      "id":235,
+      "soal":"Sayur apa yang pinter?",
+      "jawaban":"Sayur-jana"
+   },
+   {
+      "id":236,
+      "soal":"Buah apa yang suka ketawa?",
+      "jawaban":"Sirsak-sak-sak"
+   },
+   {
+      "id":237,
+      "soal":"Penyanyi yang hobinya nanya?",
+      "jawaban":"Isyana (Isyana-kah jawabannya?)"
+   },
+   {
+      "id":238,
+      "soal":"Kera apa yang bikin sakit?",
+      "jawaban":"Kerad banget hidup ini"
+   },
+   {
+      "id":239,
+      "soal":"Lari apa yang melelahkan?",
+      "jawaban":"Lari dari kenyataan"
+   },
+   {
+      "id":240,
+      "soal":"Batu apa yang bisa nyanyi?",
+      "jawaban":"Batu nisan"
+   },
+   {
+      "id":241,
+      "soal":"Telor apa yang kuat?",
+      "jawaban":"Telortoar"
+   },
+   {
+      "id":242,
+      "soal":"Sandal apa yang paling besar?",
+      "jawaban":"Sandal-a segala sesuatu"
+   },
+   {
+      "id":243,
+      "soal":"Kambing apa yang bikin sedih?",
+      "jawaban":"Kambing-ingat masa lalu"
+   },
+   {
+      "id":244,
+      "soal":"Penyanyi yang suka jualan?",
+      "jawaban":"Bruno Mars (jualan bakso)"
+   },
+   {
+      "id":245,
+      "soal":"Susu apa yang bikin gemuk?",
+      "jawaban":"Susu-k kental manis"
+   },
+   {
+      "id":246,
+      "soal":"Roti apa yang jahat?",
+      "jawaban":"Roti tawar menawar nyawa"
+   },
+   {
+      "id":247,
+      "soal":"Kecap apa yang asem?",
+      "jawaban":"Kecapean"
+   },
+   {
+      "id":248,
+      "soal":"Mobil apa yang pemalu?",
+      "jawaban":"Mobilang sayang tapi takut"
+   },
+   {
+      "id":249,
+      "soal":"Motor apa yang suka ketawa?",
+      "jawaban":"Motor yamaha-ha-ha"
+   },
+   {
+      "id":250,
+      "soal":"Awan apa yang paling sedih?",
+      "jawaban":"Awanda-pahkan cintamu tapi bohong"
+   },
+   {
+      "id":251,
+      "soal":"Penyanyi yang sering lapar?",
+      "jawaban":"Makan-tuly"
+   },
+   {
+      "id":252,
+      "soal":"Es apa yang bikin panas?",
+      "jawaban":"Es-mosi"
+   },
+   {
+      "id":253,
+      "soal":"Cacing apa yang badannya besar?",
+      "jawaban":"Cacing pita raksasa"
+   },
+   {
+      "id":254,
+      "soal":"Ular apa yang rajin olahraga?",
+      "jawaban":"Ular raga"
+   },
+   {
+      "id":255,
+      "soal":"Apa bahasa jepangnya gak punya uang?",
+      "jawaban":"Sakuku Rata"
+   },
+   {
+      "id":256,
+      "soal":"Hewan apa yang paling hening?",
+      "jawaban":"Semute"
+   },
+   {
+      "id":257,
+      "soal":"Sayur apa yang pintar nyanyi?",
+      "jawaban":"Kolplay"
+   },
+   {
+      "id":258,
+      "soal":"Ikan apa yang suka berhenti?",
+      "jawaban":"Ikan pause"
+   },
+   {
+      "id":259,
+      "soal":"Burung apa yang suka nolak?",
+      "jawaban":"Burung kakatidak"
+   },
+   {
+      "id":260,
+      "soal":"Bis apa yang bikin baper?",
+      "jawaban":"Bisa-bisanya aku cinta kamu"
+   },
+   {
+      "id":261,
+      "soal":"Cuka apa yang manis?",
+      "jawaban":"Cuka sama kamu"
+   },
+   {
+      "id":262,
+      "soal":"Kipas apa yang ditunggu cewek?",
+      "jawaban":"Kipastian"
+   },
+   {
+      "id":263,
+      "soal":"Malam apa yang sedih?",
+      "jawaban":"Malamar kamu tapi ditolak"
+   },
+   {
+      "id":264,
+      "soal":"Gubernur apa yang suka nyanyi?",
+      "jawaban":"Biduan Kamil"
+   },
+   {
+      "id":265,
+      "soal":"Mobil apa yang bikin kaget?",
+      "jawaban":"Mobilang sayang tapi ditolak"
+   },
+   {
+      "id":266,
+      "soal":"Ikan apa yang jago pamer?",
+      "jawaban":"Ikan lohan (loh-kan keren)"
+   },
+   {
+      "id":267,
+      "soal":"Kenapa matahari tenggelam?",
+      "jawaban":"Karena nggak bisa berenang"
+   },
+   {
+      "id":268,
+      "soal":"Apa bedanya modem sama kamu?",
+      "jawaban":"Modem konek internet, kamu konek hatiku"
+   },
+   {
+      "id":269,
+      "soal":"Susu apa yang gak pernah telat?",
+      "jawaban":"Susu-dah waktunya bersama"
+   },
+   {
+      "id":270,
+      "soal":"Buah apa yang sering jadi dambaan?",
+      "jawaban":"Buah-hagia bersamamu"
+   },
+   {
+      "id":271,
+      "soal":"Sayur apa yang bisa nelfon?",
+      "jawaban":"Wortel-pon"
+   },
+   {
+      "id":272,
+      "soal":"Kota apa yang paling pait?",
+      "jawaban":"Pare-pare"
+   },
+   {
+      "id":273,
+      "soal":"Penyanyi yang nunda kerjaan?",
+      "jawaban":"Nanti (Nadin Amizah)"
+   },
+   {
+      "id":274,
+      "soal":"Es apa yang bikin baper?",
+      "jawaban":"Es-teler (Teler-lihat senyummu)"
+   },
+   {
+      "id":275,
+      "soal":"Sabun apa yang paling sedih?",
+      "jawaban":"Sabun-tuan dari kamu yang aku harapkan"
+   },
+   {
+      "id":276,
+      "soal":"Ayam apa yang bikin merinding?",
+      "jawaban":"Ayam-bil mayat"
+   },
+   {
+      "id":277,
+      "soal":"Kopi apa yang bikin deg-degan?",
+      "jawaban":"Kopi-nang kamu dengan bismillah"
+   },
+   {
+      "id":278,
+      "soal":"Gajah apa yang paling kurus?",
+      "jawaban":"Gajah-ti diriku tanpamu"
+   },
+   {
+      "id":279,
+      "soal":"Apa bahasa jepangnya ibu hamil?",
+      "jawaban":"Akutu Takuda"
+   },
+   {
+      "id":280,
+      "soal":"Mobil apa yang paling panjang?",
+      "jawaban":"Mobilang sayang tapi ditolak"
+   },
+   {
+      "id":281,
+      "soal":"Hantu apa yang gak punya temen?",
+      "jawaban":"Kuntilanak-tunggal"
+   },
+   {
+      "id":282,
+      "soal":"Apa bedanya nasi uduk sama kamu?",
+      "jawaban":"Nasi uduk pake emping, kamu pake e-sayang"
+   },
+   {
+      "id":283,
+      "soal":"Lampu apa yang bisa bikin pinter?",
+      "jawaban":"Lampu belajar"
+   },
+   {
+      "id":284,
+      "soal":"Buah apa yang suka ngajak jalan?",
+      "jawaban":"Apel"
+   },
+   {
+      "id":285,
+      "soal":"Kenapa burung terbang ke selatan?",
+      "jawaban":"Kalau jalan kaki kejauhan"
+   },
+   {
+      "id":286,
+      "soal":"Setan apa yang romantis?",
+      "jawaban":"Setangkai bunga mawar buat kamu"
+   },
+   {
+      "id":287,
+      "soal":"Apa bedanya matahari sama kamu?",
+      "jawaban":"Matahari menyinari bumi, kamu menyinari hidupku"
+   },
+   {
+      "id":288,
+      "soal":"Kunci apa yang bikin nangis?",
+      "jawaban":"Kunci-ntai kamu tapi kamu cinta dia"
+   },
+   {
+      "id":289,
+      "soal":"Sayur apa yang dingin banget?",
+      "jawaban":"Kembang cold"
+   },
+   {
+      "id":290,
+      "soal":"Kenapa ninja pake topeng?",
+      "jawaban":"Kalau pake bedak namanya penganten"
+   },
+   {
+      "id":291,
+      "soal":"Ikan apa yang kepalanya besar?",
+      "jawaban":"Ikan pakai helm"
+   },
+   {
+      "id":292,
+      "soal":"Sapi apa yang bisa nempel di tembok?",
+      "jawaban":"Sapiderman"
+   },
+   {
+      "id":293,
+      "soal":"Kopi apa yang paling lambat?",
+      "jawaban":"Kopi-ndah ke lain hati"
+   },
+   {
+      "id":294,
+      "soal":"Apa bedanya jam dinding sama kamu?",
+      "jawaban":"Jam dinding dipajang, kamu disayang"
+   },
+   {
+      "id":295,
+      "soal":"Ikan apa yang paling ganteng?",
+      "jawaban":"Ikan-dika kangen band"
+   },
+   {
+      "id":296,
+      "soal":"Sayur apa yang jago bela diri?",
+      "jawaban":"Sawi-t"
+   },
+   {
+      "id":297,
+      "soal":"Kenapa orang mikir pegang jidat?",
+      "jawaban":"Kalau pegang jidat orang lain ditampol"
+   },
+   {
+      "id":298,
+      "soal":"Monyet apa yang nyebelin?",
+      "jawaban":"Monyet-el lagu galau pas lagi happy"
+   },
+   {
+      "id":299,
+      "soal":"Penyanyi yang sering kena marah?",
+      "jawaban":"Afgan (Ah-ganteng doang lu)"
+   },
+   {
+      "id":300,
+      "soal":"Buah apa yang cocok buat jomblo?",
+      "jawaban":"Buah-hagia sendirian"
+   },
+   {
+      "id":301,
+      "soal":"Ikan apa yang paling galak?",
+      "jawaban":"Ikan galak-tik"
+   },
+   {
+      "id":302,
+      "soal":"Minyak apa yang bikin capek?",
+      "jawaban":"Minyak-iti perasaan aku terus"
+   },
+   {
+      "id":303,
+      "soal":"Kenapa nyamuk bunyinya nging nging?",
+      "jawaban":"Kalau gong gong anjing"
+   },
+   {
+      "id":304,
+      "soal":"Bantal apa yang paling keras?",
+      "jawaban":"Bantal tetangga"
+   },
+   {
+      "id":305,
+      "soal":"Sabun apa yang paling bau?",
+      "jawaban":"Sabun-tuan di jalan"
+   },
+   {
+      "id":306,
+      "soal":"Kota apa yang banyak bapaknya?",
+      "jawaban":"Purwodaddy"
+   },
+   {
+      "id":307,
+      "soal":"Susu apa yang paling indah?",
+      "jawaban":"Susungguhnya aku sayang kamu"
+   },
+   {
+      "id":308,
+      "soal":"Penyanyi yang susah nelen?",
+      "jawaban":"Ed Seret"
+   },
+   {
+      "id":309,
+      "soal":"Sayur apa yang suka nyanyi?",
+      "jawaban":"Kolplay"
+   },
+   {
+      "id":310,
+      "soal":"Ikan apa yang suka berhenti?",
+      "jawaban":"Ikan pause"
+   },
+   {
+      "id":311,
+      "soal":"Kenapa harimau makan daging?",
+      "jawaban":"Kalau makan kangkung namanya kelinci"
+   },
+   {
+      "id":312,
+      "soal":"Apa bedanya sepatu sama kamu?",
+      "jawaban":"Sepatu buat lari, kamu buat berhenti di hati"
+   },
+   {
+      "id":313,
+      "soal":"Minyak apa yang bikin baper?",
+      "jawaban":"Minyaksikan kamu bahagia sama dia"
+   },
+   {
+      "id":314,
+      "soal":"Apa bedanya motor sama kamu?",
+      "jawaban":"Motor butuh bensin, aku butuh kamu"
+   },
+   {
+      "id":315,
+      "soal":"Buah apa yang suka ketawa?",
+      "jawaban":"Sirsak-sak-sak"
+   },
+   {
+      "id":316,
+      "soal":"Penyanyi yang hobinya nanya?",
+      "jawaban":"Isyana (Isyana-kah jawabannya?)"
+   },
+   {
+      "id":317,
+      "soal":"Kera apa yang bikin sakit?",
+      "jawaban":"Kerad banget hidup ini"
+   },
+   {
+      "id":318,
+      "soal":"Lari apa yang melelahkan?",
+      "jawaban":"Lari dari kenyataan"
+   },
+   {
+      "id":319,
+      "soal":"Batu apa yang bisa nyanyi?",
+      "jawaban":"Batu nisan"
+   },
+   {
+      "id":320,
+      "soal":"Cinta kita itu kayak kuku, kenapa?",
+      "jawaban":"Meski dipotong tumbuh terus"
+   },
+   {
+      "id":321,
+      "soal":"Hantu apa yang pinter ngitung?",
+      "jawaban":"Han-tuyul"
+   },
+   {
+      "id":322,
+      "soal":"Mandi apa yang gak pake air?",
+      "jawaban":"Mandi keringat"
+   },
+   {
+      "id":323,
+      "soal":"Binatang apa yang kaya raya?",
+      "jawaban":"Babi ngepet"
+   },
+   {
+      "id":324,
+      "soal":"Apa bedanya jam dinding sama kamu?",
+      "jawaban":"Jam dipajang, kamu disayang"
+   },
+   {
+      "id":325,
+      "soal":"Sayur apa yang susah move on?",
+      "jawaban":"Bayam-bayam masa lalu"
+   },
+   {
+      "id":326,
+      "soal":"Kutu apa yang menakutkan?",
+      "jawaban":"Kutukan"
+   },
+   {
+      "id":327,
+      "soal":"Pulau apa yang suka begadang?",
+      "jawaban":"Pulau Bali"
+   },
+   {
+      "id":328,
+      "soal":"Tinta apa yang bikin sedih?",
+      "jawaban":"Tintamu padaku telah pudar"
+   },
+   {
+      "id":329,
+      "soal":"Bulan apa yang paling ditunggu?",
+      "jawaban":"Bulan madu kita"
+   },
+   {
+      "id":330,
+      "soal":"Sepatu apa yang bisa buat masak?",
+      "jawaban":"Sepatula"
+   },
+   {
+      "id":331,
+      "soal":"Gitar apa yang bunyinya nyebelin?",
+      "jawaban":"Gitar-tar aja bayarnya"
+   },
+   {
+      "id":332,
+      "soal":"Minuman apa yang suka ngajak ribut?",
+      "jawaban":"Tebas-tea"
+   },
+   {
+      "id":333,
+      "soal":"Tari apa yang menakutkan?",
+      "jawaban":"Taring harimau"
+   },
+   {
+      "id":334,
+      "soal":"Uang apa yang bikin ketawa?",
+      "jawaban":"Uang kembali"
+   },
+   {
+      "id":335,
+      "soal":"Katak apa yang bisa terbang?",
+      "jawaban":"Katak-nya sih pesawat"
+   },
+   {
+      "id":336,
+      "soal":"Bola apa yang bikin nangis?",
+      "jawaban":"Bola mata dicolok"
+   },
+   {
+      "id":337,
+      "soal":"Susu apa yang bikin gemuk?",
+      "jawaban":"Susu-k kental manis"
+   },
+   {
+      "id":338,
+      "soal":"Roti apa yang jahat?",
+      "jawaban":"Roti tawar menawar nyawa"
+   },
+   {
+      "id":339,
+      "soal":"Es apa yang paling panas?",
+      "jawaban":"Es-mosi"
+   },
+   {
+      "id":340,
+      "soal":"Mobil apa yang suka malu-malu?",
+      "jawaban":"Mobilang cinta tapi takut"
+   },
+   {
+      "id":341,
+      "soal":"Kenapa kucing bunyinya meong?",
+      "jawaban":"Karena kalau mbeee kambing"
+   },
+   {
+      "id":342,
+      "soal":"Buah apa yang paling sopan?",
+      "jawaban":"Mangga, silakan"
+   },
+   {
+      "id":343,
+      "soal":"Penyanyi luar yang suka jualan?",
+      "jawaban":"Bruno Mars"
+   },
+   {
+      "id":344,
+      "soal":"Sandal apa yang paling besar?",
+      "jawaban":"Sandal-a sesuatu"
+   },
+   {
+      "id":345,
+      "soal":"Ulet apa yang paling cantik?",
+      "jawaban":"Ulet-ilet dandan"
+   },
+   {
+      "id":346,
+      "soal":"Roti apa yang paling sedih?",
+      "jawaban":"Roti-nggal nikah"
+   },
+   {
+      "id":347,
+      "soal":"Tas apa yang paling wangi?",
+      "jawaban":"Tasyakuran"
+   },
+   {
+      "id":348,
+      "soal":"Kenapa air laut asin?",
+      "jawaban":"Karena ikannya pada keringetan"
+   },
+   {
+      "id":349,
+      "soal":"Apa bedanya kamu sama kipas angin?",
+      "jawaban":"Kipas bikin adem ruangan, kamu bikin adem hati"
+   },
+   {
+      "id":350,
+      "soal":"Sayur apa yang paling kasihan?",
+      "jawaban":"Di-terong-in doang"
+   },
+   {
+      "id":351,
+      "soal":"Gajah apa yang paling baik hati?",
+      "jawaban":"Gajah-ti diriku kalau aku sayang kamu"
+   },
+   {
+      "id":352,
+      "soal":"Kenapa ayam berkokok merem?",
+      "jawaban":"Karena udah hafal teksnya"
+   },
+   {
+      "id":353,
+      "soal":"Bantal apa yang dipukul gak sakit?",
+      "jawaban":"Bantal-an waktu buat ketemu"
+   },
+   {
+      "id":354,
+      "soal":"Kopi apa yang bikin capek?",
+      "jawaban":"Kopinjek-injek masa lalu"
+   },
+   {
+      "id":355,
+      "soal":"Sabun apa yang paling bau?",
+      "jawaban":"Sabun-tuan di tengah jalan"
+   },
+   {
+      "id":356,
+      "soal":"Kenapa superman ada huruf S?",
+      "jawaban":"Karena kalau M jadinya Mas-mas"
+   },
+   {
+      "id":357,
+      "soal":"Ikan apa yang paling galak?",
+      "jawaban":"Ikan galak-tik"
+   },
+   {
+      "id":358,
+      "soal":"Burung apa yang paling serem?",
+      "jawaban":"Burung hantu-yul"
+   },
+   {
+      "id":359,
+      "soal":"Soto apa yang bikin kaget?",
+      "jawaban":"Soto-man"
+   },
+   {
+      "id":360,
+      "soal":"Kenapa nyamuk suka ngisap darah?",
+      "jawaban":"Gak punya uang buat beli rokok"
+   },
+   {
+      "id":361,
+      "soal":"Ayam apa yang paling sopan?",
+      "jawaban":"Ayam-pun bang"
+   },
+   {
+      "id":362,
+      "soal":"Buah apa yang berbahaya?",
+      "jawaban":"Buah-ya darat"
+   },
+   {
+      "id":363,
+      "soal":"Minyak apa yang bikin capek?",
+      "jawaban":"Minyak-iti perasaan aku"
+   },
+   {
+      "id":364,
+      "soal":"Hewan apa yang kerja di bank?",
+      "jawaban":"Tell-ur"
+   },
+   {
+      "id":365,
+      "soal":"Sayur apa yang bisa nyanyi?",
+      "jawaban":"Sayur-nara"
+   },
+   {
+      "id":366,
+      "soal":"Batu apa yang paling sedih?",
+      "jawaban":"Batu-li-kan perjuanganku"
+   },
+   {
+      "id":367,
+      "soal":"Penyanyi yang sering lupa lirik?",
+      "jawaban":"Ari Lupa"
+   },
+   {
+      "id":368,
+      "soal":"Kenapa kambing brewokan?",
+      "jawaban":"Gak punya uang buat cukuran"
+   },
+   {
+      "id":369,
+      "soal":"Apa bedanya lukisan sama kamu?",
+      "jawaban":"Lukisan makin antik, kamu makin cantik"
+   },
+   {
+      "id":370,
+      "soal":"Ikan apa yang paling suka pamer?",
+      "jawaban":"Ikan lohan"
+   },
+   {
+      "id":371,
+      "soal":"Sabun apa yang paling romantis?",
+      "jawaban":"Sabun-tuan doa agar berjodoh"
+   },
+   {
+      "id":372,
+      "soal":"Nasi apa yang gak pernah dimakan?",
+      "jawaban":"Nasi-hat"
+   },
+   {
+      "id":373,
+      "soal":"Kelinci apa yang paling jago silat?",
+      "jawaban":"Kelinci-lat"
+   },
+   {
+      "id":374,
+      "soal":"Penyanyi yang sering bawa obor?",
+      "jawaban":"Tulus-an"
+   },
+   {
+      "id":375,
+      "soal":"Gula apa yang pahit?",
+      "jawaban":"Gula-m-gulam cintaku kau buang"
+   },
+   {
+      "id":376,
+      "soal":"Kenapa hujan turunnya air?",
+      "jawaban":"Kalau turunnya kamu itu anugerah"
+   },
+   {
+      "id":377,
+      "soal":"Kecap apa yang paling pedas?",
+      "jawaban":"Kecap-an tetangga"
+   },
+   {
+      "id":378,
+      "soal":"Hewan apa yang sering telat?",
+      "jawaban":"Kaki seribu"
+   },
+   {
+      "id":379,
+      "soal":"Kenapa bebek goreng enak?",
+      "jawaban":"Karena ada huruf B"
+   },
+   {
+      "id":380,
+      "soal":"Bumi itu bulat, kalau kamu?",
+      "jawaban":"Kamu itu segalanya"
+   },
+   {
+      "id":381,
+      "soal":"Singa apa yang gak pernah gigit?",
+      "jawaban":"Singa-raja"
+   },
+   {
+      "id":382,
+      "soal":"Hewan apa yang paling sederhana?",
+      "jawaban":"Ala-kadarnya"
+   },
+   {
+      "id":383,
+      "soal":"Kenapa matahari tenggelam?",
+      "jawaban":"Karena nggak bisa berenang"
+   },
+   {
+      "id":384,
+      "soal":"Susu apa yang nggak pernah telat?",
+      "jawaban":"Susu-dah waktunya bersama"
+   },
+   {
+      "id":385,
+      "soal":"Sayur apa yang bisa nelfon?",
+      "jawaban":"Wortel-pon"
+   },
+   {
+      "id":386,
+      "soal":"Sepatu apa yang bisa lari cepet?",
+      "jawaban":"Sepatu-motor"
+   },
+   {
+      "id":387,
+      "soal":"Penyanyi yang nunda kerjaan?",
+      "jawaban":"Nanti"
+   },
+   {
+      "id":388,
+      "soal":"Negara apa yang selalu waspada?",
+      "jawaban":"U-kraina"
+   },
+   {
+      "id":389,
+      "soal":"Ayam apa yang bikin merinding?",
+      "jawaban":"Ayam-bil mayat"
+   },
+   {
+      "id":390,
+      "soal":"Kopi apa yang bikin deg-degan?",
+      "jawaban":"Kopi-nang kamu dengan bismillah"
+   },
+   {
+      "id":391,
+      "soal":"Gajah apa yang paling kurus?",
+      "jawaban":"Gajah-ti diriku tanpamu"
+   },
+   {
+      "id":392,
+      "soal":"Apa bahasa jepangnya ibu hamil?",
+      "jawaban":"Akutu Takuda"
+   },
+   {
+      "id":393,
+      "soal":"Hantu apa yang nggak punya temen?",
+      "jawaban":"Kuntilanak-tunggal"
+   },
+   {
+      "id":394,
+      "soal":"Apa bedanya nasi uduk sama kamu?",
+      "jawaban":"Nasi uduk pake emping, kamu pake e-sayang"
+   },
+   {
+      "id":395,
+      "soal":"Lampu apa yang bisa bikin pinter?",
+      "jawaban":"Lampu belajar"
+   },
+   {
+      "id":396,
+      "soal":"Kenapa ninja pake topeng?",
+      "jawaban":"Kalau pake bedak namanya penganten"
+   },
+   {
+      "id":397,
+      "soal":"Ikan apa yang kepalanya besar?",
+      "jawaban":"Ikan pakai helm"
+   },
+   {
+      "id":398,
+      "soal":"Sapi apa yang bisa nempel di tembok?",
+      "jawaban":"Sapiderman"
+   },
+   {
+      "id":399,
+      "soal":"Kopi apa yang paling lambat?",
+      "jawaban":"Kopi-ndah ke lain hati"
+   },
+   {
+      "id":400,
+      "soal":"Apa bedanya jam dinding sama kamu?",
+      "jawaban":"Jam dinding dipajang, kamu disayang"
+   },
+   {
+      "id":401,
+      "soal":"Buah apa yang warna-warni?",
+      "jawaban":"Buah naga (setelah disembur pelangi)"
+   },
+   {
+      "id":402,
+      "soal":"Kenapa ikan hidup di air?",
+      "jawaban":"Karena di darat banyak kucing"
+   },
+   {
+      "id":403,
+      "soal":"Sabun apa yang bikin pinter?",
+      "jawaban":"Sabun-tuan belajar"
+   },
+   {
+      "id":404,
+      "soal":"Mobil apa yang sering ke bengkel?",
+      "jawaban":"Mobil-mobilan rusak"
+   },
+   {
+      "id":405,
+      "soal":"Sayur apa yang selalu menang?",
+      "jawaban":"Juara-m (Bayam)"
+   },
+   {
+      "id":406,
+      "soal":"Ayam apa yang paling stres?",
+      "jawaban":"Ayam yang telurnya dipecahin mulu"
+   },
+   {
+      "id":407,
+      "soal":"Kopi apa yang bikin seger?",
+      "jawaban":"Kopilih aku jadi pacarmu"
+   },
+   {
+      "id":408,
+      "soal":"Hewan apa yang jago komputer?",
+      "jawaban":"Tik-us"
+   },
+   {
+      "id":409,
+      "soal":"Susu apa yang paling sopan?",
+      "jawaban":"Susu-suwun nggih"
+   },
+   {
+      "id":410,
+      "soal":"Apa bedanya kamu sama laptop?",
+      "jawaban":"Laptop butuh cas, aku butuh kasih sayangmu"
+   },
+   {
+      "id":411,
+      "soal":"Buah apa yang paling sedih?",
+      "jawaban":"Melon-cholies"
+   },
+   {
+      "id":412,
+      "soal":"Ikan apa yang paling sibuk?",
+      "jawaban":"Ikan gurame (Guru-rame)"
+   },
+   {
+      "id":413,
+      "soal":"Kenapa pohon beringin serem?",
+      "jawaban":"Karena kalau pohon mangga enak"
+   },
+   {
+      "id":414,
+      "soal":"Sabun apa yang bikin baper?",
+      "jawaban":"Sabun-tuan bahu buat bersandar"
+   },
+   {
+      "id":415,
+      "soal":"Sayur apa yang jago renang?",
+      "jawaban":"Kangkung (kan-kung-kung)"
+   },
+   {
+      "id":416,
+      "soal":"Hewan apa yang sering sakit gigi?",
+      "jawaban":"Beruang (Be-ruang giginya)"
+   },
+   {
+      "id":417,
+      "soal":"Kenapa bumi itu bulat?",
+      "jawaban":"Karena kalau kotak nggak bisa muter"
+   },
+   {
+      "id":418,
+      "soal":"Cinta itu kayak kentut, kenapa?",
+      "jawaban":"Kalau dipaksain jadinya berak"
+   },
+   {
+      "id":419,
+      "soal":"Apa bedanya kamu sama remote?",
+      "jawaban":"Remote ngatur TV, kamu ngatur hatiku"
+   },
+   {
+      "id":420,
+      "soal":"Lampu apa yang paling setia?",
+      "jawaban":"Lampu jalan (tetep berdiri meski hujan)"
+   },
+   {
+      "id":421,
+      "soal":"Buah apa yang gak bisa dipetik?",
+      "jawaban":"Buah bibir"
+   },
+   {
+      "id":422,
+      "soal":"Ikan apa yang paling suci?",
+      "jawaban":"Ikan bawal (Bawa-lah aku ke surga)"
+   },
+   {
+      "id":423,
+      "soal":"Sayur apa yang paling jaya?",
+      "jawaban":"Bayam-bang (Bambang)"
+   },
+   {
+      "id":424,
+      "soal":"Kenapa kucing takut air?",
+      "jawaban":"Karena gak mau luntur imutnya"
+   },
+   {
+      "id":425,
+      "soal":"Sabun apa yang suka lari?",
+      "jawaban":"Sabun-tuan cepet"
+   },
+   {
+      "id":426,
+      "soal":"Hewan apa yang gak bisa jalan?",
+      "jawaban":"Ular (Melata nyuk)"
+   },
+   {
+      "id":427,
+      "soal":"Kenapa bulan selalu ngikutin kita?",
+      "jawaban":"Karena dia naksir kamu"
+   },
+   {
+      "id":428,
+      "soal":"Apa bedanya kamu sama pensil?",
+      "jawaban":"Pensil buat nulis, kamu buat lukis masa depan"
+   },
+   {
+      "id":429,
+      "soal":"Kopi apa yang bikin tenang?",
+      "jawaban":"Kopinang kamu segera"
+   },
+   {
+      "id":430,
+      "soal":"Lampu apa yang paling mahal?",
+      "jawaban":"Lampu-mborghini"
+   },
+   {
+      "id":431,
+      "soal":"Buah apa yang jago nembak?",
+      "jawaban":"Srikaya (Srikaya hunter)"
+   },
+   {
+      "id":432,
+      "soal":"Ikan apa yang jago main bola?",
+      "jawaban":"Ikan-dika"
+   },
+   {
+      "id":433,
+      "soal":"Sayur apa yang paling galak?",
+      "jawaban":"Kol-erik"
+   },
+   {
+      "id":434,
+      "soal":"Kenapa anjing suka gonggong?",
+      "jawaban":"Kalau ngomong namanya manusia"
+   },
+   {
+      "id":435,
+      "soal":"Sabun apa yang paling wangi?",
+      "jawaban":"Sabun-tuan surga"
+   },
+   {
+      "id":436,
+      "soal":"Hewan apa yang paling sombong?",
+      "jawaban":"Kaki seribu (sepatunya mahal semua)"
+   },
+   {
+      "id":437,
+      "soal":"Kenapa langit itu tinggi?",
+      "jawaban":"Karena kalau rendah namanya tanah"
+   },
+   {
+      "id":438,
+      "soal":"Apa bedanya kamu sama wifi?",
+      "jawaban":"Wifi butuh sinyal, aku butuh kepastian"
+   },
+   {
+      "id":439,
+      "soal":"Kopi apa yang bikin sedih?",
+      "jawaban":"Kopilih dia dibanding aku"
+   },
+   {
+      "id":440,
+      "soal":"Lampu apa yang bikin gerah?",
+      "jawaban":"Lampu-ng"
+   },
+   {
+      "id":441,
+      "soal":"Buah apa yang paling misterius?",
+      "jawaban":"Buah naga (emang ada naga?)"
+   },
+   {
+      "id":442,
+      "soal":"Ikan apa yang paling pelit?",
+      "jawaban":"Ikan kikir"
+   },
+   {
+      "id":443,
+      "soal":"Sayur apa yang bikin kangen?",
+      "jawaban":"Sawi-ndu"
+   },
+   {
+      "id":444,
+      "soal":"Kenapa gajah kupingnya lebar?",
+      "jawaban":"Biar bisa dengerin curhatan kamu"
+   },
+   {
+      "id":445,
+      "soal":"Sabun apa yang paling capek?",
+      "jawaban":"Sabun-tuan lari"
+   },
+   {
+      "id":446,
+      "soal":"Hewan apa yang gak punya bapak?",
+      "jawaban":"Ayam (telurnya doang yang ada)"
+   },
+   {
+      "id":447,
+      "soal":"Kenapa laut itu luas?",
+      "jawaban":"Biar bisa nampung air mata jomblo"
+   },
+   {
+      "id":448,
+      "soal":"Apa bedanya kamu sama kamera?",
+      "jawaban":"Kamera fokus ke objek, aku fokus ke kamu"
+   },
+   {
+      "id":449,
+      "soal":"Kopi apa yang bikin mual?",
+      "jawaban":"Kopikir aku sayang kamu? Iya emang"
+   },
+   {
+      "id":450,
+      "soal":"Lampu apa yang paling berisik?",
+      "jawaban":"Lampu-ng (orang lampung)"
+   },
+   {
+      "id":451,
+      "soal":"Sapi apa yang bisa nyanyi?",
+      "jawaban":"Sapiah (Via Vallen)"
+   },
+   {
+      "id":452,
+      "soal":"Buah apa yang paling kaya?",
+      "jawaban":"Srikaya"
+   },
+   {
+      "id":453,
+      "soal":"Kenapa burung hantu bangun malem?",
+      "jawaban":"Karena pagi dia kerja bakti"
+   },
+   {
+      "id":454,
+      "soal":"Apa bedanya kamu sama bantal?",
+      "jawaban":"Bantal buat tidur, kamu buat mimpi indah"
+   },
+   {
+      "id":455,
+      "soal":"Minyak apa yang gak bisa digoreng?",
+      "jawaban":"Minyak wangi"
+   },
+   {
+      "id":456,
+      "soal":"Sayur apa yang pinter akting?",
+      "jawaban":"Terong-ngan"
+   },
+   {
+      "id":457,
+      "soal":"Ikan apa yang paling rajin?",
+      "jawaban":"Ikan sapu-sapu"
+   },
+   {
+      "id":458,
+      "soal":"Kenapa jam muter ke kanan?",
+      "jawaban":"Kalau ke kiri namanya mundur"
+   },
+   {
+      "id":459,
+      "soal":"Sabun apa yang bikin kaget?",
+      "jawaban":"Sabun-tuan setan"
+   },
+   {
+      "id":460,
+      "soal":"Hewan apa yang sering bawa barang?",
+      "jawaban":"Beruang (Bawa-uang)"
+   },
+   {
+      "id":461,
+      "soal":"Kenapa api itu panas?",
+      "jawaban":"Karena kedinginan itu sifat mantan"
+   },
+   {
+      "id":462,
+      "soal":"Apa bedanya kamu sama payung?",
+      "jawaban":"Payung lindungi dari hujan, kamu lindungi dari kesepian"
+   },
+   {
+      "id":463,
+      "soal":"Kopi apa yang bikin pusing?",
+      "jawaban":"Kopikirin kamu terus"
+   },
+   {
+      "id":464,
+      "soal":"Lampu apa yang paling kecil?",
+      "jawaban":"Lampu-m"
+   },
+   {
+      "id":465,
+      "soal":"Buah apa yang paling keras?",
+      "jawaban":"Buah-batu"
+   },
+   {
+      "id":466,
+      "soal":"Ikan apa yang paling lambat?",
+      "jawaban":"Ikan tunda"
+   },
+   {
+      "id":467,
+      "soal":"Sayur apa yang paling enak?",
+      "jawaban":"Sayur-ang kamu"
+   },
+   {
+      "id":468,
+      "soal":"Kenapa kucing suka ngeong?",
+      "jawaban":"Kalau nyanyi namanya penyanyi"
+   },
+   {
+      "id":469,
+      "soal":"Sabun apa yang paling murah?",
+      "jawaban":"Sabun-tuan gratis"
+   },
+   {
+      "id":470,
+      "soal":"Hewan apa yang jago nari?",
+      "jawaban":"Unggas (Ngas-ngas)"
+   },
+   {
+      "id":471,
+      "soal":"Kenapa angin gak kelihatan?",
+      "jawaban":"Karena kalau kelihatan namanya debu"
+   },
+   {
+      "id":472,
+      "soal":"Apa bedanya kamu sama sate?",
+      "jawaban":"Sate ditusuk lidi, kamu ditusuk rindu"
+   },
+   {
+      "id":473,
+      "soal":"Kopi apa yang paling harum?",
+      "jawaban":"Kopi-kat hatimu"
+   },
+   {
+      "id":474,
+      "soal":"Lampu apa yang paling terang?",
+      "jawaban":"Lampu masa depan kita"
+   },
+   {
+      "id":475,
+      "soal":"Buah apa yang paling berat?",
+      "jawaban":"Buah-hagia tapi berat diongkos"
+   },
+   {
+      "id":476,
+      "soal":"Ikan apa yang paling keren?",
+      "jawaban":"Ikan cupang (cukup-pangling)"
+   },
+   {
+      "id":477,
+      "soal":"Sayur apa yang paling panjang?",
+      "jawaban":"Kacang panjang"
+   },
+   {
+      "id":478,
+      "soal":"Kenapa gajah takut tikus?",
+      "jawaban":"Gak level nyuk"
+   },
+   {
+      "id":479,
+      "soal":"Sabun apa yang paling mahal?",
+      "jawaban":"Sabun-tuan permata"
+   },
+   {
+      "id":480,
+      "soal":"Hewan apa yang suka tidur?",
+      "jawaban":"Kebo"
+   },
+   {
+      "id":481,
+      "soal":"Kenapa nasi warnanya putih?",
+      "jawaban":"Kalau item namanya ketan"
+   },
+   {
+      "id":482,
+      "soal":"Apa bedanya kamu sama sisir?",
+      "jawaban":"Sisir rapihin rambut, kamu rapihin hidupku"
+   },
+   {
+      "id":483,
+      "soal":"Kopi apa yang paling pahit?",
+      "jawaban":"Kopilih dia pas aku lagi sayang-sayangnya"
+   },
+   {
+      "id":484,
+      "soal":"Lampu apa yang bikin laper?",
+      "jawaban":"Lampu-ng (warung makan lampung)"
+   },
+   {
+      "id":485,
+      "soal":"Buah apa yang paling lucu?",
+      "jawaban":"Buah ha-ha"
+   },
+   {
+      "id":486,
+      "soal":"Ikan apa yang paling cantik?",
+      "jawaban":"Ikan bidadari"
+   },
+   {
+      "id":487,
+      "soal":"Sayur apa yang paling pahit?",
+      "jawaban":"Pare-ntal (perental mobil)"
+   },
+   {
+      "id":488,
+      "soal":"Kenapa bebek bunyinya kwek?",
+      "jawaban":"Karena kalau mbe kambing"
+   },
+   {
+      "id":489,
+      "soal":"Sabun apa yang paling kenceng?",
+      "jawaban":"Sabun-tuan motor"
+   },
+   {
+      "id":490,
+      "soal":"Hewan apa yang jago matematika?",
+      "jawaban":"Laba-laba (pinter ngitung untung rugi)"
+   },
+   {
+      "id":491,
+      "soal":"Kenapa laut asin?",
+      "jawaban":"Karena ditinggal nikah ikannya"
+   },
+   {
+      "id":492,
+      "soal":"Apa bedanya kamu sama gula?",
+      "jawaban":"Gula manis di lidah, kamu manis di hati"
+   },
+   {
+      "id":493,
+      "soal":"Kopi apa yang bikin ketawa?",
+      "jawaban":"Kopikir aku lucu?"
+   },
+   {
+      "id":494,
+      "soal":"Lampu apa yang paling bosen?",
+      "jawaban":"Lampu-m"
+   },
+   {
+      "id":495,
+      "soal":"Buah apa yang paling sepi?",
+      "jawaban":"Buah-jang"
+   },
+   {
+      "id":496,
+      "soal":"Ikan apa yang paling pedes?",
+      "jawaban":"Ikan cabe-cabean"
+   },
+   {
+      "id":497,
+      "soal":"Sayur apa yang paling ditakuti?",
+      "jawaban":"Kol-era"
+   },
+   {
+      "id":498,
+      "soal":"Kenapa ayam nyebrang jalan?",
+      "jawaban":"Mau ke pelaminan sama kamu"
+   },
+   {
+      "id":499,
+      "soal":"Sabun apa yang paling lama?",
+      "jawaban":"Sabun-tuan abad"
+   },
+   {
+      "id":500,
+      "soal":"Hewan apa yang terakhir di dunia?",
+      "jawaban":"Zebra (karena huruf Z)"
+   },
+   {
+      "id":501,
+      "soal":"Penyanyi yang hobinya ngatur?",
+      "jawaban":"Melly Goes-law"
+   },
+   {
+      "id":502,
+      "soal":"Ikan apa yang paling ditakuti pas ujian?",
+      "jawaban":"Ikan-tahu jawabannya"
+   },
+   {
+      "id":503,
+      "soal":"Sayur apa yang sering muncul di berita?",
+      "jawaban":"Sayur-red (Siaran) berita"
+   },
+   {
+      "id":504,
+      "soal":"Kenapa air hujan rintik-rintik?",
+      "jawaban":"Karena kalau rontok-rontok itu rambut"
+   },
+   {
+      "id":505,
+      "soal":"Apa bedanya kipas sama kamu?",
+      "jawaban":"Kipas ngilangin gerah, kamu ngilangin gairah hidup jomblo"
+   },
+   {
+      "id":506,
+      "soal":"Benda apa yang kalau pecah malah lebih berguna?",
+      "jawaban":"Telur"
+   },
+   {
+      "id":507,
+      "soal":"Kenapa matahari nggak punya anak?",
+      "jawaban":"Karena matahari nggak nikah, dia cuma single star"
+   },
+   {
+      "id":508,
+      "soal":"Gajah apa yang paling gak tau diri?",
+      "jawaban":"Gajah-ti pacar tiap minggu"
+   },
+   {
+      "id":509,
+      "soal":"Apa bahasa jepangnya 'Saya sedang cari mati'?",
+      "jawaban":"Nantangi Kereta"
+   },
+   {
+      "id":510,
+      "soal":"Buah apa yang paling pemberani?",
+      "jawaban":"Apel (Ayo apel ke rumah mantan)"
+   },
+   {
+      "id":511,
+      "soal":"Sapi apa yang bisa nari?",
+      "jawaban":"Sapidance"
+   },
+   {
+      "id":512,
+      "soal":"Kenapa kucing selalu mendarat pake kaki?",
+      "jawaban":"Karena kalau pake tangan namanya kiper"
+   },
+   {
+      "id":513,
+      "soal":"Ikan apa yang paling pinter akting?",
+      "jawaban":"Ikan-drakor"
+   },
+   {
+      "id":514,
+      "soal":"Sabun apa yang bikin emosi?",
+      "jawaban":"Sabun-tuan dari kamu yang PHP"
+   },
+   {
+      "id":515,
+      "soal":"Apa bedanya jam dinding sama janji kamu?",
+      "jawaban":"Jam dinding berputar, janji kamu berbelit-belit"
+   },
+   {
+      "id":516,
+      "soal":"Kenapa burung bangau kakinya satu diangkat?",
+      "jawaban":"Karena kalau dua-duanya diangkat ya jatuh"
+   },
+   {
+      "id":517,
+      "soal":"Negara apa yang paling pinter bercanda?",
+      "jawaban":"Selo-vaki (Selow-vaki)"
+   },
+   {
+      "id":518,
+      "soal":"Susu apa yang paling males?",
+      "jawaban":"Susu-k yang cuma rebahan"
+   },
+   {
+      "id":519,
+      "soal":"Kopi apa yang bikin trauma?",
+      "jawaban":"Kopikir aku sayang ternyata cuma pelarian"
+   },
+   {
+      "id":520,
+      "soal":"Penyanyi yang sering kena masuk angin?",
+      "jawaban":"Kerok-an (Keroncong)"
+   },
+   {
+      "id":521,
+      "soal":"Hewan apa yang paling gak tepat janji?",
+      "jawaban":"Ular (Ular-uluran waktu)"
+   },
+   {
+      "id":522,
+      "soal":"Kenapa ninja larinya ke belakang?",
+      "jawaban":"Karena kalau ke depan namanya ngejar diskon"
+   },
+   {
+      "id":523,
+      "soal":"Minyak apa yang paling jujur?",
+      "jawaban":"Minyak-takan yang sebenarnya"
+   },
+   {
+      "id":524,
+      "soal":"Sapi apa yang sering bikin orang bingung?",
+      "jawaban":"Sapikir-pikir dulu ya"
+   },
+   {
+      "id":525,
+      "soal":"Kenapa air laut rasanya asin?",
+      "jawaban":"Karena yang manis cuma janji manismu"
+   },
+   {
+      "id":526,
+      "soal":"Buah apa yang paling kaya raya?",
+      "jawaban":"Sri-kaya"
+   },
+   {
+      "id":527,
+      "soal":"Kopi apa yang bikin sedih?",
+      "jawaban":"Kopingin kita balik kayak dulu"
+   },
+   {
+      "id":528,
+      "soal":"Sayur apa yang jago gombal?",
+      "jawaban":"Sawi-ll always love you"
+   },
+   {
+      "id":529,
+      "soal":"Kenapa dalang bawa keris?",
+      "jawaban":"Karena kalau bawa kulkas keberatan"
+   },
+   {
+      "id":530,
+      "soal":"Awan apa yang paling ditakuti?",
+      "jawaban":"Awance (Awas) ada razia"
+   },
+   {
+      "id":531,
+      "soal":"Penyanyi yang sering bawa kompor?",
+      "jawaban":"Melly Goes-low-fat"
+   },
+   {
+      "id":532,
+      "soal":"Kenapa superman baju dalamnya merah?",
+      "jawaban":"Biar nggak kelihatan kalau lagi mens"
+   },
+   {
+      "id":533,
+      "soal":"Hewan apa yang sering jadi buronan?",
+      "jawaban":"Kaki seribu (banyak sidik jari)"
+   },
+   {
+      "id":534,
+      "soal":"Kenapa sepeda nggak bisa berdiri sendiri?",
+      "jawaban":"Karena dia two-tired (terlalu capek)"
+   },
+   {
+      "id":535,
+      "soal":"Benda apa yang kalau dikasih air malah kering?",
+      "jawaban":"Handuk"
+   },
+   {
+      "id":536,
+      "soal":"Sayur apa yang jago bela diri?",
+      "jawaban":"Saw-olin"
+   },
+   {
+      "id":537,
+      "soal":"Apa bedanya sepatu sama kamu?",
+      "jawaban":"Sepatu buat lari, kamu buat berhenti di hati"
+   },
+   {
+      "id":538,
+      "soal":"Kenapa kalau mendung langitnya gelap?",
+      "jawaban":"Karena kalau terang namanya silau"
+   },
+   {
+      "id":539,
+      "soal":"Ikan apa yang nggak bisa berenang?",
+      "jawaban":"Ikan goreng"
+   },
+   {
+      "id":540,
+      "soal":"Sapi apa yang paling pinter?",
+      "jawaban":"Sapi-ens"
+   },
+   {
+      "id":541,
+      "soal":"Kenapa ayam nyebrang nggak liat spion?",
+      "jawaban":"Karena dia nggak punya spion"
+   },
+   {
+      "id":542,
+      "soal":"Apa bahasa Arabnya orang jatuh dari gedung?",
+      "jawaban":"Innalillahi"
+   },
+   {
+      "id":543,
+      "soal":"Sayur apa yang dingin?",
+      "jawaban":"Kembang cold"
+   },
+   {
+      "id":544,
+      "soal":"Hewan apa yang paling sederhana?",
+      "jawaban":"Ala-kadarnya"
+   },
+   {
+      "id":545,
+      "soal":"Kenapa matahari tenggelam?",
+      "jawaban":"Karena dia nggak bisa berenang"
+   },
+   {
+      "id":546,
+      "soal":"Apa bedanya kamu sama modem?",
+      "jawaban":"Modem konek internet, kamu konek hatiku"
+   },
+   {
+      "id":547,
+      "soal":"Susu apa yang nggak pernah telat?",
+      "jawaban":"Susu-dah waktunya bersama"
+   },
+   {
+      "id":548,
+      "soal":"Buah apa yang jadi dambaan?",
+      "jawaban":"Buah-hagia bersamamu"
+   },
+   {
+      "id":549,
+      "soal":"Sayur apa yang bisa nelfon?",
+      "jawaban":"Wortel-pon"
+   },
+   {
+      "id":550,
+      "soal":"Kenapa air dimasak mendidih?",
+      "jawaban":"Karena kaget kena api"
+   },
+   {
+      "id":551,
+      "soal":"Kota apa yang paling pait?",
+      "jawaban":"Pare-pare"
+   },
+   {
+      "id":552,
+      "soal":"Sepatu apa yang lari cepet?",
+      "jawaban":"Sepatu-motor"
+   },
+   {
+      "id":553,
+      "soal":"Cinta kita kayak kuku, kenapa?",
+      "jawaban":"Meski dipotong tumbuh terus"
+   },
+   {
+      "id":554,
+      "soal":"Awan apa yang ditakuti cewek?",
+      "jawaban":"Awanti-wanti dapet ghosting"
+   },
+   {
+      "id":555,
+      "soal":"Kenapa spion ada dua?",
+      "jawaban":"Kalau satu namanya spionase"
+   },
+   {
+      "id":556,
+      "soal":"Penyanyi yang nunda kerjaan?",
+      "jawaban":"Nanti (Nadin Amizah)"
+   },
+   {
+      "id":557,
+      "soal":"Sate apa yang dari jepang?",
+      "jawaban":"Sate-ra (Sayonara)"
+   },
+   {
+      "id":558,
+      "soal":"Bedanya jam 12 malem sama kamu?",
+      "jawaban":"Jam 12 sunyi, kamu kesayangan"
+   },
+   {
+      "id":559,
+      "soal":"Es apa yang bikin baper?",
+      "jawaban":"Es-teler (Teler lihat senyummu)"
+   },
+   {
+      "id":560,
+      "soal":"Negara apa yang selalu waspada?",
+      "jawaban":"U-kraina"
+   },
+   {
+      "id":561,
+      "soal":"Ikan apa yang suka bohong?",
+      "jawaban":"Ikan karang"
+   },
+   {
+      "id":562,
+      "soal":"Kenapa bola ditendang menggelinding?",
+      "jawaban":"Kalau lari namanya pemain"
+   },
+   {
+      "id":563,
+      "soal":"Sabun apa yang paling sedih?",
+      "jawaban":"Sabun-tuan dari kamu yang aku harapkan"
+   },
+   {
+      "id":564,
+      "soal":"Ayam apa yang bikin merinding?",
+      "jawaban":"Ayam-bil mayat"
+   },
+   {
+      "id":565,
+      "soal":"Kopi apa yang bikin deg-degan?",
+      "jawaban":"Kopi-nang kamu dengan bismillah"
+   },
+   {
+      "id":566,
+      "soal":"Gajah apa yang paling kurus?",
+      "jawaban":"Gajah-ti diriku tanpamu"
+   },
+   {
+      "id":567,
+      "soal":"Kucing nggak sekolah karena?",
+      "jawaban":"Takut dipalak anjing"
+   },
+   {
+      "id":568,
+      "soal":"Sayur apa yang jago gombal?",
+      "jawaban":"Kangkung (Kangkung-ingat wajahmu)"
+   },
+   {
+      "id":569,
+      "soal":"Bahasa jepangnya ibu hamil?",
+      "jawaban":"Akutu Takuda"
+   },
+   {
+      "id":570,
+      "soal":"Mobil apa yang paling panjang?",
+      "jawaban":"Mobilang sayang tapi ditolak"
+   },
+   {
+      "id":571,
+      "soal":"Telor apa yang rasanya sakit?",
+      "jawaban":"Telor-bis cintamu"
+   },
+   {
+      "id":572,
+      "soal":"Kenapa air laut biru?",
+      "jawaban":"Karena kalau hijau cendol"
+   },
+   {
+      "id":573,
+      "soal":"Hantu nggak punya temen?",
+      "jawaban":"Kuntilanak-tunggal"
+   },
+   {
+      "id":574,
+      "soal":"Nasi uduk vs Kamu?",
+      "jawaban":"Nasi uduk emping, kamu e-sayang"
+   },
+   {
+      "id":575,
+      "soal":"Lampu yang bikin pinter?",
+      "jawaban":"Lampu belajar"
+   },
+   {
+      "id":576,
+      "soal":"Ninja pake topeng karena?",
+      "jawaban":"Pake bedak namanya penganten"
+   },
+   {
+      "id":577,
+      "soal":"Ikan kepalanya besar?",
+      "jawaban":"Ikan pakai helm"
+   },
+   {
+      "id":578,
+      "soal":"Sapi nempel di tembok?",
+      "jawaban":"Sapiderman"
+   },
+   {
+      "id":579,
+      "soal":"Kopi paling lambat?",
+      "jawaban":"Kopi-ndah ke lain hati"
+   },
+   {
+      "id":580,
+      "soal":"Ikan paling ganteng?",
+      "jawaban":"Ikan-dika kangen band"
+   },
+   {
+      "id":581,
+      "soal":"Kenapa orang mikir pegang jidat?",
+      "jawaban":"Pegang jidat orang lain ditampol"
+   },
+   {
+      "id":582,
+      "soal":"Monyet yang nyebelin?",
+      "jawaban":"Monyet-el lagu galau pas happy"
+   },
+   {
+      "id":583,
+      "soal":"Penyanyi sering kena marah?",
+      "jawaban":"Afgan (Ah-ganteng doang lu)"
+   },
+   {
+      "id":584,
+      "soal":"Buah cocok buat jomblo?",
+      "jawaban":"Buah-hagia sendirian"
+   },
+   {
+      "id":585,
+      "soal":"Dokter nutup mulut pas operasi?",
+      "jawaban":"Nutup mata nggak kelihatan"
+   },
+   {
+      "id":586,
+      "soal":"Setan yang paling laku?",
+      "jawaban":"Setan-dar dua"
+   },
+   {
+      "id":587,
+      "soal":"Kamu vs Garuda?",
+      "jawaban":"Garuda di dada, kamu di hati"
+   },
+   {
+      "id":588,
+      "soal":"Ikan matanya besar?",
+      "jawaban":"Ikan teri sekilo"
+   },
+   {
+      "id":589,
+      "soal":"Sepatu buat berhenti?",
+      "jawaban":"Sepatu-ju di hati"
+   },
+   {
+      "id":590,
+      "soal":"Minyak bikin baper?",
+      "jawaban":"Minyaksikan kamu sama dia"
+   },
+   {
+      "id":591,
+      "soal":"Sayur paling pinter?",
+      "jawaban":"Sayur-jana"
+   },
+   {
+      "id":592,
+      "soal":"Buah suka ketawa?",
+      "jawaban":"Sirsak-sak-sak"
+   },
+   {
+      "id":593,
+      "soal":"Penyanyi hobi nanya?",
+      "jawaban":"Isyana (Isyana-kah jawabannya?)"
+   },
+   {
+      "id":594,
+      "soal":"Kera bikin sakit?",
+      "jawaban":"Kerad banget hidup ini"
+   },
+   {
+      "id":595,
+      "soal":"Lari melelahkan?",
+      "jawaban":"Lari dari kenyataan"
+   },
+   {
+      "id":596,
+      "soal":"Telor yang kuat?",
+      "jawaban":"Telortoar"
+   },
+   {
+      "id":597,
+      "soal":"Kambing bikin sedih?",
+      "jawaban":"Kambing-ingat masa lalu"
+   },
+   {
+      "id":598,
+      "soal":"Penyanyi jualan bakso?",
+      "jawaban":"Bruno Mars"
+   },
+   {
+      "id":599,
+      "soal":"Roti yang jahat?",
+      "jawaban":"Roti tawar menawar nyawa"
+   },
+   {
+      "id":600,
+      "soal":"Motor yang suka ketawa?",
+      "jawaban":"Motor yamaha-ha-ha"
+   },
+   {
+      "id":601,
+      "soal":"Kucing yang jago basket?",
+      "jawaban":"Kucing-shot (Jump shot)"
+   },
+   {
+      "id":602,
+      "soal":"Sayur yang sering kedinginan?",
+      "jawaban":"Kembang cold"
+   },
+   {
+      "id":603,
+      "soal":"Ikan yang bisa terbang?",
+      "jawaban":"Ikan-tinya pesawat"
+   },
+   {
+      "id":604,
+      "soal":"Kenapa pohon beringin goyang?",
+      "jawaban":"Karena ditiup angin, kalau ditiup lilin ulang tahun"
+   },
+   {
+      "id":605,
+      "soal":"Apa bedanya pensil sama kamu?",
+      "jawaban":"Pensil patah bisa diserut, hati patah butuh kamu"
+   },
+   {
+      "id":606,
+      "soal":"Hantu yang sering laper?",
+      "jawaban":"Makan-tuly (Kuntilanak)"
+   },
+   {
+      "id":607,
+      "soal":"Negara yang nggak pernah telat?",
+      "jawaban":"On-time-nia (Armenia)"
+   },
+   {
+      "id":608,
+      "soal":"Sabun yang jago nyanyi?",
+      "jawaban":"Sabun-tuan musik"
+   },
+   {
+      "id":609,
+      "soal":"Kenapa kaca depan mobil luas?",
+      "jawaban":"Biar masa depan kelihatan, spion kecil karena masa lalu jangan dikenang"
+   },
+   {
+      "id":610,
+      "soal":"Hewan yang hobinya baca?",
+      "jawaban":"Kutu buku"
+   },
+   {
+      "id":611,
+      "soal":"Apa bedanya soto sama kamu?",
+      "jawaban":"Soto pake mangkok, kamu pake hati"
+   },
+   {
+      "id":612,
+      "soal":"Kenapa matahari terbit di timur?",
+      "jawaban":"Karena kalau di barat namanya kiamat"
+   },
+   {
+      "id":613,
+      "soal":"Sayur yang bikin baper?",
+      "jawaban":"Sawi-ll always love you"
+   },
+   {
+      "id":614,
+      "soal":"Kenapa bulan nggak punya temen?",
+      "jawaban":"Karena dia single (bulan satu)"
+   },
+   {
+      "id":615,
+      "soal":"Susu yang bikin bahagia?",
+      "jawaban":"Susu-k (Sosok) kamu di hidupku"
+   },
+   {
+      "id":616,
+      "soal":"Ayam yang jago silat?",
+      "jawaban":"Ayam-bruak (Ciak!)"
+   },
+   {
+      "id":617,
+      "soal":"Ikan yang jago bahasa inggris?",
+      "jawaban":"Ikan fish"
+   },
+   {
+      "id":618,
+      "soal":"Minyak yang nggak bisa digoreng?",
+      "jawaban":"Minyak wangi"
+   },
+   {
+      "id":619,
+      "soal":"Kenapa semut kecil?",
+      "jawaban":"Kalau besar namanya gajah"
+   },
+   {
+      "id":620,
+      "soal":"Bedanya kunci sama kamu?",
+      "jawaban":"Kunci buka pintu, kamu buka hatiku"
+   },
+   {
+      "id":621,
+      "soal":"Kota yang paling sabar?",
+      "jawaban":"Tawar-menawar (Tawangmangu)"
+   },
+   {
+      "id":622,
+      "soal":"Hewan yang sering pegel?",
+      "jawaban":"Kura-kura (kurang urut)"
+   },
+   {
+      "id":623,
+      "soal":"Bedanya kamu sama pelangi?",
+      "jawaban":"Pelangi muncul sekejap, kamu selamanya"
+   },
+   {
+      "id":624,
+      "soal":"Kopi yang bikin emosi?",
+      "jawaban":"Kopi-kir aku robot?"
+   },
+   {
+      "id":625,
+      "soal":"Sepatu yang bikin galau?",
+      "jawaban":"Sepatu-li (Sekali) kau pergi tak kembali"
+   },
+   {
+      "id":626,
+      "soal":"Buah yang paling religius?",
+      "jawaban":"Buah-ibadah (Ibadah)"
+   },
+   {
+      "id":627,
+      "soal":"Kenapa harimau bunyinya aum?",
+      "jawaban":"Kalau meong namanya kucing"
+   },
+   {
+      "id":628,
+      "soal":"Bedanya nasi sama kamu?",
+      "jawaban":"Nasi bikin kenyang, kamu bikin senang"
+   },
+   {
+      "id":629,
+      "soal":"Sayur yang jago lari?",
+      "jawaban":"Kacang panjang (langkahnya panjang)"
+   },
+   {
+      "id":630,
+      "soal":"Hantu yang suka jajan?",
+      "jawaban":"Beli-u (Beliau/Tuyul)"
+   },
+   {
+      "id":631,
+      "soal":"Negara yang jago joget?",
+      "jawaban":"Dans-mark (Denmark)"
+   },
+   {
+      "id":632,
+      "soal":"Kenapa hujan nggak pernah telat?",
+      "jawaban":"Karena nggak punya jam tangan"
+   },
+   {
+      "id":633,
+      "soal":"Bedanya kamu sama lampu?",
+      "jawaban":"Lampu menerangi jalan, kamu menerangi masa depan"
+   },
+   {
+      "id":634,
+      "soal":"Susu yang paling berat?",
+      "jawaban":"Susu-btansi (Substansi)"
+   },
+   {
+      "id":635,
+      "soal":"Ikan yang nggak punya mama?",
+      "jawaban":"Ikan piatu"
+   },
+   {
+      "id":636,
+      "soal":"Kenapa langit biru?",
+      "jawaban":"Kalau pink namanya cinta"
+   },
+   {
+      "id":637,
+      "soal":"Minyak yang paling ditakuti?",
+      "jawaban":"Minyak-iti perasaan"
+   },
+   {
+      "id":638,
+      "soal":"Bedanya kamu sama wifi?",
+      "jawaban":"Wifi butuh sinyal, aku butuh kepastian"
+   },
+   {
+      "id":639,
+      "soal":"Kopi yang paling wangi?",
+      "jawaban":"Kopi-kat hatimu"
+   },
+   {
+      "id":640,
+      "soal":"Sayur yang jago akting?",
+      "jawaban":"Terong-ngan (Figuran)"
+   },
+   {
+      "id":641,
+      "soal":"Hewan yang paling beruntung?",
+      "jawaban":"Bebek (pake baju apa aja tetep oke)"
+   },
+   {
+      "id":642,
+      "soal":"Kenapa bintang banyak?",
+      "jawaban":"Kalau satu namanya matahari"
+   },
+   {
+      "id":643,
+      "soal":"Bedanya kamu sama bintang?",
+      "jawaban":"Bintang di langit, kamu di hatiku"
+   },
+   {
+      "id":644,
+      "soal":"Lampu yang paling mahal?",
+      "jawaban":"Lampu-mborghini"
+   },
+   {
+      "id":645,
+      "soal":"Buah yang jago nembak?",
+      "jawaban":"Srikaya (Srikaya hunter)"
+   },
+   {
+      "id":646,
+      "soal":"Sapi yang jago main bola?",
+      "jawaban":"Sapidinho"
+   },
+   {
+      "id":647,
+      "soal":"Ikan yang jago main gitar?",
+      "jawaban":"Ikan-dika"
+   },
+   {
+      "id":648,
+      "soal":"Kenapa anjing suka gonggong?",
+      "jawaban":"Kalau ngomong namanya manusia"
+   },
+   {
+      "id":649,
+      "soal":"Bedanya kamu sama payung?",
+      "jawaban":"Payung lindungi dari hujan, kamu dari kesepian"
+   },
+   {
+      "id":650,
+      "soal":"Hantu yang hobi olahraga?",
+      "jawaban":"Suster ngesot (push up terus)"
+   },
+   {
+      "id":651,
+      "soal":"Negara yang paling sunyi?",
+      "jawaban":"Di-am (Diam/Vietnam)"
+   },
+   {
+      "id":652,
+      "soal":"Kenapa api panas?",
+      "jawaban":"Karena kedinginan itu sifat mantan"
+   },
+   {
+      "id":653,
+      "soal":"Bedanya kamu sama sate?",
+      "jawaban":"Sate ditusuk lidi, kamu ditusuk rindu"
+   },
+   {
+      "id":654,
+      "soal":"Susu yang paling lama?",
+      "jawaban":"Susu-dah berabad-abad"
+   },
+   {
+      "id":655,
+      "soal":"Sayur yang paling galak?",
+      "jawaban":"Kol-erik"
+   },
+   {
+      "id":656,
+      "soal":"Kenapa laut luas?",
+      "jawaban":"Biar bisa nampung air mata jomblo"
+   },
+   {
+      "id":657,
+      "soal":"Bedanya kamu sama kamera?",
+      "jawaban":"Kamera fokus ke objek, aku ke kamu"
+   },
+   {
+      "id":658,
+      "soal":"Minyak yang jago masak?",
+      "jawaban":"Minyak goreng (ya iyalah)"
+   },
+   {
+      "id":659,
+      "soal":"Kenapa gajah kupingnya lebar?",
+      "jawaban":"Biar denger curhatan kamu"
+   },
+   {
+      "id":660,
+      "soal":"Ikan yang paling sibuk?",
+      "jawaban":"Ikan gurame (Guru-rame)"
+   },
+   {
+      "id":661,
+      "soal":"Bedanya kamu sama remote?",
+      "jawaban":"Remote ngatur TV, kamu ngatur hatiku"
+   },
+   {
+      "id":662,
+      "soal":"Lampu yang paling berisik?",
+      "jawaban":"Lampu-ng (Orang Lampung)"
+   },
+   {
+      "id":663,
+      "soal":"Buah yang paling religius?",
+      "jawaban":"Buah-ibadah"
+   },
+   {
+      "id":664,
+      "soal":"Kenapa ular nggak punya kaki?",
+      "jawaban":"Karena kalau punya kaki namanya biawak"
+   },
+   {
+      "id":665,
+      "soal":"Bedanya kamu sama laptop?",
+      "jawaban":"Laptop butuh cas, aku butuh kasih sayang"
+   },
+   {
+      "id":666,
+      "soal":"Setan yang hobi belanja?",
+      "jawaban":"Setan-dar dua (pake motor ke pasar)"
+   },
+   {
+      "id":667,
+      "soal":"Kota yang jago nunggu?",
+      "jawaban":"Sama-rindu (Samarinda)"
+   },
+   {
+      "id":668,
+      "soal":"Kenapa air warnanya bening?",
+      "jawaban":"Kalau putih namanya susu"
+   },
+   {
+      "id":669,
+      "soal":"Bedanya kamu sama sisir?",
+      "jawaban":"Sisir rapihin rambut, kamu hidupku"
+   },
+   {
+      "id":670,
+      "soal":"Sayur yang jago nyanyi?",
+      "jawaban":"Kolplay"
+   },
+   {
+      "id":671,
+      "soal":"Hewan yang hobinya tawuran?",
+      "jawaban":"Ikan cupang"
+   },
+   {
+      "id":672,
+      "soal":"Kenapa pohon mangga berbuah?",
+      "jawaban":"Karena kalau berduit namanya pohon duit"
+   },
+   {
+      "id":673,
+      "soal":"Bedanya kamu sama bantal?",
+      "jawaban":"Bantal buat tidur, kamu buat mimpi indah"
+   },
+   {
+      "id":674,
+      "soal":"Kopi yang bikin ketawa?",
+      "jawaban":"Kopikir aku lucu?"
+   },
+   {
+      "id":675,
+      "soal":"Susu yang jago silat?",
+      "jawaban":"Susu-k (Sosok) pendekar"
+   },
+   {
+      "id":676,
+      "soal":"Ikan yang paling pelit?",
+      "jawaban":"Ikan kikir"
+   },
+   {
+      "id":677,
+      "soal":"Kenapa ninja nggak bisa mati?",
+      "jawaban":"Karena kalau mati namanya almarhum"
+   },
+   {
+      "id":678,
+      "soal":"Bedanya kamu sama payung?",
+      "jawaban":"Payung lindungi dari hujan, kamu dari sepi"
+   },
+   {
+      "id":679,
+      "soal":"Minyak yang paling ditunggu?",
+      "jawaban":"Minyak-takan cinta"
+   },
+   {
+      "id":680,
+      "soal":"Hewan yang paling suci?",
+      "jawaban":"Ikan bawal (Bawalah aku ke surga)"
+   },
+   {
+      "id":681,
+      "soal":"Kenapa api merah?",
+      "jawaban":"Kalau ijo namanya lampu bangjo"
+   },
+   {
+      "id":682,
+      "soal":"Bedanya kamu sama wifi?",
+      "jawaban":"Wifi butuh password, aku butuh kepastian"
+   },
+   {
+      "id":683,
+      "soal":"Sayur yang bikin kangen?",
+      "jawaban":"Sawi-ndu"
+   },
+   {
+      "id":684,
+      "soal":"Hantu yang pinter ngajar?",
+      "jawaban":"Guru-u (Kuntilanak)"
+   },
+   {
+      "id":685,
+      "soal":"Negara yang jago masak?",
+      "jawaban":"Cook-islands (Kepulauan Cook)"
+   },
+   {
+      "id":686,
+      "soal":"Kenapa nasi putih?",
+      "jawaban":"Kalau item ketan"
+   },
+   {
+      "id":687,
+      "soal":"Bedanya kamu sama bensin?",
+      "jawaban":"Bensin gerakin motor, kamu gerakin hatiku"
+   },
+   {
+      "id":688,
+      "soal":"Sapi yang bisa terbang?",
+      "jawaban":"Sapitri (pake sayap)"
+   },
+   {
+      "id":689,
+      "soal":"Ikan yang paling sepi?",
+      "jawaban":"Ikan-dirian"
+   },
+   {
+      "id":690,
+      "soal":"Kenapa semut jalannya baris?",
+      "jawaban":"Karena kalau mencar namanya tawuran"
+   },
+   {
+      "id":691,
+      "soal":"Bedanya kamu sama peta?",
+      "jawaban":"Peta nunjukin jalan, kamu nunjukin masa depan"
+   },
+   {
+      "id":692,
+      "soal":"Minyak yang paling baper?",
+      "jawaban":"Minyaksikan kamu sama dia"
+   },
+   {
+      "id":693,
+      "soal":"Sayur yang jago ngetik?",
+      "jawaban":"Terong-ngan (Keyboard)"
+   },
+   {
+      "id":694,
+      "soal":"Hewan yang hobi dandan?",
+      "jawaban":"Ikan salmon (pakai lipstik salmon)"
+   },
+   {
+      "id":695,
+      "soal":"Kenapa langit tinggi?",
+      "jawaban":"Biar cita-citamu nggak mentok"
+   },
+   {
+      "id":696,
+      "soal":"Bedanya kamu sama bulan?",
+      "jawaban":"Bulan cuma malem, kamu tiap hari"
+   },
+   {
+      "id":697,
+      "soal":"Kopi yang paling sedih?",
+      "jawaban":"Kopilih dia dibanding aku"
+   },
+   {
+      "id":698,
+      "soal":"Susu yang paling kuat?",
+      "jawaban":"Susu-peman (Superman)"
+   },
+   {
+      "id":699,
+      "soal":"Ikan yang jago rapihin baju?",
+      "jawaban":"Ikan sapu-sapu"
+   },
+   {
+      "id":700,
+      "soal":"Hewan terakhir di dunia?",
+      "jawaban":"Zebra (karena huruf Z)"
+   },
+   {
+      "id":701,
+      "soal":"Penyanyi yang hobinya di dapur?",
+      "jawaban":"Melly Goes-low (api kecil)"
+   },
+   {
+      "id":702,
+      "soal":"Ikan apa yang nggak bisa diem?",
+      "jawaban":"Ikan pecicilan"
+   },
+   {
+      "id":703,
+      "soal":"Sayur apa yang sering kaget?",
+      "jawaban":"Sawi-ndu (kaget denger kabar kamu)"
+   },
+   {
+      "id":704,
+      "soal":"Kenapa air laut asin?",
+      "jawaban":"Karena kalau manis jadinya sirup"
+   },
+   {
+      "id":705,
+      "soal":"Apa bedanya kamu sama kunci?",
+      "jawaban":"Kunci buka pintu, kamu buka harapan"
+   },
+   {
+      "id":706,
+      "soal":"Benda apa yang kalau dibakar nggak panas?",
+      "jawaban":"Bakar semangat"
+   },
+   {
+      "id":707,
+      "soal":"Kenapa matahari nggak pernah telat?",
+      "jawaban":"Karena dia nggak punya macet di langit"
+   },
+   {
+      "id":708,
+      "soal":"Gajah apa yang paling rajin?",
+      "jawaban":"Gajah-i (Gaji) pas waktu"
+   },
+   {
+      "id":709,
+      "soal":"Apa bahasa jepangnya 'Ayam mati'?",
+      "jawaban":"Kukuruyuk Sayonara"
+   },
+   {
+      "id":710,
+      "soal":"Buah apa yang paling religius?",
+      "jawaban":"Buah-ibadah"
+   },
+   {
+      "id":711,
+      "soal":"Sapi apa yang bisa terbang?",
+      "jawaban":"Sapitri pake sayap"
+   },
+   {
+      "id":712,
+      "soal":"Kenapa kucing nggak suka pake baju?",
+      "jawaban":"Karena dia udah punya bulu-ru (baru)"
+   },
+   {
+      "id":713,
+      "soal":"Ikan apa yang jago komputer?",
+      "jawaban":"Ikan mouse"
+   },
+   {
+      "id":714,
+      "soal":"Sabun apa yang bikin nunggu?",
+      "jawaban":"Sabun-tuan restu orang tua"
+   },
+   {
+      "id":715,
+      "soal":"Apa bedanya jam sama kamu?",
+      "jawaban":"Jam muterin angka, kamu muterin hatiku"
+   },
+   {
+      "id":716,
+      "soal":"Kenapa burung gagak item?",
+      "jawaban":"Karena kalau putih namanya awan"
+   },
+   {
+      "id":717,
+      "soal":"Negara apa yang paling capek?",
+      "jawaban":"Lelah-gia (Latvia)"
+   },
+   {
+      "id":718,
+      "soal":"Susu apa yang jago ngitung?",
+      "jawaban":"Susu-btraksi (Pengurangan)"
+   },
+   {
+      "id":719,
+      "soal":"Kopi apa yang bikin deg-degan?",
+      "jawaban":"Kopi-nang kamu dengan bismillah"
+   },
+   {
+      "id":720,
+      "soal":"Penyanyi yang hobinya tidur?",
+      "jawaban":"Ari Lelah"
+   },
+   {
+      "id":721,
+      "soal":"Hewan apa yang nggak bisa liat ke depan?",
+      "jawaban":"Hewan-tuk (Ngantuk)"
+   },
+   {
+      "id":722,
+      "soal":"Kenapa ninja pake sandal?",
+      "jawaban":"Karena kalau pake sepatu bunyinya prok prok"
+   },
+   {
+      "id":723,
+      "soal":"Minyak apa yang paling romantis?",
+      "jawaban":"Minyak-takan cinta padamu"
+   },
+   {
+      "id":724,
+      "soal":"Sapi apa yang sering sedih?",
+      "jawaban":"Sapikir-pikir kita emang nggak jodoh"
+   },
+   {
+      "id":725,
+      "soal":"Kenapa air dimasak harus mendidih?",
+      "jawaban":"Biar kuman-kumannya pada mati kepanasan"
+   },
+   {
+      "id":726,
+      "soal":"Buah apa yang paling ditunggu jomblo?",
+      "jawaban":"Buah-hagia sama kamu"
+   },
+   {
+      "id":727,
+      "soal":"Kopi apa yang bikin pait?",
+      "jawaban":"Kopilih dia dibanding aku"
+   },
+   {
+      "id":728,
+      "soal":"Sayur apa yang jago lari?",
+      "jawaban":"Kacang panjang (langkahnya jauh)"
+   },
+   {
+      "id":729,
+      "soal":"Kenapa dalang bawa wayang?",
+      "jawaban":"Kalau bawa gebetan nanti nggak fokus"
+   },
+   {
+      "id":730,
+      "soal":"Awan apa yang paling ditunggu?",
+      "jawaban":"Awance (Awas) bonus cair"
+   },
+   {
+      "id":731,
+      "soal":"Penyanyi yang sering kena panas?",
+      "jawaban":"Melly Goes-low (api kecil)"
+   },
+   {
+      "id":732,
+      "soal":"Kenapa superman pake sayap?",
+      "jawaban":"Biar nggak kena macet di bawah"
+   },
+   {
+      "id":733,
+      "soal":"Hewan apa yang sering bawa uang?",
+      "jawaban":"Beruang (Bawa uang)"
+   },
+   {
+      "id":734,
+      "soal":"Kenapa sepeda nggak punya rem?",
+      "jawaban":"Karena dia nggak mau berhenti mencintaimu"
+   },
+   {
+      "id":735,
+      "soal":"Benda apa yang kalau dilempar nggak jatuh?",
+      "jawaban":"Lempar pandangan"
+   },
+   {
+      "id":736,
+      "soal":"Sayur apa yang jago akting?",
+      "jawaban":"Terong-figuran"
+   },
+   {
+      "id":737,
+      "soal":"Apa bedanya tas sama kamu?",
+      "jawaban":"Tas bawa barang, kamu bawa perasaan"
+   },
+   {
+      "id":738,
+      "soal":"Kenapa mendung itu abu-abu?",
+      "jawaban":"Karena kalau merah namanya cinta"
+   },
+   {
+      "id":739,
+      "soal":"Ikan apa yang paling malas?",
+      "jawaban":"Ikan rebahan"
+   },
+   {
+      "id":740,
+      "soal":"Sapi apa yang paling gaul?",
+      "jawaban":"Sapidance"
+   },
+   {
+      "id":741,
+      "soal":"Kenapa ayam berkokok pagi-pagi?",
+      "jawaban":"Biar nggak keduluan diskon subuh"
+   },
+   {
+      "id":742,
+      "soal":"Apa bahasa Arabnya orang tenggelam?",
+      "jawaban":"Allahulamm-byur"
+   },
+   {
+      "id":743,
+      "soal":"Sayur apa yang paling sunyi?",
+      "jawaban":"Selo-ri"
+   },
+   {
+      "id":744,
+      "soal":"Hewan apa yang suka berjemur?",
+      "jawaban":"Kura-kura ninja (abis latihan)"
+   },
+   {
+      "id":745,
+      "soal":"Kenapa matahari kuning?",
+      "jawaban":"Kalau ijo namanya melon"
+   },
+   {
+      "id":746,
+      "soal":"Apa bedanya wifi sama kamu?",
+      "jawaban":"Wifi butuh sinyal, aku butuh kamu"
+   },
+   {
+      "id":747,
+      "soal":"Susu apa yang paling berat?",
+      "jawaban":"Susu-btansi"
+   },
+   {
+      "id":748,
+      "soal":"Buah apa yang paling pelit?",
+      "jawaban":"Buah kikir"
+   },
+   {
+      "id":749,
+      "soal":"Sayur apa yang jago nulis?",
+      "jawaban":"Terong-ngan"
+   },
+   {
+      "id":750,
+      "soal":"Kenapa api panas?",
+      "jawaban":"Karena kedinginan itu sifat mantan"
+   },
+   {
+      "id":751,
+      "soal":"Kota apa yang paling galau?",
+      "jawaban":"Purwokerto-lalu mencintaimu"
+   },
+   {
+      "id":752,
+      "soal":"Sepatu apa yang buat masak?",
+      "jawaban":"Sepatula"
+   },
+   {
+      "id":753,
+      "soal":"Cinta kita kayak ban, kenapa?",
+      "jawaban":"Muter terus nggak ada ujungnya"
+   },
+   {
+      "id":754,
+      "soal":"Awan apa yang bikin kaget?",
+      "jawaban":"Awance (Awas) keciduk"
+   },
+   {
+      "id":755,
+      "soal":"Kenapa kaca spion kecil?",
+      "jawaban":"Karena masa lalu cukup dilihat sesekali"
+   },
+   {
+      "id":756,
+      "soal":"Penyanyi yang sering lupa?",
+      "jawaban":"Ari Lupa (Ari Lasso)"
+   },
+   {
+      "id":757,
+      "soal":"Sate apa yang ditakuti?",
+      "jawaban":"Sate-ngah mati nungguin kamu"
+   },
+   {
+      "id":758,
+      "soal":"Bedanya jam 3 sore sama kamu?",
+      "jawaban":"Jam 3 itu Ashar, kamu itu asyik"
+   },
+   {
+      "id":759,
+      "soal":"Es apa yang paling sabar?",
+      "jawaban":"Es-teler (Teler-lihat janji palsumu)"
+   },
+   {
+      "id":760,
+      "soal":"Negara apa yang paling kenceng?",
+      "jawaban":"Lari-u (Lithuania)"
+   },
+   {
+      "id":761,
+      "soal":"Ikan apa yang jago beladiri?",
+      "jawaban":"Ikan cupang (jago tawuran)"
+   },
+   {
+      "id":762,
+      "soal":"Kenapa bola bundar?",
+      "jawaban":"Kalau lonjong namanya tempe"
+   },
+   {
+      "id":763,
+      "soal":"Sabun apa yang paling wangi?",
+      "jawaban":"Sabun-tuan doa"
+   },
+   {
+      "id":764,
+      "soal":"Ayam apa yang paling kaya?",
+      "jawaban":"Ayam-un (Aset) melimpah"
+   },
+   {
+      "id":765,
+      "soal":"Kopi apa yang bikin sejuk?",
+      "jawaban":"Kopilih tempat adem buat berdua"
+   },
+   {
+      "id":766,
+      "soal":"Gajah apa yang paling kecil?",
+      "jawaban":"Gajah-ti diriku kalau tak ada kamu"
+   },
+   {
+      "id":767,
+      "soal":"Kucing nggak mau mandi karena?",
+      "jawaban":"Gak mau luntur gantengnya"
+   },
+   {
+      "id":768,
+      "soal":"Sayur apa yang jago nembak?",
+      "jawaban":"Kacang (nembak target)"
+   },
+   {
+      "id":769,
+      "soal":"Bahasa jepangnya dompet kosong?",
+      "jawaban":"Sakuku Rata"
+   },
+   {
+      "id":770,
+      "soal":"Mobil apa yang paling sedih?",
+      "jawaban":"Mobilang sayang tapi cuma dianggap temen"
+   },
+   {
+      "id":771,
+      "soal":"Telor apa yang bikin nangis?",
+      "jawaban":"Telor-bis (Terlindas) kenangan"
+   },
+   {
+      "id":772,
+      "soal":"Kenapa air laut asin?",
+      "jawaban":"Karena ikannya pada nangis jomblo"
+   },
+   {
+      "id":773,
+      "soal":"Hantu yang pinter komputer?",
+      "jawaban":"Pocong-ter (Pocong komputer)"
+   },
+   {
+      "id":774,
+      "soal":"Nasi uduk vs Kamu?",
+      "jawaban":"Nasi uduk pagi-pagi, kamu tiap hari"
+   },
+   {
+      "id":775,
+      "soal":"Lampu yang bikin baper?",
+      "jawaban":"Lampu-m (Lampu masa lalu)"
+   },
+   {
+      "id":776,
+      "soal":"Ninja nggak kelihatan karena?",
+      "jawaban":"Lagi sembunyi di hati kamu"
+   },
+   {
+      "id":777,
+      "soal":"Ikan kepalanya pusing?",
+      "jawaban":"Ikan mikirin cicilan"
+   },
+   {
+      "id":778,
+      "soal":"Sapi yang jago silat?",
+      "jawaban":"Sapibruak"
+   },
+   {
+      "id":779,
+      "soal":"Kopi paling pait?",
+      "jawaban":"Kopi-ndah ke lain hati pas lagi sayang"
+   },
+   {
+      "id":780,
+      "soal":"Ikan paling setia?",
+      "jawaban":"Ikan-janji (Ikan janji)"
+   },
+   {
+      "id":781,
+      "soal":"Kenapa orang ketawa pegang perut?",
+      "jawaban":"Karena kalau pegang kuping namanya nelpon"
+   },
+   {
+      "id":782,
+      "soal":"Monyet yang jago nyanyi?",
+      "jawaban":"Monyet-el lagu hits"
+   },
+   {
+      "id":783,
+      "soal":"Penyanyi sering kedinginan?",
+      "jawaban":"Cold-play"
+   },
+   {
+      "id":784,
+      "soal":"Buah yang jago nunggu?",
+      "jawaban":"Sawo (Sawo-sabar)"
+   },
+   {
+      "id":785,
+      "soal":"Dokter yang hobi nyanyi?",
+      "jawaban":"Dokter-re-mi"
+   },
+   {
+      "id":786,
+      "soal":"Setan yang jago dandan?",
+      "jawaban":"Setan-up comedy"
+   },
+   {
+      "id":787,
+      "soal":"Kamu vs Pelangi?",
+      "jawaban":"Pelangi cuma bentar, kamu selamanya"
+   },
+   {
+      "id":788,
+      "soal":"Ikan matanya kecil?",
+      "jawaban":"Ikan teri (emang kecil nyuk)"
+   },
+   {
+      "id":789,
+      "soal":"Sepatu buat lari?",
+      "jawaban":"Sepatu-ju sama kamu"
+   },
+   {
+      "id":790,
+      "soal":"Minyak paling mahal?",
+      "jawaban":"Minyak-takan cinta depan mertua"
+   },
+   {
+      "id":791,
+      "soal":"Sayur paling sopan?",
+      "jawaban":"Sawi-sungkem"
+   },
+   {
+      "id":792,
+      "soal":"Buah paling kenceng?",
+      "jawaban":"Sirsak-sak-sak (suara motor)"
+   },
+   {
+      "id":793,
+      "soal":"Penyanyi hobi nanya?",
+      "jawaban":"Isyana (Isyana-kah cintamu?)"
+   },
+   {
+      "id":794,
+      "soal":"Kera paling rajin?",
+      "jawaban":"Kera-ja keras"
+   },
+   {
+      "id":795,
+      "soal":"Lari dari kenyataan?",
+      "jawaban":"Lari yang paling jauh"
+   },
+   {
+      "id":796,
+      "soal":"Telor yang suka bercanda?",
+      "jawaban":"Telor-tawa"
+   },
+   {
+      "id":797,
+      "soal":"Kambing paling pinter?",
+      "jawaban":"Kambing-ingat semua materi"
+   },
+   {
+      "id":798,
+      "soal":"Penyanyi jago masak?",
+      "jawaban":"Chef-illa (Syahila)"
+   },
+   {
+      "id":799,
+      "soal":"Roti yang bisa terbang?",
+      "jawaban":"Roti-nggi (Tinggi)"
+   },
+   {
+      "id":800,
+      "soal":"Motor yang suka nyanyi?",
+      "jawaban":"Motor yamaha (ha-ha-ha)"
+   },
+   {
+      "id":801,
+      "soal":"Kucing yang jago basket?",
+      "jawaban":"Kucing-shot"
+   },
+   {
+      "id":802,
+      "soal":"Sayur yang sering mandi?",
+      "jawaban":"Sawi-ram"
+   },
+   {
+      "id":803,
+      "soal":"Ikan yang bisa nulis?",
+      "jawaban":"Ikan-tinta"
+   },
+   {
+      "id":804,
+      "soal":"Kenapa pohon pisang punya jantung?",
+      "jawaban":"Karena kalau nggak punya mati dong"
+   },
+   {
+      "id":805,
+      "soal":"Apa bedanya pensil sama kamu?",
+      "jawaban":"Pensil buat nulis, kamu buat nangis (baper)"
+   },
+   {
+      "id":806,
+      "soal":"Hantu yang sering laper?",
+      "jawaban":"Makan-tuly"
+   },
+   {
+      "id":807,
+      "soal":"Negara yang nggak pernah bohong?",
+      "jawaban":"Jujur-gia (Georgia)"
+   },
+   {
+      "id":808,
+      "soal":"Sabun yang jago nari?",
+      "jawaban":"Sabun-tuan tari"
+   },
+   {
+      "id":809,
+      "soal":"Kenapa kaca depan mobil luas?",
+      "jawaban":"Biar masa depan kelihatan jelas"
+   },
+   {
+      "id":810,
+      "soal":"Hewan yang hobinya baca?",
+      "jawaban":"Kutu buku"
+   },
+   {
+      "id":811,
+      "soal":"Apa bedanya soto sama kamu?",
+      "jawaban":"Soto pake mangkok, kamu pake hati"
+   },
+   {
+      "id":812,
+      "soal":"Kenapa matahari panas?",
+      "jawaban":"Kalau dingin namanya kulkas"
+   },
+   {
+      "id":813,
+      "soal":"Sayur yang bikin baper?",
+      "jawaban":"Sawi-ndu kamu"
+   },
+   {
+      "id":814,
+      "soal":"Kenapa bulan satu?",
+      "jawaban":"Karena kalau dua namanya duaan sama kamu"
+   },
+   {
+      "id":815,
+      "soal":"Susu yang bikin bahagia?",
+      "jawaban":"Susu-k kamu di sisiku"
+   },
+   {
+      "id":816,
+      "soal":"Ayam yang jago silat?",
+      "jawaban":"Ayam-bruak"
+   },
+   {
+      "id":817,
+      "soal":"Ikan yang jago bahasa inggris?",
+      "jawaban":"Ikan fish"
+   },
+   {
+      "id":818,
+      "soal":"Minyak yang nggak bisa digoreng?",
+      "jawaban":"Minyak wangi"
+   },
+   {
+      "id":819,
+      "soal":"Kenapa semut kecil?",
+      "jawaban":"Kalau besar namanya tawuran"
+   },
+   {
+      "id":820,
+      "soal":"Bedanya kunci sama kamu?",
+      "jawaban":"Kunci buka pintu, kamu buka hatiku"
+   },
+   {
+      "id":821,
+      "soal":"Kota yang paling pait?",
+      "jawaban":"Pare-pare"
+   },
+   {
+      "id":822,
+      "soal":"Hewan yang sering pegel?",
+      "jawaban":"Kura-kura (kurang urut)"
+   },
+   {
+      "id":823,
+      "soal":"Bedanya kamu sama pelangi?",
+      "jawaban":"Pelangi cuma bentar, kamu selamanya"
+   },
+   {
+      "id":824,
+      "soal":"Kopi yang bikin emosi?",
+      "jawaban":"Kopi-kir aku robot?"
+   },
+   {
+      "id":825,
+      "soal":"Sepatu yang bikin galau?",
+      "jawaban":"Sepatu-li kau pergi"
+   },
+   {
+      "id":826,
+      "soal":"Buah yang paling religius?",
+      "jawaban":"Buah-ibadah"
+   },
+   {
+      "id":827,
+      "soal":"Kenapa harimau bunyinya aum?",
+      "jawaban":"Kalau meong namanya kucing"
+   },
+   {
+      "id":828,
+      "soal":"Bedanya nasi sama kamu?",
+      "jawaban":"Nasi bikin kenyang, kamu bikin senang"
+   },
+   {
+      "id":829,
+      "soal":"Sayur yang jago lari?",
+      "jawaban":"Kacang panjang"
+   },
+   {
+      "id":830,
+      "soal":"Hantu yang suka jajan?",
+      "jawaban":"Beli-u (Tuyul)"
+   },
+   {
+      "id":831,
+      "soal":"Negara yang jago joget?",
+      "jawaban":"Dans-mark"
+   },
+   {
+      "id":832,
+      "soal":"Kenapa hujan nggak pernah telat?",
+      "jawaban":"Gak punya jam tangan"
+   },
+   {
+      "id":833,
+      "soal":"Bedanya kamu sama lampu?",
+      "jawaban":"Lampu nerangin jalan, kamu nerangin masa depan"
+   },
+   {
+      "id":834,
+      "soal":"Susu yang paling berat?",
+      "jawaban":"Susu-btansi"
+   },
+   {
+      "id":835,
+      "soal":"Ikan yang nggak punya mama?",
+      "jawaban":"Ikan piatu"
+   },
+   {
+      "id":836,
+      "soal":"Kenapa langit biru?",
+      "jawaban":"Kalau merah namanya cinta"
+   },
+   {
+      "id":837,
+      "soal":"Minyak yang paling ditakuti?",
+      "jawaban":"Minyak-iti perasaan"
+   },
+   {
+      "id":838,
+      "soal":"Bedanya kamu sama wifi?",
+      "jawaban":"Wifi butuh sinyal, aku butuh kepastian"
+   },
+   {
+      "id":839,
+      "soal":"Kopi yang paling wangi?",
+      "jawaban":"Kopi-kat hatimu"
+   },
+   {
+      "id":840,
+      "soal":"Sayur yang jago akting?",
+      "jawaban":"Terong-figuran"
+   },
+   {
+      "id":841,
+      "soal":"Hewan yang paling beruntung?",
+      "jawaban":"Bebek (pake baju apa aja oke)"
+   },
+   {
+      "id":842,
+      "soal":"Kenapa bintang banyak?",
+      "jawaban":"Kalau satu namanya matahari"
+   },
+   {
+      "id":843,
+      "soal":"Bedanya kamu sama bintang?",
+      "jawaban":"Bintang di langit, kamu di hatiku"
+   },
+   {
+      "id":844,
+      "soal":"Lampu yang paling mahal?",
+      "jawaban":"Lampu-mborghini"
+   },
+   {
+      "id":845,
+      "soal":"Buah yang jago nembak?",
+      "jawaban":"Srikaya hunter"
+   },
+   {
+      "id":846,
+      "soal":"Sapi yang jago main bola?",
+      "jawaban":"Sapidinho"
+   },
+   {
+      "id":847,
+      "soal":"Ikan yang jago main gitar?",
+      "jawaban":"Ikan-dika"
+   },
+   {
+      "id":848,
+      "soal":"Kenapa anjing suka gonggong?",
+      "jawaban":"Kalau ngomong namanya manusia"
+   },
+   {
+      "id":849,
+      "soal":"Bedanya kamu sama payung?",
+      "jawaban":"Payung lindungi dari hujan, kamu dari sepi"
+   },
+   {
+      "id":850,
+      "soal":"Hantu yang hobi olahraga?",
+      "jawaban":"Suster ngesot (push up terus)"
+   },
+   {
+      "id":851,
+      "soal":"Negara apa yang paling sunyi?",
+      "jawaban":"Di-am (Vietnam)"
+   },
+   {
+      "id":852,
+      "soal":"Kenapa api panas?",
+      "jawaban":"Karena kedinginan itu sifat mantan"
+   },
+   {
+      "id":853,
+      "soal":"Bedanya kamu sama sate?",
+      "jawaban":"Sate ditusuk lidi, kamu ditusuk rindu"
+   },
+   {
+      "id":854,
+      "soal":"Susu yang paling lama?",
+      "jawaban":"Susu-dah berabad-abad"
+   },
+   {
+      "id":855,
+      "soal":"Sayur yang paling galak?",
+      "jawaban":"Kol-erik"
+   },
+   {
+      "id":856,
+      "soal":"Kenapa laut luas?",
+      "jawaban":"Biar bisa nampung air mata jomblo"
+   },
+   {
+      "id":857,
+      "soal":"Bedanya kamu sama kamera?",
+      "jawaban":"Kamera fokus ke objek, aku ke kamu"
+   },
+   {
+      "id":858,
+      "soal":"Minyak yang jago masak?",
+      "jawaban":"Minyak goreng (ya iyalah)"
+   },
+   {
+      "id":859,
+      "soal":"Kenapa gajah kupingnya lebar?",
+      "jawaban":"Biar denger curhatan kamu"
+   },
+   {
+      "id":860,
+      "soal":"Ikan yang paling sibuk?",
+      "jawaban":"Ikan gurame (Guru-rame)"
+   },
+   {
+      "id":861,
+      "soal":"Bedanya kamu sama remote?",
+      "jawaban":"Remote ngatur TV, kamu ngatur hatiku"
+   },
+   {
+      "id":862,
+      "soal":"Lampu yang paling berisik?",
+      "jawaban":"Lampu-ng (Orang Lampung)"
+   },
+   {
+      "id":863,
+      "soal":"Buah yang paling religius?",
+      "jawaban":"Buah-ibadah"
+   },
+   {
+      "id":864,
+      "soal":"Kenapa ular nggak punya kaki?",
+      "jawaban":"Karena kalau punya kaki namanya biawak"
+   },
+   {
+      "id":865,
+      "soal":"Bedanya kamu sama laptop?",
+      "jawaban":"Laptop butuh cas, aku butuh kasih sayang"
+   },
+   {
+      "id":866,
+      "soal":"Setan yang hobi belanja?",
+      "jawaban":"Setan-dar dua"
+   },
+   {
+      "id":867,
+      "soal":"Kota yang jago nunggu?",
+      "jawaban":"Sama-rindu (Samarinda)"
+   },
+   {
+      "id":868,
+      "soal":"Kenapa air warnanya bening?",
+      "jawaban":"Kalau putih namanya susu"
+   },
+   {
+      "id":869,
+      "soal":"Bedanya kamu sama sisir?",
+      "jawaban":"Sisir rapihin rambut, kamu hidupku"
+   },
+   {
+      "id":870,
+      "soal":"Sayur yang jago nyanyi?",
+      "jawaban":"Kolplay"
+   },
+   {
+      "id":871,
+      "soal":"Hewan yang hobinya tawuran?",
+      "jawaban":"Ikan cupang"
+   },
+   {
+      "id":872,
+      "soal":"Kenapa pohon mangga berbuah?",
+      "jawaban":"Kalau berduit namanya pohon duit"
+   },
+   {
+      "id":873,
+      "soal":"Bedanya kamu sama bantal?",
+      "jawaban":"Bantal buat tidur, kamu buat mimpi indah"
+   },
+   {
+      "id":874,
+      "soal":"Kopi yang bikin ketawa?",
+      "jawaban":"Kopikir aku lucu?"
+   },
+   {
+      "id":875,
+      "soal":"Susu yang jago silat?",
+      "jawaban":"Susu-k pendekar"
+   },
+   {
+      "id":876,
+      "soal":"Ikan yang paling pelit?",
+      "jawaban":"Ikan kikir"
+   },
+   {
+      "id":877,
+      "soal":"Kenapa ninja nggak bisa mati?",
+      "jawaban":"Karena kalau mati namanya almarhum"
+   },
+   {
+      "id":878,
+      "soal":"Bedanya kamu sama payung?",
+      "jawaban":"Payung lindungi dari hujan, kamu dari sepi"
+   },
+   {
+      "id":879,
+      "soal":"Minyak yang paling ditunggu?",
+      "jawaban":"Minyak-takan cinta"
+   },
+   {
+      "id":880,
+      "soal":"Hewan yang paling suci?",
+      "jawaban":"Ikan bawal (Bawalah aku ke surga)"
+   },
+   {
+      "id":881,
+      "soal":"Kenapa api merah?",
+      "jawaban":"Kalau ijo namanya lampu bangjo"
+   },
+   {
+      "id":882,
+      "soal":"Bedanya kamu sama wifi?",
+      "jawaban":"Wifi butuh password, aku butuh kepastian"
+   },
+   {
+      "id":883,
+      "soal":"Sayur yang bikin kangen?",
+      "jawaban":"Sawi-ndu"
+   },
+   {
+      "id":884,
+      "soal":"Hantu yang pinter ngajar?",
+      "jawaban":"Guru-u (Kuntilanak)"
+   },
+   {
+      "id":885,
+      "soal":"Negara yang jago masak?",
+      "jawaban":"Cook-islands"
+   },
+   {
+      "id":886,
+      "soal":"Kenapa nasi putih?",
+      "jawaban":"Kalau item ketan"
+   },
+   {
+      "id":887,
+      "soal":"Bedanya kamu sama bensin?",
+      "jawaban":"Bensin gerakin motor, kamu gerakin hatiku"
+   },
+   {
+      "id":888,
+      "soal":"Sapi yang bisa terbang?",
+      "jawaban":"Sapitri"
+   },
+   {
+      "id":889,
+      "soal":"Ikan yang paling sepi?",
+      "jawaban":"Ikan-dirian"
+   },
+   {
+      "id":890,
+      "soal":"Kenapa semut jalannya baris?",
+      "jawaban":"Karena kalau mencar namanya tawuran"
+   },
+   {
+      "id":891,
+      "soal":"Bedanya kamu sama peta?",
+      "jawaban":"Peta nunjukin jalan, kamu nunjukin masa depan"
+   },
+   {
+      "id":892,
+      "soal":"Minyak yang paling baper?",
+      "jawaban":"Minyaksikan kamu sama dia"
+   },
+   {
+      "id":893,
+      "soal":"Sayur yang jago ngetik?",
+      "jawaban":"Terong-ngan"
+   },
+   {
+      "id":894,
+      "soal":"Hewan yang hobi dandan?",
+      "jawaban":"Ikan salmon"
+   },
+   {
+      "id":895,
+      "soal":"Kenapa langit tinggi?",
+      "jawaban":"Biar cita-citamu nggak mentok"
+   },
+   {
+      "id":896,
+      "soal":"Bedanya kamu sama bulan?",
+      "jawaban":"Bulan cuma malem, kamu tiap hari"
+   },
+   {
+      "id":897,
+      "soal":"Kopi yang paling sedih?",
+      "jawaban":"Kopilih dia dibanding aku"
+   },
+   {
+      "id":898,
+      "soal":"Susu yang paling kuat?",
+      "jawaban":"Susu-peman"
+   },
+   {
+      "id":899,
+      "soal":"Ikan yang jago rapihin baju?",
+      "jawaban":"Ikan sapu-sapu"
+   },
+   {
+      "id":900,
+      "soal":"Hewan terakhir di dunia?",
+      "jawaban":"Zebra"
+   },
+   {
+      "id":901,
+      "soal":"Apa bedanya modem sama kamu?",
+      "jawaban":"Modem nyari sinyal, aku nyari restu ortumu"
+   },
+   {
+      "id":902,
+      "soal":"Kue apa yang bisa dipake kerja?",
+      "jawaban":"Kue-tika aku melihatmu"
+   },
+   {
+      "id":903,
+      "soal":"Sayur apa yang nggak pernah salah?",
+      "jawaban":"Sayur-jana (Sarjana)"
+   },
+   {
+      "id":904,
+      "soal":"Ikan apa yang paling galau?",
+      "jawaban":"Ikan lele-lah mengejarmu"
+   },
+   {
+      "id":905,
+      "soal":"Apa bedanya jam dinding sama kamu?",
+      "jawaban":"Jam dipajang, kamu disayang"
+   },
+   {
+      "id":906,
+      "soal":"Hewan apa yang paling hening?",
+      "jawaban":"Semute"
+   },
+   {
+      "id":907,
+      "soal":"Buah apa yang suka bangun pagi?",
+      "jawaban":"Apel pagi"
+   },
+   {
+      "id":908,
+      "soal":"Kenapa ayam kalau berkokok merem?",
+      "jawaban":"Karena dia udah hafal teksnya"
+   },
+   {
+      "id":909,
+      "soal":"Sabun apa yang bikin baper?",
+      "jawaban":"Sabun-tuan pundak buat bersandar"
+   },
+   {
+      "id":910,
+      "soal":"Penyanyi luar yang susah nelen?",
+      "jawaban":"Ed Seret"
+   },
+   {
+      "id":911,
+      "soal":"Minyak apa yang bikin mabuk?",
+      "jawaban":"Minyaksikan senyummu"
+   },
+   {
+      "id":912,
+      "soal":"Hewan apa yang jago nyari duit?",
+      "jawaban":"Beruang"
+   },
+   {
+      "id":913,
+      "soal":"Kenapa kucing bunyinya meong?",
+      "jawaban":"Kalau mbe kambing nyuk"
+   },
+   {
+      "id":914,
+      "soal":"Bedanya sikat gigi sama kamu?",
+      "jawaban":"Sikat gigi bersihin kuman, kamu bersihin keraguan"
+   },
+   {
+      "id":915,
+      "soal":"Susu apa yang paling sopan?",
+      "jawaban":"Susu-wun nggih"
+   },
+   {
+      "id":916,
+      "soal":"Apa bahasa jepangnya dicopet?",
+      "jawaban":"Sakuku diraba takada sisa"
+   },
+   {
+      "id":917,
+      "soal":"Negara apa yang siap buat jomblo?",
+      "jawaban":"In-dia"
+   },
+   {
+      "id":918,
+      "soal":"Kenapa zombie nyerang rame-rame?",
+      "jawaban":"Kalau sendirian zomblo"
+   },
+   {
+      "id":919,
+      "soal":"Bantal apa yang dipukul gak sakit?",
+      "jawaban":"Bantal-an waktu buat ketemu"
+   },
+   {
+      "id":920,
+      "soal":"Penyanyi yang sering lupa lirik?",
+      "jawaban":"Ari Lupa"
+   },
+   {
+      "id":921,
+      "soal":"Ikan apa yang jago pamer?",
+      "jawaban":"Ikan lohan (loh-kan keren)"
+   },
+   {
+      "id":922,
+      "soal":"Sayur apa yang bisa nelfon?",
+      "jawaban":"Wortel-pon"
+   },
+   {
+      "id":923,
+      "soal":"Apa bedanya soto sama kamu?",
+      "jawaban":"Soto pake mangkok, kamu pake hati"
+   },
+   {
+      "id":924,
+      "soal":"Kenapa matahari makin panas?",
+      "jawaban":"Karena buka cabang di mana-mana"
+   },
+   {
+      "id":925,
+      "soal":"Buah apa yang berbahaya?",
+      "jawaban":"Buah-ya darat"
+   },
+   {
+      "id":926,
+      "soal":"Setan apa yang paling romantis?",
+      "jawaban":"Setangkai bunga mawar"
+   },
+   {
+      "id":927,
+      "soal":"Kopi apa yang bikin deg-degan?",
+      "jawaban":"Kopi-nang kamu segera"
+   },
+   {
+      "id":928,
+      "soal":"Apa bedanya jam 12 malem sama kamu?",
+      "jawaban":"Jam 12 malem sunyi, kamu kesayangan"
+   },
+   {
+      "id":929,
+      "soal":"Lampu apa yang paling berisik?",
+      "jawaban":"Lampu-ng"
+   },
+   {
+      "id":930,
+      "soal":"Gajah apa yang belalainya pendek?",
+      "jawaban":"Gajah pesek"
+   },
+   {
+      "id":931,
+      "soal":"Motor apa yang suka senyum?",
+      "jawaban":"Motor yamaha-ha-ha"
+   },
+   {
+      "id":932,
+      "soal":"Kenapa kalau hujan turunnya air?",
+      "jawaban":"Kalau turunnya kamu itu anugerah"
+   },
+   {
+      "id":933,
+      "soal":"Sepatu apa yang bisa masak?",
+      "jawaban":"Sepatula"
+   },
+   {
+      "id":934,
+      "soal":"Hewan apa yang sering jadi wasit?",
+      "jawaban":"Kera-pu"
+   },
+   {
+      "id":935,
+      "soal":"Sabun apa yang paling bau?",
+      "jawaban":"Sabun-tuan di jalan"
+   },
+   {
+      "id":936,
+      "soal":"Kenapa superman pake sayap?",
+      "jawaban":"Biar nggak kena macet"
+   },
+   {
+      "id":937,
+      "soal":"Apa bedanya kamu sama modem?",
+      "jawaban":"Modem konek internet, kamu konek hatiku"
+   },
+   {
+      "id":938,
+      "soal":"Ikan apa yang kepalanya besar?",
+      "jawaban":"Ikan pakai helm"
+   },
+   {
+      "id":939,
+      "soal":"Kenapa ninja pake topeng?",
+      "jawaban":"Kalau pake bedak namanya penganten"
+   },
+   {
+      "id":940,
+      "soal":"Sayur apa yang dingin?",
+      "jawaban":"Kembang cold"
+   },
+   {
+      "id":941,
+      "soal":"Hantu apa yang nggak punya temen?",
+      "jawaban":"Kuntilanak-tunggal"
+   },
+   {
+      "id":942,
+      "soal":"Kenapa air laut biru?",
+      "jawaban":"Kalau ijo cendol nyuk"
+   },
+   {
+      "id":943,
+      "soal":"Kopi apa yang paling lambat?",
+      "jawaban":"Kopi-ndah ke lain hati"
+   },
+   {
+      "id":944,
+      "soal":"Apa bedanya nasi uduk sama kamu?",
+      "jawaban":"Nasi uduk pake emping, kamu e-sayang"
+   },
+   {
+      "id":945,
+      "soal":"Kenapa kambing brewokan?",
+      "jawaban":"Gak punya uang buat cukuran"
+   },
+   {
+      "id":946,
+      "soal":"Mobil apa yang paling panjang?",
+      "jawaban":"Mobilang sayang tapi ditolak"
+   },
+   {
+      "id":947,
+      "soal":"Sayur apa yang jago gombal?",
+      "jawaban":"Kangkung (Kangkung-ingat wajahmu)"
+   },
+   {
+      "id":948,
+      "soal":"Apa bahasa jepangnya ibu hamil?",
+      "jawaban":"Akutu Takuda"
+   },
+   {
+      "id":949,
+      "soal":"Susu apa yang gak pernah telat?",
+      "jawaban":"Susu-dah waktunya bersama"
+   },
+   {
+      "id":950,
+      "soal":"Ikan apa yang paling suka bohong?",
+      "jawaban":"Ikan karang"
+   },
+   {
+      "id":951,
+      "soal":"Kenapa matahari tenggelam?",
+      "jawaban":"Karena nggak bisa berenang"
+   },
+   {
+      "id":952,
+      "soal":"Sayur apa yang bisa nyanyi?",
+      "jawaban":"Sayur-nara"
+   },
+   {
+      "id":953,
+      "soal":"Kenapa ninja larinya ke belakang?",
+      "jawaban":"Karena kalau ke depan namanya ngejar diskon"
+   },
+   {
+      "id":954,
+      "soal":"Minyak apa yang paling jujur?",
+      "jawaban":"Minyak-takan yang sebenarnya"
+   },
+   {
+      "id":955,
+      "soal":"Apa bedanya kamu sama sate?",
+      "jawaban":"Sate ditusuk lidi, kamu ditusuk rindu"
+   },
+   {
+      "id":956,
+      "soal":"Penyanyi yang hobinya ngatur?",
+      "jawaban":"Melly Goes-law"
+   },
+   {
+      "id":957,
+      "soal":"Kenapa air hujan rintik-rintik?",
+      "jawaban":"Kalau rontok-rontok itu rambut"
+   },
+   {
+      "id":958,
+      "soal":"Negara apa yang paling pinter bercanda?",
+      "jawaban":"Selo-vaki"
+   },
+   {
+      "id":959,
+      "soal":"Kenapa harimau bunyinya aum?",
+      "jawaban":"Kalau meong kucing nyuk"
+   },
+   {
+      "id":960,
+      "soal":"Hewan apa yang sering pegel?",
+      "jawaban":"Kura-kura (kurang urut)"
+   },
+   {
+      "id":961,
+      "soal":"Bedanya kamu sama pelangi?",
+      "jawaban":"Pelangi cuma bentar, kamu selamanya"
+   },
+   {
+      "id":962,
+      "soal":"Sayur yang jago lari?",
+      "jawaban":"Kacang panjang"
+   },
+   {
+      "id":963,
+      "soal":"Hantu yang suka jajan?",
+      "jawaban":"Beli-u (Tuyul)"
+   },
+   {
+      "id":964,
+      "soal":"Kenapa hujan nggak pernah telat?",
+      "jawaban":"Gak punya jam tangan"
+   },
+   {
+      "id":965,
+      "soal":"Ikan yang nggak punya mama?",
+      "jawaban":"Ikan piatu"
+   },
+   {
+      "id":966,
+      "soal":"Minyak yang paling ditakuti?",
+      "jawaban":"Minyak-iti perasaan"
+   },
+   {
+      "id":967,
+      "soal":"Bedanya kamu sama wifi?",
+      "jawaban":"Wifi butuh sinyal, aku butuh kepastian"
+   },
+   {
+      "id":968,
+      "soal":"Kenapa anjing suka gonggong?",
+      "jawaban":"Kalau ngomong namanya manusia"
+   },
+   {
+      "id":969,
+      "soal":"Hantu yang hobi olahraga?",
+      "jawaban":"Suster ngesot (push up terus)"
+   },
+   {
+      "id":970,
+      "soal":"Kenapa api panas?",
+      "jawaban":"Karena kedinginan itu sifat mantan"
+   },
+   {
+      "id":971,
+      "soal":"Ikan yang paling keren?",
+      "jawaban":"Ikan cupang (cukup-pangling)"
+   },
+   {
+      "id":972,
+      "soal":"Kenapa gajah kupingnya lebar?",
+      "jawaban":"Biar denger curhatan kamu"
+   },
+   {
+      "id":973,
+      "soal":"Setan yang hobi belanja?",
+      "jawaban":"Setan-dar dua"
+   },
+   {
+      "id":974,
+      "soal":"Sayur yang jago nyanyi?",
+      "jawaban":"Kolplay"
+   },
+   {
+      "id":975,
+      "soal":"Hewan yang hobinya tawuran?",
+      "jawaban":"Ikan cupang"
+   },
+   {
+      "id":976,
+      "soal":"Bedanya kamu sama bantal?",
+      "jawaban":"Bantal buat tidur, kamu buat mimpi indah"
+   },
+   {
+      "id":977,
+      "soal":"Ikan yang paling pelit?",
+      "jawaban":"Ikan kikir"
+   },
+   {
+      "id":978,
+      "soal":"Bedanya kamu sama payung?",
+      "jawaban":"Payung lindungi dari hujan, kamu dari sepi"
+   },
+   {
+      "id":979,
+      "soal":"Minyak yang paling ditunggu?",
+      "jawaban":"Minyak-takan cinta"
+   },
+   {
+      "id":980,
+      "soal":"Hewan yang paling suci?",
+      "jawaban":"Ikan bawal"
+   },
+   {
+      "id":981,
+      "soal":"Sayur yang bikin kangen?",
+      "jawaban":"Sawi-ndu"
+   },
+   {
+      "id":982,
+      "soal":"Kenapa nasi putih?",
+      "jawaban":"Kalau item ketan"
+   },
+   {
+      "id":983,
+      "soal":"Sapi yang bisa terbang?",
+      "jawaban":"Sapitri"
+   },
+   {
+      "id":984,
+      "soal":"Ikan yang paling sepi?",
+      "jawaban":"Ikan-dirian"
+   },
+   {
+      "id":985,
+      "soal":"Minyak yang paling baper?",
+      "jawaban":"Minyaksikan kamu sama dia"
+   },
+   {
+      "id":986,
+      "soal":"Hewan terakhir di dunia?",
+      "jawaban":"Zebra (karena huruf Z)"
+   },
+   {
+      "id":987,
+      "soal":"Sayur apa yang pinter?",
+      "jawaban":"Sayur-jana"
+   },
+   {
+      "id":988,
+      "soal":"Apa bedanya modem sama kamu?",
+      "jawaban":"Modem nyari sinyal, aku nyari restu"
+   },
+   {
+      "id":989,
+      "soal":"Ikan apa yang jago komputer?",
+      "jawaban":"Ikan mouse"
+   },
+   {
+      "id":990,
+      "soal":"Kenapa matahari panas?",
+      "jawaban":"Kalau dingin kulkas nyuk"
+   },
+   {
+      "id":991,
+      "soal":"Lampu apa yang paling berisik?",
+      "jawaban":"Lampu-ng"
+   },
+   {
+      "id":992,
+      "soal":"Bedanya sikat gigi sama kamu?",
+      "jawaban":"Sikat gigi bersihin kuman, kamu bersihin keraguan"
+   },
+   {
+      "id":993,
+      "soal":"Buah apa yang berbahaya?",
+      "jawaban":"Buah-ya darat"
+   },
+   {
+      "id":994,
+      "soal":"Setan apa yang romantis?",
+      "jawaban":"Setangkai bunga mawar"
+   },
+   {
+      "id":995,
+      "soal":"Apa bahasa jepangnya ibu hamil?",
+      "jawaban":"Akutu Takuda"
+   },
+   {
+      "id":996,
+      "soal":"Mobil apa yang paling panjang?",
+      "jawaban":"Mobilang sayang tapi ditolak"
+   },
+   {
+      "id":997,
+      "soal":"Susu apa yang gak pernah telat?",
+      "jawaban":"Susu-dah waktunya bersama"
+   },
+   {
+      "id":998,
+      "soal":"Kenapa matahari tenggelam?",
+      "jawaban":"Nggak bisa berenang nyuk"
+   },
+   {
+      "id":999,
+      "soal":"Sayur apa yang bisa nyanyi?",
+      "jawaban":"Sayur-nara"
+   },
+   {
+      "id":1000,
+      "soal":"Hewan apa yang paling sombong?",
+      "jawaban":"Kaki seribu (sepatunya mahal semua)"
+   }
+]
