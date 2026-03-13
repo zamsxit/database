@@ -1,1042 +1,4002 @@
 [
-  {
-    "id": 1,
-    "nama_lagu": "Espresso",
-    "judul": "Espresso",
-    "author": "Sabrina Carpenter",
-    "potongan_lirik": "Now he's thinkin' 'bout me every night, oh Is it that sweet? I guess so Say you can't sleep, baby, I know That's that me ...",
-    "jawaban": "espresso"
-  },
-  {
-    "id": 2,
-    "nama_lagu": "Please Please Please",
-    "judul": "Please Please Please",
-    "author": "Sabrina Carpenter",
-    "potongan_lirik": "Heartbreak is one thing, my ego's another I beg you, don't embarrass ...",
-    "jawaban": "me"
-  },
-  {
-    "id": 3,
-    "nama_lagu": "Taste",
-    "judul": "Taste",
-    "author": "Sabrina Carpenter",
-    "potongan_lirik": "I heard you're back together and if that's true You'll just have to taste me when he's kissin' ...",
-    "jawaban": "you"
-  },
-  {
-    "id": 4,
-    "nama_lagu": "Nonsense",
-    "judul": "Nonsense",
-    "author": "Sabrina Carpenter",
-    "potongan_lirik": "Cartwheels in my stomach when you walk in And when you got your arms around me Oh, it feels so ...",
-    "jawaban": "good"
-  },
-  {
-    "id": 5,
-    "nama_lagu": "Feather",
-    "judul": "Feather",
-    "author": "Sabrina Carpenter",
-    "potongan_lirik": "I feel so much lighter like a feather with you off my ...",
-    "jawaban": "mind"
-  },
-  {
-    "id": 6,
-    "nama_lagu": "APT.",
-    "judul": "APT.",
-    "author": "ROSÉ & Bruno Mars",
-    "potongan_lirik": "Kissy face, kissy face, sent to your phone but I'm tryna kiss your lips for ...",
-    "jawaban": "real"
-  },
-  {
-    "id": 7,
-    "nama_lagu": "Die With A Smile",
-    "judul": "Die With A Smile",
-    "author": "Lady Gaga & Bruno Mars",
-    "potongan_lirik": "If the world was ending, I'd wanna be next to ...",
-    "jawaban": "you"
-  },
-  {
-    "id": 8,
-    "nama_lagu": "Leave The Door Open",
-    "judul": "Leave The Door Open",
-    "author": "Silk Sonic, Bruno Mars, Anderson .Paak",
-    "potongan_lirik": "I'ma leave the door open, hopin' that you feel the way I ...",
-    "jawaban": "feel"
-  },
-  {
-    "id": 9,
-    "nama_lagu": "That's What I Like",
-    "judul": "That's What I Like",
-    "author": "Bruno Mars",
-    "potongan_lirik": "Strawberry champagne on ice, Lucky for you, that's what I ...",
-    "jawaban": "like"
-  },
-  {
-    "id": 10,
-    "nama_lagu": "Just The Way You Are",
-    "judul": "Just The Way You Are",
-    "author": "Bruno Mars",
-    "potongan_lirik": "When I see your face, there's not a thing that I would ...",
-    "jawaban": "change"
-  },
-  {
-    "id": 11,
-    "nama_lagu": "Satu Bulan",
-    "judul": "Satu Bulan",
-    "author": "Bernadya",
-    "potongan_lirik": "Belum ada satu bulan, ku yakin masih ada sisa ...",
-    "jawaban": "wangiku"
-  },
-  {
-    "id": 12,
-    "nama_lagu": "Kata Mereka Ini Berlebihan",
-    "judul": "Kata Mereka Ini Berlebihan",
-    "author": "Bernadya",
-    "potongan_lirik": "Kata mereka ini berlebihan, tak tahu saja, aku sedang ...",
-    "jawaban": "mempertahankanmu"
-  },
-  {
-    "id": 13,
-    "nama_lagu": "Kini Mereka Tahu",
-    "judul": "Kini Mereka Tahu",
-    "author": "Bernadya",
-    "potongan_lirik": "Kini mereka tahu, kau tak sebaik ...",
-    "jawaban": "itu"
-  },
-  {
-    "id": 14,
-    "nama_lagu": "Lama-Lama",
-    "judul": "Lama-Lama",
-    "author": "Bernadya",
-    "potongan_lirik": "Lama-lama kau menjauh, lama-lama kau ...",
-    "jawaban": "hilang"
-  },
-  {
-    "id": 15,
-    "nama_lagu": "Sialnya Hidup Harus Tetap Berjalan",
-    "judul": "Sialnya Hidup Harus Tetap Berjalan",
-    "author": "Bernadya",
-    "potongan_lirik": "Sialnya hidup harus tetap ...",
-    "jawaban": "berjalan"
-  },
-  {
-    "id": 16,
-    "nama_lagu": "Hati-Hati di Jalan",
-    "judul": "Hati-Hati di Jalan",
-    "author": "Tulus",
-    "potongan_lirik": "Kukira kita akan bersama, begitu banyak yang sama, latarmu dan ...",
-    "jawaban": "latarku"
-  },
-  {
-    "id": 17,
-    "nama_lagu": "Sepatu",
-    "judul": "Sepatu",
-    "author": "Tulus",
-    "potongan_lirik": "Kita adalah sepasang sepatu, selalu bersama tak bisa ...",
-    "jawaban": "bersatu"
-  },
-  {
-    "id": 18,
-    "nama_lagu": "Monokrom",
-    "judul": "Monokrom",
-    "author": "Tulus",
-    "potongan_lirik": "Lembaran foto hitam putih, aku coba ingat lagi warna bajumu kala ...",
-    "jawaban": "itu"
-  },
-  {
-    "id": 19,
-    "nama_lagu": "Gajah",
-    "judul": "Gajah",
-    "author": "Tulus",
-    "potongan_lirik": "Waktu kecil dulu, mereka menertawakan mereka panggilku ...",
-    "jawaban": "gajah"
-  },
-  {
-    "id": 20,
-    "nama_lagu": "Teman Hidup",
-    "judul": "Teman Hidup",
-    "author": "Tulus",
-    "potongan_lirik": "Di dekatnya aku lebih tenang, bersamanya jalan lebih ...",
-    "jawaban": "terang"
-  },
-  {
-    "id": 21,
-    "nama_lagu": "Cruel Summer",
-    "judul": "Cruel Summer",
-    "author": "Taylor Swift",
-    "potongan_lirik": "It's a cruel summer, with you. Devils roll the dice, angels roll their ...",
-    "jawaban": "eyes"
-  },
-  {
-    "id": 22,
-    "nama_lagu": "Fortnight",
-    "judul": "Fortnight",
-    "author": "Taylor Swift feat. Post Malone",
-    "potongan_lirik": "And for a fortnight there, we were forever. Run into you sometimes, ask about the ...",
-    "jawaban": "weather"
-  },
-  {
-    "id": 23,
-    "nama_lagu": "Anti-Hero",
-    "judul": "Anti-Hero",
-    "author": "Taylor Swift",
-    "potongan_lirik": "It's me, hi, I'm the problem, it's ...",
-    "jawaban": "me"
-  },
-  {
-    "id": 24,
-    "nama_lagu": "Blank Space",
-    "judul": "Blank Space",
-    "author": "Taylor Swift",
-    "potongan_lirik": "Got a long list of ex-lovers, they'll tell you I'm insane, but I've got a blank space baby, and I'll write your ...",
-    "jawaban": "name"
-  },
-  {
-    "id": 25,
-    "nama_lagu": "Lover",
-    "judul": "Lover",
-    "author": "Taylor Swift",
-    "potongan_lirik": "Can I go where you go? Can we always be this close forever and ...",
-    "jawaban": "ever"
-  },
-  {
-    "id": 26,
-    "nama_lagu": "Birds of a Feather",
-    "judul": "Birds of a Feather",
-    "author": "Billie Eilish",
-    "potongan_lirik": "Birds of a feather, we should stick ...",
-    "jawaban": "together"
-  },
-  {
-    "id": 27,
-    "nama_lagu": "LUNCH",
-    "judul": "LUNCH",
-    "author": "Billie Eilish",
-    "potongan_lirik": "I could eat that girl for lunch, yeah, she dances on my ...",
-    "jawaban": "tongue"
-  },
-  {
-    "id": 28,
-    "nama_lagu": "What Was I Made For?",
-    "judul": "What Was I Made For?",
-    "author": "Billie Eilish",
-    "potongan_lirik": "I used to float, now I just fall down, I used to know, but I'm not sure ...",
-    "jawaban": "now"
-  },
-  {
-    "id": 29,
-    "nama_lagu": "bad guy",
-    "judul": "bad guy",
-    "author": "Billie Eilish",
-    "potongan_lirik": "So you're a tough guy, like it really rough guy, just can't get enough guy, chest always so puffed ...",
-    "jawaban": "guy"
-  },
-  {
-    "id": 30,
-    "nama_lagu": "happier than ever",
-    "judul": "happier than ever",
-    "author": "Billie Eilish",
-    "potongan_lirik": "When I'm away from you, I'm happier than ...",
-    "jawaban": "ever"
-  },
-  {
-    "id": 31,
-    "nama_lagu": "vampire",
-    "judul": "vampire",
-    "author": "Olivia Rodrigo",
-    "potongan_lirik": "Bloodsucker, fame fucker, bleedin' me dry like a goddamn ...",
-    "jawaban": "vampire"
-  },
-  {
-    "id": 32,
-    "nama_lagu": "good 4 u",
-    "judul": "good 4 u",
-    "author": "Olivia Rodrigo",
-    "potongan_lirik": "Well, good for you, you look happy and healthy, not me, if you ever cared to ...",
-    "jawaban": "ask"
-  },
-  {
-    "id": 33,
-    "nama_lagu": "drivers license",
-    "judul": "drivers license",
-    "author": "Olivia Rodrigo",
-    "potongan_lirik": "And I know we weren't perfect, but I've never felt this way for no ...",
-    "jawaban": "one"
-  },
-  {
-    "id": 34,
-    "nama_lagu": "bad idea right?",
-    "judul": "bad idea right?",
-    "author": "Olivia Rodrigo",
-    "potongan_lirik": "Seeing you tonight, it's a bad idea, ...",
-    "jawaban": "right"
-  },
-  {
-    "id": 35,
-    "nama_lagu": "get him back!",
-    "judul": "get him back!",
-    "author": "Olivia Rodrigo",
-    "potongan_lirik": "I want to get him back, I want to make him really ...",
-    "jawaban": "sad"
-  },
-  {
-    "id": 36,
-    "nama_lagu": "Sialan",
-    "judul": "Sialan",
-    "author": "Juicy Luicy & Mahalini",
-    "potongan_lirik": "Oh, sialan, ku terjebak lagi, di senyummu yang tak pernah ...",
-    "jawaban": "pudar"
-  },
-  {
-    "id": 37,
-    "nama_lagu": "Lantas",
-    "judul": "Lantas",
-    "author": "Juicy Luicy",
-    "potongan_lirik": "Lantas mengapa ku masih menaruh hati, padahal ku tahu kau tlah ada yang ...",
-    "jawaban": "memiliki"
-  },
-  {
-    "id": 38,
-    "nama_lagu": "Tampar",
-    "judul": "Tampar",
-    "author": "Juicy Luicy",
-    "potongan_lirik": "Tampar aku di pipi, sadarkan aku ini, hanya cinta yang tak akan ...",
-    "jawaban": "terjadi"
-  },
-  {
-    "id": 39,
-    "nama_lagu": "Tanpa Tergesa",
-    "judul": "Tanpa Tergesa",
-    "author": "Juicy Luicy",
-    "potongan_lirik": "Jangan minta jatuh cinta, luka lamaku juga belum ...",
-    "jawaban": "reda"
-  },
-  {
-    "id": 40,
-    "nama_lagu": "Asing",
-    "judul": "Asing",
-    "author": "Juicy Luicy",
-    "potongan_lirik": "Kita kembali menjadi asing, setelah semuanya yang kita ...",
-    "jawaban": "lalui"
-  },
-  {
-    "id": 41,
-    "nama_lagu": "Sial",
-    "judul": "Sial",
-    "author": "Mahalini",
-    "potongan_lirik": "Sial-sialnya ku bertemu dengan cinta semu, tertipu tutur dan caramu, seolah cintaiku sepenuh ...",
-    "jawaban": "hati"
-  },
-  {
-    "id": 42,
-    "nama_lagu": "Mati-Matian",
-    "judul": "Mati-Matian",
-    "author": "Mahalini",
-    "potongan_lirik": "Mati-matian ku membelamu, di depan mereka yang meragukan ...",
-    "jawaban": "itu"
-  },
-  {
-    "id": 43,
-    "nama_lagu": "Sisa Rasa",
-    "judul": "Sisa Rasa",
-    "author": "Mahalini",
-    "potongan_lirik": "Mengapa masih ada sisa rasa di dada, saat kau pergi begitu ...",
-    "jawaban": "saja"
-  },
-  {
-    "id": 44,
-    "nama_lagu": "Melawan Restu",
-    "judul": "Melawan Restu",
-    "author": "Mahalini",
-    "potongan_lirik": "Mungkinkah kita kan slalu bersama, walau semesta tak ...",
-    "jawaban": "merestui"
-  },
-  {
-    "id": 45,
-    "nama_lagu": "Bawa Dia Kembali",
-    "judul": "Bawa Dia Kembali",
-    "author": "Mahalini",
-    "potongan_lirik": "Tuhan tolong bawa dia kembali, aku tak sanggup hidup tanpa ...",
-    "jawaban": "dia"
-  },
-  {
-    "id": 46,
-    "nama_lagu": "Kupu-Kupu",
-    "judul": "Kupu-Kupu",
-    "author": "Tiara Andini",
-    "potongan_lirik": "Kupu-kupu cinta, terbanglah ke sana, sampaikan padanya ku merindukan ...",
-    "jawaban": "dia"
-  },
-  {
-    "id": 47,
-    "nama_lagu": "Janji Setia",
-    "judul": "Janji Setia",
-    "author": "Tiara Andini",
-    "potongan_lirik": "Tahukah dirimu betapa diriku merindukan hadirmu ada di ...",
-    "jawaban": "sini"
-  },
-  {
-    "id": 48,
-    "nama_lagu": "Merasa Indah",
-    "judul": "Merasa Indah",
-    "author": "Tiara Andini",
-    "potongan_lirik": "Kemarin engkau nyatakan hati, tapi telat dia yang ...",
-    "jawaban": "memiliki"
-  },
-  {
-    "id": 49,
-    "nama_lagu": "Gemintang Hatiku",
-    "judul": "Gemintang Hatiku",
-    "author": "Tiara Andini",
-    "potongan_lirik": "Gemintang hatiku, sinari jiwaku, bawalah aku terbang ke ...",
-    "jawaban": "awan"
-  },
-  {
-    "id": 50,
-    "nama_lagu": "Usai",
-    "judul": "Usai",
-    "author": "Tiara Andini",
-    "potongan_lirik": "Usai sudah semua cerita, yang tlah kita ukir ...",
-    "jawaban": "bersama"
-  },
-  {
-    "id": 51,
-    "nama_lagu": "Pesan Terakhir",
-    "judul": "Pesan Terakhir",
-    "author": "Lyodra",
-    "potongan_lirik": "Genggam tanganku sayang, dekat denganku peluk diriku, berdiri tegak di depan ...",
-    "jawaban": "aku"
-  },
-  {
-    "id": 52,
-    "nama_lagu": "Sang Dewi",
-    "judul": "Sang Dewi",
-    "author": "Lyodra",
-    "potongan_lirik": "Walaupun diriku kini tlah hancur, namun ku kan bangkit seperti sang ...",
-    "jawaban": "dewi"
-  },
-  {
-    "id": 53,
-    "nama_lagu": "Tak Dianggap",
-    "judul": "Tak Dianggap",
-    "author": "Lyodra",
-    "potongan_lirik": "Aku tak dianggap, seperti debu yang tertiup ...",
-    "jawaban": "angin"
-  },
-  {
-    "id": 54,
-    "nama_lagu": "Menyesal",
-    "judul": "Menyesal",
-    "author": "Yovie Widianto, Lyodra, Tiara Andini, Ziva Magnolya",
-    "potongan_lirik": "Menyesal ku tlah mencintaimu, bila akhirnya kau tinggalkan ...",
-    "jawaban": "aku"
-  },
-  {
-    "id": 55,
-    "nama_lagu": "Ego",
-    "judul": "Ego",
-    "author": "Lyodra",
-    "potongan_lirik": "Ego yang menguasai, buat kita tak bisa bersatu ...",
-    "jawaban": "lagi"
-  },
-  {
-    "id": 56,
-    "nama_lagu": "Super Shy",
-    "judul": "Super Shy",
-    "author": "NewJeans",
-    "potongan_lirik": "I'm super shy, super shy, but wait a minute while I make you ...",
-    "jawaban": "mine"
-  },
-  {
-    "id": 57,
-    "nama_lagu": "OMG",
-    "judul": "OMG",
-    "author": "NewJeans",
-    "potongan_lirik": "Oh my oh my God, 예상했어 나, I was really hoping that he will come ...",
-    "jawaban": "through"
-  },
-  {
-    "id": 58,
-    "nama_lagu": "Ditto",
-    "judul": "Ditto",
-    "author": "NewJeans",
-    "potongan_lirik": "Stay in the middle, like you a little, don't want no ...",
-    "jawaban": "riddle"
-  },
-  {
-    "id": 59,
-    "nama_lagu": "Hype Boy",
-    "judul": "Hype Boy",
-    "author": "NewJeans",
-    "potongan_lirik": "Cause I know what you like boy, you're my chemical hype ...",
-    "jawaban": "boy"
-  },
-  {
-    "id": 60,
-    "nama_lagu": "How Sweet",
-    "judul": "How Sweet",
-    "author": "NewJeans",
-    "potongan_lirik": "How sweet it tastes, I got you in my ...",
-    "jawaban": "mind"
-  },
-  {
-    "id": 61,
-    "nama_lagu": "Supernova",
-    "judul": "Supernova",
-    "author": "aespa",
-    "potongan_lirik": "I'm like some kind of Supernova, watch out, look at me ...",
-    "jawaban": "go"
-  },
-  {
-    "id": 62,
-    "nama_lagu": "Armageddon",
-    "judul": "Armageddon",
-    "author": "aespa",
-    "potongan_lirik": "Imma get it, armageddon, everything I want I'm gonna ...",
-    "jawaban": "get it"
-  },
-  {
-    "id": 63,
-    "nama_lagu": "Drama",
-    "judul": "Drama",
-    "author": "aespa",
-    "potongan_lirik": "I bring I bring all the drama-ma-ma-ma, I bring drama-ma-ma-ma, with my ...",
-    "jawaban": "girls"
-  },
-  {
-    "id": 64,
-    "nama_lagu": "Spicy",
-    "judul": "Spicy",
-    "author": "aespa",
-    "potongan_lirik": "Cause I'm too spicy for your heart, ring the fire ...",
-    "jawaban": "alarm"
-  },
-  {
-    "id": 65,
-    "nama_lagu": "Next Level",
-    "judul": "Next Level",
-    "author": "aespa",
-    "potongan_lirik": "I'm on the next level, yeah, absolutely rules, break ...",
-    "jawaban": "it"
-  },
-  {
-    "id": 66,
-    "nama_lagu": "Take A Chance With Me",
-    "judul": "Take A Chance With Me",
-    "author": "NIKI",
-    "potongan_lirik": "Oh, why can't we for once say what we want, say what we feel, oh take a chance with ...",
-    "jawaban": "me"
-  },
-  {
-    "id": 67,
-    "nama_lagu": "lowkey",
-    "judul": "lowkey",
-    "author": "NIKI",
-    "potongan_lirik": "Tell me, tell me, tell me, do you wanna keep it ...",
-    "jawaban": "lowkey"
-  },
-  {
-    "id": 68,
-    "nama_lagu": "Every Summertime",
-    "judul": "Every Summertime",
-    "author": "NIKI",
-    "potongan_lirik": "Every summertime, I fall in love with you all over ...",
-    "jawaban": "again"
-  },
-  {
-    "id": 69,
-    "nama_lagu": "High School in Jakarta",
-    "judul": "High School in Jakarta",
-    "author": "NIKI",
-    "potongan_lirik": "High school in Jakarta, sort of modern ...",
-    "jawaban": "sparta"
-  },
-  {
-    "id": 70,
-    "nama_lagu": "La La Lost You",
-    "judul": "La La Lost You",
-    "author": "NIKI",
-    "potongan_lirik": "All my demons run wild, all my demons have your ...",
-    "jawaban": "smile"
-  },
-  {
-    "id": 71,
-    "nama_lagu": "Beautiful Things",
-    "judul": "Beautiful Things",
-    "author": "Benson Boone",
-    "potongan_lirik": "Please stay, I want you, I need you, oh God, don't take these beautiful things that I've ...",
-    "jawaban": "got"
-  },
-  {
-    "id": 72,
-    "nama_lagu": "Slow It Down",
-    "judul": "Slow It Down",
-    "author": "Benson Boone",
-    "potongan_lirik": "Slow it down, I can't keep up with ...",
-    "jawaban": "you"
-  },
-  {
-    "id": 73,
-    "nama_lagu": "In The Stars",
-    "judul": "In The Stars",
-    "author": "Benson Boone",
-    "potongan_lirik": "I'm still holding on to everything that's dead and gone, I don't wanna say ...",
-    "jawaban": "goodbye"
-  },
-  {
-    "id": 74,
-    "nama_lagu": "Ghost Town",
-    "judul": "Ghost Town",
-    "author": "Benson Boone",
-    "potongan_lirik": "Maybe you'd be happier in some other ...",
-    "jawaban": "town"
-  },
-  {
-    "id": 75,
-    "nama_lagu": "Cry",
-    "judul": "Cry",
-    "author": "Benson Boone",
-    "potongan_lirik": "It's okay to cry, it's okay to let it ...",
-    "jawaban": "out"
-  },
-  {
-    "id": 76,
-    "nama_lagu": "Blinding Lights",
-    "judul": "Blinding Lights",
-    "author": "The Weeknd",
-    "potongan_lirik": "I said, ooh, I'm blinded by the lights, no, I can't sleep until I feel your ...",
-    "jawaban": "touch"
-  },
-  {
-    "id": 77,
-    "nama_lagu": "Starboy",
-    "judul": "Starboy",
-    "author": "The Weeknd",
-    "potongan_lirik": "Look what you've done, I'm a motherfuckin' ...",
-    "jawaban": "starboy"
-  },
-  {
-    "id": 78,
-    "nama_lagu": "Save Your Tears",
-    "judul": "Save Your Tears",
-    "author": "The Weeknd",
-    "potongan_lirik": "Save your tears for another ...",
-    "jawaban": "day"
-  },
-  {
-    "id": 79,
-    "nama_lagu": "Die For You",
-    "judul": "Die For You",
-    "author": "The Weeknd",
-    "potongan_lirik": "Even though we're going through it, and it makes you feel alone, just know that I would die for ...",
-    "jawaban": "you"
-  },
-  {
-    "id": 80,
-    "nama_lagu": "Call Out My Name",
-    "judul": "Call Out My Name",
-    "author": "The Weeknd",
-    "potongan_lirik": "So call out my name, call out my name when I kiss you so ...",
-    "jawaban": "gently"
-  },
-  {
-    "id": 81,
-    "nama_lagu": "we can't be friends (wait for your love)",
-    "judul": "we can't be friends (wait for your love)",
-    "author": "Ariana Grande",
-    "potongan_lirik": "We can't be friends, but I'd like to just ...",
-    "jawaban": "pretend"
-  },
-  {
-    "id": 82,
-    "nama_lagu": "thank u, next",
-    "judul": "thank u, next",
-    "author": "Ariana Grande",
-    "potongan_lirik": "Thank you, next. I'm so fuckin' grateful for my ...",
-    "jawaban": "ex"
-  },
-  {
-    "id": 83,
-    "nama_lagu": "7 rings",
-    "judul": "7 rings",
-    "author": "Ariana Grande",
-    "potongan_lirik": "I see it, I like it, I want it, I ...",
-    "jawaban": "got it"
-  },
-  {
-    "id": 84,
-    "nama_lagu": "positions",
-    "judul": "positions",
-    "author": "Ariana Grande",
-    "potongan_lirik": "Switching the positions for ...",
-    "jawaban": "you"
-  },
-  {
-    "id": 85,
-    "nama_lagu": "no tears left to cry",
-    "judul": "no tears left to cry",
-    "author": "Ariana Grande",
-    "potongan_lirik": "Right now, I'm in a state of mind, I wanna be in, like, all the ...",
-    "jawaban": "time"
-  },
-  {
-    "id": 86,
-    "nama_lagu": "Peaches",
-    "judul": "Peaches",
-    "author": "Justin Bieber",
-    "potongan_lirik": "I got my peaches out in Georgia, I get my weed from ...",
-    "jawaban": "California"
-  },
-  {
-    "id": 87,
-    "nama_lagu": "Ghost",
-    "judul": "Ghost",
-    "author": "Justin Bieber",
-    "potongan_lirik": "If I can't be close to you, I'll settle for the ghost of ...",
-    "jawaban": "you"
-  },
-  {
-    "id": 88,
-    "nama_lagu": "Love Yourself",
-    "judul": "Love Yourself",
-    "author": "Justin Bieber",
-    "potongan_lirik": "My mama don't like you and she likes ...",
-    "jawaban": "everyone"
-  },
-  {
-    "id": 89,
-    "nama_lagu": "Sorry",
-    "judul": "Sorry",
-    "author": "Justin Bieber",
-    "potongan_lirik": "Is it too late now to say ...",
-    "jawaban": "sorry"
-  },
-  {
-    "id": 90,
-    "nama_lagu": "Baby",
-    "judul": "Baby",
-    "author": "Justin Bieber",
-    "potongan_lirik": "Baby, baby, baby, ...",
-    "jawaban": "oh"
-  },
-  {
-    "id": 91,
-    "nama_lagu": "Houdini",
-    "judul": "Houdini",
-    "author": "Dua Lipa",
-    "potongan_lirik": "Catch me or I go Houdini, I come and I ...",
-    "jawaban": "go"
-  },
-  {
-    "id": 92,
-    "nama_lagu": "Dance The Night",
-    "judul": "Dance The Night",
-    "author": "Dua Lipa",
-    "potongan_lirik": "Watch me dance, dance the night away, my heart could be burning, but you won't see it on my ...",
-    "jawaban": "face"
-  },
-  {
-    "id": 93,
-    "nama_lagu": "Don't Start Now",
-    "judul": "Don't Start Now",
-    "author": "Dua Lipa",
-    "potongan_lirik": "If you don't wanna see me dancing with ...",
-    "jawaban": "somebody"
-  },
-  {
-    "id": 94,
-    "nama_lagu": "Levitating",
-    "judul": "Levitating",
-    "author": "Dua Lipa",
-    "potongan_lirik": "I got you, moonlight, you're my starlight, I need you all night, come on, dance with ...",
-    "jawaban": "me"
-  },
-  {
-    "id": 95,
-    "nama_lagu": "New Rules",
-    "judul": "New Rules",
-    "author": "Dua Lipa",
-    "potongan_lirik": "One, don't pick up the phone, you know he's only calling 'cause he's drunk and ...",
-    "jawaban": "alone"
-  },
-  {
-    "id": 96,
-    "nama_lagu": "Magnetic",
-    "judul": "Magnetic",
-    "author": "ILLIT",
-    "potongan_lirik": "This time I want, You, you, you, you, like it's ...",
-    "jawaban": "magnetic"
-  },
-  {
-    "id": 97,
-    "nama_lagu": "Water",
-    "judul": "Water",
-    "author": "Tyla",
-    "potongan_lirik": "Make me sweat, make me hotter, make me lose my breath, make me ...",
-    "jawaban": "water"
-  },
-  {
-    "id": 98,
-    "nama_lagu": "Good Luck, Babe!",
-    "judul": "Good Luck, Babe!",
-    "author": "Chappell Roan",
-    "potongan_lirik": "You can kiss a hundred boys in bars, shoot another shot, try to stop the ...",
-    "jawaban": "feeling"
-  },
-  {
-    "id": 99,
-    "nama_lagu": "End of Beginning",
-    "judul": "End of Beginning",
-    "author": "Djo",
-    "potongan_lirik": "And when I'm back in Chicago, I feel ...",
-    "jawaban": "it"
-  },
-  {
-    "id": 100,
-    "nama_lagu": "Lose Control",
-    "judul": "Lose Control",
-    "author": "Teddy Swims",
-    "potongan_lirik": "I lose control, when you're not next to ...",
-    "jawaban": "me"
-  },
-  {
-    "id": 101,
-    "nama_lagu": "Secukupnya",
-    "judul": "Secukupnya",
-    "author": "Hindia",
-    "potongan_lirik": "Kapan terakhir kali kamu dapat tertidur ...",
-    "jawaban": "tenang"
-  },
-  {
-    "id": 102,
-    "nama_lagu": "Evaluasi",
-    "judul": "Evaluasi",
-    "author": "Hindia",
-    "potongan_lirik": "Bilas muka, gosok gigi, evaluasi. Tidur sejenak menemui ...",
-    "jawaban": "esok pagi"
-  },
-  {
-    "id": 103,
-    "nama_lagu": "Rumah ke Rumah",
-    "judul": "Rumah ke Rumah",
-    "author": "Hindia",
-    "potongan_lirik": "Pindah berkala, rumah ke ...",
-    "jawaban": "rumah"
-  },
-  {
-    "id": 104,
-    "nama_lagu": "Cincin",
-    "judul": "Cincin",
-    "author": "Hindia",
-    "potongan_lirik": "Kau takkan percaya, aku tak percaya, kita ...",
-    "jawaban": "bersama"
-  },
-  {
-    "id": 105,
-    "nama_lagu": "Membasuh",
-    "judul": "Membasuh",
-    "author": "Hindia & Rara Sekar",
-    "potongan_lirik": "Cukup besar 'tuk mengampuni, 'tuk ...",
-    "jawaban": "membasuh"
-  },
-  {
-    "id": 106,
-    "nama_lagu": "Pamit",
-    "judul": "Pamit",
-    "author": "Tulus",
-    "potongan_lirik": "Izinkan aku pergi dulu, yang berubah hanya tak lagi ku ...",
-    "jawaban": "milikmu"
-  },
-  {
-    "id": 107,
-    "nama_lagu": "Jatuh Suka",
-    "judul": "Jatuh Suka",
-    "author": "Tulus",
-    "potongan_lirik": "Bila kau lihat ku tanpa sengaja, sama sekali bukan ...",
-    "jawaban": "sengaja"
-  },
-  {
-    "id": 108,
-    "nama_lagu": "Ruang Sendiri",
-    "judul": "Ruang Sendiri",
-    "author": "Tulus",
-    "potongan_lirik": "Beri aku kesempatan 'tuk ...",
-    "jawaban": "rindu"
-  },
-  {
-    "id": 109,
-    "nama_lagu": "Diri",
-    "judul": "Diri",
-    "author": "Tulus",
-    "potongan_lirik": "Maafkan semua yang lalu, ampuni ...",
-    "jawaban": "hatimu"
-  },
-  {
-    "id": 110,
-    "nama_lagu": "Mengagumimu Dari Jauh",
-    "judul": "Mengagumimu Dari Jauh",
-    "author": "Tulus",
-    "potongan_lirik": "Biarkan aku jadikan kau ...",
-    "jawaban": "rahasia"
-  },
-  {
-    "id": 111,
-    "nama_lagu": "Mantan Terindah",
-    "judul": "Mantan Terindah",
-    "author": "Raisa",
-    "potongan_lirik": "Mau dikatakan apa lagi, kita tak akan pernah ...",
-    "jawaban": "satu"
-  },
-  {
-    "id": 112,
-    "nama_lagu": "Apalah (Arti Menunggu)",
-    "judul": "Apalah (Arti Menunggu)",
-    "author": "Raisa",
-    "potongan_lirik": "Sekarang aku tersadar cinta yang ku tunggu tak kunjung ...",
-    "jawaban": "datang"
-  },
-  {
-    "id": 113,
-    "nama_lagu": "Usai Di Sini",
-    "judul": "Usai Di Sini",
-    "author": "Raisa",
-    "potongan_lirik": "Lebih baik kita usai di sini, sebelum cerita indah tergantikan ...",
-    "jawaban": "pahitnya"
-  },
-  {
-    "id": 114,
-    "nama_lagu": "Kali Kedua",
-    "judul": "Kali Kedua",
-    "author": "Raisa",
-    "potongan_lirik": "Pegang tanganku bersama jatuh cinta, kali ...",
-    "jawaban": "kedua"
-  },
-  {
-    "id": 115,
-    "nama_lagu": "Terjebak Nostalgia",
-    "judul": "Terjebak Nostalgia",
-    "author": "Raisa",
-    "potongan_lirik": "Kini ku resah diriku lemah ...",
-    "jawaban": "tanpamu"
-  },
-  {
-    "id": 116,
-    "nama_lagu": "Cinta Terbalas Nanti",
-    "judul": "Cinta Terbalas Nanti",
-    "author": "Anggis Devaki",
-    "potongan_lirik": "Haruskah ku menunggu, cinta terbalas ...",
-    "jawaban": "nanti"
-  },
-  {
-    "id": 117,
-    "nama_lagu": "Kisah Tanpa Dirimu",
-    "judul": "Kisah Tanpa Dirimu",
-    "author": "Anggis Devaki",
-    "potongan_lirik": "Kini ku harus terbiasa, jalani kisah tanpa ...",
-    "jawaban": "dirimu"
-  },
-  {
-    "id": 118,
-    "nama_lagu": "Bodoh",
-    "judul": "Bodoh",
-    "author": "Anggis Devaki",
-    "potongan_lirik": "Bodohnya aku menyadari, kau takkan pernah ...",
-    "jawaban": "kembali"
-  },
-  {
-    "id": 119,
-    "nama_lagu": "Waktu Yang Salah",
-    "judul": "Waktu Yang Salah",
-    "author": "Fiersa Besari",
-    "potongan_lirik": "Beri kisah kita sedikit waktu, semesta mengirim dirimu untukku, kita adalah rasa yang tepat di waktu yang ...",
-    "jawaban": "salah"
-  },
-  {
-    "id": 120,
-    "nama_lagu": "Jiwa Yang Bersedih",
-    "judul": "Jiwa Yang Bersedih",
-    "author": "Ghea Indrawari",
-    "potongan_lirik": "Menangislah kan kau juga ...",
-    "jawaban": "manusia"
-  },
-  {
-    "id": 121,
-    "nama_lagu": "Hanya Rindu",
-    "judul": "Hanya Rindu",
-    "author": "Andmesh",
-    "potongan_lirik": "Ku ingin saat ini engkau ada di ...",
-    "jawaban": "sini"
-  },
-  {
-    "id": 122,
-    "nama_lagu": "Bertaut",
-    "judul": "Bertaut",
-    "author": "Nadin Amizah",
-    "potongan_lirik": "Keras kepalaku sama denganmu, caraku marah, caraku ...",
-    "jawaban": "tersenyum"
-  },
-  {
-    "id": 123,
-    "nama_lagu": "Mesin Waktu",
-    "judul": "Mesin Waktu",
-    "author": "Budi Doremi",
-    "potongan_lirik": "Kalau harus ku mengingatmu lagi, aku takkan sanggup dengan yang terjadi pada ...",
-    "jawaban": "kita"
-  },
-  {
-    "id": 124,
-    "nama_lagu": "Pelukku Untuk Pelikmu",
-    "judul": "Pelukku Untuk Pelikmu",
-    "author": "Fiersa Besari",
-    "potongan_lirik": "Kadang kau lelah jalani hari, kadang kau lelah karena ...",
-    "jawaban": "ekspektasi"
-  },
-  {
-    "id": 125,
-    "nama_lagu": "Maafkan Aku #terlanjurmencinta",
-    "judul": "Maafkan Aku #terlanjurmencinta",
-    "author": "Tiara Andini",
-    "potongan_lirik": "Aku tak bisa bohongi hati, sungguh aku tak bisa pergi dari ...",
-    "jawaban": "dirimu"
-  },
-  {
-    "id": 126,
-    "nama_lagu": "Tutur Batin",
-    "judul": "Tutur Batin",
-    "author": "Yura Yunita",
-    "potongan_lirik": "Aku tak sempurna, tak perlu ...",
-    "jawaban": "sempurna"
-  },
-  {
-    "id": 127,
-    "nama_lagu": "Dunia Tipu-Tipu",
-    "judul": "Dunia Tipu-Tipu",
-    "author": "Yura Yunita",
-    "potongan_lirik": "Puja-puji tanpa kata, mata kita yang ...",
-    "jawaban": "bicara"
-  },
-  {
-    "id": 128,
-    "nama_lagu": "Surat Cinta Untuk Starla",
-    "judul": "Surat Cinta Untuk Starla",
-    "author": "Virgoun",
-    "potongan_lirik": "Telah habis sudah cinta ini, tak lagi tersisa untuk ...",
-    "jawaban": "dunia"
-  },
-  {
-    "id": 129,
-    "nama_lagu": "Asal Kau Bahagia",
-    "judul": "Asal Kau Bahagia",
-    "author": "Armada",
-    "potongan_lirik": "Katakanlah sekarang bahwa kau tak bahagia, aku punya ragamu tapi tidak ...",
-    "jawaban": "hatimu"
-  },
-  {
-    "id": 130,
-    "nama_lagu": "Putus Atau Terus",
-    "judul": "Putus Atau Terus",
-    "author": "Judika",
-    "potongan_lirik": "Coba tanyakan lagi pada hatimu, apakah sebaiknya kita putus atau ...",
-    "jawaban": "terus"
-  }
+   {
+      "id":1,
+      "nama_lagu":"Espresso",
+      "judul":"Espresso",
+      "author":"Sabrina Carpenter",
+      "potongan_lirik":"Now he's thinkin' 'bout me every night, oh Is it that sweet? I guess so Say you can't sleep, baby, I know That's that me ...",
+      "jawaban":"espresso"
+   },
+   {
+      "id":2,
+      "nama_lagu":"Please Please Please",
+      "judul":"Please Please Please",
+      "author":"Sabrina Carpenter",
+      "potongan_lirik":"Heartbreak is one thing, my ego's another I beg you, don't embarrass ...",
+      "jawaban":"me"
+   },
+   {
+      "id":3,
+      "nama_lagu":"Taste",
+      "judul":"Taste",
+      "author":"Sabrina Carpenter",
+      "potongan_lirik":"I heard you're back together and if that's true You'll just have to taste me when he's kissin' ...",
+      "jawaban":"you"
+   },
+   {
+      "id":4,
+      "nama_lagu":"Nonsense",
+      "judul":"Nonsense",
+      "author":"Sabrina Carpenter",
+      "potongan_lirik":"Cartwheels in my stomach when you walk in And when you got your arms around me Oh, it feels so ...",
+      "jawaban":"good"
+   },
+   {
+      "id":5,
+      "nama_lagu":"Feather",
+      "judul":"Feather",
+      "author":"Sabrina Carpenter",
+      "potongan_lirik":"I feel so much lighter like a feather with you off my ...",
+      "jawaban":"mind"
+   },
+   {
+      "id":6,
+      "nama_lagu":"APT.",
+      "judul":"APT.",
+      "author":"ROSÉ & Bruno Mars",
+      "potongan_lirik":"Kissy face, kissy face, sent to your phone but I'm tryna kiss your lips for ...",
+      "jawaban":"real"
+   },
+   {
+      "id":7,
+      "nama_lagu":"Die With A Smile",
+      "judul":"Die With A Smile",
+      "author":"Lady Gaga & Bruno Mars",
+      "potongan_lirik":"If the world was ending, I'd wanna be next to ...",
+      "jawaban":"you"
+   },
+   {
+      "id":8,
+      "nama_lagu":"Leave The Door Open",
+      "judul":"Leave The Door Open",
+      "author":"Silk Sonic, Bruno Mars, Anderson .Paak",
+      "potongan_lirik":"I'ma leave the door open, hopin' that you feel the way I ...",
+      "jawaban":"feel"
+   },
+   {
+      "id":9,
+      "nama_lagu":"That's What I Like",
+      "judul":"That's What I Like",
+      "author":"Bruno Mars",
+      "potongan_lirik":"Strawberry champagne on ice, Lucky for you, that's what I ...",
+      "jawaban":"like"
+   },
+   {
+      "id":10,
+      "nama_lagu":"Just The Way You Are",
+      "judul":"Just The Way You Are",
+      "author":"Bruno Mars",
+      "potongan_lirik":"When I see your face, there's not a thing that I would ...",
+      "jawaban":"change"
+   },
+   {
+      "id":11,
+      "nama_lagu":"Satu Bulan",
+      "judul":"Satu Bulan",
+      "author":"Bernadya",
+      "potongan_lirik":"Belum ada satu bulan, ku yakin masih ada sisa ...",
+      "jawaban":"wangiku"
+   },
+   {
+      "id":12,
+      "nama_lagu":"Kata Mereka Ini Berlebihan",
+      "judul":"Kata Mereka Ini Berlebihan",
+      "author":"Bernadya",
+      "potongan_lirik":"Kata mereka ini berlebihan, tak tahu saja, aku sedang ...",
+      "jawaban":"mempertahankanmu"
+   },
+   {
+      "id":13,
+      "nama_lagu":"Kini Mereka Tahu",
+      "judul":"Kini Mereka Tahu",
+      "author":"Bernadya",
+      "potongan_lirik":"Kini mereka tahu, kau tak sebaik ...",
+      "jawaban":"itu"
+   },
+   {
+      "id":14,
+      "nama_lagu":"Lama-Lama",
+      "judul":"Lama-Lama",
+      "author":"Bernadya",
+      "potongan_lirik":"Lama-lama kau menjauh, lama-lama kau ...",
+      "jawaban":"hilang"
+   },
+   {
+      "id":15,
+      "nama_lagu":"Sialnya Hidup Harus Tetap Berjalan",
+      "judul":"Sialnya Hidup Harus Tetap Berjalan",
+      "author":"Bernadya",
+      "potongan_lirik":"Sialnya hidup harus tetap ...",
+      "jawaban":"berjalan"
+   },
+   {
+      "id":16,
+      "nama_lagu":"Hati-Hati di Jalan",
+      "judul":"Hati-Hati di Jalan",
+      "author":"Tulus",
+      "potongan_lirik":"Kukira kita akan bersama, begitu banyak yang sama, latarmu dan ...",
+      "jawaban":"latarku"
+   },
+   {
+      "id":17,
+      "nama_lagu":"Sepatu",
+      "judul":"Sepatu",
+      "author":"Tulus",
+      "potongan_lirik":"Kita adalah sepasang sepatu, selalu bersama tak bisa ...",
+      "jawaban":"bersatu"
+   },
+   {
+      "id":18,
+      "nama_lagu":"Monokrom",
+      "judul":"Monokrom",
+      "author":"Tulus",
+      "potongan_lirik":"Lembaran foto hitam putih, aku coba ingat lagi warna bajumu kala ...",
+      "jawaban":"itu"
+   },
+   {
+      "id":19,
+      "nama_lagu":"Gajah",
+      "judul":"Gajah",
+      "author":"Tulus",
+      "potongan_lirik":"Waktu kecil dulu, mereka menertawakan mereka panggilku ...",
+      "jawaban":"gajah"
+   },
+   {
+      "id":20,
+      "nama_lagu":"Teman Hidup",
+      "judul":"Teman Hidup",
+      "author":"Tulus",
+      "potongan_lirik":"Di dekatnya aku lebih tenang, bersamanya jalan lebih ...",
+      "jawaban":"terang"
+   },
+   {
+      "id":21,
+      "nama_lagu":"Cruel Summer",
+      "judul":"Cruel Summer",
+      "author":"Taylor Swift",
+      "potongan_lirik":"It's a cruel summer, with you. Devils roll the dice, angels roll their ...",
+      "jawaban":"eyes"
+   },
+   {
+      "id":22,
+      "nama_lagu":"Fortnight",
+      "judul":"Fortnight",
+      "author":"Taylor Swift feat. Post Malone",
+      "potongan_lirik":"And for a fortnight there, we were forever. Run into you sometimes, ask about the ...",
+      "jawaban":"weather"
+   },
+   {
+      "id":23,
+      "nama_lagu":"Anti-Hero",
+      "judul":"Anti-Hero",
+      "author":"Taylor Swift",
+      "potongan_lirik":"It's me, hi, I'm the problem, it's ...",
+      "jawaban":"me"
+   },
+   {
+      "id":24,
+      "nama_lagu":"Blank Space",
+      "judul":"Blank Space",
+      "author":"Taylor Swift",
+      "potongan_lirik":"Got a long list of ex-lovers, they'll tell you I'm insane, but I've got a blank space baby, and I'll write your ...",
+      "jawaban":"name"
+   },
+   {
+      "id":25,
+      "nama_lagu":"Lover",
+      "judul":"Lover",
+      "author":"Taylor Swift",
+      "potongan_lirik":"Can I go where you go? Can we always be this close forever and ...",
+      "jawaban":"ever"
+   },
+   {
+      "id":26,
+      "nama_lagu":"Birds of a Feather",
+      "judul":"Birds of a Feather",
+      "author":"Billie Eilish",
+      "potongan_lirik":"Birds of a feather, we should stick ...",
+      "jawaban":"together"
+   },
+   {
+      "id":27,
+      "nama_lagu":"LUNCH",
+      "judul":"LUNCH",
+      "author":"Billie Eilish",
+      "potongan_lirik":"I could eat that girl for lunch, yeah, she dances on my ...",
+      "jawaban":"tongue"
+   },
+   {
+      "id":28,
+      "nama_lagu":"What Was I Made For?",
+      "judul":"What Was I Made For?",
+      "author":"Billie Eilish",
+      "potongan_lirik":"I used to float, now I just fall down, I used to know, but I'm not sure ...",
+      "jawaban":"now"
+   },
+   {
+      "id":29,
+      "nama_lagu":"bad guy",
+      "judul":"bad guy",
+      "author":"Billie Eilish",
+      "potongan_lirik":"So you're a tough guy, like it really rough guy, just can't get enough guy, chest always so puffed ...",
+      "jawaban":"guy"
+   },
+   {
+      "id":30,
+      "nama_lagu":"happier than ever",
+      "judul":"happier than ever",
+      "author":"Billie Eilish",
+      "potongan_lirik":"When I'm away from you, I'm happier than ...",
+      "jawaban":"ever"
+   },
+   {
+      "id":31,
+      "nama_lagu":"vampire",
+      "judul":"vampire",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"Bloodsucker, fame fucker, bleedin' me dry like a goddamn ...",
+      "jawaban":"vampire"
+   },
+   {
+      "id":32,
+      "nama_lagu":"good 4 u",
+      "judul":"good 4 u",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"Well, good for you, you look happy and healthy, not me, if you ever cared to ...",
+      "jawaban":"ask"
+   },
+   {
+      "id":33,
+      "nama_lagu":"drivers license",
+      "judul":"drivers license",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"And I know we weren't perfect, but I've never felt this way for no ...",
+      "jawaban":"one"
+   },
+   {
+      "id":34,
+      "nama_lagu":"bad idea right?",
+      "judul":"bad idea right?",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"Seeing you tonight, it's a bad idea, ...",
+      "jawaban":"right"
+   },
+   {
+      "id":35,
+      "nama_lagu":"get him back!",
+      "judul":"get him back!",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"I want to get him back, I want to make him really ...",
+      "jawaban":"sad"
+   },
+   {
+      "id":36,
+      "nama_lagu":"Sialan",
+      "judul":"Sialan",
+      "author":"Juicy Luicy & Mahalini",
+      "potongan_lirik":"Oh, sialan, ku terjebak lagi, di senyummu yang tak pernah ...",
+      "jawaban":"pudar"
+   },
+   {
+      "id":37,
+      "nama_lagu":"Lantas",
+      "judul":"Lantas",
+      "author":"Juicy Luicy",
+      "potongan_lirik":"Lantas mengapa ku masih menaruh hati, padahal ku tahu kau tlah ada yang ...",
+      "jawaban":"memiliki"
+   },
+   {
+      "id":38,
+      "nama_lagu":"Tampar",
+      "judul":"Tampar",
+      "author":"Juicy Luicy",
+      "potongan_lirik":"Tampar aku di pipi, sadarkan aku ini, hanya cinta yang tak akan ...",
+      "jawaban":"terjadi"
+   },
+   {
+      "id":39,
+      "nama_lagu":"Tanpa Tergesa",
+      "judul":"Tanpa Tergesa",
+      "author":"Juicy Luicy",
+      "potongan_lirik":"Jangan minta jatuh cinta, luka lamaku juga belum ...",
+      "jawaban":"reda"
+   },
+   {
+      "id":40,
+      "nama_lagu":"Asing",
+      "judul":"Asing",
+      "author":"Juicy Luicy",
+      "potongan_lirik":"Kita kembali menjadi asing, setelah semuanya yang kita ...",
+      "jawaban":"lalui"
+   },
+   {
+      "id":41,
+      "nama_lagu":"Sial",
+      "judul":"Sial",
+      "author":"Mahalini",
+      "potongan_lirik":"Sial-sialnya ku bertemu dengan cinta semu, tertipu tutur dan caramu, seolah cintaiku sepenuh ...",
+      "jawaban":"hati"
+   },
+   {
+      "id":42,
+      "nama_lagu":"Mati-Matian",
+      "judul":"Mati-Matian",
+      "author":"Mahalini",
+      "potongan_lirik":"Mati-matian ku membelamu, di depan mereka yang meragukan ...",
+      "jawaban":"itu"
+   },
+   {
+      "id":43,
+      "nama_lagu":"Sisa Rasa",
+      "judul":"Sisa Rasa",
+      "author":"Mahalini",
+      "potongan_lirik":"Mengapa masih ada sisa rasa di dada, saat kau pergi begitu ...",
+      "jawaban":"saja"
+   },
+   {
+      "id":44,
+      "nama_lagu":"Melawan Restu",
+      "judul":"Melawan Restu",
+      "author":"Mahalini",
+      "potongan_lirik":"Mungkinkah kita kan slalu bersama, walau semesta tak ...",
+      "jawaban":"merestui"
+   },
+   {
+      "id":45,
+      "nama_lagu":"Bawa Dia Kembali",
+      "judul":"Bawa Dia Kembali",
+      "author":"Mahalini",
+      "potongan_lirik":"Tuhan tolong bawa dia kembali, aku tak sanggup hidup tanpa ...",
+      "jawaban":"dia"
+   },
+   {
+      "id":46,
+      "nama_lagu":"Kupu-Kupu",
+      "judul":"Kupu-Kupu",
+      "author":"Tiara Andini",
+      "potongan_lirik":"Kupu-kupu cinta, terbanglah ke sana, sampaikan padanya ku merindukan ...",
+      "jawaban":"dia"
+   },
+   {
+      "id":47,
+      "nama_lagu":"Janji Setia",
+      "judul":"Janji Setia",
+      "author":"Tiara Andini",
+      "potongan_lirik":"Tahukah dirimu betapa diriku merindukan hadirmu ada di ...",
+      "jawaban":"sini"
+   },
+   {
+      "id":48,
+      "nama_lagu":"Merasa Indah",
+      "judul":"Merasa Indah",
+      "author":"Tiara Andini",
+      "potongan_lirik":"Kemarin engkau nyatakan hati, tapi telat dia yang ...",
+      "jawaban":"memiliki"
+   },
+   {
+      "id":49,
+      "nama_lagu":"Gemintang Hatiku",
+      "judul":"Gemintang Hatiku",
+      "author":"Tiara Andini",
+      "potongan_lirik":"Gemintang hatiku, sinari jiwaku, bawalah aku terbang ke ...",
+      "jawaban":"awan"
+   },
+   {
+      "id":50,
+      "nama_lagu":"Usai",
+      "judul":"Usai",
+      "author":"Tiara Andini",
+      "potongan_lirik":"Usai sudah semua cerita, yang tlah kita ukir ...",
+      "jawaban":"bersama"
+   },
+   {
+      "id":51,
+      "nama_lagu":"Pesan Terakhir",
+      "judul":"Pesan Terakhir",
+      "author":"Lyodra",
+      "potongan_lirik":"Genggam tanganku sayang, dekat denganku peluk diriku, berdiri tegak di depan ...",
+      "jawaban":"aku"
+   },
+   {
+      "id":52,
+      "nama_lagu":"Sang Dewi",
+      "judul":"Sang Dewi",
+      "author":"Lyodra",
+      "potongan_lirik":"Walaupun diriku kini tlah hancur, namun ku kan bangkit seperti sang ...",
+      "jawaban":"dewi"
+   },
+   {
+      "id":53,
+      "nama_lagu":"Tak Dianggap",
+      "judul":"Tak Dianggap",
+      "author":"Lyodra",
+      "potongan_lirik":"Aku tak dianggap, seperti debu yang tertiup ...",
+      "jawaban":"angin"
+   },
+   {
+      "id":54,
+      "nama_lagu":"Menyesal",
+      "judul":"Menyesal",
+      "author":"Yovie Widianto, Lyodra, Tiara Andini, Ziva Magnolya",
+      "potongan_lirik":"Menyesal ku tlah mencintaimu, bila akhirnya kau tinggalkan ...",
+      "jawaban":"aku"
+   },
+   {
+      "id":55,
+      "nama_lagu":"Ego",
+      "judul":"Ego",
+      "author":"Lyodra",
+      "potongan_lirik":"Ego yang menguasai, buat kita tak bisa bersatu ...",
+      "jawaban":"lagi"
+   },
+   {
+      "id":56,
+      "nama_lagu":"Super Shy",
+      "judul":"Super Shy",
+      "author":"NewJeans",
+      "potongan_lirik":"I'm super shy, super shy, but wait a minute while I make you ...",
+      "jawaban":"mine"
+   },
+   {
+      "id":57,
+      "nama_lagu":"OMG",
+      "judul":"OMG",
+      "author":"NewJeans",
+      "potongan_lirik":"Oh my oh my God, 예상했어 나, I was really hoping that he will come ...",
+      "jawaban":"through"
+   },
+   {
+      "id":58,
+      "nama_lagu":"Ditto",
+      "judul":"Ditto",
+      "author":"NewJeans",
+      "potongan_lirik":"Stay in the middle, like you a little, don't want no ...",
+      "jawaban":"riddle"
+   },
+   {
+      "id":59,
+      "nama_lagu":"Hype Boy",
+      "judul":"Hype Boy",
+      "author":"NewJeans",
+      "potongan_lirik":"Cause I know what you like boy, you're my chemical hype ...",
+      "jawaban":"boy"
+   },
+   {
+      "id":60,
+      "nama_lagu":"How Sweet",
+      "judul":"How Sweet",
+      "author":"NewJeans",
+      "potongan_lirik":"How sweet it tastes, I got you in my ...",
+      "jawaban":"mind"
+   },
+   {
+      "id":61,
+      "nama_lagu":"Supernova",
+      "judul":"Supernova",
+      "author":"aespa",
+      "potongan_lirik":"I'm like some kind of Supernova, watch out, look at me ...",
+      "jawaban":"go"
+   },
+   {
+      "id":62,
+      "nama_lagu":"Armageddon",
+      "judul":"Armageddon",
+      "author":"aespa",
+      "potongan_lirik":"Imma get it, armageddon, everything I want I'm gonna ...",
+      "jawaban":"get it"
+   },
+   {
+      "id":63,
+      "nama_lagu":"Drama",
+      "judul":"Drama",
+      "author":"aespa",
+      "potongan_lirik":"I bring I bring all the drama-ma-ma-ma, I bring drama-ma-ma-ma, with my ...",
+      "jawaban":"girls"
+   },
+   {
+      "id":64,
+      "nama_lagu":"Spicy",
+      "judul":"Spicy",
+      "author":"aespa",
+      "potongan_lirik":"Cause I'm too spicy for your heart, ring the fire ...",
+      "jawaban":"alarm"
+   },
+   {
+      "id":65,
+      "nama_lagu":"Next Level",
+      "judul":"Next Level",
+      "author":"aespa",
+      "potongan_lirik":"I'm on the next level, yeah, absolutely rules, break ...",
+      "jawaban":"it"
+   },
+   {
+      "id":66,
+      "nama_lagu":"Take A Chance With Me",
+      "judul":"Take A Chance With Me",
+      "author":"NIKI",
+      "potongan_lirik":"Oh, why can't we for once say what we want, say what we feel, oh take a chance with ...",
+      "jawaban":"me"
+   },
+   {
+      "id":67,
+      "nama_lagu":"lowkey",
+      "judul":"lowkey",
+      "author":"NIKI",
+      "potongan_lirik":"Tell me, tell me, tell me, do you wanna keep it ...",
+      "jawaban":"lowkey"
+   },
+   {
+      "id":68,
+      "nama_lagu":"Every Summertime",
+      "judul":"Every Summertime",
+      "author":"NIKI",
+      "potongan_lirik":"Every summertime, I fall in love with you all over ...",
+      "jawaban":"again"
+   },
+   {
+      "id":69,
+      "nama_lagu":"High School in Jakarta",
+      "judul":"High School in Jakarta",
+      "author":"NIKI",
+      "potongan_lirik":"High school in Jakarta, sort of modern ...",
+      "jawaban":"sparta"
+   },
+   {
+      "id":70,
+      "nama_lagu":"La La Lost You",
+      "judul":"La La Lost You",
+      "author":"NIKI",
+      "potongan_lirik":"All my demons run wild, all my demons have your ...",
+      "jawaban":"smile"
+   },
+   {
+      "id":71,
+      "nama_lagu":"Beautiful Things",
+      "judul":"Beautiful Things",
+      "author":"Benson Boone",
+      "potongan_lirik":"Please stay, I want you, I need you, oh God, don't take these beautiful things that I've ...",
+      "jawaban":"got"
+   },
+   {
+      "id":72,
+      "nama_lagu":"Slow It Down",
+      "judul":"Slow It Down",
+      "author":"Benson Boone",
+      "potongan_lirik":"Slow it down, I can't keep up with ...",
+      "jawaban":"you"
+   },
+   {
+      "id":73,
+      "nama_lagu":"In The Stars",
+      "judul":"In The Stars",
+      "author":"Benson Boone",
+      "potongan_lirik":"I'm still holding on to everything that's dead and gone, I don't wanna say ...",
+      "jawaban":"goodbye"
+   },
+   {
+      "id":74,
+      "nama_lagu":"Ghost Town",
+      "judul":"Ghost Town",
+      "author":"Benson Boone",
+      "potongan_lirik":"Maybe you'd be happier in some other ...",
+      "jawaban":"town"
+   },
+   {
+      "id":75,
+      "nama_lagu":"Cry",
+      "judul":"Cry",
+      "author":"Benson Boone",
+      "potongan_lirik":"It's okay to cry, it's okay to let it ...",
+      "jawaban":"out"
+   },
+   {
+      "id":76,
+      "nama_lagu":"Blinding Lights",
+      "judul":"Blinding Lights",
+      "author":"The Weeknd",
+      "potongan_lirik":"I said, ooh, I'm blinded by the lights, no, I can't sleep until I feel your ...",
+      "jawaban":"touch"
+   },
+   {
+      "id":77,
+      "nama_lagu":"Starboy",
+      "judul":"Starboy",
+      "author":"The Weeknd",
+      "potongan_lirik":"Look what you've done, I'm a motherfuckin' ...",
+      "jawaban":"starboy"
+   },
+   {
+      "id":78,
+      "nama_lagu":"Save Your Tears",
+      "judul":"Save Your Tears",
+      "author":"The Weeknd",
+      "potongan_lirik":"Save your tears for another ...",
+      "jawaban":"day"
+   },
+   {
+      "id":79,
+      "nama_lagu":"Die For You",
+      "judul":"Die For You",
+      "author":"The Weeknd",
+      "potongan_lirik":"Even though we're going through it, and it makes you feel alone, just know that I would die for ...",
+      "jawaban":"you"
+   },
+   {
+      "id":80,
+      "nama_lagu":"Call Out My Name",
+      "judul":"Call Out My Name",
+      "author":"The Weeknd",
+      "potongan_lirik":"So call out my name, call out my name when I kiss you so ...",
+      "jawaban":"gently"
+   },
+   {
+      "id":81,
+      "nama_lagu":"we can't be friends (wait for your love)",
+      "judul":"we can't be friends (wait for your love)",
+      "author":"Ariana Grande",
+      "potongan_lirik":"We can't be friends, but I'd like to just ...",
+      "jawaban":"pretend"
+   },
+   {
+      "id":82,
+      "nama_lagu":"thank u, next",
+      "judul":"thank u, next",
+      "author":"Ariana Grande",
+      "potongan_lirik":"Thank you, next. I'm so fuckin' grateful for my ...",
+      "jawaban":"ex"
+   },
+   {
+      "id":83,
+      "nama_lagu":"7 rings",
+      "judul":"7 rings",
+      "author":"Ariana Grande",
+      "potongan_lirik":"I see it, I like it, I want it, I ...",
+      "jawaban":"got it"
+   },
+   {
+      "id":84,
+      "nama_lagu":"positions",
+      "judul":"positions",
+      "author":"Ariana Grande",
+      "potongan_lirik":"Switching the positions for ...",
+      "jawaban":"you"
+   },
+   {
+      "id":85,
+      "nama_lagu":"no tears left to cry",
+      "judul":"no tears left to cry",
+      "author":"Ariana Grande",
+      "potongan_lirik":"Right now, I'm in a state of mind, I wanna be in, like, all the ...",
+      "jawaban":"time"
+   },
+   {
+      "id":86,
+      "nama_lagu":"Peaches",
+      "judul":"Peaches",
+      "author":"Justin Bieber",
+      "potongan_lirik":"I got my peaches out in Georgia, I get my weed from ...",
+      "jawaban":"California"
+   },
+   {
+      "id":87,
+      "nama_lagu":"Ghost",
+      "judul":"Ghost",
+      "author":"Justin Bieber",
+      "potongan_lirik":"If I can't be close to you, I'll settle for the ghost of ...",
+      "jawaban":"you"
+   },
+   {
+      "id":88,
+      "nama_lagu":"Love Yourself",
+      "judul":"Love Yourself",
+      "author":"Justin Bieber",
+      "potongan_lirik":"My mama don't like you and she likes ...",
+      "jawaban":"everyone"
+   },
+   {
+      "id":89,
+      "nama_lagu":"Sorry",
+      "judul":"Sorry",
+      "author":"Justin Bieber",
+      "potongan_lirik":"Is it too late now to say ...",
+      "jawaban":"sorry"
+   },
+   {
+      "id":90,
+      "nama_lagu":"Baby",
+      "judul":"Baby",
+      "author":"Justin Bieber",
+      "potongan_lirik":"Baby, baby, baby, ...",
+      "jawaban":"oh"
+   },
+   {
+      "id":91,
+      "nama_lagu":"Houdini",
+      "judul":"Houdini",
+      "author":"Dua Lipa",
+      "potongan_lirik":"Catch me or I go Houdini, I come and I ...",
+      "jawaban":"go"
+   },
+   {
+      "id":92,
+      "nama_lagu":"Dance The Night",
+      "judul":"Dance The Night",
+      "author":"Dua Lipa",
+      "potongan_lirik":"Watch me dance, dance the night away, my heart could be burning, but you won't see it on my ...",
+      "jawaban":"face"
+   },
+   {
+      "id":93,
+      "nama_lagu":"Don't Start Now",
+      "judul":"Don't Start Now",
+      "author":"Dua Lipa",
+      "potongan_lirik":"If you don't wanna see me dancing with ...",
+      "jawaban":"somebody"
+   },
+   {
+      "id":94,
+      "nama_lagu":"Levitating",
+      "judul":"Levitating",
+      "author":"Dua Lipa",
+      "potongan_lirik":"I got you, moonlight, you're my starlight, I need you all night, come on, dance with ...",
+      "jawaban":"me"
+   },
+   {
+      "id":95,
+      "nama_lagu":"New Rules",
+      "judul":"New Rules",
+      "author":"Dua Lipa",
+      "potongan_lirik":"One, don't pick up the phone, you know he's only calling 'cause he's drunk and ...",
+      "jawaban":"alone"
+   },
+   {
+      "id":96,
+      "nama_lagu":"Magnetic",
+      "judul":"Magnetic",
+      "author":"ILLIT",
+      "potongan_lirik":"This time I want, You, you, you, you, like it's ...",
+      "jawaban":"magnetic"
+   },
+   {
+      "id":97,
+      "nama_lagu":"Water",
+      "judul":"Water",
+      "author":"Tyla",
+      "potongan_lirik":"Make me sweat, make me hotter, make me lose my breath, make me ...",
+      "jawaban":"water"
+   },
+   {
+      "id":98,
+      "nama_lagu":"Good Luck, Babe!",
+      "judul":"Good Luck, Babe!",
+      "author":"Chappell Roan",
+      "potongan_lirik":"You can kiss a hundred boys in bars, shoot another shot, try to stop the ...",
+      "jawaban":"feeling"
+   },
+   {
+      "id":99,
+      "nama_lagu":"End of Beginning",
+      "judul":"End of Beginning",
+      "author":"Djo",
+      "potongan_lirik":"And when I'm back in Chicago, I feel ...",
+      "jawaban":"it"
+   },
+   {
+      "id":100,
+      "nama_lagu":"Lose Control",
+      "judul":"Lose Control",
+      "author":"Teddy Swims",
+      "potongan_lirik":"I lose control, when you're not next to ...",
+      "jawaban":"me"
+   },
+   {
+      "id":101,
+      "nama_lagu":"Secukupnya",
+      "judul":"Secukupnya",
+      "author":"Hindia",
+      "potongan_lirik":"Kapan terakhir kali kamu dapat tertidur ...",
+      "jawaban":"tenang"
+   },
+   {
+      "id":102,
+      "nama_lagu":"Evaluasi",
+      "judul":"Evaluasi",
+      "author":"Hindia",
+      "potongan_lirik":"Bilas muka, gosok gigi, evaluasi. Tidur sejenak menemui ...",
+      "jawaban":"esok pagi"
+   },
+   {
+      "id":103,
+      "nama_lagu":"Rumah ke Rumah",
+      "judul":"Rumah ke Rumah",
+      "author":"Hindia",
+      "potongan_lirik":"Pindah berkala, rumah ke ...",
+      "jawaban":"rumah"
+   },
+   {
+      "id":104,
+      "nama_lagu":"Cincin",
+      "judul":"Cincin",
+      "author":"Hindia",
+      "potongan_lirik":"Kau takkan percaya, aku tak percaya, kita ...",
+      "jawaban":"bersama"
+   },
+   {
+      "id":105,
+      "nama_lagu":"Membasuh",
+      "judul":"Membasuh",
+      "author":"Hindia & Rara Sekar",
+      "potongan_lirik":"Cukup besar 'tuk mengampuni, 'tuk ...",
+      "jawaban":"membasuh"
+   },
+   {
+      "id":106,
+      "nama_lagu":"Pamit",
+      "judul":"Pamit",
+      "author":"Tulus",
+      "potongan_lirik":"Izinkan aku pergi dulu, yang berubah hanya tak lagi ku ...",
+      "jawaban":"milikmu"
+   },
+   {
+      "id":107,
+      "nama_lagu":"Jatuh Suka",
+      "judul":"Jatuh Suka",
+      "author":"Tulus",
+      "potongan_lirik":"Bila kau lihat ku tanpa sengaja, sama sekali bukan ...",
+      "jawaban":"sengaja"
+   },
+   {
+      "id":108,
+      "nama_lagu":"Ruang Sendiri",
+      "judul":"Ruang Sendiri",
+      "author":"Tulus",
+      "potongan_lirik":"Beri aku kesempatan 'tuk ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":109,
+      "nama_lagu":"Diri",
+      "judul":"Diri",
+      "author":"Tulus",
+      "potongan_lirik":"Maafkan semua yang lalu, ampuni ...",
+      "jawaban":"hatimu"
+   },
+   {
+      "id":110,
+      "nama_lagu":"Mengagumimu Dari Jauh",
+      "judul":"Mengagumimu Dari Jauh",
+      "author":"Tulus",
+      "potongan_lirik":"Biarkan aku jadikan kau ...",
+      "jawaban":"rahasia"
+   },
+   {
+      "id":111,
+      "nama_lagu":"Mantan Terindah",
+      "judul":"Mantan Terindah",
+      "author":"Raisa",
+      "potongan_lirik":"Mau dikatakan apa lagi, kita tak akan pernah ...",
+      "jawaban":"satu"
+   },
+   {
+      "id":112,
+      "nama_lagu":"Apalah (Arti Menunggu)",
+      "judul":"Apalah (Arti Menunggu)",
+      "author":"Raisa",
+      "potongan_lirik":"Sekarang aku tersadar cinta yang ku tunggu tak kunjung ...",
+      "jawaban":"datang"
+   },
+   {
+      "id":113,
+      "nama_lagu":"Usai Di Sini",
+      "judul":"Usai Di Sini",
+      "author":"Raisa",
+      "potongan_lirik":"Lebih baik kita usai di sini, sebelum cerita indah tergantikan ...",
+      "jawaban":"pahitnya"
+   },
+   {
+      "id":114,
+      "nama_lagu":"Kali Kedua",
+      "judul":"Kali Kedua",
+      "author":"Raisa",
+      "potongan_lirik":"Pegang tanganku bersama jatuh cinta, kali ...",
+      "jawaban":"kedua"
+   },
+   {
+      "id":115,
+      "nama_lagu":"Terjebak Nostalgia",
+      "judul":"Terjebak Nostalgia",
+      "author":"Raisa",
+      "potongan_lirik":"Kini ku resah diriku lemah ...",
+      "jawaban":"tanpamu"
+   },
+   {
+      "id":116,
+      "nama_lagu":"Cinta Terbalas Nanti",
+      "judul":"Cinta Terbalas Nanti",
+      "author":"Anggis Devaki",
+      "potongan_lirik":"Haruskah ku menunggu, cinta terbalas ...",
+      "jawaban":"nanti"
+   },
+   {
+      "id":117,
+      "nama_lagu":"Kisah Tanpa Dirimu",
+      "judul":"Kisah Tanpa Dirimu",
+      "author":"Anggis Devaki",
+      "potongan_lirik":"Kini ku harus terbiasa, jalani kisah tanpa ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":118,
+      "nama_lagu":"Bodoh",
+      "judul":"Bodoh",
+      "author":"Anggis Devaki",
+      "potongan_lirik":"Bodohnya aku menyadari, kau takkan pernah ...",
+      "jawaban":"kembali"
+   },
+   {
+      "id":119,
+      "nama_lagu":"Waktu Yang Salah",
+      "judul":"Waktu Yang Salah",
+      "author":"Fiersa Besari",
+      "potongan_lirik":"Beri kisah kita sedikit waktu, semesta mengirim dirimu untukku, kita adalah rasa yang tepat di waktu yang ...",
+      "jawaban":"salah"
+   },
+   {
+      "id":120,
+      "nama_lagu":"Jiwa Yang Bersedih",
+      "judul":"Jiwa Yang Bersedih",
+      "author":"Ghea Indrawari",
+      "potongan_lirik":"Menangislah kan kau juga ...",
+      "jawaban":"manusia"
+   },
+   {
+      "id":121,
+      "nama_lagu":"Hanya Rindu",
+      "judul":"Hanya Rindu",
+      "author":"Andmesh",
+      "potongan_lirik":"Ku ingin saat ini engkau ada di ...",
+      "jawaban":"sini"
+   },
+   {
+      "id":122,
+      "nama_lagu":"Bertaut",
+      "judul":"Bertaut",
+      "author":"Nadin Amizah",
+      "potongan_lirik":"Keras kepalaku sama denganmu, caraku marah, caraku ...",
+      "jawaban":"tersenyum"
+   },
+   {
+      "id":123,
+      "nama_lagu":"Mesin Waktu",
+      "judul":"Mesin Waktu",
+      "author":"Budi Doremi",
+      "potongan_lirik":"Kalau harus ku mengingatmu lagi, aku takkan sanggup dengan yang terjadi pada ...",
+      "jawaban":"kita"
+   },
+   {
+      "id":124,
+      "nama_lagu":"Pelukku Untuk Pelikmu",
+      "judul":"Pelukku Untuk Pelikmu",
+      "author":"Fiersa Besari",
+      "potongan_lirik":"Kadang kau lelah jalani hari, kadang kau lelah karena ...",
+      "jawaban":"ekspektasi"
+   },
+   {
+      "id":125,
+      "nama_lagu":"Maafkan Aku #terlanjurmencinta",
+      "judul":"Maafkan Aku #terlanjurmencinta",
+      "author":"Tiara Andini",
+      "potongan_lirik":"Aku tak bisa bohongi hati, sungguh aku tak bisa pergi dari ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":126,
+      "nama_lagu":"Tutur Batin",
+      "judul":"Tutur Batin",
+      "author":"Yura Yunita",
+      "potongan_lirik":"Aku tak sempurna, tak perlu ...",
+      "jawaban":"sempurna"
+   },
+   {
+      "id":127,
+      "nama_lagu":"Dunia Tipu-Tipu",
+      "judul":"Dunia Tipu-Tipu",
+      "author":"Yura Yunita",
+      "potongan_lirik":"Puja-puji tanpa kata, mata kita yang ...",
+      "jawaban":"bicara"
+   },
+   {
+      "id":128,
+      "nama_lagu":"Surat Cinta Untuk Starla",
+      "judul":"Surat Cinta Untuk Starla",
+      "author":"Virgoun",
+      "potongan_lirik":"Telah habis sudah cinta ini, tak lagi tersisa untuk ...",
+      "jawaban":"dunia"
+   },
+   {
+      "id":129,
+      "nama_lagu":"Asal Kau Bahagia",
+      "judul":"Asal Kau Bahagia",
+      "author":"Armada",
+      "potongan_lirik":"Katakanlah sekarang bahwa kau tak bahagia, aku punya ragamu tapi tidak ...",
+      "jawaban":"hatimu"
+   },
+   {
+      "id":130,
+      "nama_lagu":"Putus Atau Terus",
+      "judul":"Putus Atau Terus",
+      "author":"Judika",
+      "potongan_lirik":"Coba tanyakan lagi pada hatimu, apakah sebaiknya kita putus atau ...",
+      "jawaban":"terus"
+   },
+   {
+      "id":131,
+      "nama_lagu":"Tak Ingin Usai",
+      "judul":"Tak Ingin Usai",
+      "author":"Keisya Levronka",
+      "potongan_lirik":"Jujur, ku tak ingin usai, waktu yang memisahkan ...",
+      "jawaban":"kita"
+   },
+   {
+      "id":132,
+      "nama_lagu":"Komang",
+      "judul":"Komang",
+      "author":"Raim Laode",
+      "potongan_lirik":"Sebab kau terlalu indah dari sekedar kata, dunia berhenti sejenak menikmati ...",
+      "jawaban":"indahmu"
+   },
+   {
+      "id":133,
+      "nama_lagu":"Satu-Satu",
+      "judul":"Satu-Satu",
+      "author":"Idgitaf",
+      "potongan_lirik":"Aku sudah tak marah, walau masih ...",
+      "jawaban":"teringat"
+   },
+   {
+      "id":134,
+      "nama_lagu":"Gala Bunga Matahari",
+      "judul":"Gala Bunga Matahari",
+      "author":"Sal Priadi",
+      "potongan_lirik":"Mungkinkah, mungkinkah kau ini satu-satunya yang ...",
+      "jawaban":"selamat"
+   },
+   {
+      "id":135,
+      "nama_lagu":"Dari Planet Lain",
+      "judul":"Dari Planet Lain",
+      "author":"Sal Priadi",
+      "potongan_lirik":"Sepertinya kau memang dari planet yang ...",
+      "jawaban":"lain"
+   },
+   {
+      "id":136,
+      "nama_lagu":"Tak Segampang Itu",
+      "judul":"Tak Segampang Itu",
+      "author":"Anggi Marito",
+      "potongan_lirik":"Tak segampang itu ku mencari pengganti ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":137,
+      "nama_lagu":"Peri Cintaku",
+      "judul":"Peri Cintaku",
+      "author":"Ziva Magnolya",
+      "potongan_lirik":"Aku yang salah, ataukah ini alurnya, cinta yang berbeda ...",
+      "jawaban":"keyakinan"
+   },
+   {
+      "id":138,
+      "nama_lagu":"Tenang",
+      "judul":"Tenang",
+      "author":"Yura Yunita",
+      "potongan_lirik":"Tenang, tenang yang tak kunjung ...",
+      "jawaban":"datang"
+   },
+   {
+      "id":139,
+      "nama_lagu":"Menghapus Jejakmu",
+      "judul":"Menghapus Jejakmu",
+      "author":"Noah",
+      "potongan_lirik":"Teruskan langkah melupakanmu, lelah hati perhatikan ...",
+      "jawaban":"sikapmu"
+   },
+   {
+      "id":140,
+      "nama_lagu":"Yang Terdalam",
+      "judul":"Yang Terdalam",
+      "author":"Noah",
+      "potongan_lirik":"Kulepas semua yang kuinginkan, tak akan mengulang ...",
+      "jawaban":"waktu"
+   },
+   {
+      "id":141,
+      "nama_lagu":"Lumpuhkan Ingatanku",
+      "judul":"Lumpuhkan Ingatanku",
+      "author":"Geisha",
+      "potongan_lirik":"Lumpuhkanlah ingatanku, hapuskan tentang ...",
+      "jawaban":"dia"
+   },
+   {
+      "id":142,
+      "nama_lagu":"Separuh Aku",
+      "judul":"Separuh Aku",
+      "author":"Noah",
+      "potongan_lirik":"Dengar laraku, suara hati ini ...",
+      "jawaban":"memanggilmu"
+   },
+   {
+      "id":143,
+      "nama_lagu":"Hampa",
+      "judul":"Hampa",
+      "author":"Ari Lasso",
+      "potongan_lirik":"Entah di mana dirimu berada, hampa terasa ...",
+      "jawaban":"hidupku"
+   },
+   {
+      "id":144,
+      "nama_lagu":"Penjaga Hati",
+      "judul":"Penjaga Hati",
+      "author":"Nadhif Basalamah",
+      "potongan_lirik":"Karena bersamamu semua terasa indah, kaulah ...",
+      "jawaban":"penjaga"
+   },
+   {
+      "id":145,
+      "nama_lagu":"Runtuh",
+      "judul":"Runtuh",
+      "author":"Feby Putri feat. Fiersa Besari",
+      "potongan_lirik":"Tak perlu berpura-pura baik saja, saat kau ...",
+      "jawaban":"runtuh"
+   },
+   {
+      "id":146,
+      "nama_lagu":"Flowers",
+      "judul":"Flowers",
+      "author":"Miley Cyrus",
+      "potongan_lirik":"I can buy myself flowers, write my name in the ...",
+      "jawaban":"sand"
+   },
+   {
+      "id":147,
+      "nama_lagu":"Golden Hour",
+      "judul":"Golden Hour",
+      "author":"JVKE",
+      "potongan_lirik":"It's your golden hour, what a sight for ...",
+      "jawaban":"sore eyes"
+   },
+   {
+      "id":148,
+      "nama_lagu":"Seven",
+      "judul":"Seven",
+      "author":"Jungkook feat. Latto",
+      "potongan_lirik":"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday ...",
+      "jawaban":"nights"
+   },
+   {
+      "id":149,
+      "nama_lagu":"Rockstar",
+      "judul":"Rockstar",
+      "author":"LISA",
+      "potongan_lirik":"Gold teeth, dancing with the ...",
+      "jawaban":"stars"
+   },
+   {
+      "id":150,
+      "nama_lagu":"Mantra",
+      "judul":"Mantra",
+      "author":"JENNIE",
+      "potongan_lirik":"This is that pretty girl ...",
+      "jawaban":"mantra"
+   },
+   {
+      "id":151,
+      "nama_lagu":"Sialan",
+      "judul":"Sialan",
+      "author":"Adrian Khalif feat. Juicy Luicy",
+      "potongan_lirik":"Sialan, sialan, ku terjebak ...",
+      "jawaban":"lagi"
+   },
+   {
+      "id":152,
+      "nama_lagu":"Boleh Juga",
+      "judul":"Boleh Juga",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Boleh juga, kalau kamu ...",
+      "jawaban":"mau"
+   },
+   {
+      "id":153,
+      "nama_lagu":"Rumah",
+      "judul":"Rumah",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Aku pulang ke ...",
+      "jawaban":"rumah"
+   },
+   {
+      "id":154,
+      "nama_lagu":"Angin",
+      "judul":"Angin",
+      "author":"Lesti Kejora",
+      "potongan_lirik":"Angin sampaikan rindu ...",
+      "jawaban":"padanya"
+   },
+   {
+      "id":155,
+      "nama_lagu":"Dawai",
+      "judul":"Dawai",
+      "author":"Fadhilah Intan",
+      "potongan_lirik":"Dawai asmara bergetar ...",
+      "jawaban":"pilu"
+   },
+   {
+      "id":156,
+      "nama_lagu":"Pupus",
+      "judul":"Pupus",
+      "author":"Dewa 19",
+      "potongan_lirik":"Baru kusadari, cintaku ...",
+      "jawaban":"bertepuk sebelah tangan"
+   },
+   {
+      "id":157,
+      "nama_lagu":"Risalah Hati",
+      "judul":"Risalah Hati",
+      "author":"Dewa 19",
+      "potongan_lirik":"Aku bisa membuatmu jatuh cinta kepadaku, meski kau ...",
+      "jawaban":"tak cinta"
+   },
+   {
+      "id":158,
+      "nama_lagu":"Kangen",
+      "judul":"Kangen",
+      "author":"Dewa 19",
+      "potongan_lirik":"Semua kata rindumu, semakin membuatku ...",
+      "jawaban":"tak berdaya"
+   },
+   {
+      "id":159,
+      "nama_lagu":"Laskar Pelangi",
+      "judul":"Laskar Pelangi",
+      "author":"Nidji",
+      "potongan_lirik":"Laskar pelangi, takkan terikat ...",
+      "jawaban":"waktu"
+   },
+   {
+      "id":160,
+      "nama_lagu":"Hapus Aku",
+      "judul":"Hapus Aku",
+      "author":"Nidji",
+      "potongan_lirik":"Tuliskan namamu, hapus ...",
+      "jawaban":"diriku"
+   },
+   {
+      "id":161,
+      "nama_lagu":"Berharap Tak Berpisah",
+      "judul":"Berharap Tak Berpisah",
+      "author":"Reza Artamevia",
+      "potongan_lirik":"Ingatkah kan dirimu, tatap mata ...",
+      "jawaban":"ini"
+   },
+   {
+      "id":162,
+      "nama_lagu":"Inikah Cinta",
+      "judul":"Inikah Cinta",
+      "author":"M.E",
+      "potongan_lirik":"Inikah cinta, yang pertama ...",
+      "jawaban":"kurasa"
+   },
+   {
+      "id":163,
+      "nama_lagu":"Begitu Indah",
+      "judul":"Begitu Indah",
+      "author":"Padi",
+      "potongan_lirik":"Terang saja, aku ...",
+      "jawaban":"menantimu"
+   },
+   {
+      "id":164,
+      "nama_lagu":"Kasih Tak Sampai",
+      "judul":"Kasih Tak Sampai",
+      "author":"Padi",
+      "potongan_lirik":"Tetaplah menjadi bintang di ...",
+      "jawaban":"langit"
+   },
+   {
+      "id":165,
+      "nama_lagu":"Dan",
+      "judul":"Dan",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Dan, lupakan aku, jika itu ...",
+      "jawaban":"terbaik"
+   },
+   {
+      "id":166,
+      "nama_lagu":"Sephia",
+      "judul":"Sephia",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Selamat tidur kekasih ...",
+      "jawaban":"gelapku"
+   },
+   {
+      "id":167,
+      "nama_lagu":"Seberapa Pantas",
+      "judul":"Seberapa Pantas",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Seberapa pantas kah aku ...",
+      "jawaban":"untukmu"
+   },
+   {
+      "id":168,
+      "nama_lagu":"Sayang",
+      "judul":"Sayang",
+      "author":"Via Vallen",
+      "potongan_lirik":"Sayang, opo kowe krungu ...",
+      "jawaban":"jerit hatiku"
+   },
+   {
+      "id":169,
+      "nama_lagu":"Ojo Dibandingke",
+      "judul":"Ojo Dibandingke",
+      "author":"Farel Prayoga",
+      "potongan_lirik":"Wong ko ngene kok dibanding-bandingke, saing-saingke yo ...",
+      "jawaban":"mesti kalah"
+   },
+   {
+      "id":170,
+      "nama_lagu":"Anak Sekolah",
+      "judul":"Anak Sekolah",
+      "author":"Chrisye",
+      "potongan_lirik":"Engkau masih anak sekolah, satu ...",
+      "jawaban":"SMA"
+   },
+   {
+      "id":171,
+      "nama_lagu":"Pergilah Kasih",
+      "judul":"Pergilah Kasih",
+      "author":"Chrisye",
+      "potongan_lirik":"Pergilah kasih, kejarlah ...",
+      "jawaban":"keinginanmu"
+   },
+   {
+      "id":172,
+      "nama_lagu":"Bento",
+      "judul":"Bento",
+      "author":"Iwan Fals",
+      "potongan_lirik":"Namaku Bento, rumah ...",
+      "jawaban":"real estate"
+   },
+   {
+      "id":173,
+      "nama_lagu":"Yang Terlupakan",
+      "judul":"Yang Terlupakan",
+      "author":"Iwan Fals",
+      "potongan_lirik":"Denting piano, kala ...",
+      "jawaban":"jemari menari"
+   },
+   {
+      "id":174,
+      "nama_lagu":"Kemesraan",
+      "judul":"Kemesraan",
+      "author":"Iwan Fals feat. Rafika Duri",
+      "potongan_lirik":"Kemesraan ini, janganlah cepat ...",
+      "jawaban":"berlalu"
+   },
+   {
+      "id":175,
+      "nama_lagu":"Shape of You",
+      "judul":"Shape of You",
+      "author":"Ed Sheeran",
+      "potongan_lirik":"I'm in love with the ...",
+      "jawaban":"shape of you"
+   },
+   {
+      "id":176,
+      "nama_lagu":"Stay With Me",
+      "judul":"Stay With Me",
+      "author":"Sam Smith",
+      "potongan_lirik":"Oh, won't you stay ...",
+      "jawaban":"with me"
+   },
+   {
+      "id":177,
+      "nama_lagu":"Hello",
+      "judul":"Hello",
+      "author":"Adele",
+      "potongan_lirik":"Hello from the ...",
+      "jawaban":"other side"
+   },
+   {
+      "id":178,
+      "nama_lagu":"Someone Like You",
+      "judul":"Someone Like You",
+      "author":"Adele",
+      "potongan_lirik":"Never mind, I'll find someone ...",
+      "jawaban":"like you"
+   },
+   {
+      "id":179,
+      "nama_lagu":"Grenade",
+      "judul":"Grenade",
+      "author":"Bruno Mars",
+      "potongan_lirik":"I'd catch a grenade for ...",
+      "jawaban":"you"
+   },
+   {
+      "id":180,
+      "nama_lagu":"Uptown Funk",
+      "judul":"Uptown Funk",
+      "author":"Mark Ronson feat. Bruno Mars",
+      "potongan_lirik":"Don't believe me, just ...",
+      "jawaban":"watch"
+   },
+   {
+      "id":181,
+      "nama_lagu":"Sugar",
+      "judul":"Sugar",
+      "author":"Maroon 5",
+      "potongan_lirik":"Sugar, yes please, won't you come and put it down on ...",
+      "jawaban":"me"
+   },
+   {
+      "id":182,
+      "nama_lagu":"Counting Stars",
+      "judul":"Counting Stars",
+      "author":"OneRepublic",
+      "potongan_lirik":"Lately, I've been losing ...",
+      "jawaban":"sleep"
+   },
+   {
+      "id":183,
+      "nama_lagu":"Believer",
+      "judul":"Believer",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"You made me a ...",
+      "jawaban":"believer"
+   },
+   {
+      "id":184,
+      "nama_lagu":"Despacito",
+      "judul":"Despacito",
+      "author":"Luis Fonsi feat. Daddy Yankee",
+      "potongan_lirik":"Despacito, quiero respirar tu cuello ...",
+      "jawaban":"despacito"
+   },
+   {
+      "id":185,
+      "nama_lagu":"Senorita",
+      "judul":"Senorita",
+      "author":"Shawn Mendes & Camila Cabello",
+      "potongan_lirik":"I love it when you call me ...",
+      "jawaban":"Senorita"
+   },
+   {
+      "id":186,
+      "nama_lagu":"Boleh Juga",
+      "judul":"Boleh Juga",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Boleh juga, kalau kamu ...",
+      "jawaban":"mau"
+   },
+   {
+      "id":187,
+      "nama_lagu":"Tak Selalu Memiliki",
+      "judul":"Tak Selalu Memiliki",
+      "author":"Lyodra",
+      "potongan_lirik":"Mencintai tak selalu ...",
+      "jawaban":"memiliki"
+   },
+   {
+      "id":188,
+      "nama_lagu":"Spot!",
+      "judul":"Spot!",
+      "author":"Zico feat. Jennie",
+      "potongan_lirik":"We're going to the ...",
+      "jawaban":"spot"
+   },
+   {
+      "id":189,
+      "nama_lagu":"Magnetic",
+      "judul":"Magnetic",
+      "author":"ILLIT",
+      "potongan_lirik":"You, you, you, you, like a ...",
+      "jawaban":"magnetic"
+   },
+   {
+      "id":190,
+      "nama_lagu":"Blue",
+      "judul":"Blue",
+      "author":"V (BTS)",
+      "potongan_lirik":"On and on, and I'm feeling so ...",
+      "jawaban":"blue"
+   },
+   {
+      "id":191,
+      "nama_lagu":"Super",
+      "judul":"Super",
+      "author":"SEVENTEEN",
+      "potongan_lirik":"I love my team, I love my ...",
+      "jawaban":"crew"
+   },
+   {
+      "id":192,
+      "nama_lagu":"How Sweet",
+      "judul":"How Sweet",
+      "author":"NewJeans",
+      "potongan_lirik":"How sweet it tastes, I got you in my ...",
+      "jawaban":"mind"
+   },
+   {
+      "id":193,
+      "nama_lagu":"Midas Touch",
+      "judul":"Midas Touch",
+      "author":"KISS OF LIFE",
+      "potongan_lirik":"Baby, I've got the Midas ...",
+      "jawaban":"touch"
+   },
+   {
+      "id":194,
+      "nama_lagu":"Sheesh",
+      "judul":"Sheesh",
+      "author":"BABYMONSTER",
+      "potongan_lirik":"Sheesh, sheesh, sheesh, yeah we're ...",
+      "jawaban":"monsters"
+   },
+   {
+      "id":195,
+      "nama_lagu":"Take A Chance With Me",
+      "judul":"Take A Chance With Me",
+      "author":"NIKI",
+      "potongan_lirik":"Oh, why can't we for once say what we want, say what we feel, oh take a chance with ...",
+      "jawaban":"me"
+   },
+   {
+      "id":196,
+      "nama_lagu":"Moonlit Floor",
+      "judul":"Moonlit Floor",
+      "author":"LISA",
+      "potongan_lirik":"Kiss me under the Paris ...",
+      "jawaban":"moonlight"
+   },
+   {
+      "id":197,
+      "nama_lagu":"Chihiro",
+      "judul":"Chihiro",
+      "author":"Billie Eilish",
+      "potongan_lirik":"I don't know where you are, but I'm ...",
+      "jawaban":"waiting"
+   },
+   {
+      "id":198,
+      "nama_lagu":"Million Dollar Baby",
+      "judul":"Million Dollar Baby",
+      "author":"Tommy Richman",
+      "potongan_lirik":"I ain't never had a ...",
+      "jawaban":"problem"
+   },
+   {
+      "id":199,
+      "nama_lagu":"Like That",
+      "judul":"Like That",
+      "author":"Future & Metro Boomin",
+      "potongan_lirik":"Young Metro, Metro, Future, I'm ...",
+      "jawaban":"like that"
+   },
+   {
+      "id":200,
+      "nama_lagu":"Not Like Us",
+      "judul":"Not Like Us",
+      "author":"Kendrick Lamar",
+      "potongan_lirik":"They act like they like us, but they not ...",
+      "jawaban":"like us"
+   },
+   {
+      "id":201,
+      "nama_lagu":"Sial",
+      "judul":"Sial",
+      "author":"Mahalini",
+      "potongan_lirik":"Sial-sialnya ku bertemu dengan cinta semu, tertipu tutur dan caramu, seolah cintaiku sepenuh ...",
+      "jawaban":"hati"
+   },
+   {
+      "id":202,
+      "nama_lagu":"Penjaga Hati",
+      "judul":"Penjaga Hati",
+      "author":"Nadhif Basalamah",
+      "potongan_lirik":"Sebab bersamamu semua terasa indah, kaulah ...",
+      "jawaban":"penjaga"
+   },
+   {
+      "id":203,
+      "nama_lagu":"Gala Bunga Matahari",
+      "judul":"Gala Bunga Matahari",
+      "author":"Sal Priadi",
+      "potongan_lirik":"Mungkinkah, mungkinkah kau ini satu-satunya yang ...",
+      "jawaban":"selamat"
+   },
+   {
+      "id":204,
+      "nama_lagu":"Sekedar Mengagumi",
+      "judul":"Sekedar Mengagumi",
+      "author":"Anggis Devaki",
+      "potongan_lirik":"Aku hanya bisa sekedar mengagumi, tak bisa ...",
+      "jawaban":"memiliki"
+   },
+   {
+      "id":205,
+      "nama_lagu":"Boleh Juga",
+      "judul":"Boleh Juga",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Boleh juga kalau kamu mau, boleh juga kalau kamu ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":206,
+      "nama_lagu":"Angin",
+      "judul":"Angin",
+      "author":"Lesti Kejora",
+      "potongan_lirik":"Angin sampaikan rindu padanya, sampaikan pesan ...",
+      "jawaban":"cinta"
+   },
+   {
+      "id":207,
+      "nama_lagu":"Dawai",
+      "judul":"Dawai",
+      "author":"Fadhilah Intan",
+      "potongan_lirik":"Dawai asmara bergetar pilu, memanggil namamu di setiap ...",
+      "jawaban":"malam"
+   },
+   {
+      "id":208,
+      "nama_lagu":"Bunga Hati",
+      "judul":"Bunga Hati",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Telah lama ku menanti dirimu, sang pemuja ...",
+      "jawaban":"hati"
+   },
+   {
+      "id":209,
+      "nama_lagu":"Tak Selalu Memiliki",
+      "judul":"Tak Selalu Memiliki",
+      "author":"Lyodra",
+      "potongan_lirik":"Mencintai tak harus memiliki, namun melepaskanmu ...",
+      "jawaban":"perih"
+   },
+   {
+      "id":210,
+      "nama_lagu":"Setia Menunggu",
+      "judul":"Setia Menunggu",
+      "author":"Anggis Devaki",
+      "potongan_lirik":"Di sini aku masih setia menunggu, walau kau tak ...",
+      "jawaban":"tahu"
+   },
+   {
+      "id":211,
+      "nama_lagu":"Cincin",
+      "judul":"Cincin",
+      "author":"Hindia",
+      "potongan_lirik":"Kau takkan percaya, aku tak percaya, kita ...",
+      "jawaban":"bersama"
+   },
+   {
+      "id":212,
+      "nama_lagu":"Evaluasi",
+      "judul":"Evaluasi",
+      "author":"Hindia",
+      "potongan_lirik":"Masalah yang datang bertubi-tubi, bilas muka, gosok gigi ...",
+      "jawaban":"evaluasi"
+   },
+   {
+      "id":213,
+      "nama_lagu":"Rumah ke Rumah",
+      "judul":"Rumah ke Rumah",
+      "author":"Hindia",
+      "potongan_lirik":"Menetaplah sejenak di rumah ini, jangan pindah ...",
+      "jawaban":"berkala"
+   },
+   {
+      "id":214,
+      "nama_lagu":"Secukupnya",
+      "judul":"Secukupnya",
+      "author":"Hindia",
+      "potongan_lirik":"Kapan terakhir kali kamu dapat tertidur ...",
+      "jawaban":"tenang"
+   },
+   {
+      "id":215,
+      "nama_lagu":"Membasuh",
+      "judul":"Membasuh",
+      "author":"Hindia feat. Rara Sekar",
+      "potongan_lirik":"Cukup besar 'tuk mengampuni, cukup luas 'tuk ...",
+      "jawaban":"membasuh"
+   },
+   {
+      "id":216,
+      "nama_lagu":"Jatuh Suka",
+      "judul":"Jatuh Suka",
+      "author":"Tulus",
+      "potongan_lirik":"Bila kau lihat ku tanpa sengaja, sama sekali bukan ...",
+      "jawaban":"sengaja"
+   },
+   {
+      "id":217,
+      "nama_lagu":"Diri",
+      "judul":"Diri",
+      "author":"Tulus",
+      "potongan_lirik":"Katakan pada diri sendiri, esok akan ...",
+      "jawaban":"baik"
+   },
+   {
+      "id":218,
+      "nama_lagu":"Interaksi",
+      "judul":"Interaksi",
+      "author":"Tulus",
+      "potongan_lirik":"Manusia-manusia kuat itu kita, yang tetap tersenyum walau ...",
+      "jawaban":"luka"
+   },
+   {
+      "id":219,
+      "nama_lagu":"Labirin",
+      "judul":"Labirin",
+      "author":"Tulus",
+      "potongan_lirik":"Ku cari jalan keluar dari labirin ...",
+      "jawaban":"hatimu"
+   },
+   {
+      "id":220,
+      "nama_lagu":"Nala",
+      "judul":"Nala",
+      "author":"Tulus",
+      "potongan_lirik":"Nala, jangan pernah kau merasa ...",
+      "jawaban":"sendiri"
+   },
+   {
+      "id":221,
+      "nama_lagu":"Usai Di Sini",
+      "judul":"Usai Di Sini",
+      "author":"Raisa",
+      "potongan_lirik":"Lebih baik kita usai di sini, sebelum cerita indah tergantikan ...",
+      "jawaban":"pahitnya"
+   },
+   {
+      "id":222,
+      "nama_lagu":"Kali Kedua",
+      "judul":"Kali Kedua",
+      "author":"Raisa",
+      "potongan_lirik":"Pegang tanganku bersama jatuh cinta, kali ...",
+      "jawaban":"kedua"
+   },
+   {
+      "id":223,
+      "nama_lagu":"Mantan Terindah",
+      "judul":"Mantan Terindah",
+      "author":"Raisa",
+      "potongan_lirik":"Mau dikatakan apa lagi, kita tak akan pernah ...",
+      "jawaban":"satu"
+   },
+   {
+      "id":224,
+      "nama_lagu":"LDR",
+      "judul":"LDR",
+      "author":"Raisa",
+      "potongan_lirik":"Tanpamu di sini, ku hanya bisa ...",
+      "jawaban":"merindu"
+   },
+   {
+      "id":225,
+      "nama_lagu":"Jatuh Hati",
+      "judul":"Jatuh Hati",
+      "author":"Raisa",
+      "potongan_lirik":"Ku jatuh hati padamu, namun tak ingin ...",
+      "jawaban":"memiliki"
+   },
+   {
+      "id":226,
+      "nama_lagu":"Bertaut",
+      "judul":"Bertaut",
+      "author":"Nadin Amizah",
+      "potongan_lirik":"Keras kepalaku sama denganmu, caraku marah, caraku ...",
+      "jawaban":"tersenyum"
+   },
+   {
+      "id":227,
+      "nama_lagu":"Rayu",
+      "judul":"Rayu",
+      "author":"Marion Jola feat. Laleilmanino",
+      "potongan_lirik":"Hanya dengan satu rayuan, ku bisa ...",
+      "jawaban":"luluh"
+   },
+   {
+      "id":228,
+      "nama_lagu":"Tak Ingin Usai",
+      "judul":"Tak Ingin Usai",
+      "author":"Keisya Levronka",
+      "potongan_lirik":"Jujur, ku tak ingin usai, waktu yang memisahkan ...",
+      "jawaban":"kita"
+   },
+   {
+      "id":229,
+      "nama_lagu":"Komang",
+      "judul":"Komang",
+      "author":"Raim Laode",
+      "potongan_lirik":"Sebab kau terlalu indah dari sekedar kata, dunia berhenti sejenak menikmati ...",
+      "jawaban":"indahmu"
+   },
+   {
+      "id":230,
+      "nama_lagu":"Satu-Satu",
+      "judul":"Satu-Satu",
+      "author":"Idgitaf",
+      "potongan_lirik":"Aku sudah tak marah, walau masih ...",
+      "jawaban":"teringat"
+   },
+   {
+      "id":231,
+      "nama_lagu":"Mesin Waktu",
+      "judul":"Mesin Waktu",
+      "author":"Budi Doremi",
+      "potongan_lirik":"Kalau harus ku mengingatmu lagi, aku takkan sanggup dengan yang terjadi pada ...",
+      "jawaban":"kita"
+   },
+   {
+      "id":232,
+      "nama_lagu":"Melukis Senja",
+      "judul":"Melukis Senja",
+      "author":"Budi Doremi",
+      "potongan_lirik":"Izinkan ku lukis senja, mengukir namamu di ...",
+      "jawaban":"sana"
+   },
+   {
+      "id":233,
+      "nama_lagu":"Doremi",
+      "judul":"Doremi",
+      "author":"Budi Doremi",
+      "potongan_lirik":"Do do mi mi re re, ku ingin kau jadi ...",
+      "jawaban":"milikku"
+   },
+   {
+      "id":234,
+      "nama_lagu":"Kisah Cintaku",
+      "judul":"Kisah Cintaku",
+      "author":"Chrisye",
+      "potongan_lirik":"Di malam yang dingin ini, ku teringat kisah cinta ...",
+      "jawaban":"kita"
+   },
+   {
+      "id":235,
+      "nama_lagu":"Seperti Yang Kau Minta",
+      "judul":"Seperti Yang Kau Minta",
+      "author":"Chrisye",
+      "potongan_lirik":"Aku menjadi seperti yang kau minta, namun tak bisa jadi yang ...",
+      "jawaban":"sempurna"
+   },
+   {
+      "id":236,
+      "nama_lagu":"Kala Cinta Menggoda",
+      "judul":"Kala Cinta Menggoda",
+      "author":"Chrisye",
+      "potongan_lirik":"Maka izinkanlah aku, mencintaimu setulus ...",
+      "jawaban":"hati"
+   },
+   {
+      "id":237,
+      "nama_lagu":"Hip Hip Hura",
+      "judul":"Hip Hip Hura",
+      "author":"Chrisye",
+      "potongan_lirik":"Mari berdansa bersama, di malam hip hip ...",
+      "jawaban":"hura"
+   },
+   {
+      "id":238,
+      "nama_lagu":"Galih dan Ratna",
+      "judul":"Galih dan Ratna",
+      "author":"Chrisye",
+      "potongan_lirik":"Dua sejoli menjalin cinta, cinta bersemi dari ...",
+      "jawaban":"SMA"
+   },
+   {
+      "id":239,
+      "nama_lagu":"Bento",
+      "judul":"Bento",
+      "author":"Iwan Fals",
+      "potongan_lirik":"Namaku Bento, rumah real estate, mobilku ...",
+      "jawaban":"banyak"
+   },
+   {
+      "id":240,
+      "nama_lagu":"Bongkar",
+      "judul":"Bongkar",
+      "author":"Iwan Fals",
+      "potongan_lirik":"O o ya o ya o ya bongkar, o o ya o ya o ya ...",
+      "jawaban":"bongkar"
+   },
+   {
+      "id":241,
+      "nama_lagu":"Yang Terlupakan",
+      "judul":"Yang Terlupakan",
+      "author":"Iwan Fals",
+      "potongan_lirik":"Denting piano, kala jemari menari, nada sumbang ...",
+      "jawaban":"terdengar"
+   },
+   {
+      "id":242,
+      "nama_lagu":"Kemesraan",
+      "judul":"Kemesraan",
+      "author":"Iwan Fals feat. Rafika Duri",
+      "potongan_lirik":"Kemesraan ini, janganlah cepat berlalu, kemesraan ini ingin ku ...",
+      "jawaban":"kenang"
+   },
+   {
+      "id":243,
+      "nama_lagu":"Ibu",
+      "judul":"Ibu",
+      "author":"Iwan Fals",
+      "potongan_lirik":"Ibu, kau adalah malaikatku, pemberi cinta yang tak ...",
+      "jawaban":"terbatas"
+   },
+   {
+      "id":244,
+      "nama_lagu":"Mungkin Nanti",
+      "judul":"Mungkin Nanti",
+      "author":"Peterpan",
+      "potongan_lirik":"Mungkin nanti, saat aku pergi, ku harapkan kau ...",
+      "jawaban":"mengerti"
+   },
+   {
+      "id":245,
+      "nama_lagu":"Ada Apa Denganmu",
+      "judul":"Ada Apa Denganmu",
+      "author":"Peterpan",
+      "potongan_lirik":"Sudah lupakan semua, jangan kau ingat lagi kisah ...",
+      "jawaban":"lama"
+   },
+   {
+      "id":246,
+      "nama_lagu":"Khayalan Tingkat Tinggi",
+      "judul":"Khayalan Tingkat Tinggi",
+      "author":"Peterpan",
+      "potongan_lirik":"Aku punya khayalan tingkat tinggi, tuk dapatkan cintamu yang ...",
+      "jawaban":"abadi"
+   },
+   {
+      "id":247,
+      "nama_lagu":"Kukatakan Dengan Indah",
+      "judul":"Kukatakan Dengan Indah",
+      "author":"Peterpan",
+      "potongan_lirik":"Kukatakan dengan indah, semua rasa yang ada di ...",
+      "jawaban":"hati"
+   },
+   {
+      "id":248,
+      "nama_lagu":"Semua Tentang Kita",
+      "judul":"Semua Tentang Kita",
+      "author":"Peterpan",
+      "potongan_lirik":"Ada cerita tentang kita, yang takkan pernah ...",
+      "jawaban":"hilang"
+   },
+   {
+      "id":249,
+      "nama_lagu":"Aishiteru",
+      "judul":"Aishiteru",
+      "author":"Zivilia",
+      "potongan_lirik":"Menunggu dirimu, di sini ku menanti, aishiteru ...",
+      "jawaban":"ichiteru"
+   },
+   {
+      "id":250,
+      "nama_lagu":"Sayang",
+      "judul":"Sayang",
+      "author":"Via Vallen",
+      "potongan_lirik":"Sayang, opo kowe krungu jerit ...",
+      "jawaban":"hatiku"
+   },
+   {
+      "id":251,
+      "nama_lagu":"Lagi Syantik",
+      "judul":"Lagi Syantik",
+      "author":"Siti Badriah",
+      "potongan_lirik":"Emang lagi syantik, tapi bukan sok ...",
+      "jawaban":"cantik"
+   },
+   {
+      "id":252,
+      "nama_lagu":"Cikini Ke Gondangdia",
+      "judul":"Cikini Ke Gondangdia",
+      "author":"Duo Anggrek",
+      "potongan_lirik":"Cikini ke gondangdia, ku begini karena ...",
+      "jawaban":"dia"
+   },
+   {
+      "id":253,
+      "nama_lagu":"Sakitnya Tuh Disini",
+      "judul":"Sakitnya Tuh Disini",
+      "author":"Cita Citata",
+      "potongan_lirik":"Sakitnya tuh di sini, di dalam ...",
+      "jawaban":"hatiku"
+   },
+   {
+      "id":254,
+      "nama_lagu":"Sambalado",
+      "judul":"Sambalado",
+      "author":"Ayu Ting Ting",
+      "potongan_lirik":"Sambal sambal sambal ado, terasa pedas di ...",
+      "jawaban":"lidah"
+   },
+   {
+      "id":255,
+      "nama_lagu":"Hampa",
+      "judul":"Hampa",
+      "author":"Ari Lasso",
+      "potongan_lirik":"Entah di mana dirimu berada, hampa terasa hidupku tanpa ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":256,
+      "nama_lagu":"Mengejar Matahari",
+      "judul":"Mengejar Matahari",
+      "author":"Ari Lasso",
+      "potongan_lirik":"Kita berlari mengejar matahari, di sela-sela ...",
+      "jawaban":"awan"
+   },
+   {
+      "id":257,
+      "nama_lagu":"Rahasia Perempuan",
+      "judul":"Rahasia Perempuan",
+      "author":"Ari Lasso",
+      "potongan_lirik":"Ada rahasia di balik senyummu, rahasia ...",
+      "jawaban":"perempuan"
+   },
+   {
+      "id":258,
+      "nama_lagu":"Kangen",
+      "judul":"Kangen",
+      "author":"Dewa 19",
+      "potongan_lirik":"Semua kata rindumu, semakin membuatku tak ...",
+      "jawaban":"berdaya"
+   },
+   {
+      "id":259,
+      "nama_lagu":"Pupus",
+      "judul":"Pupus",
+      "author":"Dewa 19",
+      "potongan_lirik":"Baru kusadari, cintaku bertepuk sebelah ...",
+      "jawaban":"tangan"
+   },
+   {
+      "id":260,
+      "nama_lagu":"Risalah Hati",
+      "judul":"Risalah Hati",
+      "author":"Dewa 19",
+      "potongan_lirik":"Aku bisa membuatmu jatuh cinta kepadaku, meski kau tak ...",
+      "jawaban":"cinta"
+   },
+   {
+      "id":261,
+      "nama_lagu":"Separuh Nafas",
+      "judul":"Separuh Nafas",
+      "author":"Dewa 19",
+      "potongan_lirik":"Separuh nafasku, terbang bersama ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":262,
+      "nama_lagu":"Cinta Kan Membawamu Kembali",
+      "judul":"Cinta Kan Membawamu Kembali",
+      "author":"Dewa 19",
+      "potongan_lirik":"Cinta kan membawamu kembali ke sini, menuai ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":263,
+      "nama_lagu":"Kamulah Satu-Satunya",
+      "judul":"Kamulah Satu-Satunya",
+      "author":"Dewa 19",
+      "potongan_lirik":"Pernahkah kau merasa, kamulah satu ...",
+      "jawaban":"satunya"
+   },
+   {
+      "id":264,
+      "nama_lagu":"Inikah Cinta",
+      "judul":"Inikah Cinta",
+      "author":"M.E",
+      "potongan_lirik":"Inikah cinta yang pertama kurasa, inikah ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":265,
+      "nama_lagu":"Yogyakarta",
+      "judul":"Yogyakarta",
+      "author":"Kla Project",
+      "potongan_lirik":"Pulang ke kotamu, ada setangkup haru dalam ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":266,
+      "nama_lagu":"Begitu Indah",
+      "judul":"Begitu Indah",
+      "author":"Padi",
+      "potongan_lirik":"Terang saja, aku menantimu, karena aku ...",
+      "jawaban":"mencintaimu"
+   },
+   {
+      "id":267,
+      "nama_lagu":"Kasih Tak Sampai",
+      "judul":"Kasih Tak Sampai",
+      "author":"Padi",
+      "potongan_lirik":"Tetaplah menjadi bintang di langit, agar cinta kita tetap ...",
+      "jawaban":"abadi"
+   },
+   {
+      "id":268,
+      "nama_lagu":"Mahadewi",
+      "judul":"Mahadewi",
+      "author":"Padi",
+      "potongan_lirik":"Mahadewi, hamparan sari bumi, memancar di ...",
+      "jawaban":"wajahmu"
+   },
+   {
+      "id":269,
+      "nama_lagu":"Dan",
+      "judul":"Dan",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Dan, lupakan aku jika itu terbaik untukmu, biarkan aku ...",
+      "jawaban":"pergi"
+   },
+   {
+      "id":270,
+      "nama_lagu":"Sephia",
+      "judul":"Sephia",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Selamat tidur kekasih gelapku, semoga kau lupakan ...",
+      "jawaban":"aku"
+   },
+   {
+      "id":271,
+      "nama_lagu":"Seberapa Pantas",
+      "judul":"Seberapa Pantas",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Seberapa pantaskah kau tuk ku banggakan, seberapa ...",
+      "jawaban":"hebatkah"
+   },
+   {
+      "id":272,
+      "nama_lagu":"Pemuja Rahasia",
+      "judul":"Pemuja Rahasia",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Akulah pemuja rahasiamu, yang selalu mengintip di balik ...",
+      "jawaban":"jendela"
+   },
+   {
+      "id":273,
+      "nama_lagu":"Hari Bersamanya",
+      "judul":"Hari Bersamanya",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Hari bersamanya terasa sangat cepat, aku ingin waktu ...",
+      "jawaban":"berhenti"
+   },
+   {
+      "id":274,
+      "nama_lagu":"Melompat Lebih Tinggi",
+      "judul":"Melompat Lebih Tinggi",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Mari melompat lebih tinggi, tuk gapai bintang yang ...",
+      "jawaban":"bersinar"
+   },
+   {
+      "id":275,
+      "nama_lagu":"Lapang Dada",
+      "judul":"Lapang Dada",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Ikhlaskan saja dengan lapang dada, biarkan dia ...",
+      "jawaban":"bahagia"
+   },
+   {
+      "id":276,
+      "nama_lagu":"Bintang di Surga",
+      "judul":"Bintang di Surga",
+      "author":"Peterpan",
+      "potongan_lirik":"Lelah tatapku mencari lirik jawabmu, seolah aku ...",
+      "jawaban":"bisu"
+   },
+   {
+      "id":277,
+      "nama_lagu":"Kisah Cintaku",
+      "judul":"Kisah Cintaku",
+      "author":"Peterpan",
+      "potongan_lirik":"Hanyalah dirimu yang aku sayang, sepanjang ...",
+      "jawaban":"hidupku"
+   },
+   {
+      "id":278,
+      "nama_lagu":"Sahabat",
+      "judul":"Sahabat",
+      "author":"Peterpan",
+      "potongan_lirik":"Ingatlah saat kita bersama, menjalani hari dengan ...",
+      "jawaban":"tawa"
+   },
+   {
+      "id":279,
+      "nama_lagu":"Topeng",
+      "judul":"Topeng",
+      "author":"Peterpan",
+      "potongan_lirik":"Buka dulu topengmu, biar ku lihat ...",
+      "jawaban":"wajahmu"
+   },
+   {
+      "id":280,
+      "nama_lagu":"Khayalan Tingkat Tinggi",
+      "judul":"Khayalan Tingkat Tinggi",
+      "author":"Peterpan",
+      "potongan_lirik":"Aku punya khayalan tingkat tinggi, tuk dapatkan cintamu yang ...",
+      "jawaban":"abadi"
+   },
+   {
+      "id":281,
+      "nama_lagu":"Sempurna",
+      "judul":"Sempurna",
+      "author":"Andra & The Backbone",
+      "potongan_lirik":"Kau adalah darahku, kau adalah jantungku, kau adalah ...",
+      "jawaban":"seluruhku"
+   },
+   {
+      "id":282,
+      "nama_lagu":"Main Hati",
+      "judul":"Main Hati",
+      "author":"Andra & The Backbone",
+      "potongan_lirik":"Seribu wanita yang pernah singgah, hanya kamu yang ...",
+      "jawaban":"bertahan"
+   },
+   {
+      "id":283,
+      "nama_lagu":"Lumpuhkan Ingatanku",
+      "judul":"Lumpuhkan Ingatanku",
+      "author":"Geisha",
+      "potongan_lirik":"Lumpuhkanlah ingatanku, hapuskan tentang dia, ku ingin ...",
+      "jawaban":"lupa"
+   },
+   {
+      "id":284,
+      "nama_lagu":"Jika Cinta Dia",
+      "judul":"Jika Cinta Dia",
+      "author":"Geisha",
+      "potongan_lirik":"Jika cinta dia jujurlah padaku, jangan kau ...",
+      "jawaban":"bohongi"
+   },
+   {
+      "id":285,
+      "nama_lagu":"Pelangi Di Matamu",
+      "judul":"Pelangi Di Matamu",
+      "author":"Jamrud",
+      "potongan_lirik":"Ada pelangi di bola matamu, yang memaksa diri ...",
+      "jawaban":"tuk bilang"
+   },
+   {
+      "id":286,
+      "nama_lagu":"Selamat Ulang Tahun",
+      "judul":"Selamat Ulang Tahun",
+      "author":"Jamrud",
+      "potongan_lirik":"Hari ini hari yang kau tunggu, bertambah satu tahun ...",
+      "jawaban":"usiamu"
+   },
+   {
+      "id":287,
+      "nama_lagu":"Beraksi",
+      "judul":"Beraksi",
+      "author":"Kotak",
+      "potongan_lirik":"Mari kita semua beraksi, lepaskan beban di ...",
+      "jawaban":"hati"
+   },
+   {
+      "id":288,
+      "nama_lagu":"Pelan-Pelan Saja",
+      "judul":"Pelan-Pelan Saja",
+      "author":"Kotak",
+      "potongan_lirik":"Lepaskanlah ikatanmu, dengan pelan-pelan ...",
+      "jawaban":"saja"
+   },
+   {
+      "id":289,
+      "nama_lagu":"Terlalu Manis",
+      "judul":"Terlalu Manis",
+      "author":"Slank",
+      "potongan_lirik":"Terlalu manis tuk dilupakan, kenangan indah ...",
+      "jawaban":"bersamamu"
+   },
+   {
+      "id":290,
+      "nama_lagu":"Ku Tak Bisa",
+      "judul":"Ku Tak Bisa",
+      "author":"Slank",
+      "potongan_lirik":"Ku tak bisa jauh, jauh dari ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":291,
+      "nama_lagu":"I Miss You But I Hate You",
+      "judul":"I Miss You But I Hate You",
+      "author":"Slank",
+      "potongan_lirik":"I miss you but I hate you, ku benci ...",
+      "jawaban":"tapi rindu"
+   },
+   {
+      "id":292,
+      "nama_lagu":"Madu dan Racun",
+      "judul":"Madu dan Racun",
+      "author":"Bill & Brod",
+      "potongan_lirik":"Madu di tangan kananmu, racun di tangan ...",
+      "jawaban":"kirimu"
+   },
+   {
+      "id":293,
+      "nama_lagu":"Januari",
+      "judul":"Januari",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Berakhir di Januari, takkan ada lagi kisah ...",
+      "jawaban":"kita"
+   },
+   {
+      "id":294,
+      "nama_lagu":"Terserah",
+      "judul":"Terserah",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Terserah kali ini, sungguh aku tak peduli, ku tak ...",
+      "jawaban":"sanggup lagi"
+   },
+   {
+      "id":295,
+      "nama_lagu":"Kisah Romantis",
+      "judul":"Kisah Romantis",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Dan aku pun ingin kau menjadi ...",
+      "jawaban":"milikku"
+   },
+   {
+      "id":296,
+      "nama_lagu":"Kasih Putih",
+      "judul":"Kasih Putih",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Biarkanlah kurasakan kasih putihmu mengalir di ...",
+      "jawaban":"nadi"
+   },
+   {
+      "id":297,
+      "nama_lagu":"Mantan Terindah",
+      "judul":"Mantan Terindah",
+      "author":"Kahitna",
+      "potongan_lirik":"Mau dikatakan apa lagi, kita tak akan pernah satu, engkau ...",
+      "jawaban":"terindah"
+   },
+   {
+      "id":298,
+      "nama_lagu":"Cantik",
+      "judul":"Cantik",
+      "author":"Kahitna",
+      "potongan_lirik":"Cantik, ingin rasa hati berbisik, tuk melepas ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":299,
+      "nama_lagu":"Cerita Cinta",
+      "judul":"Cerita Cinta",
+      "author":"Kahitna",
+      "potongan_lirik":"Biar cinta bersemi di dalam hati, jalani ...",
+      "jawaban":"cerita"
+   },
+   {
+      "id":300,
+      "nama_lagu":"Cinta Sendiri",
+      "judul":"Cinta Sendiri",
+      "author":"Kahitna",
+      "potongan_lirik":"Haruskah ku simpan rasa ini, ataukah ...",
+      "jawaban":"ku katakan"
+   },
+   {
+      "id":301,
+      "nama_lagu":"Hotline Bling",
+      "judul":"Hotline Bling",
+      "author":"Drake",
+      "potongan_lirik":"You used to call me on my cell phone, late night when you ...",
+      "jawaban":"need my love"
+   },
+   {
+      "id":302,
+      "nama_lagu":"Shape of You",
+      "judul":"Shape of You",
+      "author":"Ed Sheeran",
+      "potongan_lirik":"The club isn't the best place to find a lover, so the bar is where ...",
+      "jawaban":"I go"
+   },
+   {
+      "id":303,
+      "nama_lagu":"Thinking Out Loud",
+      "judul":"Thinking Out Loud",
+      "author":"Ed Sheeran",
+      "potongan_lirik":"Honey your soul could never grow old, it's ...",
+      "jawaban":"evergreen"
+   },
+   {
+      "id":304,
+      "nama_lagu":"Perfect",
+      "judul":"Perfect",
+      "author":"Ed Sheeran",
+      "potongan_lirik":"Baby, I'm dancing in the dark, with you between my ...",
+      "jawaban":"arms"
+   },
+   {
+      "id":305,
+      "nama_lagu":"Stay With Me",
+      "judul":"Stay With Me",
+      "author":"Sam Smith",
+      "potongan_lirik":"Oh won't you stay with me, 'cause you're all ...",
+      "jawaban":"I need"
+   },
+   {
+      "id":306,
+      "nama_lagu":"Hello",
+      "judul":"Hello",
+      "author":"Adele",
+      "potongan_lirik":"Hello from the other side, I must have called a ...",
+      "jawaban":"thousand times"
+   },
+   {
+      "id":307,
+      "nama_lagu":"Someone Like You",
+      "judul":"Someone Like You",
+      "author":"Adele",
+      "potongan_lirik":"Never mind, I'll find someone like you, I wish nothing but the ...",
+      "jawaban":"best for you"
+   },
+   {
+      "id":308,
+      "nama_lagu":"Rolling in the Deep",
+      "judul":"Rolling in the Deep",
+      "author":"Adele",
+      "potongan_lirik":"We could have had it all, rolling in ...",
+      "jawaban":"the deep"
+   },
+   {
+      "id":309,
+      "nama_lagu":"Easy on Me",
+      "judul":"Easy on Me",
+      "author":"Adele",
+      "potongan_lirik":"Go easy on me, baby, I was still ...",
+      "jawaban":"a child"
+   },
+   {
+      "id":310,
+      "nama_lagu":"Uptown Funk",
+      "judul":"Uptown Funk",
+      "author":"Mark Ronson feat. Bruno Mars",
+      "potongan_lirik":"Don't believe me, just watch, come on ...",
+      "jawaban":"watch"
+   },
+   {
+      "id":311,
+      "nama_lagu":"Grenade",
+      "judul":"Grenade",
+      "author":"Bruno Mars",
+      "potongan_lirik":"I'd catch a grenade for you, throw my hand on a ...",
+      "jawaban":"blade for you"
+   },
+   {
+      "id":312,
+      "nama_lagu":"Locked Out of Heaven",
+      "judul":"Locked Out of Heaven",
+      "author":"Bruno Mars",
+      "potongan_lirik":"You make me feel like I've been locked out of ...",
+      "jawaban":"heaven"
+   },
+   {
+      "id":313,
+      "nama_lagu":"Versace on the Floor",
+      "judul":"Versace on the Floor",
+      "author":"Bruno Mars",
+      "potongan_lirik":"Versace on the floor, let's take it off for ...",
+      "jawaban":"me"
+   },
+   {
+      "id":314,
+      "nama_lagu":"Treasure",
+      "judul":"Treasure",
+      "author":"Bruno Mars",
+      "potongan_lirik":"Treasure, that is what you are, honey you're my ...",
+      "jawaban":"golden star"
+   },
+   {
+      "id":315,
+      "nama_lagu":"Sugar",
+      "judul":"Sugar",
+      "author":"Maroon 5",
+      "potongan_lirik":"Sugar, yes please, won't you come and put it down on ...",
+      "jawaban":"me"
+   },
+   {
+      "id":316,
+      "nama_lagu":"Girls Like You",
+      "judul":"Girls Like You",
+      "author":"Maroon 5",
+      "potongan_lirik":"'Cause girls like you run 'round with guys like me, til ...",
+      "jawaban":"sundown"
+   },
+   {
+      "id":317,
+      "nama_lagu":"Memories",
+      "judul":"Memories",
+      "author":"Maroon 5",
+      "potongan_lirik":"Here's to the ones that we got, cheers to the wish you were ...",
+      "jawaban":"here"
+   },
+   {
+      "id":318,
+      "nama_lagu":"She Will Be Loved",
+      "judul":"She Will Be Loved",
+      "author":"Maroon 5",
+      "potongan_lirik":"I don't mind spending every day, out on your ...",
+      "jawaban":"corner"
+   },
+   {
+      "id":319,
+      "nama_lagu":"Payphone",
+      "judul":"Payphone",
+      "author":"Maroon 5",
+      "potongan_lirik":"I'm at a payphone trying to call home, all of my change I ...",
+      "jawaban":"spent on you"
+   },
+   {
+      "id":320,
+      "nama_lagu":"Counting Stars",
+      "judul":"Counting Stars",
+      "author":"OneRepublic",
+      "potongan_lirik":"Lately I've been losing sleep, dreaming about the things that ...",
+      "jawaban":"we could be"
+   },
+   {
+      "id":321,
+      "nama_lagu":"Apologize",
+      "judul":"Apologize",
+      "author":"OneRepublic",
+      "potongan_lirik":"I'm holding on your rope, got me ten feet off ...",
+      "jawaban":"the ground"
+   },
+   {
+      "id":322,
+      "nama_lagu":"Secrets",
+      "judul":"Secrets",
+      "author":"OneRepublic",
+      "potongan_lirik":"I'm gonna give all my secrets away, this time I don't ...",
+      "jawaban":"need another"
+   },
+   {
+      "id":323,
+      "nama_lagu":"Wherever I Go",
+      "judul":"Wherever I Go",
+      "author":"OneRepublic",
+      "potongan_lirik":"Wherever I go, I see ...",
+      "jawaban":"your face"
+   },
+   {
+      "id":324,
+      "nama_lagu":"Good Life",
+      "judul":"Good Life",
+      "author":"OneRepublic",
+      "potongan_lirik":"Oh this has gotta be the good life, this has gotta be ...",
+      "jawaban":"the good life"
+   },
+   {
+      "id":325,
+      "nama_lagu":"Demons",
+      "judul":"Demons",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"When you feel my heat, look into my eyes, it's where my ...",
+      "jawaban":"demons hide"
+   },
+   {
+      "id":326,
+      "nama_lagu":"Believer",
+      "judul":"Believer",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"First things first, I'ma say all the words inside my ...",
+      "jawaban":"head"
+   },
+   {
+      "id":327,
+      "nama_lagu":"Radioactive",
+      "judul":"Radioactive",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"I'm waking up, I feel it in my bones, enough to make my ...",
+      "jawaban":"systems blow"
+   },
+   {
+      "id":328,
+      "nama_lagu":"Thunder",
+      "judul":"Thunder",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"Thunder, thunder, thunder, feel the ...",
+      "jawaban":"thunder"
+   },
+   {
+      "id":329,
+      "nama_lagu":"Enemy",
+      "judul":"Enemy",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"Oh the misery, everybody wants to be my ...",
+      "jawaban":"enemy"
+   },
+   {
+      "id":330,
+      "nama_lagu":"Despacito",
+      "judul":"Despacito",
+      "author":"Luis Fonsi feat. Daddy Yankee",
+      "potongan_lirik":"Despacito, quiero respirar tu cuello ...",
+      "jawaban":"despacito"
+   },
+   {
+      "id":331,
+      "nama_lagu":"Havana",
+      "judul":"Havana",
+      "author":"Camila Cabello",
+      "potongan_lirik":"Havana, ooh na-na, half of my heart is in Havana ...",
+      "jawaban":"ooh na-na"
+   },
+   {
+      "id":332,
+      "nama_lagu":"Senorita",
+      "judul":"Senorita",
+      "author":"Shawn Mendes & Camila Cabello",
+      "potongan_lirik":"I love it when you call me Senorita, I wish I could ...",
+      "jawaban":"pretend"
+   },
+   {
+      "id":333,
+      "nama_lagu":"Stitches",
+      "judul":"Stitches",
+      "author":"Shawn Mendes",
+      "potongan_lirik":"You watch me bleed until I can't breathe, shaking ...",
+      "jawaban":"falling"
+   },
+   {
+      "id":334,
+      "nama_lagu":"Treat You Better",
+      "judul":"Treat You Better",
+      "author":"Shawn Mendes",
+      "potongan_lirik":"I know I can treat you better, better than he ...",
+      "jawaban":"can"
+   },
+   {
+      "id":335,
+      "nama_lagu":"Magnetic",
+      "judul":"Magnetic",
+      "author":"ILLIT",
+      "potongan_lirik":"You you you you like a magnetic, you you you you ...",
+      "jawaban":"like a magnetic"
+   },
+   {
+      "id":336,
+      "nama_lagu":"Spot!",
+      "judul":"Spot!",
+      "author":"Zico feat. Jennie",
+      "potongan_lirik":"We're going to the spot, where everybody ...",
+      "jawaban":"goes"
+   },
+   {
+      "id":337,
+      "nama_lagu":"Midas Touch",
+      "judul":"Midas Touch",
+      "author":"KISS OF LIFE",
+      "potongan_lirik":"Baby I've got the Midas touch, everything I touch turns to ...",
+      "jawaban":"gold"
+   },
+   {
+      "id":338,
+      "nama_lagu":"Sheesh",
+      "judul":"Sheesh",
+      "author":"BABYMONSTER",
+      "potongan_lirik":"Sheesh sheesh sheesh, yeah we're ...",
+      "jawaban":"monsters"
+   },
+   {
+      "id":339,
+      "nama_lagu":"Rockstar",
+      "judul":"Rockstar",
+      "author":"LISA",
+      "potongan_lirik":"Gold teeth, dancing with the stars, call me a ...",
+      "jawaban":"rockstar"
+   },
+   {
+      "id":340,
+      "nama_lagu":"New Woman",
+      "judul":"New Woman",
+      "author":"LISA feat. Rosalia",
+      "potongan_lirik":"I'm a new woman, new woman, everything about me ...",
+      "jawaban":"is new"
+   },
+   {
+      "id":341,
+      "nama_lagu":"Supernova",
+      "judul":"Supernova",
+      "author":"aespa",
+      "potongan_lirik":"Su-su-su-supernova, nova, can't stop the ...",
+      "jawaban":"hyper"
+   },
+   {
+      "id":342,
+      "nama_lagu":"Armageddon",
+      "judul":"Armageddon",
+      "author":"aespa",
+      "potongan_lirik":"Armageddon, everything I want I'm gonna ...",
+      "jawaban":"get it"
+   },
+   {
+      "id":343,
+      "nama_lagu":"Mantra",
+      "judul":"Mantra",
+      "author":"JENNIE",
+      "potongan_lirik":"This is that pretty girl mantra, this is that pretty girl ...",
+      "jawaban":"mantra"
+   },
+   {
+      "id":344,
+      "nama_lagu":"Sialan",
+      "judul":"Sialan",
+      "author":"Adrian Khalif feat. Juicy Luicy",
+      "potongan_lirik":"Sialan sialan ku terjebak lagi, di senyummu yang tak pernah ...",
+      "jawaban":"pudar"
+   },
+   {
+      "id":345,
+      "nama_lagu":"Tak Selalu Memiliki",
+      "judul":"Tak Selalu Memiliki",
+      "author":"Lyodra",
+      "potongan_lirik":"Mencintai tak selalu memiliki, melepaskanmu adalah ...",
+      "jawaban":"jalanku"
+   },
+   {
+      "id":346,
+      "nama_lagu":"Boleh Juga",
+      "judul":"Boleh Juga",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Boleh juga kalau kamu mau, boleh juga kalau kamu ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":347,
+      "nama_lagu":"Rumah",
+      "judul":"Rumah",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Aku pulang ke rumah, tempat di mana aku ...",
+      "jawaban":"berada"
+   },
+   {
+      "id":348,
+      "nama_lagu":"Angin",
+      "judul":"Angin",
+      "author":"Lesti Kejora",
+      "potongan_lirik":"Angin sampaikan rindu padanya, sampaikan pesan ...",
+      "jawaban":"cinta"
+   },
+   {
+      "id":349,
+      "nama_lagu":"Dawai",
+      "judul":"Dawai",
+      "author":"Fadhilah Intan",
+      "potongan_lirik":"Dawai asmara bergetar pilu, memanggil namamu di setiap ...",
+      "jawaban":"malam"
+   },
+   {
+      "id":350,
+      "nama_lagu":"Satu Bulan",
+      "judul":"Satu Bulan",
+      "author":"Bernadya",
+      "potongan_lirik":"Belum ada satu bulan, aku sudah lupa bagaimana ...",
+      "jawaban":"suaramu"
+   },
+   {
+      "id":351,
+      "nama_lagu":"Kini Mereka Tahu",
+      "judul":"Kini Mereka Tahu",
+      "author":"Bernadya",
+      "potongan_lirik":"Kini mereka tahu siapa yang salah, kini mereka tahu ...",
+      "jawaban":"semuanya"
+   },
+   {
+      "id":352,
+      "nama_lagu":"Gajah",
+      "judul":"Gajah",
+      "author":"Tulus",
+      "potongan_lirik":"Waktu kecil dulu mereka panggilku gajah, sekarang aku ...",
+      "jawaban":"bahagia"
+   },
+   {
+      "id":353,
+      "nama_lagu":"Monokrom",
+      "judul":"Monokrom",
+      "author":"Tulus",
+      "potongan_lirik":"Di lembaran foto hitam putih, aku coba ingat lagi ...",
+      "jawaban":"warna bajumu"
+   },
+   {
+      "id":354,
+      "nama_lagu":"Pamit",
+      "judul":"Pamit",
+      "author":"Tulus",
+      "potongan_lirik":"Izinkan aku pergi dulu, yang berubah hanya tak lagi ...",
+      "jawaban":"milikmu"
+   },
+   {
+      "id":355,
+      "nama_lagu":"Adu Rayu",
+      "judul":"Adu Rayu",
+      "author":"Yovie Widianto, Tulus, Glenn Fredly",
+      "potongan_lirik":"Jangan datang lagi aku bahagia, jangan ganggu ...",
+      "jawaban":"hidupku"
+   },
+   {
+      "id":356,
+      "nama_lagu":"Januari",
+      "judul":"Januari",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Berakhir di Januari, takkan ada lagi kisah ...",
+      "jawaban":"kita"
+   },
+   {
+      "id":357,
+      "nama_lagu":"Terserah",
+      "judul":"Terserah",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Terserah kali ini sungguh aku tak peduli, ku tak sanggup ...",
+      "jawaban":"lagi"
+   },
+   {
+      "id":358,
+      "nama_lagu":"Kisah Romantis",
+      "judul":"Kisah Romantis",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Dan aku pun ingin kau menjadi milikku, selamanya ...",
+      "jawaban":"di sini"
+   },
+   {
+      "id":359,
+      "nama_lagu":"Kangen",
+      "judul":"Kangen",
+      "author":"Dewa 19",
+      "potongan_lirik":"Semua kata rindumu semakin membuatku tak berdaya, menahan ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":360,
+      "nama_lagu":"Pupus",
+      "judul":"Pupus",
+      "author":"Dewa 19",
+      "potongan_lirik":"Baru kusadari cintaku bertepuk sebelah tangan, kau ...",
+      "jawaban":"tak cinta"
+   },
+   {
+      "id":361,
+      "nama_lagu":"Risalah Hati",
+      "judul":"Risalah Hati",
+      "author":"Dewa 19",
+      "potongan_lirik":"Aku bisa membuatmu jatuh cinta kepadaku, meski kau ...",
+      "jawaban":"tak mau"
+   },
+   {
+      "id":362,
+      "nama_lagu":"Separuh Nafas",
+      "judul":"Separuh Nafas",
+      "author":"Dewa 19",
+      "potongan_lirik":"Separuh nafasku terbang bersama dirimu, saat kau ...",
+      "jawaban":"pergi"
+   },
+   {
+      "id":363,
+      "nama_lagu":"Laskar Pelangi",
+      "judul":"Laskar Pelangi",
+      "author":"Nidji",
+      "potongan_lirik":"Laskar pelangi takkan terikat waktu, bebaskan ...",
+      "jawaban":"mimpimu"
+   },
+   {
+      "id":364,
+      "nama_lagu":"Hapus Aku",
+      "judul":"Hapus Aku",
+      "author":"Nidji",
+      "potongan_lirik":"Tuliskan namamu hapus diriku, biarkan aku ...",
+      "jawaban":"sendiri"
+   },
+   {
+      "id":365,
+      "nama_lagu":"Berharap Tak Berpisah",
+      "judul":"Berharap Tak Berpisah",
+      "author":"Reza Artamevia",
+      "potongan_lirik":"Ingatkah kan dirimu tatap mata ini, saat kau ...",
+      "jawaban":"ada"
+   },
+   {
+      "id":366,
+      "nama_lagu":"Inikah Cinta",
+      "judul":"Inikah Cinta",
+      "author":"M.E",
+      "potongan_lirik":"Inikah cinta yang pertama kurasa, inikah rindu yang ...",
+      "jawaban":"menggoda"
+   },
+   {
+      "id":367,
+      "nama_lagu":"Begitu Indah",
+      "judul":"Begitu Indah",
+      "author":"Padi",
+      "potongan_lirik":"Terang saja aku menantimu karena aku mencintaimu, terang ...",
+      "jawaban":"saja"
+   },
+   {
+      "id":368,
+      "nama_lagu":"Kasih Tak Sampai",
+      "judul":"Kasih Tak Sampai",
+      "author":"Padi",
+      "potongan_lirik":"Tetaplah menjadi bintang di langit agar cinta kita tetap ...",
+      "jawaban":"abadi"
+   },
+   {
+      "id":369,
+      "nama_lagu":"Dan",
+      "judul":"Dan",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Dan lupakan aku jika itu terbaik untukmu, biarkan ...",
+      "jawaban":"aku pergi"
+   },
+   {
+      "id":370,
+      "nama_lagu":"Sephia",
+      "judul":"Sephia",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Selamat tidur kekasih gelapku, semoga kau lupakan aku, selamanya ...",
+      "jawaban":"di sana"
+   },
+   {
+      "id":371,
+      "nama_lagu":"Seberapa Pantas",
+      "judul":"Seberapa Pantas",
+      "author":"Sheila On 7",
+      "potongan_lirik":"Seberapa pantaskah kau tuk ku banggakan, seberapa hebatkah ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":372,
+      "nama_lagu":"Sayang",
+      "judul":"Sayang",
+      "author":"Via Vallen",
+      "potongan_lirik":"Sayang opo kowe krungu jerit hatiku, mengharap ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":373,
+      "nama_lagu":"Ojo Dibandingke",
+      "judul":"Ojo Dibandingke",
+      "author":"Farel Prayoga",
+      "potongan_lirik":"Wong ko ngene kok dibanding-bandingke saing-saingke yo ...",
+      "jawaban":"mesti kalah"
+   },
+   {
+      "id":374,
+      "nama_lagu":"Anak Sekolah",
+      "judul":"Anak Sekolah",
+      "author":"Chrisye",
+      "potongan_lirik":"Engkau masih anak sekolah satu SMA, belum ...",
+      "jawaban":"waktunya"
+   },
+   {
+      "id":375,
+      "nama_lagu":"Pergilah Kasih",
+      "judul":"Pergilah Kasih",
+      "author":"Chrisye",
+      "potongan_lirik":"Pergilah kasih kejarlah keinginanmu selagi masih ...",
+      "jawaban":"ada"
+   },
+   {
+      "id":376,
+      "nama_lagu":"Bento",
+      "judul":"Bento",
+      "author":"Iwan Fals",
+      "potongan_lirik":"Namaku Bento rumah real estate mobilku banyak ...",
+      "jawaban":"uangku"
+   },
+   {
+      "id":377,
+      "nama_lagu":"Yang Terlupakan",
+      "judul":"Yang Terlupakan",
+      "author":"Iwan Fals",
+      "potongan_lirik":"Denting piano kala jemari menari nada sumbang ...",
+      "jawaban":"terdengar"
+   },
+   {
+      "id":378,
+      "nama_lagu":"Kemesraan",
+      "judul":"Kemesraan",
+      "author":"Iwan Fals feat. Rafika Duri",
+      "potongan_lirik":"Kemesraan ini janganlah cepat berlalu, kemesraan ini ...",
+      "jawaban":"abadi"
+   },
+   {
+      "id":379,
+      "nama_lagu":"Shape of You",
+      "judul":"Shape of You",
+      "author":"Ed Sheeran",
+      "potongan_lirik":"I'm in love with the shape of you, we push and pull like a ...",
+      "jawaban":"magnet"
+   },
+   {
+      "id":380,
+      "nama_lagu":"Stay With Me",
+      "judul":"Stay With Me",
+      "author":"Sam Smith",
+      "potongan_lirik":"Oh won't you stay with me 'cause you're all ...",
+      "jawaban":"I need"
+   },
+   {
+      "id":381,
+      "nama_lagu":"Hello",
+      "judul":"Hello",
+      "author":"Adele",
+      "potongan_lirik":"Hello from the other side I must have called a ...",
+      "jawaban":"thousand times"
+   },
+   {
+      "id":382,
+      "nama_lagu":"Someone Like You",
+      "judul":"Someone Like You",
+      "author":"Adele",
+      "potongan_lirik":"Never mind I'll find someone like you I wish nothing but the ...",
+      "jawaban":"best"
+   },
+   {
+      "id":383,
+      "nama_lagu":"Grenade",
+      "judul":"Grenade",
+      "author":"Bruno Mars",
+      "potongan_lirik":"I'd catch a grenade for you throw my hand on a ...",
+      "jawaban":"blade"
+   },
+   {
+      "id":384,
+      "nama_lagu":"Uptown Funk",
+      "judul":"Uptown Funk",
+      "author":"Mark Ronson feat. Bruno Mars",
+      "potongan_lirik":"Don't believe me just watch come on ...",
+      "jawaban":"watch"
+   },
+   {
+      "id":385,
+      "nama_lagu":"Sugar",
+      "judul":"Sugar",
+      "author":"Maroon 5",
+      "potongan_lirik":"Sugar yes please won't you come and put it down on ...",
+      "jawaban":"me"
+   },
+   {
+      "id":386,
+      "nama_lagu":"Counting Stars",
+      "judul":"Counting Stars",
+      "author":"OneRepublic",
+      "potongan_lirik":"Lately I've been losing sleep dreaming about the things that ...",
+      "jawaban":"we could be"
+   },
+   {
+      "id":87,
+      "nama_lagu":"Believer",
+      "judul":"Believer",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"First things first I'ma say all the words inside my ...",
+      "jawaban":"head"
+   },
+   {
+      "id":388,
+      "nama_lagu":"Despacito",
+      "judul":"Despacito",
+      "author":"Luis Fonsi feat. Daddy Yankee",
+      "potongan_lirik":"Despacito quiero respirar tu cuello ...",
+      "jawaban":"despacito"
+   },
+   {
+      "id":389,
+      "nama_lagu":"Senorita",
+      "judul":"Senorita",
+      "author":"Shawn Mendes & Camila Cabello",
+      "potongan_lirik":"I love it when you call me Senorita I wish I could ...",
+      "jawaban":"pretend"
+   },
+   {
+      "id":390,
+      "nama_lagu":"Boleh Juga",
+      "judul":"Boleh Juga",
+      "author":"Salma Salsabil",
+      "potongan_lirik":"Boleh juga kalau kamu mau boleh juga kalau kamu ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":391,
+      "nama_lagu":"Tak Selalu Memiliki",
+      "judul":"Tak Selalu Memiliki",
+      "author":"Lyodra",
+      "potongan_lirik":"Mencintai tak selalu memiliki melepaskanmu adalah ...",
+      "jawaban":"jalanku"
+   },
+   {
+      "id":392,
+      "nama_lagu":"Spot!",
+      "judul":"Spot!",
+      "author":"Zico feat. Jennie",
+      "potongan_lirik":"We're going to the spot where everybody ...",
+      "jawaban":"goes"
+   },
+   {
+      "id":393,
+      "nama_lagu":"Magnetic",
+      "judul":"Magnetic",
+      "author":"ILLIT",
+      "potongan_lirik":"You you you you like a magnetic you you you you ...",
+      "jawaban":"like a magnetic"
+   },
+   {
+      "id":394,
+      "nama_lagu":"Blue",
+      "judul":"Blue",
+      "author":"V (BTS)",
+      "potongan_lirik":"On and on and I'm feeling so ...",
+      "jawaban":"blue"
+   },
+   {
+      "id":395,
+      "nama_lagu":"Super",
+      "judul":"Super",
+      "author":"SEVENTEEN",
+      "potongan_lirik":"I love my team I love my ...",
+      "jawaban":"crew"
+   },
+   {
+      "id":396,
+      "nama_lagu":"How Sweet",
+      "judul":"How Sweet",
+      "author":"NewJeans",
+      "potongan_lirik":"How sweet it tastes I got you in my ...",
+      "jawaban":"mind"
+   },
+   {
+      "id":397,
+      "nama_lagu":"Midas Touch",
+      "judul":"Midas Touch",
+      "author":"KISS OF LIFE",
+      "potongan_lirik":"Baby I've got the Midas touch everything I touch turns to ...",
+      "jawaban":"gold"
+   },
+   {
+      "id":398,
+      "nama_lagu":"Sheesh",
+      "judul":"Sheesh",
+      "author":"BABYMONSTER",
+      "potongan_lirik":"Sheesh sheesh sheesh yeah we're ...",
+      "jawaban":"monsters"
+   },
+   {
+      "id":399,
+      "nama_lagu":"Take A Chance With Me",
+      "judul":"Take A Chance With Me",
+      "author":"NIKI",
+      "potongan_lirik":"Oh why can't we for once say what we want say what we feel oh take a chance with ...",
+      "jawaban":"me"
+   },
+   {
+      "id":400,
+      "nama_lagu":"Moonlit Floor",
+      "judul":"Moonlit Floor",
+      "author":"LISA",
+      "potongan_lirik":"Kiss me under the Paris ...",
+      "jawaban":"moonlight"
+   },
+   {
+      "id":401,
+      "nama_lagu":"Sempurna",
+      "judul":"Sempurna",
+      "author":"Andra & The Backbone",
+      "potongan_lirik":"Kau adalah darahku, kau adalah jantungku, kau adalah ...",
+      "jawaban":"seluruhku"
+   },
+   {
+      "id":402,
+      "nama_lagu":"Main Hati",
+      "judul":"Main Hati",
+      "author":"Andra & The Backbone",
+      "potongan_lirik":"Seribu wanita yang pernah singgah, hanya kamu yang ...",
+      "jawaban":"bertahan"
+   },
+   {
+      "id":403,
+      "nama_lagu":"Pelangi Di Matamu",
+      "judul":"Pelangi Di Matamu",
+      "author":"Jamrud",
+      "potongan_lirik":"Ada pelangi di bola matamu, yang memaksa diri ...",
+      "jawaban":"tuk bilang"
+   },
+   {
+      "id":404,
+      "nama_lagu":"Selamat Ulang Tahun",
+      "judul":"Selamat Ulang Tahun",
+      "author":"Jamrud",
+      "potongan_lirik":"Hari ini hari yang kau tunggu, bertambah satu tahun ...",
+      "jawaban":"usiamu"
+   },
+   {
+      "id":405,
+      "nama_lagu":"Beraksi",
+      "judul":"Beraksi",
+      "author":"Kotak",
+      "potongan_lirik":"Mari kita semua beraksi, lepaskan beban di ...",
+      "jawaban":"hati"
+   },
+   {
+      "id":406,
+      "nama_lagu":"Pelan-Pelan Saja",
+      "judul":"Pelan-Pelan Saja",
+      "author":"Kotak",
+      "potongan_lirik":"Lepaskanlah ikatanmu, dengan pelan-pelan ...",
+      "jawaban":"saja"
+   },
+   {
+      "id":407,
+      "nama_lagu":"Terlalu Manis",
+      "judul":"Terlalu Manis",
+      "author":"Slank",
+      "potongan_lirik":"Terlalu manis tuk dilupakan, kenangan indah ...",
+      "jawaban":"bersamamu"
+   },
+   {
+      "id":408,
+      "nama_lagu":"Ku Tak Bisa",
+      "judul":"Ku Tak Bisa",
+      "author":"Slank",
+      "potongan_lirik":"Ku tak bisa jauh, jauh dari ...",
+      "jawaban":"dirimu"
+   },
+   {
+      "id":409,
+      "nama_lagu":"Kasih Putih",
+      "judul":"Kasih Putih",
+      "author":"Glenn Fredly",
+      "potongan_lirik":"Biarkanlah kurasakan kasih putihmu mengalir di ...",
+      "jawaban":"nadi"
+   },
+   {
+      "id":410,
+      "nama_lagu":"Cantik",
+      "judul":"Cantik",
+      "author":"Kahitna",
+      "potongan_lirik":"Cantik, ingin rasa hati berbisik, tuk melepas ...",
+      "jawaban":"rindu"
+   },
+   {
+      "id":411,
+      "nama_lagu":"Cerita Cinta",
+      "judul":"Cerita Cinta",
+      "author":"Kahitna",
+      "potongan_lirik":"Biar cinta bersemi di dalam hati, jalani ...",
+      "jawaban":"cerita"
+   },
+   {
+      "id":412,
+      "nama_lagu":"Cinta Sendiri",
+      "judul":"Cinta Sendiri",
+      "author":"Kahitna",
+      "potongan_lirik":"Haruskah ku simpan rasa ini, ataukah ...",
+      "jawaban":"ku katakan"
+   },
+   {
+      "id":413,
+      "nama_lagu":"Dia",
+      "judul":"Dia",
+      "author":"Anji",
+      "potongan_lirik":"Oh Tuhan kucinta dia, kusayang dia, rindu ...",
+      "jawaban":"dia"
+   },
+   {
+      "id":414,
+      "nama_lagu":"Menunggu Kamu",
+      "judul":"Menunggu Kamu",
+      "author":"Anji",
+      "potongan_lirik":"Ku selalu mencoba untuk ...",
+      "jawaban":"menunggumu"
+   },
+   {
+      "id":415,
+      "nama_lagu":"Bidadari Tak Bersayap",
+      "judul":"Bidadari Tak Bersayap",
+      "author":"Anji",
+      "potongan_lirik":"Sampai habis nyawaku, sampai habis ...",
+      "jawaban":"usiaku"
+   },
+   {
+      "id":416,
+      "nama_lagu":"Akad",
+      "judul":"Akad",
+      "author":"Payung Teduh",
+      "potongan_lirik":"Bila nanti saatnya telah tiba, ku ingin kau menjadi ...",
+      "jawaban":"istriku"
+   },
+   {
+      "id":417,
+      "nama_lagu":"Resah",
+      "judul":"Resah",
+      "author":"Payung Teduh",
+      "potongan_lirik":"Aku ingin berjalan bersamamu, dalam ...",
+      "jawaban":"kehampaan"
+   },
+   {
+      "id":418,
+      "nama_lagu":"Untuk Perempuan Yang Sedang Di Pelukan",
+      "judul":"Untuk Perempuan Yang Sedang Di Pelukan",
+      "author":"Payung Teduh",
+      "potongan_lirik":"Hanya ada sedikit bintang malam ini, mungkin ...",
+      "jawaban":"karena kau"
+   },
+   {
+      "id":419,
+      "nama_lagu":"Cinta Luar Biasa",
+      "judul":"Cinta Luar Biasa",
+      "author":"Andmesh",
+      "potongan_lirik":"Terimalah lagu ini dari orang biasa, tapi cintaku ...",
+      "jawaban":"luar biasa"
+   },
+   {
+      "id":420,
+      "nama_lagu":"Kumau Dia",
+      "judul":"Kumau Dia",
+      "author":"Andmesh",
+      "potongan_lirik":"Ku mau dia, tak mau ...",
+      "jawaban":"yang lain"
+   },
+   {
+      "id":421,
+      "nama_lagu":"Pamer Bojo",
+      "judul":"Pamer Bojo",
+      "author":"Didi Kempot",
+      "potongan_lirik":"Dudu klambi anyar sing neng njero lemari, nanging ...",
+      "jawaban":"bojo anyar"
+   },
+   {
+      "id":422,
+      "nama_lagu":"Cidro",
+      "judul":"Cidro",
+      "author":"Didi Kempot",
+      "potongan_lirik":"Wes sak mestine ati iki ...",
+      "jawaban":"nelangsa"
+   },
+   {
+      "id":423,
+      "nama_lagu":"Stasiun Balapan",
+      "judul":"Stasiun Balapan",
+      "author":"Didi Kempot",
+      "potongan_lirik":"Ning stasiun balapan, kuto Solo sing dadi ...",
+      "jawaban":"kenangan"
+   },
+   {
+      "id":424,
+      "nama_lagu":"Kalung Emas",
+      "judul":"Kalung Emas",
+      "author":"Didi Kempot",
+      "potongan_lirik":"Kalung emas sing ono ...",
+      "jawaban":"gulumu"
+   },
+   {
+      "id":425,
+      "nama_lagu":"Kartonyono Medot Janji",
+      "judul":"Kartonyono Medot Janji",
+      "author":"Denny Caknan",
+      "potongan_lirik":"Kartonyono neng ngawi medot ...",
+      "jawaban":"janjimu"
+   },
+   {
+      "id":426,
+      "nama_lagu":"Los Dol",
+      "judul":"Los Dol",
+      "author":"Denny Caknan",
+      "potongan_lirik":"Los dol ndang lanjut lehmu ...",
+      "jawaban":"whatsappan"
+   },
+   {
+      "id":427,
+      "nama_lagu":"Sugeng Dalu",
+      "judul":"Sugeng Dalu",
+      "author":"Denny Caknan",
+      "potongan_lirik":"Sugeng dalu, ati sing ...",
+      "jawaban":"keburu"
+   },
+   {
+      "id":428,
+      "nama_lagu":"Mendung Tanpo Udan",
+      "judul":"Mendung Tanpo Udan",
+      "author":"Ndarboy Genk",
+      "potongan_lirik":"Mendung tanpo udan, ketemu lan ...",
+      "jawaban":"kelangan"
+   },
+   {
+      "id":429,
+      "nama_lagu":"Dalan Liyane",
+      "judul":"Dalan Liyane",
+      "author":"Hendra Kumbara",
+      "potongan_lirik":"Sopo sing kuat nandang ...",
+      "jawaban":"kasmaran"
+   },
+   {
+      "id":430,
+      "nama_lagu":"Joko Tingkir",
+      "judul":"Joko Tingkir",
+      "author":"Farel Prayoga",
+      "potongan_lirik":"Joko tingkir ngombe ...",
+      "jawaban":"dawet"
+   },
+   {
+      "id":431,
+      "nama_lagu":"Thinking About You",
+      "judul":"Thinking About You",
+      "author":"Frank Ocean",
+      "potongan_lirik":"A tornado flew around my room before ...",
+      "jawaban":"you came"
+   },
+   {
+      "id":432,
+      "nama_lagu":"Cruel Summer",
+      "judul":"Cruel Summer",
+      "author":"Taylor Swift",
+      "potongan_lirik":"It's a cruel summer with ...",
+      "jawaban":"you"
+   },
+   {
+      "id":433,
+      "nama_lagu":"Anti-Hero",
+      "judul":"Anti-Hero",
+      "author":"Taylor Swift",
+      "potongan_lirik":"It's me, hi, I'm the problem, it's ...",
+      "jawaban":"me"
+   },
+   {
+      "id":434,
+      "nama_lagu":"Love Story",
+      "judul":"Love Story",
+      "author":"Taylor Swift",
+      "potongan_lirik":"Romeo, take me somewhere we can be ...",
+      "jawaban":"alone"
+   },
+   {
+      "id":435,
+      "nama_lagu":"You Belong With Me",
+      "judul":"You Belong With Me",
+      "author":"Taylor Swift",
+      "potongan_lirik":"She wears short skirts, I wear ...",
+      "jawaban":"T-shirts"
+   },
+   {
+      "id":436,
+      "nama_lagu":"Bad Guy",
+      "judul":"Bad Guy",
+      "author":"Billie Eilish",
+      "potongan_lirik":"So you're a tough guy, like it really rough guy, just can't get ...",
+      "jawaban":"enough guy"
+   },
+   {
+      "id":437,
+      "nama_lagu":"Everything I Wanted",
+      "judul":"Everything I Wanted",
+      "author":"Billie Eilish",
+      "potongan_lirik":"I had a dream, I got everything I ...",
+      "jawaban":"wanted"
+   },
+   {
+      "id":438,
+      "nama_lagu":"Happier Than Ever",
+      "judul":"Happier Than Ever",
+      "author":"Billie Eilish",
+      "potongan_lirik":"When I'm away from you, I'm happier than ...",
+      "jawaban":"ever"
+   },
+   {
+      "id":439,
+      "nama_lagu":"Driver License",
+      "judul":"Driver License",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"And I know we weren't perfect but I've never felt this way for ...",
+      "jawaban":"no one"
+   },
+   {
+      "id":440,
+      "nama_lagu":"Good 4 U",
+      "judul":"Good 4 U",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"Well, good for you, you look happy and ...",
+      "jawaban":"healthy"
+   },
+   {
+      "id":441,
+      "nama_lagu":"Traitor",
+      "judul":"Traitor",
+      "author":"Olivia Rodrigo",
+      "potongan_lirik":"You betrayed me, and I know that you'll never feel ...",
+      "jawaban":"sorry"
+   },
+   {
+      "id":442,
+      "nama_lagu":"Blinding Lights",
+      "judul":"Blinding Lights",
+      "author":"The Weeknd",
+      "potongan_lirik":"I said, ooh, I'm blinded by the ...",
+      "jawaban":"lights"
+   },
+   {
+      "id":443,
+      "nama_lagu":"Save Your Tears",
+      "judul":"Save Your Tears",
+      "author":"The Weeknd",
+      "potongan_lirik":"Save your tears for another ...",
+      "jawaban":"day"
+   },
+   {
+      "id":444,
+      "nama_lagu":"Starboy",
+      "judul":"Starboy",
+      "author":"The Weeknd",
+      "potongan_lirik":"Look what you've done, I'm a motherfuckin' ...",
+      "jawaban":"starboy"
+   },
+   {
+      "id":445,
+      "nama_lagu":"Die For You",
+      "judul":"Die For You",
+      "author":"The Weeknd",
+      "potongan_lirik":"Even though we're going through it, and it makes you feel alone, just know that I would ...",
+      "jawaban":"die for you"
+   },
+   {
+      "id":446,
+      "nama_lagu":"As It Was",
+      "judul":"As It Was",
+      "author":"Harry Styles",
+      "potongan_lirik":"In this world, it's just us, you know it's not the ...",
+      "jawaban":"same"
+   },
+   {
+      "id":447,
+      "nama_lagu":"Watermelon Sugar",
+      "judul":"Watermelon Sugar",
+      "author":"Harry Styles",
+      "potongan_lirik":"Watermelon sugar ...",
+      "jawaban":"high"
+   },
+   {
+      "id":448,
+      "nama_lagu":"Night Changes",
+      "judul":"Night Changes",
+      "author":"One Direction",
+      "potongan_lirik":"Does it ever drive you crazy, just how fast the ...",
+      "jawaban":"night changes"
+   },
+   {
+      "id":449,
+      "nama_lagu":"What Makes You Beautiful",
+      "judul":"What Makes You Beautiful",
+      "author":"One Direction",
+      "potongan_lirik":"You don't know you're beautiful, that's what makes you ...",
+      "jawaban":"beautiful"
+   },
+   {
+      "id":450,
+      "nama_lagu":"Story of My Life",
+      "judul":"Story of My Life",
+      "author":"One Direction",
+      "potongan_lirik":"The story of my life, I take her ...",
+      "jawaban":"home"
+   },
+   {
+      "id":451,
+      "nama_lagu":"Dynamite",
+      "judul":"Dynamite",
+      "author":"BTS",
+      "potongan_lirik":"I'm in the stars tonight, so watch me bring the fire and set the ...",
+      "jawaban":"night alight"
+   },
+   {
+      "id":452,
+      "nama_lagu":"Butter",
+      "judul":"Butter",
+      "author":"BTS",
+      "potongan_lirik":"Smooth like butter, like a criminal ...",
+      "jawaban":"undercover"
+   },
+   {
+      "id":453,
+      "nama_lagu":"Boy With Luv",
+      "judul":"Boy With Luv",
+      "author":"BTS",
+      "potongan_lirik":"Oh my my my, oh my my ...",
+      "jawaban":"my"
+   },
+   {
+      "id":454,
+      "nama_lagu":"Kill This Love",
+      "judul":"Kill This Love",
+      "author":"Blackpink",
+      "potongan_lirik":"Let's kill this ...",
+      "jawaban":"love"
+   },
+   {
+      "id":455,
+      "nama_lagu":"How You Like That",
+      "judul":"How You Like That",
+      "author":"Blackpink",
+      "potongan_lirik":"Look at you, now look at ...",
+      "jawaban":"me"
+   },
+   {
+      "id":456,
+      "nama_lagu":"Ddu-Du Ddu-Du",
+      "judul":"Ddu-Du Ddu-Du",
+      "author":"Blackpink",
+      "potongan_lirik":"Hit you with that ddu-du ddu-du ...",
+      "jawaban":"du"
+   },
+   {
+      "id":457,
+      "nama_lagu":"Love To Hate Me",
+      "judul":"Love To Hate Me",
+      "author":"Blackpink",
+      "potongan_lirik":"Wake up, yeah, makeup, maybe, I need you, nah, I ...",
+      "jawaban":"been good lately"
+   },
+   {
+      "id":458,
+      "nama_lagu":"Solo",
+      "judul":"Solo",
+      "author":"Jennie",
+      "potongan_lirik":"I'm going solo-lo-lo-lo-lo ...",
+      "jawaban":"lo"
+   },
+   {
+      "id":459,
+      "nama_lagu":"Lalisa",
+      "judul":"Lalisa",
+      "author":"Lisa",
+      "potongan_lirik":"Say Lalisa love me, Lalisa love ...",
+      "jawaban":"me"
+   },
+   {
+      "id":460,
+      "nama_lagu":"Money",
+      "judul":"Money",
+      "author":"Lisa",
+      "potongan_lirik":"Twerk, twerk, when the buy the things they ...",
+      "jawaban":"like"
+   },
+   {
+      "id":461,
+      "nama_lagu":"Flower",
+      "judul":"Flower",
+      "author":"Jisoo",
+      "potongan_lirik":"Kkot-hyang-giman nam-gigo ...",
+      "ivat":"ga-sseo"
+   },
+   {
+      "id":462,
+      "nama_lagu":"On The Ground",
+      "judul":"On The Ground",
+      "author":"Rose",
+      "potongan_lirik":"Everything I need is on the ...",
+      "jawaban":"ground"
+   },
+   {
+      "id":463,
+      "nama_lagu":"Peaches",
+      "judul":"Peaches",
+      "author":"Justin Bieber",
+      "potongan_lirik":"I got my peaches out in Georgia, I get my weed from ...",
+      "jawaban":"California"
+   },
+   {
+      "id":464,
+      "nama_lagu":"Love Yourself",
+      "judul":"Love Yourself",
+      "author":"Justin Bieber",
+      "potongan_lirik":"My mama don't like you and she likes ...",
+      "jawaban":"everyone"
+   },
+   {
+      "id":465,
+      "nama_lagu":"Stay",
+      "judul":"Stay",
+      "author":"The Kid LAROI & Justin Bieber",
+      "potongan_lirik":"I do the same thing I told you that I never ...",
+      "jawaban":"would"
+   },
+   {
+      "id":466,
+      "nama_lagu":"Levitating",
+      "judul":"Levitating",
+      "author":"Dua Lipa",
+      "potongan_lirik":"I got you, moonlight, you're my starlight, I need you all night, come on, dance with ...",
+      "jawaban":"me"
+   },
+   {
+      "id":467,
+      "nama_lagu":"New Rules",
+      "judul":"New Rules",
+      "author":"Dua Lipa",
+      "potongan_lirik":"One, don't pick up the phone, you know he's only calling 'cause he's drunk and ...",
+      "jawaban":"alone"
+   },
+   {
+      "id":468,
+      "nama_lagu":"Houdini",
+      "judul":"Houdini",
+      "author":"Dua Lipa",
+      "potongan_lirik":"Catch me or I go ...",
+      "jawaban":"Houdini"
+   },
+   {
+      "id":469,
+      "nama_lagu":"Cheap Thrills",
+      "judul":"Cheap Thrills",
+      "author":"Sia",
+      "potongan_lirik":"I don't need no money, as long as I can keep the ...",
+      "jawaban":"beat"
+   },
+   {
+      "id":470,
+      "nama_lagu":"Chandelier",
+      "judul":"Chandelier",
+      "author":"Sia",
+      "potongan_lirik":"I'm gonna swing from the ...",
+      "jawaban":"chandelier"
+   },
+   {
+      "id":471,
+      "nama_lagu":"Titanium",
+      "judul":"Titanium",
+      "author":"David Guetta feat. Sia",
+      "potongan_lirik":"I'm bulletproof, nothing to lose, fire away, ...",
+      "jawaban":"fire away"
+   },
+   {
+      "id":472,
+      "nama_lagu":"Waka Waka",
+      "judul":"Waka Waka",
+      "author":"Shakira",
+      "potongan_lirik":"Tsamina mina, zangalewa, 'cause this is ...",
+      "jawaban":"Africa"
+   },
+   {
+      "id":473,
+      "nama_lagu":"Hips Don't Lie",
+      "judul":"Hips Don't Lie",
+      "author":"Shakira",
+      "potongan_lirik":"I'm on tonight, you know my hips don't ...",
+      "jawaban":"lie"
+   },
+   {
+      "id":474,
+      "nama_lagu":"Roar",
+      "judul":"Roar",
+      "author":"Katy Perry",
+      "potongan_lirik":"I got the eye of the tiger, a fighter, dancing through the ...",
+      "jawaban":"fire"
+   },
+   {
+      "id":475,
+      "nama_lagu":"Firework",
+      "judul":"Firework",
+      "author":"Katy Perry",
+      "potongan_lirik":"'Cause baby you're a ...",
+      "jawaban":"firework"
+   },
+   {
+      "id":476,
+      "nama_lagu":"Dark Horse",
+      "judul":"Dark Horse",
+      "author":"Katy Perry",
+      "potongan_lirik":"So you wanna play with ...",
+      "jawaban":"magic"
+   },
+   {
+      "id":477,
+      "nama_lagu":"Bad Romance",
+      "judul":"Bad Romance",
+      "author":"Lady Gaga",
+      "potongan_lirik":"I want your love, and I want your ...",
+      "jawaban":"revenge"
+   },
+   {
+      "id":478,
+      "nama_lagu":"Poker Face",
+      "judul":"Poker Face",
+      "author":"Lady Gaga",
+      "potongan_lirik":"Can't read my, can't read my, no he can't read my ...",
+      "jawaban":"poker face"
+   },
+   {
+      "id":479,
+      "nama_lagu":"Shallow",
+      "judul":"Shallow",
+      "author":"Lady Gaga & Bradley Cooper",
+      "potongan_lirik":"I'm off the deep end, watch as I dive in, I'll never meet the ...",
+      "jawaban":"ground"
+   },
+   {
+      "id":480,
+      "nama_lagu":"Rolling In The Deep",
+      "judul":"Rolling In The Deep",
+      "author":"Adele",
+      "potongan_lirik":"We could have had it ...",
+      "jawaban":"all"
+   },
+   {
+      "id":481,
+      "nama_lagu":"Someone Like You",
+      "judul":"Someone Like You",
+      "author":"Adele",
+      "potongan_lirik":"Never mind I'll find someone like ...",
+      "jawaban":"you"
+   },
+   {
+      "id":482,
+      "nama_lagu":"Hello",
+      "judul":"Hello",
+      "author":"Adele",
+      "potongan_lirik":"Hello from the other ...",
+      "jawaban":"side"
+   },
+   {
+      "id":483,
+      "nama_lagu":"7 Rings",
+      "judul":"7 Rings",
+      "author":"Ariana Grande",
+      "potongan_lirik":"I see it, I like it, I want it, I ...",
+      "jawaban":"got it"
+   },
+   {
+      "id":484,
+      "nama_lagu":"Thank U, Next",
+      "judul":"Thank U, Next",
+      "author":"Ariana Grande",
+      "potongan_lirik":"One taught me love, one taught me patience, one taught me ...",
+      "jawaban":"pain"
+   },
+   {
+      "id":485,
+      "nama_lagu":"Positions",
+      "judul":"Positions",
+      "author":"Ariana Grande",
+      "potongan_lirik":"Switching the positions for ...",
+      "jawaban":"you"
+   },
+   {
+      "id":486,
+      "nama_lagu":"Grenade",
+      "judul":"Grenade",
+      "author":"Bruno Mars",
+      "potongan_lirik":"I'd catch a grenade for ...",
+      "jawaban":"you"
+   },
+   {
+      "id":487,
+      "nama_lagu":"Just The Way You Are",
+      "judul":"Just The Way You Are",
+      "author":"Bruno Mars",
+      "potongan_lirik":"When I see your face, there's not a thing that I would ...",
+      "jawaban":"change"
+   },
+   {
+      "id":488,
+      "nama_lagu":"Uptown Funk",
+      "judul":"Uptown Funk",
+      "author":"Mark Ronson feat. Bruno Mars",
+      "potongan_lirik":"Don't believe me, just ...",
+      "jawaban":"watch"
+   },
+   {
+      "id":489,
+      "nama_lagu":"Sugar",
+      "judul":"Sugar",
+      "author":"Maroon 5",
+      "potongan_lirik":"Sugar, yes please, won't you come and put it down on ...",
+      "jawaban":"me"
+   },
+   {
+      "id":490,
+      "nama_lagu":"Girls Like You",
+      "judul":"Girls Like You",
+      "author":"Maroon 5",
+      "potongan_lirik":"'Cause girls like you run 'round with guys like ...",
+      "jawaban":"me"
+   },
+   {
+      "id":491,
+      "nama_lagu":"Counting Stars",
+      "judul":"Counting Stars",
+      "author":"OneRepublic",
+      "potongan_lirik":"Lately I've been losing sleep, dreaming about the things that we could ...",
+      "jawaban":"be"
+   },
+   {
+      "id":492,
+      "nama_lagu":"Believer",
+      "judul":"Believer",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"First things first, I'ma say all the words inside my ...",
+      "jawaban":"head"
+   },
+   {
+      "id":493,
+      "nama_lagu":"Thunder",
+      "judul":"Thunder",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"Thunder, thunder, thunder, feel the ...",
+      "jawaban":"thunder"
+   },
+   {
+      "id":494,
+      "nama_lagu":"Enemy",
+      "judul":"Enemy",
+      "author":"Imagine Dragons",
+      "potongan_lirik":"Oh, the misery, everybody wants to be my ...",
+      "jawaban":"enemy"
+   },
+   {
+      "id":495,
+      "nama_lagu":"Despacito",
+      "judul":"Despacito",
+      "author":"Luis Fonsi feat. Daddy Yankee",
+      "potongan_lirik":"Despacito, quiero respirar tu cuello ...",
+      "jawaban":"despacito"
+   },
+   {
+      "id":496,
+      "nama_lagu":"Havana",
+      "judul":"Havana",
+      "author":"Camila Cabello",
+      "potongan_lirik":"Havana, ooh na-na, half of my heart is in ...",
+      "jawaban":"Havana"
+   },
+   {
+      "id":497,
+      "nama_lagu":"Senorita",
+      "judul":"Senorita",
+      "author":"Shawn Mendes & Camila Cabello",
+      "potongan_lirik":"I love it when you call me ...",
+      "jawaban":"Senorita"
+   },
+   {
+      "id":498,
+      "nama_lagu":"Treat You Better",
+      "judul":"Treat You Better",
+      "author":"Shawn Mendes",
+      "potongan_lirik":"I know I can treat you better, better than he ...",
+      "jawaban":"can"
+   },
+   {
+      "id":499,
+      "nama_lagu":"Stitches",
+      "judul":"Stitches",
+      "author":"Shawn Mendes",
+      "potongan_lirik":"You watch me bleed until I can't breathe, shaking, ...",
+      "jawaban":"falling"
+   },
+   {
+      "id":500,
+      "nama_lagu":"End of Beginning",
+      "judul":"End of Beginning",
+      "author":"Djo",
+      "potongan_lirik":"And when I'm back in Chicago, I feel ...",
+      "jawaban":"it"
+   }
 ]
