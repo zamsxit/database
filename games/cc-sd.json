@@ -1,902 +1,4502 @@
 [
-  { "id": 1, "soal": "Ibu kota negara Indonesia adalah", "jawaban": "Jakarta" },
-  { "id": 2, "soal": "Lagu kebangsaan negara Indonesia adalah", "jawaban": "Indonesia Raya" },
-  { "id": 3, "soal": "Presiden pertama Republik Indonesia adalah", "jawaban": "Soekarno" },
-  { "id": 4, "soal": "Lambang negara Indonesia adalah burung", "jawaban": "Garuda" },
-  { "id": 5, "soal": "Dasar negara Indonesia adalah", "jawaban": "Pancasila" },
-  { "id": 6, "soal": "Hasil dari sepuluh ditambah lima adalah", "jawaban": "Limabelas" },
-  { "id": 7, "soal": "Hewan yang bisa hidup di darat dan di air disebut", "jawaban": "Amfibi" },
-  { "id": 8, "soal": "Planet tempat manusia tinggal adalah planet", "jawaban": "Bumi" },
-  { "id": 9, "soal": "Matahari terbit dari arah", "jawaban": "Timur" },
-  { "id": 10, "soal": "Warna bendera negara Indonesia adalah", "jawaban": "Merah Putih" },
-  { "id": 11, "soal": "Alat pernapasan pada ikan disebut", "jawaban": "Insang" },
-  { "id": 12, "soal": "Hasil dari lima dikali lima adalah", "jawaban": "Duapuluh lima" },
-  { "id": 13, "soal": "Indra manusia yang digunakan untuk melihat adalah", "jawaban": "Mata" },
-  { "id": 14, "soal": "Gunung tertinggi di pulau Jawa adalah gunung", "jawaban": "Semeru" },
-  { "id": 15, "soal": "Sila pertama Pancasila dilambangkan dengan gambar", "jawaban": "Bintang" },
-  { "id": 16, "soal": "Rumah adat khas Papua adalah", "jawaban": "Honai" },
-  { "id": 17, "soal": "Tumbuhan yang memiliki duri untuk melindungi diri adalah", "jawaban": "Kaktus" },
-  { "id": 18, "soal": "Benda yang digunakan untuk melihat waktu adalah", "jawaban": "Jam" },
-  { "id": 19, "soal": "Siapakah pencipta lagu Indonesia Raya", "jawaban": "Wage Rudolf Supratman" },
-  { "id": 20, "soal": "Zat hijau pada daun disebut", "jawaban": "Klorofil" },
-  { "id": 21, "soal": "Hewan pemakan tumbuhan disebut", "jawaban": "Herbivora" },
-  { "id": 22, "soal": "Hewan pemakan daging disebut", "jawaban": "Karnivora" },
-  { "id": 23, "soal": "Arah mata angin yang berada di antara utara dan timur adalah", "jawaban": "Timur Laut" },
-  { "id": 24, "soal": "Alat musik yang dimainkan dengan cara digesek adalah", "jawaban": "Biola" },
-  { "id": 25, "soal": "Provinsi yang paling barat di Indonesia adalah", "jawaban": "Aceh" },
-  { "id": 26, "soal": "Bahasa internasional yang paling banyak digunakan adalah bahasa", "jawaban": "Inggris" },
-  { "id": 27, "soal": "Bahan utama pembuatan tempe adalah", "jawaban": "Kedelai" },
-  { "id": 28, "soal": "Sumpah Pemuda dirayakan setiap tanggal dua puluh delapan bulan", "jawaban": "Oktober" },
-  { "id": 29, "soal": "Satuan untuk berat benda adalah", "jawaban": "Kilogram" },
-  { "id": 30, "soal": "Pusat tata surya adalah", "jawaban": "Matahari" },
-  { "id": 31, "soal": "Negara yang pernah menjajah Indonesia selama tiga setengah abad adalah", "jawaban": "Belanda" },
-  { "id": 32, "soal": "Mamalia yang hidup di laut dan sangat cerdas adalah", "jawaban": "Lumba-lumba" },
-  { "id": 33, "soal": "Pakaian tradisional khas Jawa Tengah adalah", "jawaban": "Kebaya" },
-  { "id": 34, "soal": "Alat yang digunakan untuk mengukur suhu adalah", "jawaban": "Termometer" },
-  { "id": 35, "soal": "Bunga nasional bangsa Indonesia adalah bunga", "jawaban": "Melati" },
-  { "id": 36, "soal": "Danau terbesar di Indonesia adalah danau", "jawaban": "Toba" },
-  { "id": 37, "soal": "Bagian tubuh burung yang digunakan untuk terbang adalah", "jawaban": "Sayap" },
-  { "id": 38, "soal": "Candi borobudur terletak di provinsi", "jawaban": "Jawa Tengah" },
-  { "id": 39, "soal": "Hasil dari dua puluh empat dibagi dua adalah", "jawaban": "Duabelas" },
-  { "id": 40, "soal": "Arah yang berlawanan dengan utara adalah", "jawaban": "Selatan" },
-  { "id": 41, "soal": "Mata uang negara Indonesia adalah", "jawaban": "Rupiah" },
-  { "id": 42, "soal": "Benda yang ditarik oleh magnet biasanya terbuat dari", "jawaban": "Besi" },
-  { "id": 43, "soal": "Hewan yang memiliki belalai panjang adalah", "jawaban": "Gajah" },
-  { "id": 44, "soal": "Olahraga yang dimainkan oleh sebelas orang setiap tim adalah", "jawaban": "Sepak Bola" },
-  { "id": 45, "soal": "Makan siang biasanya dilakukan pada jam", "jawaban": "Duabelas" },
-  { "id": 46, "soal": "Ibu kota provinsi Jawa Barat adalah", "jawaban": "Bandung" },
-  { "id": 47, "soal": "Pahlawan yang dijuluki Ayam Jantan dari Timur adalah", "jawaban": "Sultan Hasanuddin" },
-  { "id": 48, "soal": "Benda cair jika didinginkan di dalam freezer akan menjadi", "jawaban": "Padat" },
-  { "id": 49, "soal": "Planet merah adalah sebutan untuk planet", "jawaban": "Mars" },
-  { "id": 50, "soal": "Hewan yang lehernya sangat panjang adalah", "jawaban": "Jerapah" },
-  { "id": 51, "soal": "Vitamin yang banyak terkandung dalam buah jeruk adalah vitamin", "jawaban": "C" },
-  { "id": 52, "soal": "Jumlah sila dalam Pancasila adalah", "jawaban": "Lima" },
-  { "id": 53, "soal": "Surat yang dikirim lewat komputer disebut", "jawaban": "Email" },
-  { "id": 54, "soal": "Bagian tumbuhan yang berada di dalam tanah adalah", "jawaban": "Akar" },
-  { "id": 55, "soal": "Alat musik angklung berasal dari daerah", "jawaban": "Jawa Barat" },
-  { "id": 56, "soal": "Setelah hari Senin adalah hari", "jawaban": "Selasa" },
-  { "id": 57, "soal": "Sesuatu yang memiliki massa dan menempati ruang disebut", "jawaban": "Benda" },
-  { "id": 58, "soal": "Gunung berapi yang pernah meletus sangat dahsyat tahun seribu delapan ratus delapan puluh tiga adalah", "jawaban": "Krakatau" },
-  { "id": 59, "soal": "Bentuk bumi yang sebenarnya adalah", "jawaban": "Bulat" },
-  { "id": 60, "soal": "Candi Prambanan merupakan peninggalan agama", "jawaban": "Hindu" },
-  { "id": 61, "soal": "Hasil dari seratus dikurangi lima puluh adalah", "jawaban": "Limapuluh" },
-  { "id": 62, "soal": "Siapakah bapak proklamator Indonesia", "jawaban": "Soekarno dan Hatta" },
-  { "id": 63, "soal": "Burung yang tidak bisa terbang namun lari sangat cepat adalah", "jawaban": "Burung Unta" },
-  { "id": 64, "soal": "Alat indra untuk mengecap rasa adalah", "jawaban": "Lidah" },
-  { "id": 65, "soal": "Penyakit akibat kekurangan sel darah merah disebut", "jawaban": "Anemia" },
-  { "id": 66, "soal": "Samudra terluas di dunia adalah samudra", "jawaban": "Pasifik" },
-  { "id": 67, "soal": "Bahan bakar untuk pesawat terbang adalah", "jawaban": "Avtur" },
-  { "id": 68, "soal": "Provinsi yang beribukota di Surabaya adalah", "jawaban": "Jawa Timur" },
-  { "id": 69, "soal": "Sesuatu yang dapat ditarik magnet disebut benda", "jawaban": "Magnetis" },
-  { "id": 70, "soal": "Satuan waktu yang terdiri dari enam puluh detik adalah", "jawaban": "Menit" },
-  { "id": 71, "soal": "Penemu lampu pijar adalah", "jawaban": "Thomas Alva Edison" },
-  { "id": 72, "soal": "Hewan terkecil yang suka bekerja sama adalah", "jawaban": "Semut" },
-  { "id": 73, "soal": "Sinar matahari pagi mengandung vitamin", "jawaban": "D" },
-  { "id": 74, "soal": "Negara tetangga yang berbatasan darat dengan Kalimantan adalah", "jawaban": "Malaysia" },
-  { "id": 75, "soal": "Peralatan sekolah yang digunakan untuk menghapus tulisan pensil adalah", "jawaban": "Penghapus" },
-  { "id": 76, "soal": "Pohon yang batangnya bisa dijadikan gula merah adalah pohon", "jawaban": "Kelapa" },
-  { "id": 77, "soal": "Zat yang diperlukan tubuh untuk pertumbuhan adalah", "jawaban": "Protein" },
-  { "id": 78, "soal": "Pulau terbesar di Indonesia adalah pulau", "jawaban": "Kalimantan" },
-  { "id": 79, "soal": "Alat musik yang dipukul untuk mengeluarkan suara adalah", "jawaban": "Gendang" },
-  { "id": 80, "soal": "Perubahan wujud benda dari cair menjadi gas disebut", "jawaban": "Menguap" },
-  { "id": 81, "soal": "Gigi yang berfungsi untuk mengunyah makanan disebut gigi", "jawaban": "Geraham" },
-  { "id": 82, "soal": "Benua terkecil di dunia adalah benua", "jawaban": "Australia" },
-  { "id": 83, "soal": "Tempat untuk menyimpan uang di bank disebut", "jawaban": "Tabungan" },
-  { "id": 84, "soal": "Kupu-kupu berasal dari hewan yang bernama", "jawaban": "Ulat" },
-  { "id": 85, "soal": "Tari Pendet berasal dari daerah", "jawaban": "Bali" },
-  { "id": 86, "soal": "Suku asli yang mendiami pulau Kalimantan adalah suku", "jawaban": "Dayak" },
-  { "id": 87, "soal": "Alat yang digunakan untuk memotong kertas adalah", "jawaban": "Gunting" },
-  { "id": 88, "soal": "Benda yang permukaannya halus dan bisa memantulkan bayangan adalah", "jawaban": "Cermin" },
-  { "id": 89, "soal": "Kekurangan cairan dalam tubuh disebut", "jawaban": "Dehidrasi" },
-  { "id": 90, "soal": "Makanan pokok sebagian besar masyarakat Indonesia adalah", "jawaban": "Nasi" },
-  { "id": 91, "soal": "Bagian mata yang mengatur cahaya masuk disebut", "jawaban": "Pupil" },
-  { "id": 92, "soal": "Hari kemerdekaan Indonesia dirayakan setiap bulan", "jawaban": "Agustus" },
-  { "id": 93, "soal": "Hewan yang pandai melompat dan memiliki kantong di perutnya adalah", "jawaban": "Kanguru" },
-  { "id": 94, "soal": "Bunyi yang merambat melalui udara bisa didengar oleh indra", "jawaban": "Telinga" },
-  { "id": 95, "soal": "Planet terbesar dalam tata surya adalah", "jawaban": "Yupiter" },
-  { "id": 96, "soal": "Mata uang negara Amerika Serikat adalah", "jawaban": "Dollar" },
-  { "id": 97, "soal": "Tumbuhan yang menyimpan cadangan air di batangnya adalah kaktus dan pohon", "jawaban": "Pisang" },
-  { "id": 98, "soal": "Warna primer terdiri dari merah kuning dan", "jawaban": "Biru" },
-  { "id": 99, "soal": "Tempat bertemunya penjual dan pembeli disebut", "jawaban": "Pasar" },
-  { "id": 100, "soal": "Gunung api yang masih aktif disebut gunung", "jawaban": "Berapi" },
-  { "id": 201, "soal": "Hewan yang memiliki cangkang keras dan jalannya lambat adalah", "jawaban": "Kura-kura" },
-  { "id": 202, "soal": "Garis yang membagi bumi menjadi dua bagian utara dan selatan adalah", "jawaban": "Khatulistiwa" },
-  { "id": 203, "soal": "Benda yang dapat menghantarkan panas dengan baik disebut", "jawaban": "Konduktor" },
-  { "id": 204, "soal": "Perubahan wujud gas menjadi cair disebut", "jawaban": "Mengembun" },
-  { "id": 205, "soal": "Alat musik piano dimainkan dengan cara di", "jawaban": "Tekan" },
-  { "id": 206, "soal": "Bagian bunga yang berfungsi sebagai alat kelamin jantan adalah", "jawaban": "Benang sari" },
-  { "id": 207, "soal": "Ibu kota negara Jepang adalah", "jawaban": "Tokyo" },
-  { "id": 208, "soal": "Tulang yang melindungi otak manusia disebut", "jawaban": "Tengkorak" },
-  { "id": 209, "soal": "Hasil dari lima puluh ditambah lima puluh adalah", "jawaban": "Seratus" },
-  { "id": 210, "soal": "Hewan yang aktif mencari makan pada malam hari disebut hewan", "jawaban": "Nokturnal" },
-  { "id": 211, "soal": "Negara kincir angin adalah sebutan untuk negara", "jawaban": "Belanda" },
-  { "id": 212, "soal": "Indra manusia yang berfungsi sebagai pengecap adalah", "jawaban": "Lidah" },
-  { "id": 213, "soal": "Hutan yang memiliki curah hujan sangat tinggi disebut hutan hujan", "jawaban": "Tropis" },
-  { "id": 214, "soal": "Gunung api terbesar di dunia yang berada di Hawaii adalah", "jawaban": "Mauna Loa" },
-  { "id": 215, "soal": "Pahlawan nasional yang dikenal sebagai Bapak Pendidikan adalah", "jawaban": "Ki Hajar Dewantara" },
-  { "id": 216, "soal": "Zat yang menyebabkan warna merah pada darah disebut", "jawaban": "Hemoglobin" },
-  { "id": 217, "soal": "Rumah adat suku Minangkabau adalah rumah", "jawaban": "Gadang" },
-  { "id": 218, "soal": "Planet terkecil dalam tata surya kita adalah", "jawaban": "Merkurius" },
-  { "id": 219, "soal": "Kumpulan bintang di langit yang membentuk pola tertentu disebut", "jawaban": "Rasi bintang" },
-  { "id": 220, "soal": "Alat untuk mengukur kecepatan kendaraan adalah", "jawaban": "Speedometer" },
-  { "id": 221, "soal": "Cairan bening di dalam mulut yang membantu pencernaan adalah", "jawaban": "Air liur" },
-  { "id": 222, "soal": "Negara yang dijuluki Negeri Gajah Putih adalah", "jawaban": "Thailand" },
-  { "id": 223, "soal": "Proses pembuatan makanan pada tumbuhan hijau disebut", "jawaban": "Fotosintesis" },
-  { "id": 224, "soal": "Bangun datar yang memiliki tiga sisi dan tiga sudut disebut", "jawaban": "Segitiga" },
-  { "id": 225, "soal": "Ibu kota provinsi Bali adalah", "jawaban": "Denpasar" },
-  { "id": 226, "soal": "Zat padat yang berubah langsung menjadi gas disebut", "jawaban": "Menyublim" },
-  { "id": 227, "soal": "Serangga yang menghasilkan madu adalah", "jawaban": "Lebah" },
-  { "id": 228, "soal": "Benua yang dikenal sebagai benua es adalah benua", "jawaban": "Antartika" },
-  { "id": 229, "soal": "Alat musik sasando berasal dari daerah", "jawaban": "Nusa Tenggara Timur" },
-  { "id": 230, "soal": "Lampu lalu lintas warna hijau artinya kendaraan harus", "jawaban": "Jalan" },
-  { "id": 231, "soal": "Arah mata angin yang berada di antara selatan dan barat adalah", "jawaban": "Barat Daya" },
-  { "id": 232, "soal": "Hewan yang bernapas dengan paru-paru dan kulit adalah", "jawaban": "Katak" },
-  { "id": 233, "soal": "Kekurangan vitamin A dapat menyebabkan gangguan pada", "jawaban": "Mata" },
-  { "id": 234, "soal": "Hasil dari dua belas dikali dua adalah", "jawaban": "Duapuluh empat" },
-  { "id": 235, "soal": "Suku asli yang berasal dari Jakarta adalah suku", "jawaban": "Betawi" },
-  { "id": 236, "soal": "Bagian tubuh manusia yang berfungsi untuk memompa darah adalah", "jawaban": "Jantung" },
-  { "id": 237, "soal": "Laut yang sangat luas disebut", "jawaban": "Samudra" },
-  { "id": 238, "soal": "Alat musik yang ditiup dan terbuat dari bambu adalah", "jawaban": "Suling" },
-  { "id": 239, "soal": "Presiden kedua Republik Indonesia adalah", "jawaban": "Soeharto" },
-  { "id": 240, "soal": "Hewan pemakan segala disebut", "jawaban": "Omnivora" },
-  { "id": 241, "soal": "Tumbuhan yang menggugurkan daunnya pada musim kemarau adalah pohon", "jawaban": "Jati" },
-  { "id": 242, "soal": "Bagian mata yang memberikan warna pada mata adalah", "jawaban": "Iris" },
-  { "id": 243, "soal": "Provinsi tertua di Indonesia setelah merdeka adalah", "jawaban": "Jawa Tengah" },
-  { "id": 244, "soal": "Alat untuk memperbesar benda kecil agar terlihat jelas adalah", "jawaban": "Mikroskop" },
-  { "id": 245, "soal": "Satuan untuk mengukur panjang benda adalah", "jawaban": "Meter" },
-  { "id": 246, "soal": "Hewan yang mengalami metamorfosis sempurna dari ulat adalah", "jawaban": "Kupu-kupu" },
-  { "id": 247, "soal": "Kota yang dijuluki sebagai Kota Pahlawan adalah", "jawaban": "Surabaya" },
-  { "id": 248, "soal": "Gaya yang menyebabkan benda jatuh ke bawah adalah gaya", "jawaban": "Gravitasi" },
-  { "id": 249, "soal": "Tari piring berasal dari provinsi", "jawaban": "Sumatera Barat" },
-  { "id": 250, "soal": "Bahan tambang yang digunakan sebagai perhiasan adalah emas dan", "jawaban": "Perak" },
-  { "id": 251, "soal": "Ibu kota negara Malaysia adalah", "jawaban": "Kuala Lumpur" },
-  { "id": 252, "soal": "Jumlah hari dalam satu tahun kabisat adalah", "jawaban": "Tiga ratus enam puluh enam" },
-  { "id": 253, "soal": "Bagian telinga yang berfungsi untuk menangkap suara adalah", "jawaban": "Daun telinga" },
-  { "id": 254, "soal": "Olahraga yang memukul bola kecil dengan raket di atas meja disebut", "jawaban": "Tenis meja" },
-  { "id": 255, "soal": "Binatang yang bisa berubah warna kulitnya untuk melindungi diri adalah", "jawaban": "Bunglon" },
-  { "id": 256, "soal": "Peninggalan sejarah berupa tulisan pada batu disebut", "jawaban": "Prasasti" },
-  { "id": 257, "soal": "Indra yang digunakan untuk meraba permukaan benda adalah", "jawaban": "Kulit" },
-  { "id": 258, "soal": "Warna lampu lalu lintas yang menandakan kendaraan harus hati-hati adalah", "jawaban": "Kuning" },
-  { "id": 259, "soal": "Tumbuhan yang hidup menempel pada tumbuhan lain namun tidak merugikan disebut", "jawaban": "Epifit" },
-  { "id": 260, "soal": "Samudra yang berada di sebelah barat pulau Sumatera adalah samudra", "jawaban": "Hindia" },
-  { "id": 261, "soal": "Benda yang volumenya tetap tetapi bentuknya berubah mengikuti wadah adalah", "jawaban": "Cair" },
-  { "id": 262, "soal": "Alat bantu untuk melihat benda yang sangat jauh di ruang angkasa adalah", "jawaban": "Teleskop" },
-  { "id": 263, "soal": "Pembangkit listrik yang menggunakan tenaga air disebut", "jawaban": "PLTA" },
-  { "id": 264, "soal": "Sila kelima Pancasila dilambangkan dengan padi dan", "jawaban": "Kapas" },
-  { "id": 265, "soal": "Gigi manusia yang berfungsi untuk merobek makanan adalah gigi", "jawaban": "Taring" },
-  { "id": 266, "soal": "Tempat hidup suatu makhluk hidup disebut", "jawaban": "Habitat" },
-  { "id": 267, "soal": "Hasil dari sembilan dikali sembilan adalah", "jawaban": "Delapan puluh satu" },
-  { "id": 268, "soal": "Alat pernapasan pada tumbuhan yang berada di daun disebut", "jawaban": "Stomata" },
-  { "id": 269, "soal": "Ibu kota negara Korea Selatan adalah", "jawaban": "Seoul" },
-  { "id": 270, "soal": "Benda yang tidak dapat ditembus cahaya disebut benda", "jawaban": "Gelap" },
-  { "id": 271, "soal": "Candi Borobudur merupakan peninggalan dari kerajaan", "jawaban": "Syailendra" },
-  { "id": 272, "soal": "Hewan yang memiliki belalai untuk mengambil makanan adalah", "jawaban": "Gajah" },
-  { "id": 273, "soal": "Olahraga yang menggunakan raket dan kok disebut", "jawaban": "Bulutangkis" },
-  { "id": 274, "soal": "Arah mata angin yang berada di antara selatan dan timur adalah", "jawaban": "Tenggara" },
-  { "id": 275, "soal": "Negara paling luas di dunia adalah negara", "jawaban": "Rusia" },
-  { "id": 276, "soal": "Alat indra untuk mencium bau adalah", "jawaban": "Hidung" },
-  { "id": 277, "soal": "Air yang membeku karena suhu sangat dingin disebut", "jawaban": "Es" },
-  { "id": 278, "soal": "Ibu kota provinsi Sumatera Barat adalah", "jawaban": "Padang" },
-  { "id": 279, "soal": "Lawan kata dari siang adalah", "jawaban": "Malam" },
-  { "id": 280, "soal": "Bagian pohon yang mengangkut air dari akar ke daun adalah", "jawaban": "Batang" },
-  { "id": 281, "soal": "Hewan yang jalannya melompat dan tinggal di Australia adalah", "jawaban": "Kanguru" },
-  { "id": 282, "soal": "Satuan suhu yang paling umum digunakan di Indonesia adalah", "jawaban": "Celsius" },
-  { "id": 283, "soal": "Zat yang membuat cabai terasa pedas disebut", "jawaban": "Kapsaisin" },
-  { "id": 284, "soal": "Bangun ruang yang bentuknya seperti kotak tisu disebut", "jawaban": "Balok" },
-  { "id": 285, "soal": "Burung yang menjadi simbol perdamaian adalah burung", "jawaban": "Merpati" },
-  { "id": 286, "soal": "Alat musik yang dipetik dan memiliki enam dawai adalah", "jawaban": "Gitar" },
-  { "id": 287, "soal": "Benua terbesar di dunia adalah benua", "jawaban": "Asia" },
-  { "id": 288, "soal": "Proses penguapan air laut menjadi awan disebut", "jawaban": "Evaporasi" },
-  { "id": 289, "soal": "Setelah hari Sabtu adalah hari", "jawaban": "Minggu" },
-  { "id": 290, "soal": "Hewan yang memiliki racun pada ekornya adalah", "jawaban": "Kalajengking" },
-  { "id": 291, "soal": "Rumah adat khas Jawa berbentuk atap kerucut tumpul disebut rumah", "jawaban": "Joglo" },
-  { "id": 292, "soal": "Garis yang digunakan untuk mengukur jarak utara atau selatan khatulistiwa disebut", "jawaban": "Lintang" },
-  { "id": 293, "soal": "Ibu kota negara Inggris adalah", "jawaban": "London" },
-  { "id": 294, "soal": "Benda yang bentuk dan volumenya selalu berubah mengikuti wadah adalah", "jawaban": "Gas" },
-  { "id": 295, "soal": "Planet yang memiliki cincin paling indah adalah planet", "jawaban": "Saturnus" },
-  { "id": 296, "soal": "Bagian telur yang berwarna kuning disebut", "jawaban": "Kuning telur" },
-  { "id": 297, "soal": "Hewan yang membantu petani membajak sawah secara tradisional adalah", "jawaban": "Kerbau" },
-  { "id": 298, "soal": "Penyakit yang ditandai dengan bintik merah dan gatal di kulit disebut", "jawaban": "Cacar" },
-  { "id": 299, "soal": "Hasil dari seratus dibagi empat adalah", "jawaban": "Duapuluh lima" },
-  { "id": 300, "soal": "Alat pernapasan manusia adalah", "jawaban": "Paru-paru" },
-  { "id": 301, "soal": "Tumbuhan yang batangnya beruas-ruas dan bisa tumbuh sangat tinggi adalah", "jawaban": "Bambu" },
-  { "id": 302, "soal": "Indra yang digunakan untuk mendengar suara musik adalah", "jawaban": "Telinga" },
-  { "id": 303, "soal": "Perubahan wujud cair menjadi padat disebut", "jawaban": "Membeku" },
-  { "id": 304, "soal": "Ibu kota negara Perancis adalah", "jawaban": "Paris" },
-  { "id": 305, "soal": "Hewan laut yang memiliki delapan lengan disebut", "jawaban": "Gurita" },
-  { "id": 306, "soal": "Zat yang memberikan energi utama bagi tubuh manusia adalah", "jawaban": "Karbohidrat" },
-  { "id": 307, "soal": "Planet yang dijuluki Bintang Fajar adalah", "jawaban": "Venus" },
-  { "id": 308, "soal": "Alat untuk menimbang berat badan disebut", "jawaban": "Timbangan" },
-  { "id": 309, "soal": "Pahlawan wanita dari Aceh yang melawan Belanda adalah", "jawaban": "Cut Nyak Dien" },
-  { "id": 310, "soal": "Bangun datar yang memiliki empat sisi sama panjang disebut", "jawaban": "Persegi" },
-  { "id": 311, "soal": "Ibu kota provinsi Sulawesi Selatan adalah", "jawaban": "Makassar" },
-  { "id": 312, "soal": "Bagian mata yang berfungsi melindungi mata dari debu adalah", "jawaban": "Kelopak mata" },
-  { "id": 313, "soal": "Hewan yang merayap di dinding dan bisa memutuskan ekornya adalah", "jawaban": "Cicak" },
-  { "id": 314, "soal": "Alat musik kecapi dimainkan dengan cara di", "jawaban": "Petik" },
-  { "id": 315, "soal": "Sila kedua Pancasila dilambangkan dengan gambar", "jawaban": "Rantai" },
-  { "id": 316, "soal": "Hasil dari tujuh puluh dikurangi tiga puluh adalah", "jawaban": "Empat puluh" },
-  { "id": 317, "soal": "Negara yang terletak di benua Australia adalah negara", "jawaban": "Australia" },
-  { "id": 318, "soal": "Tumbuhan merambat yang buahnya manis dan berbentuk bulat-bulat kecil adalah", "jawaban": "Anggur" },
-  { "id": 319, "soal": "Alat untuk menyedot debu di lantai disebut", "jawaban": "Vacuum cleaner" },
-  { "id": 320, "soal": "Burung yang terkenal dengan suara merdunya di pagi hari adalah burung", "jawaban": "Kutilang" },
-  { "id": 321, "soal": "Ibu kota negara India adalah", "jawaban": "New Delhi" },
-  { "id": 322, "soal": "Gaya yang dihasilkan oleh magnet disebut gaya", "jawaban": "Magnet" },
-  { "id": 323, "soal": "Zat padat yang bentuknya tetap dan tidak mudah berubah disebut benda", "jawaban": "Padat" },
-  { "id": 324, "soal": "Tempat peristirahatan terakhir para pahlawan disebut", "jawaban": "Taman Makam Pahlawan" },
-  { "id": 325, "soal": "Hasil dari enam dikali delapan adalah", "jawaban": "Empat puluh delapan" },
-  { "id": 326, "soal": "Pakaian adat khas daerah Jakarta adalah baju", "jawaban": "Sadariah" },
-  { "id": 327, "soal": "Planet yang paling jauh dari matahari dalam sistem kita adalah", "jawaban": "Neptunus" },
-  { "id": 328, "soal": "Indra manusia yang peka terhadap cahaya adalah", "jawaban": "Mata" },
-  { "id": 329, "soal": "Hewan yang memiliki gading panjang adalah", "jawaban": "Gajah" },
-  { "id": 330, "soal": "Benda yang ditarik kuat oleh magnet disebut benda", "jawaban": "Feromagnetik" },
-  { "id": 331, "soal": "Ibu kota provinsi Jawa Tengah adalah", "jawaban": "Semarang" },
-  { "id": 332, "soal": "Bagian tumbuhan yang berfungsi sebagai tempat fotosintesis adalah", "jawaban": "Daun" },
-  { "id": 333, "soal": "Olahraga yang dilakukan di dalam air disebut", "jawaban": "Renang" },
-  { "id": 334, "soal": "Penyakit yang disebabkan oleh nyamuk Aedes aegypti adalah", "jawaban": "Demam berdarah" },
-  { "id": 335, "soal": "Hasil dari delapan puluh dibagi dua adalah", "jawaban": "Empat puluh" },
-  { "id": 336, "soal": "Pahlawan yang berjuang untuk emansipasi wanita adalah", "jawaban": "Raden Ajeng Kartini" },
-  { "id": 337, "soal": "Alat musik rebana dimainkan dengan cara di", "jawaban": "Pukul" },
-  { "id": 338, "soal": "Benua yang mendapat julukan Benua Hitam adalah benua", "jawaban": "Afrika" },
-  { "id": 339, "soal": "Setelah bulan Januari adalah bulan", "jawaban": "Februari" },
-  { "id": 340, "soal": "Hewan terkecil yang bisa masuk ke telinga adalah", "jawaban": "Semut" },
-  { "id": 341, "soal": "Warna pelangi setelah warna merah adalah warna", "jawaban": "Jingga" },
-  { "id": 342, "soal": "Bangun datar yang tidak memiliki sudut adalah", "jawaban": "Lingkaran" },
-  { "id": 343, "soal": "Ibu kota negara Thailand adalah", "jawaban": "Bangkok" },
-  { "id": 344, "soal": "Perubahan wujud cair menjadi gas disebut", "jawaban": "Menguap" },
-  { "id": 345, "soal": "Hewan yang memiliki punuk untuk menyimpan cadangan makanan adalah", "jawaban": "Unta" },
-  { "id": 346, "soal": "Zat warna hijau pada tumbuhan disebut", "jawaban": "Klorofil" },
-  { "id": 347, "soal": "Samudra terkecil di dunia adalah samudra", "jawaban": "Arktik" },
-  { "id": 348, "soal": "Benda yang digunakan untuk menggosok gigi adalah", "jawaban": "Sikat gigi" },
-  { "id": 349, "soal": "Hasil dari lima belas ditambah lima belas adalah", "jawaban": "Tiga puluh" },
-  { "id": 350, "soal": "Lagu Garuda Pancasila diciptakan oleh", "jawaban": "Sudharnoto" },
-  { "id": 351, "soal": "Suku asli yang mendiami pulau Papua adalah suku", "jawaban": "Asmat" },
-  { "id": 352, "soal": "Bagian tubuh yang berfungsi untuk berbicara adalah", "jawaban": "Mulut" },
-  { "id": 353, "soal": "Ibu kota negara Cina adalah", "jawaban": "Beijing" },
-  { "id": 354, "soal": "Planet yang dihuni oleh makhluk hidup adalah planet", "jawaban": "Bumi" },
-  { "id": 355, "soal": "Hewan yang bisa merayap di langit-langit rumah adalah", "jawaban": "Cicak" },
-  { "id": 356, "soal": "Sila ketiga Pancasila dilambangkan dengan pohon", "jawaban": "Beringin" },
-  { "id": 357, "soal": "Hasil dari sembilan dikali tiga adalah", "jawaban": "Duapuluh tujuh" },
-  { "id": 358, "soal": "Arah mata angin yang berada di antara utara dan barat adalah", "jawaban": "Barat Laut" },
-  { "id": 359, "soal": "Tumbuhan yang melindungi diri dengan getah adalah pohon", "jawaban": "Karet" },
-  { "id": 360, "soal": "Indra yang peka terhadap suara adalah", "jawaban": "Telinga" },
-  { "id": 361, "soal": "Warna bendera negara Jepang adalah putih dengan lingkaran merah di", "jawaban": "Tengah" },
-  { "id": 362, "soal": "Benda yang permukaannya kasar contohnya adalah", "jawaban": "Batu" },
-  { "id": 363, "soal": "Ibu kota negara Mesir adalah", "jawaban": "Kairo" },
-  { "id": 364, "soal": "Hasil dari seratus dikurangi satu adalah", "jawaban": "Sembilan puluh sembilan" },
-  { "id": 365, "soal": "Bagian tanaman yang paling indah dan berwarna-warni adalah", "jawaban": "Bunga" },
-  { "id": 366, "soal": "Hewan yang memiliki lari paling cepat di dunia adalah", "jawaban": "Cheetah" },
-  { "id": 367, "soal": "Olahraga basket dimainkan oleh berapa orang per tim", "jawaban": "Lima" },
-  { "id": 368, "soal": "Garis yang memisahkan waktu di dunia disebut garis", "jawaban": "Bujur" },
-  { "id": 369, "soal": "Hasil dari sepuluh dikali sepuluh adalah", "jawaban": "Seratus" },
-  { "id": 370, "soal": "Indra manusia yang berfungsi untuk meraba adalah", "jawaban": "Kulit" },
-  { "id": 371, "soal": "Ibu kota provinsi Maluku adalah", "jawaban": "Ambon" },
-  { "id": 372, "soal": "Planet merah adalah sebutan untuk", "jawaban": "Mars" },
-  { "id": 373, "soal": "Tumbuhan yang bisa menutup daunnya saat disentuh adalah", "jawaban": "Putri malu" },
-  { "id": 374, "soal": "Bagian tubuh manusia yang berfungsi untuk mendengar adalah", "jawaban": "Telinga" },
-  { "id": 375, "soal": "Suku asli yang berasal dari Jawa Barat adalah suku", "jawaban": "Sunda" },
-  { "id": 376, "soal": "Negara yang dijuluki Negeri Sakura adalah", "jawaban": "Jepang" },
-  { "id": 377, "soal": "Candi peninggalan agama Budha terbesar adalah candi", "jawaban": "Borobudur" },
-  { "id": 378, "soal": "Hasil dari tiga puluh dibagi enam adalah", "jawaban": "Lima" },
-  { "id": 379, "soal": "Alat musik kolintang berasal dari daerah", "jawaban": "Sulawesi Utara" },
-  { "id": 380, "soal": "Setelah hari Kamis adalah hari", "jawaban": "Jumat" },
-  { "id": 381, "soal": "Ibu kota negara Australia adalah", "jawaban": "Canberra" },
-  { "id": 382, "soal": "Bagian mata yang berwarna hitam pekat di tengah adalah", "jawaban": "Pupil" },
-  { "id": 383, "soal": "Hewan yang hidup di air dan bernapas dengan insang adalah", "jawaban": "Ikan" },
-  { "id": 384, "soal": "Bangun datar yang memiliki dua pasang sisi sama panjang disebut", "jawaban": "Persegi panjang" },
-  { "id": 385, "soal": "Sila keempat Pancasila dilambangkan dengan kepala", "jawaban": "Banteng" },
-  { "id": 386, "soal": "Hasil dari lima belas dikali dua adalah", "jawaban": "Tiga puluh" },
-  { "id": 387, "soal": "Alat untuk mengukur panjang meja adalah", "jawaban": "Penggaris" },
-  { "id": 388, "soal": "Negara yang dijuluki Negeri Tirai Bambu adalah", "jawaban": "Cina" },
-  { "id": 389, "soal": "Ibu kota negara Filipina adalah", "jawaban": "Manila" },
-  { "id": 390, "soal": "Hewan yang memiliki cangkang dan hidup di laut adalah", "jawaban": "Kerang" },
-  { "id": 391, "soal": "Satuan waktu dalam satu jam terdiri dari berapa menit", "jawaban": "Enam puluh" },
-  { "id": 392, "soal": "Bagian tumbuhan yang menyerap sari makanan dari tanah adalah", "jawaban": "Akar" },
-  { "id": 393, "soal": "Hasil dari dua puluh lima ditambah dua puluh lima adalah", "jawaban": "Lima puluh" },
-  { "id": 394, "soal": "Indra manusia yang peka terhadap bau harum adalah", "jawaban": "Hidung" },
-  { "id": 395, "soal": "Ibu kota provinsi Papua adalah", "jawaban": "Jayapura" },
-  { "id": 396, "soal": "Planet yang paling dekat dengan matahari adalah", "jawaban": "Merkurius" },
-  { "id": 397, "soal": "Hewan yang suka memakan pisang dan pandai memanjat adalah", "jawaban": "Monyet" },
-  { "id": 398, "soal": "Alat musik yang digoyang untuk mengeluarkan bunyi adalah", "jawaban": "Angklung" },
-  { "id": 399, "soal": "Hasil dari empat puluh dikurangi sepuluh adalah", "jawaban": "Tiga puluh" },
-  { "id": 400, "soal": "Matahari terbenam di arah", "jawaban": "Barat" },
-  { "id": 401, "soal": "Hewan yang memiliki belalai panjang untuk mengambil makanan adalah", "jawaban": "Gajah" },
-  { "id": 402, "soal": "Planet yang memiliki cincin paling indah dan terlihat jelas adalah", "jawaban": "Saturnus" },
-  { "id": 403, "soal": "Benda yang digunakan untuk meruncingkan pensil adalah", "jawaban": "Rautan" },
-  { "id": 404, "soal": "Lampu lalu lintas warna merah artinya kendaraan harus", "jawaban": "Berhenti" },
-  { "id": 405, "soal": "Siapakah pahlawan yang dijuluki Bapak Proklamator Indonesia", "jawaban": "Soekarno Hatta" },
-  { "id": 406, "soal": "Bangun datar yang memiliki empat sisi sama panjang disebut", "jawaban": "Persegi" },
-  { "id": 407, "soal": "Ibu kota provinsi Jawa Timur adalah", "jawaban": "Surabaya" },
-  { "id": 408, "soal": "Indra manusia yang peka terhadap rasa asin dan manis adalah", "jawaban": "Lidah" },
-  { "id": 409, "soal": "Arah mata angin yang berada di antara timur dan selatan adalah", "jawaban": "Tenggara" },
-  { "id": 410, "soal": "Hewan yang mengalami metamorfosis dari kecebong menjadi", "jawaban": "Katak" },
-  { "id": 411, "soal": "Alat musik piano dimainkan dengan cara di", "jawaban": "Tekan" },
-  { "id": 412, "soal": "Proses air laut berubah menjadi uap air disebut", "jawaban": "Penguapan" },
-  { "id": 413, "soal": "Jumlah jari pada dua tangan manusia normal adalah", "jawaban": "Sepuluh" },
-  { "id": 414, "soal": "Benda yang dapat menarik paku yang terbuat dari besi disebut", "jawaban": "Magnet" },
-  { "id": 415, "soal": "Ibu kota negara Thailand adalah kota", "jawaban": "Bangkok" },
-  { "id": 416, "soal": "Satuan waktu yang terdiri dari tujuh hari adalah satu", "jawaban": "Minggu" },
-  { "id": 417, "soal": "Bagian tumbuhan yang berada di dalam tanah disebut", "jawaban": "Akar" },
-  { "id": 418, "soal": "Burung yang tidak bisa terbang namun lari sangat cepat adalah", "jawaban": "Burung Unta" },
-  { "id": 419, "soal": "Hasil dari lima dikali delapan adalah", "jawaban": "Empat puluh" },
-  { "id": 420, "soal": "Penyakit yang disebabkan oleh gigitan nyamuk adalah demam", "jawaban": "Berdarah" },
-  { "id": 421, "soal": "Alat yang digunakan untuk memotong kayu adalah", "jawaban": "Gergaji" },
-  { "id": 422, "soal": "Benda cair jika dipanaskan akan berubah menjadi", "jawaban": "Gas" },
-  { "id": 423, "soal": "Planet yang letaknya paling dekat dengan matahari adalah", "jawaban": "Merkurius" },
-  { "id": 424, "soal": "Lagu Indonesia Raya dinyanyikan pertama kali pada tahun", "jawaban": "Seribu sembilan ratus dua puluh delapan" },
-  { "id": 425, "soal": "Bangun datar yang memiliki tiga sisi disebut", "jawaban": "Segitiga" },
-  { "id": 426, "soal": "Suku asli yang mendiami pulau Bali adalah suku", "jawaban": "Bali" },
-  { "id": 427, "soal": "Ibu kota negara Singapura adalah", "jawaban": "Singapura" },
-  { "id": 428, "soal": "Cairan yang keluar dari tubuh saat kita kepanasan disebut", "jawaban": "Keringat" },
-  { "id": 429, "soal": "Arah mata angin yang berlawanan dengan timur adalah", "jawaban": "Barat" },
-  { "id": 430, "soal": "Hewan pemakan daging disebut hewan", "jawaban": "Karnivora" },
-  { "id": 431, "soal": "Peralatan mandi yang digunakan untuk membersihkan rambut adalah", "jawaban": "Sampo" },
-  { "id": 432, "soal": "Tumbuhan yang memiliki batang berduri tajam adalah bunga", "jawaban": "Mawar" },
-  { "id": 433, "soal": "Hasil dari seratus dibagi dua adalah", "jawaban": "Lima puluh" },
-  { "id": 434, "soal": "Mata uang negara Jepang adalah", "jawaban": "Yen" },
-  { "id": 435, "soal": "Pahlawan nasional yang mengusir Belanda dari Yogyakarta adalah", "jawaban": "Pangeran Diponegoro" },
-  { "id": 436, "soal": "Bagian tubuh yang digunakan untuk memegang benda adalah", "jawaban": "Tangan" },
-  { "id": 437, "soal": "Laut yang sangat luas dan memisahkan benua disebut", "jawaban": "Samudra" },
-  { "id": 438, "soal": "Satuan panjang yang lebih kecil dari meter adalah", "jawaban": "Sentimeter" },
-  { "id": 439, "soal": "Setelah bulan Juni adalah bulan", "jawaban": "Juli" },
-  { "id": 440, "soal": "Hewan yang memiliki tempurung untuk berlindung adalah", "jawaban": "Kura-kura" },
-  { "id": 441, "soal": "Warna pelangi yang berada di urutan paling atas adalah", "jawaban": "Merah" },
-  { "id": 442, "soal": "Dasar negara Indonesia yang terdiri dari lima sila adalah", "jawaban": "Pancasila" },
-  { "id": 443, "soal": "Ibu kota negara Belanda adalah", "jawaban": "Amsterdam" },
-  { "id": 444, "soal": "Tumbuhan yang menyimpan air di batangnya dan hidup di padang pasir adalah", "jawaban": "Kaktus" },
-  { "id": 445, "soal": "Gaya yang menyebabkan benda jatuh ke lantai disebut gaya", "jawaban": "Gravitasi" },
-  { "id": 446, "soal": "Alat pernapasan manusia adalah paru-paru dan", "jawaban": "Hidung" },
-  { "id": 447, "soal": "Ibu kota provinsi Jawa Tengah adalah", "jawaban": "Semarang" },
-  { "id": 448, "soal": "Indra manusia yang peka terhadap cahaya adalah", "jawaban": "Mata" },
-  { "id": 449, "soal": "Hewan yang jalannya melompat dan tinggal di Australia adalah", "jawaban": "Kanguru" },
-  { "id": 450, "soal": "Hasil dari enam dikali tujuh adalah", "jawaban": "Empat puluh dua" },
-  { "id": 451, "soal": "Bahan utama pembuatan keju adalah", "jawaban": "Susu" },
-  { "id": 452, "soal": "Planet yang dijuluki sebagai planet merah adalah", "jawaban": "Mars" },
-  { "id": 453, "soal": "Candi Hindu terbesar di Indonesia adalah candi", "jawaban": "Prambanan" },
-  { "id": 454, "soal": "Alat musik tradisional Jawa yang dipukul disebut", "jawaban": "Gamelan" },
-  { "id": 455, "soal": "Satuan waktu yang terdiri dari enam puluh detik adalah", "jawaban": "Menit" },
-  { "id": 456, "soal": "Bagian mata yang mengatur banyaknya cahaya yang masuk disebut", "jawaban": "Pupil" },
-  { "id": 457, "soal": "Ayam bernapas menggunakan", "jawaban": "Paru-paru" },
-  { "id": 458, "soal": "Ibu kota negara Korea Selatan adalah", "jawaban": "Seoul" },
-  { "id": 459, "soal": "Setelah hari Minggu adalah hari", "jawaban": "Senin" },
-  { "id": 460, "soal": "Benda yang volumenya berubah sesuai wadahnya adalah benda", "jawaban": "Gas" },
-  { "id": 461, "soal": "Hewan pemakan tumbuhan disebut", "jawaban": "Herbivora" },
-  { "id": 462, "soal": "Rumah adat suku Papua yang berbentuk seperti jamur adalah", "jawaban": "Honai" },
-  { "id": 463, "soal": "Hasil dari delapan puluh dikurangi lima puluh adalah", "jawaban": "Tiga puluh" },
-  { "id": 464, "soal": "Matahari tenggelam di arah", "jawaban": "Barat" },
-  { "id": 465, "soal": "Bagian batang pohon yang keras disebut", "jawaban": "Kayu" },
-  { "id": 466, "soal": "Indra manusia untuk mencium bau adalah", "jawaban": "Hidung" },
-  { "id": 467, "soal": "Negara tetangga Indonesia yang terletak di sebelah selatan adalah", "jawaban": "Australia" },
-  { "id": 468, "soal": "Gigi yang berfungsi untuk memotong makanan adalah gigi", "jawaban": "Seri" },
-  { "id": 469, "soal": "Alat musik yang ditiup dan terbuat dari logam adalah", "jawaban": "Terompet" },
-  { "id": 470, "soal": "Hasil dari sembilan dikali empat adalah", "jawaban": "Tiga puluh enam" },
-  { "id": 471, "soal": "Zat hijau pada daun disebut", "jawaban": "Klorofil" },
-  { "id": 472, "soal": "Ibu kota negara Inggris adalah kota", "jawaban": "London" },
-  { "id": 473, "soal": "Setelah bulan September adalah bulan", "jawaban": "Oktober" },
-  { "id": 474, "soal": "Hewan yang suka memakan kacang dan pandai memanjat adalah", "jawaban": "Tupai" },
-  { "id": 475, "soal": "Warna bendera negara Indonesia adalah merah dan", "jawaban": "Putih" },
-  { "id": 476, "soal": "Planet terbesar dalam tata surya kita adalah", "jawaban": "Yupiter" },
-  { "id": 477, "soal": "Alat untuk menimbang berat benda disebut", "jawaban": "Timbangan" },
-  { "id": 478, "soal": "Tari Pendet berasal dari daerah", "jawaban": "Bali" },
-  { "id": 479, "soal": "Bagian tubuh yang berfungsi untuk mendengar adalah", "jawaban": "Telinga" },
-  { "id": 480, "soal": "Hasil dari dua belas ditambah dua belas adalah", "jawaban": "Dua puluh empat" },
-  { "id": 481, "soal": "Benda padat jika dibakar akan menjadi", "jawaban": "Abu" },
-  { "id": 482, "soal": "Samudra terluas di dunia adalah samudra", "jawaban": "Pasifik" },
-  { "id": 483, "soal": "Ibu kota provinsi Maluku adalah kota", "jawaban": "Ambon" },
-  { "id": 484, "soal": "Pahlawan wanita dari Jawa Barat adalah", "jawaban": "Dewi Sartika" },
-  { "id": 485, "soal": "Bangun datar yang memiliki sisi sama panjang dan empat sudut siku-siku adalah", "jawaban": "Persegi" },
-  { "id": 486, "soal": "Hewan yang memiliki duri di tubuhnya untuk perlindungan adalah", "jawaban": "Landak" },
-  { "id": 487, "soal": "Setelah angka sembilan puluh sembilan adalah", "jawaban": "Seratus" },
-  { "id": 488, "soal": "Arah mata angin utama ada sebanyak", "jawaban": "Delapan" },
-  { "id": 489, "soal": "Tumbuhan yang bisa menutup daunnya saat disentuh adalah", "jawaban": "Putri Malu" },
-  { "id": 490, "soal": "Indra manusia yang peka terhadap suara adalah", "jawaban": "Telinga" },
-  { "id": 491, "soal": "Sila kelima Pancasila dilambangkan dengan padi dan", "jawaban": "Kapas" },
-  { "id": 492, "soal": "Hasil dari lima puluh dibagi lima adalah", "jawaban": "Sepuluh" },
-  { "id": 493, "soal": "Ibu kota negara Jerman adalah", "jawaban": "Berlin" },
-  { "id": 494, "soal": "Benda yang permukaannya sangat halus dan bening adalah", "jawaban": "Kaca" },
-  { "id": 495, "soal": "Alat pernapasan ikan yang hidup di air adalah", "jawaban": "Insang" },
-  { "id": 496, "soal": "Bagian tumbuhan yang berfungsi sebagai tempat fotosintesis adalah", "jawaban": "Daun" },
-  { "id": 497, "soal": "Suku asli Jakarta adalah suku", "jawaban": "Betawi" },
-  { "id": 498, "soal": "Setelah hari Rabu adalah hari", "jawaban": "Kamis" },
-  { "id": 499, "soal": "Gunung tertinggi di dunia adalah gunung", "jawaban": "Everest" },
-  { "id": 500, "soal": "Lagu kebangsaan Indonesia adalah", "jawaban": "Indonesia Raya" },
-  { "id": 501, "soal": "Hewan laut yang bernapas dengan paru-paru dan melahirkan adalah", "jawaban": "Paus" },
-  { "id": 502, "soal": "Planet yang dikenal memiliki cincin adalah planet", "jawaban": "Saturnus" },
-  { "id": 503, "soal": "Alat pernapasan manusia disebut", "jawaban": "Paru-paru" },
-  { "id": 504, "soal": "Benda yang permukaannya bisa memantulkan bayangan adalah", "jawaban": "Cermin" },
-  { "id": 505, "soal": "Ibu kota provinsi Kalimantan Timur adalah", "jawaban": "Samarinda" },
-  { "id": 506, "soal": "Setelah hari Jumat adalah hari", "jawaban": "Sabtu" },
-  { "id": 507, "soal": "Indra manusia untuk meraba adalah", "jawaban": "Kulit" },
-  { "id": 508, "soal": "Sila pertama Pancasila dilambangkan dengan", "jawaban": "Bintang" },
-  { "id": 509, "soal": "Hasil dari sembilan dikali sembilan adalah", "jawaban": "Delapan puluh satu" },
-  { "id": 510, "soal": "Tumbuhan yang akarnya menggantung di pohon adalah", "jawaban": "Beringin" },
-  { "id": 511, "soal": "Ibu kota negara Perancis adalah", "jawaban": "Paris" },
-  { "id": 512, "soal": "Satuan berat benda yang umum digunakan adalah", "jawaban": "Kilogram" },
-  { "id": 513, "soal": "Hewan yang memiliki bisa beracun dan melata adalah", "jawaban": "Ular" },
-  { "id": 514, "soal": "Bagian bunga yang paling indah dan berwarna-warni adalah", "jawaban": "Mahkota" },
-  { "id": 515, "soal": "Hasil dari lima belas dikali dua adalah", "jawaban": "Tiga puluh" },
-  { "id": 516, "soal": "Arah yang berlawanan dengan utara adalah", "jawaban": "Selatan" },
-  { "id": 517, "soal": "Burung yang menjadi lambang negara Indonesia adalah burung", "jawaban": "Garuda" },
-  { "id": 518, "soal": "Alat musik angklung berasal dari daerah", "jawaban": "Jawa Barat" },
-  { "id": 519, "soal": "Bagian tubuh manusia yang memompa darah adalah", "jawaban": "Jantung" },
-  { "id": 520, "soal": "Setelah bulan Desember adalah bulan", "jawaban": "Januari" },
-  { "id": 521, "soal": "Benda cair yang membeku karena dingin disebut", "jawaban": "Es" },
-  { "id": 522, "soal": "Hewan pemakan segala disebut", "jawaban": "Omnivora" },
-  { "id": 523, "soal": "Planet yang letaknya paling jauh dari matahari adalah", "jawaban": "Neptunus" },
-  { "id": 524, "soal": "Mata uang negara Malaysia adalah", "jawaban": "Ringgit" },
-  { "id": 525, "soal": "Ibu kota negara Australia adalah", "jawaban": "Canberra" },
-  { "id": 526, "soal": "Satuan suhu yang digunakan di Indonesia adalah derajat", "jawaban": "Celsius" },
-  { "id": 527, "soal": "Bagian mata yang berwarna hitam di tengah disebut", "jawaban": "Pupil" },
-  { "id": 528, "soal": "Hewan yang merayap di dinding dan makan nyamuk adalah", "jawaban": "Cicak" },
-  { "id": 529, "soal": "Hasil dari delapan ditambah delapan adalah", "jawaban": "Enam belas" },
-  { "id": 530, "soal": "Pahlawan yang mengusir penjajah dari Maluku adalah", "jawaban": "Pattimura" },
-  { "id": 531, "soal": "Alat pernapasan berudu atau anak katak adalah", "jawaban": "Insang" },
-  { "id": 532, "soal": "Ibu kota provinsi Bali adalah", "jawaban": "Denpasar" },
-  { "id": 533, "soal": "Bunga nasional Indonesia yang disebut Puspa Bangsa adalah", "jawaban": "Melati" },
-  { "id": 534, "soal": "Setelah angka seratus adalah angka", "jawaban": "Seratus satu" },
-  { "id": 535, "soal": "Garis khatulistiwa membagi bumi menjadi bagian utara dan", "jawaban": "Selatan" },
-  { "id": 536, "soal": "Hewan yang memiliki tanduk besar dan hidup di sawah adalah", "jawaban": "Kerbau" },
-  { "id": 537, "soal": "Hasil dari sepuluh dikali lima adalah", "jawaban": "Lima puluh" },
-  { "id": 538, "soal": "Alat musik gamelan dimainkan dengan cara di", "jawaban": "Pukul" },
-  { "id": 539, "soal": "Tumbuhan yang melindungi diri dengan getah adalah pohon", "jawaban": "Nangka" },
-  { "id": 540, "soal": "Indra yang digunakan untuk mendengar adalah", "jawaban": "Telinga" },
-  { "id": 541, "soal": "Warna lampu kuning pada jalan raya artinya kendaraan harus", "jawaban": "Hati hati" },
-  { "id": 542, "soal": "Bangun datar yang memiliki dua pasang sisi sama panjang adalah", "jawaban": "Persegi panjang" },
-  { "id": 543, "soal": "Ibu kota negara Italia adalah", "jawaban": "Roma" },
-  { "id": 544, "soal": "Hasil dari dua puluh dikurangi tujuh adalah", "jawaban": "Tiga belas" },
-  { "id": 545, "soal": "Benda padat jika diletakkan di dalam air tidak akan", "jawaban": "Larut" },
-  { "id": 546, "soal": "Hewan yang sering dijuluki si raja hutan adalah", "jawaban": "Singa" },
-  { "id": 547, "soal": "Planet yang paling panas di tata surya adalah", "jawaban": "Venus" },
-  { "id": 548, "soal": "Ibu kota provinsi Sulawesi Selatan adalah", "jawaban": "Makassar" },
-  { "id": 549, "soal": "Setelah hari Selasa adalah hari", "jawaban": "Rabu" },
-  { "id": 550, "soal": "Zat warna daun disebut juga dengan", "jawaban": "Klorofil" },
-  { "id": 551, "soal": "Mata uang negara Filipina adalah", "jawaban": "Peso" },
-  { "id": 552, "soal": "Hasil dari delapan belas dibagi tiga adalah", "jawaban": "Enam" },
-  { "id": 553, "soal": "Pahlawan yang melawan penjajah di Aceh adalah", "jawaban": "Teuku Umar" },
-  { "id": 554, "soal": "Bagian telinga yang paling dalam disebut saluran", "jawaban": "Eustachius" },
-  { "id": 555, "soal": "Hewan yang memiliki lidah panjang untuk menangkap serangga adalah", "jawaban": "Bunglon" },
-  { "id": 556, "soal": "Suku asli yang mendiami pulau Kalimantan adalah suku", "jawaban": "Dayak" },
-  { "id": 557, "soal": "Setelah bulan Maret adalah bulan", "jawaban": "April" },
-  { "id": 558, "soal": "Ibu kota negara India adalah", "jawaban": "New Delhi" },
-  { "id": 559, "soal": "Bangun ruang yang bentuknya seperti bola tenis disebut", "jawaban": "Bola" },
-  { "id": 560, "soal": "Hewan laut yang tubuhnya transparan dan menyengat adalah", "jawaban": "Ubur ubur" },
-  { "id": 561, "soal": "Hasil dari seratus dikali dua adalah", "jawaban": "Dua ratus" },
-  { "id": 562, "soal": "Gunung berapi yang masih aktif disebut gunung", "jawaban": "Berapi" },
-  { "id": 563, "soal": "Alat musik sasando berasal dari daerah", "jawaban": "Nusa Tenggara Timur" },
-  { "id": 564, "soal": "Bagian tubuh manusia yang berfungsi untuk mencerna makanan adalah", "jawaban": "Lambung" },
-  { "id": 565, "soal": "Arah mata angin yang berada di antara utara dan timur adalah", "jawaban": "Timur Laut" },
-  { "id": 566, "soal": "Tumbuhan yang batangnya berongga dan hidup di air adalah", "jawaban": "Teratai" },
-  { "id": 467, "soal": "Indra manusia yang peka terhadap bau harum adalah", "jawaban": "Hidung" },
-  { "id": 568, "soal": "Ibu kota negara Spanyol adalah kota", "jawaban": "Madrid" },
-  { "id": 569, "soal": "Satuan waktu yang terdiri dari enam puluh menit adalah satu", "jawaban": "Jam" },
-  { "id": 570, "soal": "Setelah hari Sabtu adalah hari", "jawaban": "Minggu" },
-  { "id": 571, "soal": "Hewan yang memiliki cangkang siput dan hidup di laut adalah", "jawaban": "Kelomang" },
-  { "id": 572, "soal": "Hasil dari lima belas ditambah sepuluh adalah", "jawaban": "Dua puluh lima" },
-  { "id": 573, "soal": "Benda padat yang dipanaskan bisa berubah menjadi cair disebut", "jawaban": "Mencair" },
-  { "id": 574, "soal": "Planet yang dihuni oleh manusia adalah planet", "jawaban": "Bumi" },
-  { "id": 575, "soal": "Ibu kota negara Arab Saudi adalah", "jawaban": "Riyadh" },
-  { "id": 576, "soal": "Pahlawan yang dikenal sebagai Bapak Koperasi adalah", "jawaban": "Mohammad Hatta" },
-  { "id": 577, "soal": "Alat musik yang digesek untuk mengeluarkan bunyi adalah", "jawaban": "Biola" },
-  { "id": 578, "soal": "Bagian mata yang mengatur cahaya masuk adalah", "jawaban": "Iris" },
-  { "id": 579, "soal": "Tumbuhan yang batangnya berduri untuk melindungi diri adalah", "jawaban": "Kaktus" },
-  { "id": 580, "soal": "Hewan yang memiliki satu cula di hidungnya adalah", "jawaban": "Badak" },
-  { "id": 581, "soal": "Hasil dari tiga puluh dibagi lima adalah", "jawaban": "Enam" },
-  { "id": 582, "soal": "Satuan untuk mengukur panjang kain adalah", "jawaban": "Meter" },
-  { "id": 583, "soal": "Suku asli Sumatera Utara adalah suku", "jawaban": "Batak" },
-  { "id": 584, "soal": "Setelah hari Kamis adalah hari", "jawaban": "Jumat" },
-  { "id": 585, "soal": "Indra manusia yang peka terhadap sentuhan halus adalah", "jawaban": "Kulit" },
-  { "id": 586, "soal": "Arah mata angin yang berada di antara selatan dan barat adalah", "jawaban": "Barat Daya" },
-  { "id": 587, "soal": "Hewan yang aktif mencari makan di malam hari disebut hewan", "jawaban": "Nokturnal" },
-  { "id": 588, "soal": "Hasil dari sembilan dikali tiga adalah", "jawaban": "Dua puluh tujuh" },
-  { "id": 589, "soal": "Ibu kota negara Vietnam adalah", "jawaban": "Hanoi" },
-  { "id": 590, "soal": "Benda cair yang menguap karena panas matahari adalah", "jawaban": "Air" },
-  { "id": 591, "soal": "Penyakit batuk yang disebabkan oleh virus adalah", "jawaban": "Flu" },
-  { "id": 592, "soal": "Gunung api terbesar di Indonesia adalah gunung", "jawaban": "Kerinci" },
-  { "id": 593, "soal": "Bagian bunga yang menghasilkan serbuk sari adalah", "jawaban": "Benang sari" },
-  { "id": 594, "soal": "Satuan berat yang lebih besar dari gram adalah", "jawaban": "Kilogram" },
-  { "id": 595, "soal": "Indra manusia untuk melihat benda jauh adalah", "jawaban": "Mata" },
-  { "id": 596, "soal": "Hewan yang memiliki kantong di perutnya adalah", "jawaban": "Kanguru" },
-  { "id": 597, "soal": "Hasil dari lima dikali lima adalah", "jawaban": "Dua puluh lima" },
-  { "id": 598, "soal": "Ibu kota provinsi Sumatera Utara adalah", "jawaban": "Medan" },
-  { "id": 599, "soal": "Setelah bulan Mei adalah bulan", "jawaban": "Juni" },
-  { "id": 600, "soal": "Lagu Garuda Pancasila diciptakan oleh", "jawaban": "Sudharnoto" },
-  { "id": 601, "soal": "Hewan yang membantu petani membajak sawah adalah", "jawaban": "Kerbau" },
-  { "id": 602, "soal": "Planet terkecil dalam sistem tata surya kita adalah", "jawaban": "Merkurius" },
-  { "id": 603, "soal": "Alat pernapasan manusia adalah paru-paru dan", "jawaban": "Hidung" },
-  { "id": 604, "soal": "Benda padat jika dipanaskan sampai mencair disebut proses", "jawaban": "Meleleh" },
-  { "id": 605, "soal": "Ibu kota provinsi Jawa Barat adalah", "jawaban": "Bandung" },
-  { "id": 606, "soal": "Setelah hari Senin adalah hari", "jawaban": "Selasa" },
-  { "id": 607, "soal": "Indra manusia untuk merasa panas dingin adalah", "jawaban": "Kulit" },
-  { "id": 608, "soal": "Sila kedua Pancasila dilambangkan dengan", "jawaban": "Rantai" },
-  { "id": 609, "soal": "Hasil dari sepuluh ditambah sepuluh adalah", "jawaban": "Dua puluh" },
-  { "id": 610, "soal": "Tumbuhan yang batangnya besar dan kuat disebut pohon", "jawaban": "Kayu" },
-  { "id": 611, "soal": "Ibu kota negara Jepang adalah", "jawaban": "Tokyo" },
-  { "id": 612, "soal": "Satuan berat yang digunakan untuk timbangan emas adalah", "jawaban": "Gram" },
-  { "id": 613, "soal": "Hewan yang memiliki kulit sangat keras dan hidup di rawa adalah", "jawaban": "Buaya" },
-  { "id": 614, "soal": "Bagian pohon yang menyerap air dari tanah adalah", "jawaban": "Akar" },
-  { "id": 615, "soal": "Hasil dari delapan dikali dua adalah", "jawaban": "Enam belas" },
-  { "id": 616, "soal": "Arah yang berlawanan dengan barat adalah", "jawaban": "Timur" },
-  { "id": 617, "soal": "Burung yang memiliki paruh sangat panjang dan tajam adalah burung", "jawaban": "Pelatuk" },
-  { "id": 618, "soal": "Alat musik seruling dimainkan dengan cara di", "jawaban": "Tiup" },
-  { "id": 619, "soal": "Bagian tubuh manusia yang berfungsi untuk mendengar adalah", "jawaban": "Telinga" },
-  { "id": 620, "soal": "Setelah bulan Agustus adalah bulan", "jawaban": "September" },
-  { "id": 621, "soal": "Benda cair yang didinginkan di kulkas akan menjadi", "jawaban": "Padat" },
-  { "id": 622, "soal": "Hewan yang memakan serangga disebut", "jawaban": "Insektivora" },
-  { "id": 623, "soal": "Planet yang paling besar di tata surya adalah", "jawaban": "Yupiter" },
-  { "id": 624, "soal": "Mata uang negara Amerika Serikat adalah", "jawaban": "Dolar" },
-  { "id": 625, "soal": "Ibu kota negara Malaysia adalah", "jawaban": "Kuala Lumpur" },
-  { "id": 626, "soal": "Satuan waktu yang terdiri dari dua puluh empat jam adalah satu", "jawaban": "Hari" },
-  { "id": 627, "soal": "Bagian mata yang memberikan warna pada mata disebut", "jawaban": "Iris" },
-  { "id": 628, "soal": "Hewan yang memiliki duri tajam di punggungnya adalah", "jawaban": "Landak" },
-  { "id": 629, "soal": "Hasil dari dua puluh lima dikali dua adalah", "jawaban": "Lima puluh" },
-  { "id": 630, "soal": "Pahlawan yang berjuang untuk pendidikan wanita di Jawa Tengah adalah", "jawaban": "Kartini" },
-  { "id": 631, "soal": "Alat pernapasan katak dewasa adalah paru-paru dan", "jawaban": "Kulit" },
-  { "id": 632, "soal": "Ibu kota provinsi Sumatera Barat adalah", "jawaban": "Padang" },
-  { "id": 633, "soal": "Bunga yang menjadi simbol negara Belanda adalah bunga", "jawaban": "Tulip" },
-  { "id": 634, "soal": "Setelah angka sembilan adalah angka", "jawaban": "Sepuluh" },
-  { "id": 635, "soal": "Garis lintang nol derajat disebut garis", "jawaban": "Khatulistiwa" },
-  { "id": 636, "soal": "Hewan yang memiliki gading panjang dan telinga lebar adalah", "jawaban": "Gajah" },
-  { "id": 637, "soal": "Hasil dari enam ditambah empat adalah", "jawaban": "Sepuluh" },
-  { "id": 638, "soal": "Alat musik sasando dimainkan dengan cara di", "jawaban": "Petik" },
-  { "id": 639, "soal": "Tumbuhan yang akarnya berada di dalam air adalah", "jawaban": "Enceng gondok" },
-  { "id": 640, "soal": "Indra manusia yang peka terhadap cahaya adalah", "jawaban": "Mata" },
-  { "id": 641, "soal": "Warna lampu merah pada jalan raya artinya kendaraan harus", "jawaban": "Berhenti" },
-  { "id": 642, "soal": "Bangun datar yang memiliki empat sisi dan dua pasang sisi sama panjang adalah", "jawaban": "Persegi panjang" },
-  { "id": 643, "soal": "Ibu kota negara Inggris adalah", "jawaban": "London" },
-  { "id": 644, "soal": "Hasil dari lima belas dikurangi tujuh adalah", "jawaban": "Delapan" },
-  { "id": 645, "soal": "Benda padat jika dipanaskan bisa berubah menjadi cair disebut", "jawaban": "Mencair" },
-  { "id": 646, "soal": "Hewan yang jalannya melata dan tidak memiliki kaki adalah", "jawaban": "Ular" },
-  { "id": 647, "soal": "Planet yang paling dekat dengan bumi adalah", "jawaban": "Venus" },
-  { "id": 648, "soal": "Ibu kota provinsi Jawa Tengah adalah", "jawaban": "Semarang" },
-  { "id": 649, "soal": "Setelah hari Rabu adalah hari", "jawaban": "Kamis" },
-  { "id": 650, "soal": "Zat yang diperlukan tumbuhan untuk fotosintesis adalah karbon", "jawaban": "Dioksida" },
-  { "id": 651, "soal": "Mata uang negara Korea Selatan adalah", "jawaban": "Won" },
-  { "id": 652, "soal": "Hasil dari dua puluh satu dibagi tiga adalah", "jawaban": "Tujuh" },
-  { "id": 653, "soal": "Pahlawan yang melawan Belanda di daerah Banten adalah Sultan Ageng", "jawaban": "Tirtayasa" },
-  { "id": 654, "soal": "Bagian telinga yang berfungsi menjaga keseimbangan tubuh adalah", "jawaban": "Telinga dalam" },
-  { "id": 655, "soal": "Hewan yang memiliki cangkang sangat keras di punggungnya adalah", "jawaban": "Kura kura" },
-  { "id": 656, "soal": "Suku asli yang mendiami pulau Jawa adalah suku", "jawaban": "Jawa" },
-  { "id": 657, "soal": "Setelah bulan April adalah bulan", "jawaban": "Mei" },
-  { "id": 658, "soal": "Ibu kota negara Tiongkok adalah", "jawaban": "Beijing" },
-  { "id": 659, "soal": "Bangun ruang yang bentuknya seperti kotak sepatu adalah", "jawaban": "Balok" },
-  { "id": 660, "soal": "Hewan yang hidup di kutub utara dan memiliki bulu tebal adalah beruang", "jawaban": "Kutub" },
-  { "id": 661, "soal": "Hasil dari sembilan ditambah sembilan adalah", "jawaban": "Delapan belas" },
-  { "id": 662, "soal": "Gunung yang puncaknya tertutup salju di Papua adalah Puncak", "jawaban": "Jaya" },
-  { "id": 663, "soal": "Alat musik biola dimainkan dengan cara di", "jawaban": "Gesek" },
-  { "id": 664, "soal": "Bagian tubuh manusia yang berfungsi untuk mengunyah makanan adalah", "jawaban": "Gigi" },
-  { "id": 665, "soal": "Arah mata angin yang berada di antara utara dan barat adalah", "jawaban": "Barat Laut" },
-  { "id": 666, "soal": "Tumbuhan yang melindungi diri dengan rambut halus yang gatal adalah", "jawaban": "Bambu" },
-  { "id": 667, "soal": "Indra manusia yang peka terhadap rasa pait adalah", "jawaban": "Lidah" },
-  { "id": 668, "soal": "Ibu kota negara Rusia adalah kota", "jawaban": "Moskow" },
-  { "id": 669, "soal": "Satuan waktu yang terdiri dari tujuh hari adalah", "jawaban": "Minggu" },
-  { "id": 670, "soal": "Setelah hari Jumat adalah hari", "jawaban": "Sabtu" },
-  { "id": 671, "soal": "Hewan yang memiliki paruh besar dan kantong untuk menangkap ikan adalah", "jawaban": "Pelikan" },
-  { "id": 672, "soal": "Hasil dari tujuh dikali tiga adalah", "jawaban": "Dua puluh satu" },
-  { "id": 673, "soal": "Benda padat yang dibekukan dari air disebut", "jawaban": "Es batu" },
-  { "id": 674, "soal": "Planet yang letaknya nomor dua dari matahari adalah", "jawaban": "Venus" },
-  { "id": 675, "soal": "Ibu kota negara India adalah", "jawaban": "New Delhi" },
-  { "id": 676, "soal": "Pahlawan yang berjuang melawan Belanda di tanah Batak adalah", "jawaban": "Sisingamangaraja" },
-  { "id": 677, "soal": "Alat musik drum dimainkan dengan cara di", "jawaban": "Pukul" },
-  { "id": 678, "soal": "Bagian mata yang mengatur lebar pupil disebut", "jawaban": "Iris" },
-  { "id": 679, "soal": "Tumbuhan yang melindungi diri dengan duri pada buahnya adalah", "jawaban": "Durian" },
-  { "id": 680, "soal": "Hewan yang memiliki leher sangat panjang untuk makan daun adalah", "jawaban": "Jerapah" },
-  { "id": 681, "soal": "Hasil dari delapan dikurangi empat adalah", "jawaban": "Empat" },
-  { "id": 682, "soal": "Satuan untuk mengukur berat emas adalah", "jawaban": "Gram" },
-  { "id": 683, "soal": "Suku asli yang berasal dari Sulawesi Utara adalah suku", "jawaban": "Minahasa" },
-  { "id": 684, "soal": "Setelah hari Minggu adalah hari", "jawaban": "Senin" },
-  { "id": 685, "soal": "Indra manusia yang peka terhadap sentuhan adalah", "jawaban": "Kulit" },
-  { "id": 686, "soal": "Arah mata angin yang berada di antara selatan dan timur adalah", "jawaban": "Tenggara" },
-  { "id": 687, "soal": "Hewan yang mengalami metamorfosis dari ulat adalah", "jawaban": "Kupu kupu" },
-  { "id": 688, "soal": "Hasil dari tujuh dikali empat adalah", "jawaban": "Dua puluh delapan" },
-  { "id": 689, "soal": "Ibu kota negara Filipina adalah", "jawaban": "Manila" },
-  { "id": 690, "soal": "Benda cair yang membeku menjadi padat disebut proses", "jawaban": "Membeku" },
-  { "id": 691, "soal": "Penyakit yang disebabkan oleh kekurangan vitamin C adalah", "jawaban": "Sariawan" },
-  { "id": 692, "soal": "Gunung berapi tertinggi di pulau Jawa adalah gunung", "jawaban": "Semeru" },
-  { "id": 693, "soal": "Bagian bunga yang berfungsi sebagai alat kelamin betina adalah", "jawaban": "Putik" },
-  { "id": 694, "soal": "Satuan berat yang lebih kecil dari kilogram adalah", "jawaban": "Gram" },
-  { "id": 695, "soal": "Indra manusia untuk melihat adalah", "jawaban": "Mata" },
-  { "id": 696, "soal": "Hewan yang memiliki kantong di perutnya dan tinggal di Australia adalah", "jawaban": "Kanguru" },
-  { "id": 697, "soal": "Hasil dari enam dikali enam adalah", "jawaban": "Tiga puluh enam" },
-  { "id": 698, "soal": "Ibu kota provinsi Sulawesi Utara adalah kota", "jawaban": "Manado" },
-  { "id": 699, "soal": "Setelah bulan Mei adalah bulan", "jawaban": "Juni" },
-  { "id": 700, "soal": "Dasar negara Indonesia yang terdiri dari lima sila adalah", "jawaban": "Pancasila" },
-  { "id": 701, "soal": "Ibu kota negara Indonesia adalah kota", "jawaban": "Jakarta" },
-  { "id": 702, "soal": "Lagu kebangsaan negara Indonesia berjudul", "jawaban": "Indonesia Raya" },
-  { "id": 703, "soal": "Lambang negara Indonesia adalah burung", "jawaban": "Garuda" },
-  { "id": 704, "soal": "Dasar negara Indonesia adalah", "jawaban": "Pancasila" },
-  { "id": 705, "soal": "Presiden pertama Republik Indonesia adalah", "jawaban": "Soekarno" },
-  { "id": 706, "soal": "Bendera negara Indonesia berwarna merah dan", "jawaban": "Putih" },
-  { "id": 707, "soal": "Bentuk negara Indonesia adalah", "jawaban": "Republik" },
-  { "id": 708, "soal": "Sila pertama Pancasila dilambangkan dengan gambar", "jawaban": "Bintang" },
-  { "id": 709, "soal": "Sila kedua Pancasila dilambangkan dengan gambar", "jawaban": "Rantai" },
-  { "id": 710, "soal": "Sila ketiga Pancasila dilambangkan dengan pohon", "jawaban": "Beringin" },
-  { "id": 711, "soal": "Sila keempat Pancasila dilambangkan dengan kepala", "jawaban": "Banteng" },
-  { "id": 712, "soal": "Sila kelima Pancasila dilambangkan dengan padi dan", "jawaban": "Kapas" },
-  { "id": 713, "soal": "Planet tempat manusia tinggal adalah planet", "jawaban": "Bumi" },
-  { "id": 714, "soal": "Matahari terbit dari arah", "jawaban": "Timur" },
-  { "id": 715, "soal": "Matahari terbenam di arah", "jawaban": "Barat" },
-  { "id": 716, "soal": "Alat pernapasan manusia adalah", "jawaban": "Paru-paru" },
-  { "id": 717, "soal": "Alat pernapasan ikan adalah", "jawaban": "Insang" },
-  { "id": 718, "soal": "Hewan yang hidup di darat dan air disebut", "jawaban": "Amfibi" },
-  { "id": 719, "soal": "Hewan pemakan tumbuhan disebut", "jawaban": "Herbivora" },
-  { "id": 720, "soal": "Hewan pemakan daging disebut", "jawaban": "Karnivora" },
-  { "id": 721, "soal": "Hewan pemakan segalanya disebut", "jawaban": "Omnivora" },
-  { "id": 722, "soal": "Zat hijau pada daun disebut", "jawaban": "Klorofil" },
-  { "id": 723, "soal": "Proses memasak makanan pada tumbuhan disebut", "jawaban": "Fotosintesis" },
-  { "id": 724, "soal": "Bagian tumbuhan yang menyerap air adalah", "jawaban": "Akar" },
-  { "id": 725, "soal": "Planet terbesar dalam tata surya adalah", "jawaban": "Yupiter" },
-  { "id": 726, "soal": "Planet terkecil dalam tata surya adalah", "jawaban": "Merkurius" },
-  { "id": 727, "soal": "Planet yang memiliki cincin adalah", "jawaban": "Saturnus" },
-  { "id": 728, "soal": "Ibu kota negara Malaysia adalah", "jawaban": "Kuala Lumpur" },
-  { "id": 729, "soal": "Mata uang negara Indonesia adalah", "jawaban": "Rupiah" },
-  { "id": 730, "soal": "Mata uang negara Amerika Serikat adalah", "jawaban": "Dolar" },
-  { "id": 731, "soal": "Benua terkecil di dunia adalah benua", "jawaban": "Australia" },
-  { "id": 732, "soal": "Samudra terluas di dunia adalah samudra", "jawaban": "Pasifik" },
-  { "id": 733, "soal": "Indra manusia untuk melihat adalah", "jawaban": "Mata" },
-  { "id": 734, "soal": "Indra manusia untuk mendengar adalah", "jawaban": "Telinga" },
-  { "id": 735, "soal": "Indra manusia untuk mencium bau adalah", "jawaban": "Hidung" },
-  { "id": 736, "soal": "Indra manusia untuk mengecap rasa adalah", "jawaban": "Lidah" },
-  { "id": 737, "soal": "Indra manusia untuk meraba adalah", "jawaban": "Kulit" },
-  { "id": 738, "soal": "Candi Borobudur terletak di provinsi", "jawaban": "Jawa Tengah" },
-  { "id": 739, "soal": "Candi Prambanan merupakan peninggalan agama", "jawaban": "Hindu" },
-  { "id": 740, "soal": "Danau terbesar di Indonesia adalah danau", "jawaban": "Toba" },
-  { "id": 741, "soal": "Gunung tertinggi di pulau Jawa adalah gunung", "jawaban": "Semeru" },
-  { "id": 742, "soal": "Sungai terpanjang di Indonesia adalah sungai", "jawaban": "Kapuas" },
-  { "id": 743, "soal": "Pusat tata surya kita adalah", "jawaban": "Matahari" },
-  { "id": 744, "soal": "Satelit alami bumi adalah", "jawaban": "Bulan" },
-  { "id": 745, "soal": "Jumlah provinsi di Indonesia saat ini adalah", "jawaban": "Tiga puluh delapan" },
-  { "id": 746, "soal": "Bahan utama pembuatan tempe adalah", "jawaban": "Kedelai" },
-  { "id": 747, "soal": "Alat musik angklung berasal dari", "jawaban": "Jawa Barat" },
-  { "id": 748, "soal": "Alat musik sasando berasal dari", "jawaban": "Nusa Tenggara Timur" },
-  { "id": 749, "soal": "Rumah adat khas Papua adalah", "jawaban": "Honai" },
-  { "id": 750, "soal": "Tari Pendet berasal dari daerah", "jawaban": "Bali" },
-  { "id": 751, "soal": "Hasil dari sepuluh dikali lima adalah", "jawaban": "Limapuluh" },
-  { "id": 752, "soal": "Hasil dari seratus dibagi dua adalah", "jawaban": "Limapuluh" },
-  { "id": 753, "soal": "Benda cair yang didinginkan akan menjadi", "jawaban": "Padat" },
-  { "id": 754, "soal": "Benda padat yang dipanaskan akan menjadi", "jawaban": "Cair" },
-  { "id": 755, "soal": "Warna primer adalah merah kuning dan", "jawaban": "Biru" },
-  { "id": 756, "soal": "Pahlawan yang dijuluki Bapak Pendidikan adalah", "jawaban": "Ki Hajar Dewantara" },
-  { "id": 757, "soal": "Hari kemerdekaan Indonesia dirayakan setiap tanggal", "jawaban": "Tujuh belas Agustus" },
-  { "id": 758, "soal": "Alat untuk mengukur suhu disebut", "jawaban": "Termometer" },
-  { "id": 759, "soal": "Hewan yang memiliki belalai adalah", "jawaban": "Gajah" },
-  { "id": 760, "soal": "Hewan yang memiliki leher panjang adalah", "jawaban": "Jerapah" },
-  { "id": 761, "soal": "Hewan yang pandai melompat dan tinggal di Australia adalah", "jawaban": "Kanguru" },
-  { "id": 762, "soal": "Hewan tercepat di darat adalah", "jawaban": "Cheetah" },
-  { "id": 763, "soal": "Burung yang tidak bisa terbang adalah burung", "jawaban": "Unta" },
-  { "id": 764, "soal": "Gigi yang berfungsi untuk memotong makanan adalah gigi", "jawaban": "Seri" },
-  { "id": 765, "soal": "Gigi yang berfungsi untuk merobek makanan adalah gigi", "jawaban": "Taring" },
-  { "id": 766, "soal": "Vitamin yang baik untuk mata adalah vitamin", "jawaban": "A" },
-  { "id": 767, "soal": "Vitamin yang baik untuk tulang adalah vitamin", "jawaban": "D" },
-  { "id": 768, "soal": "Suku asli Jakarta adalah suku", "jawaban": "Betawi" },
-  { "id": 769, "soal": "Pakaian adat kebaya berasal dari daerah", "jawaban": "Jawa" },
-  { "id": 770, "soal": "Senjata tradisional khas Jawa adalah", "jawaban": "Keris" },
-  { "id": 771, "soal": "Samudra yang berada di sebelah timur Indonesia adalah samudra", "jawaban": "Pasifik" },
-  { "id": 772, "soal": "Arah mata angin di antara utara dan barat adalah", "jawaban": "Barat Laut" },
-  { "id": 773, "soal": "Setelah hari Senin adalah hari", "jawaban": "Selasa" },
-  { "id": 774, "soal": "Sebelum bulan Mei adalah bulan", "jawaban": "April" },
-  { "id": 775, "soal": "Jumlah hari dalam seminggu adalah", "jawaban": "Tujuh hari" },
-  { "id": 776, "soal": "Alat untuk menimbang berat badan adalah", "jawaban": "Timbangan" },
-  { "id": 777, "soal": "Benda yang ditarik oleh magnet terbuat dari", "jawaban": "Besi" },
-  { "id": 778, "soal": "Perubahan uap air menjadi titik air disebut", "jawaban": "Mengembun" },
-  { "id": 779, "soal": "Ibu kota negara Thailand adalah", "jawaban": "Bangkok" },
-  { "id": 780, "soal": "Negara yang pernah menjajah Indonesia paling lama adalah", "jawaban": "Belanda" },
-  { "id": 781, "soal": "Hasil dari dua puluh empat dibagi dua adalah", "jawaban": "Duabelas" },
-  { "id": 782, "soal": "Bagian telur yang berwarna kuning disebut", "jawaban": "Kuning telur" },
-  { "id": 783, "soal": "Tumbuhan yang memiliki duri untuk melindungi diri adalah", "jawaban": "Kaktus" },
-  { "id": 784, "soal": "Satuan untuk panjang benda adalah", "jawaban": "Meter" },
-  { "id": 785, "soal": "Satuan untuk berat benda adalah", "jawaban": "Kilogram" },
-  { "id": 786, "soal": "Planet yang dijuluki planet merah adalah", "jawaban": "Mars" },
-  { "id": 787, "soal": "Lampu lalu lintas warna kuning berarti harus", "jawaban": "Hati-hati" },
-  { "id": 788, "soal": "Lampu lalu lintas warna hijau berarti boleh", "jawaban": "Jalan" },
-  { "id": 789, "soal": "Siapa pencipta lagu Indonesia Raya", "jawaban": "W.R. Supratman" },
-  { "id": 790, "soal": "Apa kepanjangan dari SD", "jawaban": "Sekolah Dasar" },
-  { "id": 791, "soal": "Sesuatu yang menempati ruang dan memiliki massa disebut", "jawaban": "Benda" },
-  { "id": 792, "soal": "Air laut rasanya", "jawaban": "Asin" },
-  { "id": 793, "soal": "Negara tetangga yang berbatasan langsung dengan Papua adalah", "jawaban": "Papua Nugini" },
-  { "id": 794, "soal": "Hewan yang bisa berubah warna kulitnya adalah", "jawaban": "Bunglon" },
-  { "id": 795, "soal": "Lawan kata dari siang adalah", "jawaban": "Malam" },
-  { "id": 796, "soal": "Lawan kata dari besar adalah", "jawaban": "Kecil" },
-  { "id": 797, "soal": "Alat pernapasan pada tumbuhan di daun disebut", "jawaban": "Stomata" },
-  { "id": 798, "soal": "Bagian tubuh yang menyokong berdirinya manusia adalah", "jawaban": "Tulang" },
-  { "id": 799, "soal": "Ibu kota negara Jepang adalah", "jawaban": "Tokyo" },
-  { "id": 800, "soal": "Ibu kota negara Korea Selatan adalah", "jawaban": "Seoul" },
-  { "id": 801, "soal": "Tumbuhan kaktus hidup di daerah", "jawaban": "Gurun" },
-  { "id": 802, "soal": "Arah mata angin utama berjumlah", "jawaban": "Delapan" },
-  { "id": 803, "soal": "Hewan laut yang menyusui adalah", "jawaban": "Paus" },
-  { "id": 804, "soal": "Benda yang digunakan untuk menggosok gigi adalah", "jawaban": "Sikat gigi" },
-  { "id": 805, "soal": "Bahan bakar untuk kendaraan bermotor adalah", "jawaban": "Bensin" },
-  { "id": 806, "soal": "Setelah angka sembilan adalah", "jawaban": "Sepuluh" },
-  { "id": 807, "soal": "Provinsi di paling ujung timur Indonesia adalah", "jawaban": "Papua" },
-  { "id": 808, "soal": "Samudra yang membatasi Indonesia di sebelah selatan adalah", "jawaban": "Hindia" },
-  { "id": 809, "soal": "Siapa presiden Indonesia saat ini", "jawaban": "Prabowo Subianto" },
-  { "id": 810, "soal": "Alat untuk melihat benda sangat jauh di langit adalah", "jawaban": "Teleskop" },
-  { "id": 811, "soal": "Gaya yang dihasilkan oleh magnet disebut gaya", "jawaban": "Magnet" },
-  { "id": 812, "soal": "Bagian bunga yang paling menarik adalah", "jawaban": "Mahkota" },
-  { "id": 813, "soal": "Tempat menyimpan buku di sekolah disebut", "jawaban": "Perpustakaan" },
-  { "id": 814, "soal": "Ibu kota provinsi Jawa Barat adalah", "jawaban": "Bandung" },
-  { "id": 815, "soal": "Pulau terbesar di Indonesia adalah", "jawaban": "Kalimantan" },
-  { "id": 816, "soal": "Warna lampu lalu lintas paling bawah adalah", "jawaban": "Hijau" },
-  { "id": 817, "soal": "Hewan yang memiliki tempurung adalah", "jawaban": "Kura-kura" },
-  { "id": 818, "soal": "Proses es mencair menjadi air disebut", "jawaban": "Mencair" },
-  { "id": 819, "soal": "Alat untuk menghitung adalah", "jawaban": "Kalkulator" },
-  { "id": 820, "soal": "Negara yang menjajah Indonesia selama tiga setengah tahun adalah", "jawaban": "Jepang" },
-  { "id": 821, "soal": "Lawan kata tajam adalah", "jawaban": "Tumpul" },
-  { "id": 822, "soal": "Lawan kata panjang adalah", "jawaban": "Pendek" },
-  { "id": 823, "soal": "Bulan yang memiliki jumlah hari paling sedikit adalah", "jawaban": "Februari" },
-  { "id": 824, "soal": "Ibu kota provinsi Sumatera Utara adalah", "jawaban": "Medan" },
-  { "id": 825, "soal": "Ibu kota provinsi Jawa Timur adalah", "jawaban": "Surabaya" },
-  { "id": 826, "soal": "Apa warna primer campuran merah dan kuning", "jawaban": "Oranye" },
-  { "id": 827, "soal": "Tumbuhan yang batangnya merambat contohnya", "jawaban": "Semangka" },
-  { "id": 828, "soal": "Alat untuk memotong kertas adalah", "jawaban": "Gunting" },
-  { "id": 829, "soal": "Hewan yang memiliki cula adalah", "jawaban": "Badak" },
-  { "id": 830, "soal": "Siapa wakil presiden Indonesia pertama", "jawaban": "Mohammad Hatta" },
-  { "id": 831, "soal": "Arah jam berputar ke arah", "jawaban": "Kanan" },
-  { "id": 832, "soal": "Satuan waktu yang terdiri dari 60 menit adalah", "jawaban": "Satu jam" },
-  { "id": 833, "soal": "Jumlah hari dalam setahun normal adalah", "jawaban": "Tiga ratus enam puluh lima" },
-  { "id": 834, "soal": "Planet nomor tiga dari matahari adalah", "jawaban": "Bumi" },
-  { "id": 835, "soal": "Hewan yang menghasilkan telur adalah", "jawaban": "Ayam" },
-  { "id": 836, "soal": "Tumbuhan yang menyimpan air di batang adalah", "jawaban": "Kaktus" },
-  { "id": 837, "soal": "Indra untuk merasakan halus kasar adalah", "jawaban": "Kulit" },
-  { "id": 838, "soal": "Apa ibu kota negara Inggris", "jawaban": "London" },
-  { "id": 839, "soal": "Pesta olah raga dunia setiap empat tahun disebut", "jawaban": "Olimpiade" },
-  { "id": 840, "soal": "Benda yang bisa memantulkan cahaya adalah", "jawaban": "Cermin" },
-  { "id": 841, "soal": "Apa kepanjangan dari NKRI", "jawaban": "Negara Kesatuan Republik Indonesia" },
-  { "id": 842, "soal": "Hasil dari delapan dikali delapan adalah", "jawaban": "Enam puluh empat" },
-  { "id": 843, "soal": "Hewan yang memiliki gading adalah", "jawaban": "Gajah" },
-  { "id": 844, "soal": "Apa nama ibu kota negara Perancis", "jawaban": "Paris" },
-  { "id": 845, "soal": "Tari piring berasal dari daerah", "jawaban": "Sumatera Barat" },
-  { "id": 846, "soal": "Bagian mata yang mengatur cahaya masuk adalah", "jawaban": "Pupil" },
-  { "id": 847, "soal": "Apa lawan kata dari rajin", "jawaban": "Malas" },
-  { "id": 848, "soal": "Hewan pemakan serangga disebut", "jawaban": "Insektivora" },
-  { "id": 849, "soal": "Kapan proklamasi kemerdekaan Indonesia dilakukan", "jawaban": "Tujuh belas Agustus seribu sembilan ratus empat puluh lima" },
-  { "id": 850, "soal": "Apa nama samudra di sebelah barat pulau Sumatera", "jawaban": "Samudra Hindia" },
-  { "id": 851, "soal": "Hewan yang memiliki cangkang dan hidup di darat serta air adalah", "jawaban": "Kura-kura" },
-  { "id": 852, "soal": "Planet merah adalah sebutan untuk planet", "jawaban": "Mars" },
-  { "id": 853, "soal": "Apa ibu kota provinsi Jawa Tengah", "jawaban": "Semarang" },
-  { "id": 854, "soal": "Alat pernapasan tumbuhan yang berada di batang disebut", "jawaban": "Lentisel" },
-  { "id": 855, "soal": "Benda yang tidak dapat ditarik magnet disebut", "jawaban": "Non magnetis" },
-  { "id": 856, "soal": "Apa ibu kota negara Korea Utara", "jawaban": "Pyongyang" },
-  { "id": 857, "soal": "Hewan yang berubah dari ulat menjadi indah adalah", "jawaban": "Kupu-kupu" },
-  { "id": 858, "soal": "Vitamin yang banyak terdapat pada buah wortel adalah", "jawaban": "Vitamin A" },
-  { "id": 859, "soal": "Indra yang digunakan untuk mengecap rasa makanan adalah", "jawaban": "Lidah" },
-  { "id": 860, "soal": "Apa lawan kata dari tinggi", "jawaban": "Rendah" },
-  { "id": 861, "soal": "Setelah hari Rabu adalah hari", "jawaban": "Kamis" },
-  { "id": 862, "soal": "Gunung tertinggi di dunia adalah gunung", "jawaban": "Everest" },
-  { "id": 863, "soal": "Bahan utama untuk membuat cokelat adalah", "jawaban": "Kakao" },
-  { "id": 864, "soal": "Apa ibu kota negara Belanda", "jawaban": "Amsterdam" },
-  { "id": 865, "soal": "Hewan yang suka menghisap darah manusia adalah nyamuk dan", "jawaban": "Lintah" },
-  { "id": 866, "soal": "Tumbuhan yang menggugurkan daunnya di musim kemarau adalah pohon", "jawaban": "Jati" },
-  { "id": 867, "soal": "Alat musik yang dipukul dan berasal dari Jawa adalah", "jawaban": "Gamelan" },
-  { "id": 868, "soal": "Siapa pencipta lagu Ibu Kita Kartini", "jawaban": "W.R. Supratman" },
-  { "id": 869, "soal": "Satuan untuk daya listrik adalah", "jawaban": "Watt" },
-  { "id": 870, "soal": "Apa ibu kota negara Filipina", "jawaban": "Manila" },
-  { "id": 871, "soal": "Hewan yang memiliki kemampuan berubah warna kulit adalah", "jawaban": "Bunglon" },
-  { "id": 872, "soal": "Penyakit yang disebabkan kekurangan vitamin B satu disebut", "jawaban": "Beri-beri" },
-  { "id": 873, "soal": "Hasil dari lima dikali sembilan adalah", "jawaban": "Empat puluh lima" },
-  { "id": 874, "soal": "Arah mata angin antara barat dan utara adalah", "jawaban": "Barat Laut" },
-  { "id": 875, "soal": "Provinsi yang berada di paling barat Indonesia adalah", "jawaban": "Aceh" },
-  { "id": 876, "soal": "Ikan bernapas menggunakan", "jawaban": "Insang" },
-  { "id": 877, "soal": "Benda yang bisa menghantarkan listrik disebut", "jawaban": "Konduktor" },
-  { "id": 878, "soal": "Planet paling panas dalam tata surya adalah", "jawaban": "Venus" },
-  { "id": 879, "soal": "Apa nama samudra terluas di dunia", "jawaban": "Samudra Pasifik" },
-  { "id": 880, "soal": "Alat peraga untuk melihat peta dunia berbentuk bulat disebut", "jawaban": "Globe" },
-  { "id": 881, "soal": "Setelah angka sembilan ratus sembilan puluh sembilan adalah", "jawaban": "Seribu" },
-  { "id": 882, "soal": "Pahlawan yang dijuluki Bapak Pendidikan Nasional adalah", "jawaban": "Ki Hajar Dewantara" },
-  { "id": 883, "soal": "Gaya yang membuat benda tetap menempel di bumi disebut gaya", "jawaban": "Gravitasi" },
-  { "id": 884, "soal": "Tumbuhan yang batangnya berongga contohnya", "jawaban": "Kangkung" },
-  { "id": 885, "soal": "Indra yang peka terhadap suara adalah", "jawaban": "Telinga" },
-  { "id": 886, "soal": "Ibu kota negara Thailand adalah", "jawaban": "Bangkok" },
-  { "id": 887, "soal": "Mata uang negara Jepang adalah", "jawaban": "Yen" },
-  { "id": 888, "soal": "Hewan pemakan serangga disebut", "jawaban": "Insektivora" },
-  { "id": 889, "soal": "Hasil dari seratus dibagi empat adalah", "jawaban": "Dua puluh lima" },
-  { "id": 890, "soal": "Lagu kebangsaan Indonesia adalah", "jawaban": "Indonesia Raya" },
-  { "id": 891, "soal": "Sila ketiga Pancasila berbunyi", "jawaban": "Persatuan Indonesia" },
-  { "id": 892, "soal": "Rumah adat suku Minangkabau disebut rumah", "jawaban": "Gadang" },
-  { "id": 893, "soal": "Benua terbesar di dunia adalah benua", "jawaban": "Asia" },
-  { "id": 894, "soal": "Hewan yang memilki lari tercepat adalah", "jawaban": "Cheetah" },
-  { "id": 895, "soal": "Warna lampu lalu lintas yang artinya jalan terus adalah", "jawaban": "Hijau" },
-  { "id": 896, "soal": "Ibu kota negara Rusia adalah", "jawaban": "Moskow" },
-  { "id": 897, "soal": "Benda cair yang berubah menjadi uap disebut", "jawaban": "Menguap" },
-  { "id": 898, "soal": "Jumlah hari dalam satu minggu adalah", "jawaban": "Tujuh hari" },
-  { "id": 899, "soal": "Hewan yang tidur sambil bergelantungan terbalik adalah", "jawaban": "Kelelawar" },
-  { "id": 900, "soal": "Indra manusia yang berfungsi sebagai peraba adalah", "jawaban": "Kulit" },
-  { "id": 901, "soal": "Apa ibu kota negara Singapura", "jawaban": "Singapura" },
-  { "id": 902, "soal": "Tumbuhan yang akarnya di atas tanah untuk bernapas disebut akar", "jawaban": "Napas" },
-  { "id": 903, "soal": "Penyakit karena kekurangan zat besi disebut", "jawaban": "Anemia" },
-  { "id": 904, "soal": "Hasil dari delapan dikali tujuh adalah", "jawaban": "Lima puluh enam" },
-  { "id": 905, "soal": "Planet yang paling dekat dengan bumi adalah", "jawaban": "Venus" },
-  { "id": 906, "soal": "Setelah hari Sabtu adalah hari", "jawaban": "Minggu" },
-  { "id": 907, "soal": "Hewan yang membantu menarik delman adalah", "jawaban": "Kuda" },
-  { "id": 908, "soal": "Apa ibu kota provinsi Bali", "jawaban": "Denpasar" },
-  { "id": 909, "soal": "Zat yang diperlukan tubuh untuk membangun otot adalah", "jawaban": "Protein" },
-  { "id": 910, "soal": "Samudra yang berada di antara benua Asia dan Amerika adalah", "jawaban": "Pasifik" },
-  { "id": 911, "soal": "Alat musik piano berasal dari negara", "jawaban": "Italia" },
-  { "id": 912, "soal": "Hewan yang memiliki gading adalah", "jawaban": "Gajah" },
-  { "id": 913, "soal": "Warna bendera negara Singapura adalah merah dan", "jawaban": "Putih" },
-  { "id": 914, "soal": "Apa lawan kata dari lapar", "jawaban": "Kenyang" },
-  { "id": 915, "soal": "Sesuatu yang ditarik bumi ke pusatnya disebut gaya", "jawaban": "Gravitasi" },
-  { "id": 916, "soal": "Apa ibu kota negara Jerman", "jawaban": "Berlin" },
-  { "id": 917, "soal": "Bagian tumbuhan yang menghasilkan biji adalah", "jawaban": "Bunga" },
-  { "id": 918, "soal": "Satuan untuk mengukur suhu adalah derajat", "jawaban": "Celsius" },
-  { "id": 919, "soal": "Setelah bulan Juli adalah bulan", "jawaban": "Agustus" },
-  { "id": 920, "soal": "Ikan yang memiliki kumis dan hidup di air tawar adalah ikan", "jawaban": "Lele" },
-  { "id": 921, "soal": "Alat untuk membersihkan lantai disebut", "jawaban": "Sapu" },
-  { "id": 922, "soal": "Candi borobudur merupakan peninggalan agama", "jawaban": "Buddha" },
-  { "id": 923, "soal": "Ibu kota negara Arab Saudi adalah", "jawaban": "Riyadh" },
-  { "id": 924, "soal": "Arah mata angin yang berlawanan dengan selatan adalah", "jawaban": "Utara" },
-  { "id": 925, "soal": "Benda padat yang berubah langsung menjadi gas disebut", "jawaban": "Menyublim" },
-  { "id": 926, "soal": "Hewan yang mengeluarkan tinta untuk melarikan diri adalah", "jawaban": "Cumi-cumi" },
-  { "id": 927, "soal": "Bagian mata yang mengatur lebar sempitnya pupil adalah", "jawaban": "Iris" },
-  { "id": 928, "soal": "Vitamin yang penting untuk kesehatan gigi dan gusi adalah", "jawaban": "Vitamin C" },
-  { "id": 929, "soal": "Ibu kota negara Cina adalah", "jawaban": "Beijing" },
-  { "id": 930, "soal": "Hasil dari lima belas ditambah dua puluh adalah", "jawaban": "Tiga puluh lima" },
-  { "id": 931, "soal": "Satuan waktu yang terdiri dari enam puluh detik adalah", "jawaban": "Satu menit" },
-  { "id": 932, "soal": "Hewan yang memilki satu cula di kepalanya adalah", "jawaban": "Badak" },
-  { "id": 933, "soal": "Apa ibu kota negara Inggris", "jawaban": "London" },
-  { "id": 934, "soal": "Tari piring berasal dari provinsi", "jawaban": "Sumatera Barat" },
-  { "id": 935, "soal": "Alat musik tiup yang terbuat dari bambu adalah", "jawaban": "Suling" },
-  { "id": 936, "soal": "Setelah angka sembilan adalah", "jawaban": "Sepuluh" },
-  { "id": 937, "soal": "Apa nama ibu kota negara Italia", "jawaban": "Roma" },
-  { "id": 938, "soal": "Hewan yang mengalami metamorfosis sempurna adalah", "jawaban": "Kupu-kupu" },
-  { "id": 939, "soal": "Bagian tubuh manusia untuk mencerna makanan awal adalah", "jawaban": "Mulut" },
-  { "id": 940, "soal": "Mata uang negara Korea Selatan adalah", "jawaban": "Won" },
-  { "id": 941, "soal": "Setelah bulan September adalah bulan", "jawaban": "Oktober" },
-  { "id": 942, "soal": "Penyakit yang ditandai dengan demam dan bintik merah adalah", "jawaban": "Campak" },
-  { "id": 943, "soal": "Gaya yang timbul karena dua permukaan benda bergesekan disebut gaya", "jawaban": "Gesek" },
-  { "id": 944, "soal": "Tumbuhan yang akarnya berfungsi untuk menopang batang adalah akar", "jawaban": "Tunjang" },
-  { "id": 945, "soal": "Hewan pemakan daging disebut juga dengan", "jawaban": "Karnivora" },
-  { "id": 946, "soal": "Ibu kota provinsi Jawa Timur adalah", "jawaban": "Surabaya" },
-  { "id": 947, "soal": "Planet terbesar di sistem tata surya adalah", "jawaban": "Yupiter" },
-  { "id": 948, "soal": "Hasil dari dua puluh empat dibagi dua adalah", "jawaban": "Dua belas" },
-  { "id": 949, "soal": "Lawan kata dari siang adalah", "jawaban": "Malam" },
-  { "id": 950, "soal": "Burung yang tidak bisa terbang namun bisa berenang adalah", "jawaban": "Pinguin" },
-  { "id": 951, "soal": "Bahan utama pembuat ban kendaraan adalah", "jawaban": "Karet" },
-  { "id": 952, "soal": "Satuan waktu yang terdiri dari 3600 detik adalah", "jawaban": "Satu jam" },
-  { "id": 953, "soal": "Apa ibu kota negara Perancis", "jawaban": "Paris" },
-  { "id": 954, "soal": "Indra manusia yang peka terhadap bau adalah", "jawaban": "Hidung" },
-  { "id": 955, "soal": "Sila kelima Pancasila dilambangkan dengan padi dan", "jawaban": "Kapas" },
-  { "id": 956, "soal": "Hewan yang memiliki kantong di perutnya adalah", "jawaban": "Kanguru" },
-  { "id": 957, "soal": "Setelah hari Minggu adalah hari", "jawaban": "Senin" },
-  { "id": 958, "soal": "Apa nama samudra di sebelah selatan Indonesia", "jawaban": "Samudra Hindia" },
-  { "id": 959, "soal": "Hasil dari sembilan dikali sembilan adalah", "jawaban": "Delapan puluh satu" },
-  { "id": 960, "soal": "Bagian tubuh manusia untuk memompa darah adalah", "jawaban": "Jantung" },
-  { "id": 961, "soal": "Ibu kota negara Malaysia adalah", "jawaban": "Kuala Lumpur" },
-  { "id": 962, "soal": "Zat yang menyebabkan rasa manis pada buah disebut", "jawaban": "Fruktosa" },
-  { "id": 963, "soal": "Hewan yang memilki punuk untuk menyimpan lemak adalah", "jawaban": "Unta" },
-  { "id": 964, "soal": "Satuan untuk berat benda adalah", "jawaban": "Kilogram" },
-  { "id": 965, "soal": "Setelah bulan Januari adalah bulan", "jawaban": "Februari" },
-  { "id": 966, "soal": "Benda yang digunakan untuk mengukur waktu adalah", "jawaban": "Jam" },
-  { "id": 967, "soal": "Apa ibu kota negara Vietnam", "jawaban": "Hanoi" },
-  { "id": 968, "soal": "Lawan kata dari rajin adalah", "jawaban": "Malas" },
-  { "id": 969, "soal": "Penyakit yang disebabkan gigitan nyamuk Aedes Aegypti adalah", "jawaban": "Demam berdarah" },
-  { "id": 970, "soal": "Indra yang peka terhadap cahaya adalah", "jawaban": "Mata" },
-  { "id": 971, "soal": "Setelah angka seratus adalah", "jawaban": "Seratus satu" },
-  { "id": 972, "soal": "Planet paling jauh dari matahari adalah", "jawaban": "Neptunus" },
-  { "id": 973, "soal": "Tumbuhan yang melindungi diri dengan duri adalah bunga", "jawaban": "Mawar" },
-  { "id": 974, "soal": "Ibu kota provinsi Sulawesi Selatan adalah", "jawaban": "Makassar" },
-  { "id": 975, "soal": "Apa lawan kata dari besar", "jawaban": "Kecil" },
-  { "id": 976, "soal": "Hewan yang melata dan tidak memiliki kaki adalah", "jawaban": "Ular" },
-  { "id": 977, "soal": "Hasil dari sepuluh dikali sepuluh adalah", "jawaban": "Seratus" },
-  { "id": 978, "soal": "Indra yang peka terhadap rasa pait adalah", "jawaban": "Lidah" },
-  { "id": 979, "soal": "Satuan panjang satu kilometer sama dengan berapa meter", "jawaban": "Seribu meter" },
-  { "id": 980, "soal": "Setelah hari Selasa adalah hari", "jawaban": "Rabu" },
-  { "id": 981, "soal": "Pusat tata surya kita adalah", "jawaban": "Matahari" },
-  { "id": 982, "soal": "Apa nama ibu kota negara Australia", "jawaban": "Canberra" },
-  { "id": 983, "soal": "Hewan yang menghasilkan madu adalah", "jawaban": "Lebah" },
-  { "id": 984, "soal": "Benda cair yang didinginkan sampai nol derajat disebut", "jawaban": "Es" },
-  { "id": 985, "soal": "Bagian mata yang mengatur cahaya masuk adalah", "jawaban": "Iris" },
-  { "id": 986, "soal": "Apa lawan kata dari gemuk", "jawaban": "Kurus" },
-  { "id": 987, "soal": "Hasil dari dua puluh lima ditambah dua puluh lima adalah", "jawaban": "Lima puluh" },
-  { "id": 988, "soal": "Hewan yang sering dijuluki raja hutan adalah", "jawaban": "Singa" },
-  { "id": 989, "soal": "Apa ibu kota negara India", "jawaban": "New Delhi" },
-  { "id": 990, "soal": "Bagian bunga yang paling wangi biasanya adalah", "jawaban": "Mahkota" },
-  { "id": 991, "soal": "Setelah bulan Maret adalah bulan", "jawaban": "April" },
-  { "id": 992, "soal": "Apa lawan kata dari siang", "jawaban": "Malam" },
-  { "id": 993, "soal": "Penyakit batuk yang disebabkan virus dan menular adalah", "jawaban": "Influenza" },
-  { "id": 994, "soal": "Indra yang peka terhadap getaran udara adalah", "jawaban": "Telinga" },
-  { "id": 995, "soal": "Apa ibu kota negara Filipina", "jawaban": "Manila" },
-  { "id": 996, "soal": "Hasil dari seratus dikurangi lima puluh adalah", "jawaban": "Lima puluh" },
-  { "id": 997, "soal": "Hewan yang memiliki cangkang keras di punggungnya adalah", "jawaban": "Kura-kura" },
-  { "id": 998, "soal": "Satuan untuk waktu adalah", "jawaban": "Detik" },
-  { "id": 999, "soal": "Dasar negara Indonesia yang terdiri dari lima sila adalah", "jawaban": "Pancasila" },
-  { "id": 1000, "soal": "Sila pertama Pancasila dilambangkan dengan", "jawaban": "Bintang" }
+   {
+      "id":1,
+      "soal":"Ibu kota negara Indonesia adalah",
+      "jawaban":"Jakarta"
+   },
+   {
+      "id":2,
+      "soal":"Lagu kebangsaan negara Indonesia adalah",
+      "jawaban":"Indonesia Raya"
+   },
+   {
+      "id":3,
+      "soal":"Presiden pertama Republik Indonesia adalah",
+      "jawaban":"Soekarno"
+   },
+   {
+      "id":4,
+      "soal":"Lambang negara Indonesia adalah burung",
+      "jawaban":"Garuda"
+   },
+   {
+      "id":5,
+      "soal":"Dasar negara Indonesia adalah",
+      "jawaban":"Pancasila"
+   },
+   {
+      "id":6,
+      "soal":"Hasil dari sepuluh ditambah lima adalah",
+      "jawaban":"Limabelas"
+   },
+   {
+      "id":7,
+      "soal":"Hewan yang bisa hidup di darat dan di air disebut",
+      "jawaban":"Amfibi"
+   },
+   {
+      "id":8,
+      "soal":"Planet tempat manusia tinggal adalah planet",
+      "jawaban":"Bumi"
+   },
+   {
+      "id":9,
+      "soal":"Matahari terbit dari arah",
+      "jawaban":"Timur"
+   },
+   {
+      "id":10,
+      "soal":"Warna bendera negara Indonesia adalah",
+      "jawaban":"Merah Putih"
+   },
+   {
+      "id":11,
+      "soal":"Alat pernapasan pada ikan disebut",
+      "jawaban":"Insang"
+   },
+   {
+      "id":12,
+      "soal":"Hasil dari lima dikali lima adalah",
+      "jawaban":"Duapuluh lima"
+   },
+   {
+      "id":13,
+      "soal":"Indra manusia yang digunakan untuk melihat adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":14,
+      "soal":"Gunung tertinggi di pulau Jawa adalah gunung",
+      "jawaban":"Semeru"
+   },
+   {
+      "id":15,
+      "soal":"Sila pertama Pancasila dilambangkan dengan gambar",
+      "jawaban":"Bintang"
+   },
+   {
+      "id":16,
+      "soal":"Rumah adat khas Papua adalah",
+      "jawaban":"Honai"
+   },
+   {
+      "id":17,
+      "soal":"Tumbuhan yang memiliki duri untuk melindungi diri adalah",
+      "jawaban":"Kaktus"
+   },
+   {
+      "id":18,
+      "soal":"Benda yang digunakan untuk melihat waktu adalah",
+      "jawaban":"Jam"
+   },
+   {
+      "id":19,
+      "soal":"Siapakah pencipta lagu Indonesia Raya",
+      "jawaban":"Wage Rudolf Supratman"
+   },
+   {
+      "id":20,
+      "soal":"Zat hijau pada daun disebut",
+      "jawaban":"Klorofil"
+   },
+   {
+      "id":21,
+      "soal":"Hewan pemakan tumbuhan disebut",
+      "jawaban":"Herbivora"
+   },
+   {
+      "id":22,
+      "soal":"Hewan pemakan daging disebut",
+      "jawaban":"Karnivora"
+   },
+   {
+      "id":23,
+      "soal":"Arah mata angin yang berada di antara utara dan timur adalah",
+      "jawaban":"Timur Laut"
+   },
+   {
+      "id":24,
+      "soal":"Alat musik yang dimainkan dengan cara digesek adalah",
+      "jawaban":"Biola"
+   },
+   {
+      "id":25,
+      "soal":"Provinsi yang paling barat di Indonesia adalah",
+      "jawaban":"Aceh"
+   },
+   {
+      "id":26,
+      "soal":"Bahasa internasional yang paling banyak digunakan adalah bahasa",
+      "jawaban":"Inggris"
+   },
+   {
+      "id":27,
+      "soal":"Bahan utama pembuatan tempe adalah",
+      "jawaban":"Kedelai"
+   },
+   {
+      "id":28,
+      "soal":"Sumpah Pemuda dirayakan setiap tanggal dua puluh delapan bulan",
+      "jawaban":"Oktober"
+   },
+   {
+      "id":29,
+      "soal":"Satuan untuk berat benda adalah",
+      "jawaban":"Kilogram"
+   },
+   {
+      "id":30,
+      "soal":"Pusat tata surya adalah",
+      "jawaban":"Matahari"
+   },
+   {
+      "id":31,
+      "soal":"Negara yang pernah menjajah Indonesia selama tiga setengah abad adalah",
+      "jawaban":"Belanda"
+   },
+   {
+      "id":32,
+      "soal":"Mamalia yang hidup di laut dan sangat cerdas adalah",
+      "jawaban":"Lumba-lumba"
+   },
+   {
+      "id":33,
+      "soal":"Pakaian tradisional khas Jawa Tengah adalah",
+      "jawaban":"Kebaya"
+   },
+   {
+      "id":34,
+      "soal":"Alat yang digunakan untuk mengukur suhu adalah",
+      "jawaban":"Termometer"
+   },
+   {
+      "id":35,
+      "soal":"Bunga nasional bangsa Indonesia adalah bunga",
+      "jawaban":"Melati"
+   },
+   {
+      "id":36,
+      "soal":"Danau terbesar di Indonesia adalah danau",
+      "jawaban":"Toba"
+   },
+   {
+      "id":37,
+      "soal":"Bagian tubuh burung yang digunakan untuk terbang adalah",
+      "jawaban":"Sayap"
+   },
+   {
+      "id":38,
+      "soal":"Candi borobudur terletak di provinsi",
+      "jawaban":"Jawa Tengah"
+   },
+   {
+      "id":39,
+      "soal":"Hasil dari dua puluh empat dibagi dua adalah",
+      "jawaban":"Duabelas"
+   },
+   {
+      "id":40,
+      "soal":"Arah yang berlawanan dengan utara adalah",
+      "jawaban":"Selatan"
+   },
+   {
+      "id":41,
+      "soal":"Mata uang negara Indonesia adalah",
+      "jawaban":"Rupiah"
+   },
+   {
+      "id":42,
+      "soal":"Benda yang ditarik oleh magnet biasanya terbuat dari",
+      "jawaban":"Besi"
+   },
+   {
+      "id":43,
+      "soal":"Hewan yang memiliki belalai panjang adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":44,
+      "soal":"Olahraga yang dimainkan oleh sebelas orang setiap tim adalah",
+      "jawaban":"Sepak Bola"
+   },
+   {
+      "id":45,
+      "soal":"Makan siang biasanya dilakukan pada jam",
+      "jawaban":"Duabelas"
+   },
+   {
+      "id":46,
+      "soal":"Ibu kota provinsi Jawa Barat adalah",
+      "jawaban":"Bandung"
+   },
+   {
+      "id":47,
+      "soal":"Pahlawan yang dijuluki Ayam Jantan dari Timur adalah",
+      "jawaban":"Sultan Hasanuddin"
+   },
+   {
+      "id":48,
+      "soal":"Benda cair jika didinginkan di dalam freezer akan menjadi",
+      "jawaban":"Padat"
+   },
+   {
+      "id":49,
+      "soal":"Planet merah adalah sebutan untuk planet",
+      "jawaban":"Mars"
+   },
+   {
+      "id":50,
+      "soal":"Hewan yang lehernya sangat panjang adalah",
+      "jawaban":"Jerapah"
+   },
+   {
+      "id":51,
+      "soal":"Vitamin yang banyak terkandung dalam buah jeruk adalah vitamin",
+      "jawaban":"C"
+   },
+   {
+      "id":52,
+      "soal":"Jumlah sila dalam Pancasila adalah",
+      "jawaban":"Lima"
+   },
+   {
+      "id":53,
+      "soal":"Surat yang dikirim lewat komputer disebut",
+      "jawaban":"Email"
+   },
+   {
+      "id":54,
+      "soal":"Bagian tumbuhan yang berada di dalam tanah adalah",
+      "jawaban":"Akar"
+   },
+   {
+      "id":55,
+      "soal":"Alat musik angklung berasal dari daerah",
+      "jawaban":"Jawa Barat"
+   },
+   {
+      "id":56,
+      "soal":"Setelah hari Senin adalah hari",
+      "jawaban":"Selasa"
+   },
+   {
+      "id":57,
+      "soal":"Sesuatu yang memiliki massa dan menempati ruang disebut",
+      "jawaban":"Benda"
+   },
+   {
+      "id":58,
+      "soal":"Gunung berapi yang pernah meletus sangat dahsyat tahun seribu delapan ratus delapan puluh tiga adalah",
+      "jawaban":"Krakatau"
+   },
+   {
+      "id":59,
+      "soal":"Bentuk bumi yang sebenarnya adalah",
+      "jawaban":"Bulat"
+   },
+   {
+      "id":60,
+      "soal":"Candi Prambanan merupakan peninggalan agama",
+      "jawaban":"Hindu"
+   },
+   {
+      "id":61,
+      "soal":"Hasil dari seratus dikurangi lima puluh adalah",
+      "jawaban":"Limapuluh"
+   },
+   {
+      "id":62,
+      "soal":"Siapakah bapak proklamator Indonesia",
+      "jawaban":"Soekarno dan Hatta"
+   },
+   {
+      "id":63,
+      "soal":"Burung yang tidak bisa terbang namun lari sangat cepat adalah",
+      "jawaban":"Burung Unta"
+   },
+   {
+      "id":64,
+      "soal":"Alat indra untuk mengecap rasa adalah",
+      "jawaban":"Lidah"
+   },
+   {
+      "id":65,
+      "soal":"Penyakit akibat kekurangan sel darah merah disebut",
+      "jawaban":"Anemia"
+   },
+   {
+      "id":66,
+      "soal":"Samudra terluas di dunia adalah samudra",
+      "jawaban":"Pasifik"
+   },
+   {
+      "id":67,
+      "soal":"Bahan bakar untuk pesawat terbang adalah",
+      "jawaban":"Avtur"
+   },
+   {
+      "id":68,
+      "soal":"Provinsi yang beribukota di Surabaya adalah",
+      "jawaban":"Jawa Timur"
+   },
+   {
+      "id":69,
+      "soal":"Sesuatu yang dapat ditarik magnet disebut benda",
+      "jawaban":"Magnetis"
+   },
+   {
+      "id":70,
+      "soal":"Satuan waktu yang terdiri dari enam puluh detik adalah",
+      "jawaban":"Menit"
+   },
+   {
+      "id":71,
+      "soal":"Penemu lampu pijar adalah",
+      "jawaban":"Thomas Alva Edison"
+   },
+   {
+      "id":72,
+      "soal":"Hewan terkecil yang suka bekerja sama adalah",
+      "jawaban":"Semut"
+   },
+   {
+      "id":73,
+      "soal":"Sinar matahari pagi mengandung vitamin",
+      "jawaban":"D"
+   },
+   {
+      "id":74,
+      "soal":"Negara tetangga yang berbatasan darat dengan Kalimantan adalah",
+      "jawaban":"Malaysia"
+   },
+   {
+      "id":75,
+      "soal":"Peralatan sekolah yang digunakan untuk menghapus tulisan pensil adalah",
+      "jawaban":"Penghapus"
+   },
+   {
+      "id":76,
+      "soal":"Pohon yang batangnya bisa dijadikan gula merah adalah pohon",
+      "jawaban":"Kelapa"
+   },
+   {
+      "id":77,
+      "soal":"Zat yang diperlukan tubuh untuk pertumbuhan adalah",
+      "jawaban":"Protein"
+   },
+   {
+      "id":78,
+      "soal":"Pulau terbesar di Indonesia adalah pulau",
+      "jawaban":"Kalimantan"
+   },
+   {
+      "id":79,
+      "soal":"Alat musik yang dipukul untuk mengeluarkan suara adalah",
+      "jawaban":"Gendang"
+   },
+   {
+      "id":80,
+      "soal":"Perubahan wujud benda dari cair menjadi gas disebut",
+      "jawaban":"Menguap"
+   },
+   {
+      "id":81,
+      "soal":"Gigi yang berfungsi untuk mengunyah makanan disebut gigi",
+      "jawaban":"Geraham"
+   },
+   {
+      "id":82,
+      "soal":"Benua terkecil di dunia adalah benua",
+      "jawaban":"Australia"
+   },
+   {
+      "id":83,
+      "soal":"Tempat untuk menyimpan uang di bank disebut",
+      "jawaban":"Tabungan"
+   },
+   {
+      "id":84,
+      "soal":"Kupu-kupu berasal dari hewan yang bernama",
+      "jawaban":"Ulat"
+   },
+   {
+      "id":85,
+      "soal":"Tari Pendet berasal dari daerah",
+      "jawaban":"Bali"
+   },
+   {
+      "id":86,
+      "soal":"Suku asli yang mendiami pulau Kalimantan adalah suku",
+      "jawaban":"Dayak"
+   },
+   {
+      "id":87,
+      "soal":"Alat yang digunakan untuk memotong kertas adalah",
+      "jawaban":"Gunting"
+   },
+   {
+      "id":88,
+      "soal":"Benda yang permukaannya halus dan bisa memantulkan bayangan adalah",
+      "jawaban":"Cermin"
+   },
+   {
+      "id":89,
+      "soal":"Kekurangan cairan dalam tubuh disebut",
+      "jawaban":"Dehidrasi"
+   },
+   {
+      "id":90,
+      "soal":"Makanan pokok sebagian besar masyarakat Indonesia adalah",
+      "jawaban":"Nasi"
+   },
+   {
+      "id":91,
+      "soal":"Bagian mata yang mengatur cahaya masuk disebut",
+      "jawaban":"Pupil"
+   },
+   {
+      "id":92,
+      "soal":"Hari kemerdekaan Indonesia dirayakan setiap bulan",
+      "jawaban":"Agustus"
+   },
+   {
+      "id":93,
+      "soal":"Hewan yang pandai melompat dan memiliki kantong di perutnya adalah",
+      "jawaban":"Kanguru"
+   },
+   {
+      "id":94,
+      "soal":"Bunyi yang merambat melalui udara bisa didengar oleh indra",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":95,
+      "soal":"Planet terbesar dalam tata surya adalah",
+      "jawaban":"Yupiter"
+   },
+   {
+      "id":96,
+      "soal":"Mata uang negara Amerika Serikat adalah",
+      "jawaban":"Dollar"
+   },
+   {
+      "id":97,
+      "soal":"Tumbuhan yang menyimpan cadangan air di batangnya adalah kaktus dan pohon",
+      "jawaban":"Pisang"
+   },
+   {
+      "id":98,
+      "soal":"Warna primer terdiri dari merah kuning dan",
+      "jawaban":"Biru"
+   },
+   {
+      "id":99,
+      "soal":"Tempat bertemunya penjual dan pembeli disebut",
+      "jawaban":"Pasar"
+   },
+   {
+      "id":100,
+      "soal":"Gunung api yang masih aktif disebut gunung",
+      "jawaban":"Berapi"
+   },
+   {
+      "id":201,
+      "soal":"Hewan yang memiliki cangkang keras dan jalannya lambat adalah",
+      "jawaban":"Kura-kura"
+   },
+   {
+      "id":202,
+      "soal":"Garis yang membagi bumi menjadi dua bagian utara dan selatan adalah",
+      "jawaban":"Khatulistiwa"
+   },
+   {
+      "id":203,
+      "soal":"Benda yang dapat menghantarkan panas dengan baik disebut",
+      "jawaban":"Konduktor"
+   },
+   {
+      "id":204,
+      "soal":"Perubahan wujud gas menjadi cair disebut",
+      "jawaban":"Mengembun"
+   },
+   {
+      "id":205,
+      "soal":"Alat musik piano dimainkan dengan cara di",
+      "jawaban":"Tekan"
+   },
+   {
+      "id":206,
+      "soal":"Bagian bunga yang berfungsi sebagai alat kelamin jantan adalah",
+      "jawaban":"Benang sari"
+   },
+   {
+      "id":207,
+      "soal":"Ibu kota negara Jepang adalah",
+      "jawaban":"Tokyo"
+   },
+   {
+      "id":208,
+      "soal":"Tulang yang melindungi otak manusia disebut",
+      "jawaban":"Tengkorak"
+   },
+   {
+      "id":209,
+      "soal":"Hasil dari lima puluh ditambah lima puluh adalah",
+      "jawaban":"Seratus"
+   },
+   {
+      "id":210,
+      "soal":"Hewan yang aktif mencari makan pada malam hari disebut hewan",
+      "jawaban":"Nokturnal"
+   },
+   {
+      "id":211,
+      "soal":"Negara kincir angin adalah sebutan untuk negara",
+      "jawaban":"Belanda"
+   },
+   {
+      "id":212,
+      "soal":"Indra manusia yang berfungsi sebagai pengecap adalah",
+      "jawaban":"Lidah"
+   },
+   {
+      "id":213,
+      "soal":"Hutan yang memiliki curah hujan sangat tinggi disebut hutan hujan",
+      "jawaban":"Tropis"
+   },
+   {
+      "id":214,
+      "soal":"Gunung api terbesar di dunia yang berada di Hawaii adalah",
+      "jawaban":"Mauna Loa"
+   },
+   {
+      "id":215,
+      "soal":"Pahlawan nasional yang dikenal sebagai Bapak Pendidikan adalah",
+      "jawaban":"Ki Hajar Dewantara"
+   },
+   {
+      "id":216,
+      "soal":"Zat yang menyebabkan warna merah pada darah disebut",
+      "jawaban":"Hemoglobin"
+   },
+   {
+      "id":217,
+      "soal":"Rumah adat suku Minangkabau adalah rumah",
+      "jawaban":"Gadang"
+   },
+   {
+      "id":218,
+      "soal":"Planet terkecil dalam tata surya kita adalah",
+      "jawaban":"Merkurius"
+   },
+   {
+      "id":219,
+      "soal":"Kumpulan bintang di langit yang membentuk pola tertentu disebut",
+      "jawaban":"Rasi bintang"
+   },
+   {
+      "id":220,
+      "soal":"Alat untuk mengukur kecepatan kendaraan adalah",
+      "jawaban":"Speedometer"
+   },
+   {
+      "id":221,
+      "soal":"Cairan bening di dalam mulut yang membantu pencernaan adalah",
+      "jawaban":"Air liur"
+   },
+   {
+      "id":222,
+      "soal":"Negara yang dijuluki Negeri Gajah Putih adalah",
+      "jawaban":"Thailand"
+   },
+   {
+      "id":223,
+      "soal":"Proses pembuatan makanan pada tumbuhan hijau disebut",
+      "jawaban":"Fotosintesis"
+   },
+   {
+      "id":224,
+      "soal":"Bangun datar yang memiliki tiga sisi dan tiga sudut disebut",
+      "jawaban":"Segitiga"
+   },
+   {
+      "id":225,
+      "soal":"Ibu kota provinsi Bali adalah",
+      "jawaban":"Denpasar"
+   },
+   {
+      "id":226,
+      "soal":"Zat padat yang berubah langsung menjadi gas disebut",
+      "jawaban":"Menyublim"
+   },
+   {
+      "id":227,
+      "soal":"Serangga yang menghasilkan madu adalah",
+      "jawaban":"Lebah"
+   },
+   {
+      "id":228,
+      "soal":"Benua yang dikenal sebagai benua es adalah benua",
+      "jawaban":"Antartika"
+   },
+   {
+      "id":229,
+      "soal":"Alat musik sasando berasal dari daerah",
+      "jawaban":"Nusa Tenggara Timur"
+   },
+   {
+      "id":230,
+      "soal":"Lampu lalu lintas warna hijau artinya kendaraan harus",
+      "jawaban":"Jalan"
+   },
+   {
+      "id":231,
+      "soal":"Arah mata angin yang berada di antara selatan dan barat adalah",
+      "jawaban":"Barat Daya"
+   },
+   {
+      "id":232,
+      "soal":"Hewan yang bernapas dengan paru-paru dan kulit adalah",
+      "jawaban":"Katak"
+   },
+   {
+      "id":233,
+      "soal":"Kekurangan vitamin A dapat menyebabkan gangguan pada",
+      "jawaban":"Mata"
+   },
+   {
+      "id":234,
+      "soal":"Hasil dari dua belas dikali dua adalah",
+      "jawaban":"Duapuluh empat"
+   },
+   {
+      "id":235,
+      "soal":"Suku asli yang berasal dari Jakarta adalah suku",
+      "jawaban":"Betawi"
+   },
+   {
+      "id":236,
+      "soal":"Bagian tubuh manusia yang berfungsi untuk memompa darah adalah",
+      "jawaban":"Jantung"
+   },
+   {
+      "id":237,
+      "soal":"Laut yang sangat luas disebut",
+      "jawaban":"Samudra"
+   },
+   {
+      "id":238,
+      "soal":"Alat musik yang ditiup dan terbuat dari bambu adalah",
+      "jawaban":"Suling"
+   },
+   {
+      "id":239,
+      "soal":"Presiden kedua Republik Indonesia adalah",
+      "jawaban":"Soeharto"
+   },
+   {
+      "id":240,
+      "soal":"Hewan pemakan segala disebut",
+      "jawaban":"Omnivora"
+   },
+   {
+      "id":241,
+      "soal":"Tumbuhan yang menggugurkan daunnya pada musim kemarau adalah pohon",
+      "jawaban":"Jati"
+   },
+   {
+      "id":242,
+      "soal":"Bagian mata yang memberikan warna pada mata adalah",
+      "jawaban":"Iris"
+   },
+   {
+      "id":243,
+      "soal":"Provinsi tertua di Indonesia setelah merdeka adalah",
+      "jawaban":"Jawa Tengah"
+   },
+   {
+      "id":244,
+      "soal":"Alat untuk memperbesar benda kecil agar terlihat jelas adalah",
+      "jawaban":"Mikroskop"
+   },
+   {
+      "id":245,
+      "soal":"Satuan untuk mengukur panjang benda adalah",
+      "jawaban":"Meter"
+   },
+   {
+      "id":246,
+      "soal":"Hewan yang mengalami metamorfosis sempurna dari ulat adalah",
+      "jawaban":"Kupu-kupu"
+   },
+   {
+      "id":247,
+      "soal":"Kota yang dijuluki sebagai Kota Pahlawan adalah",
+      "jawaban":"Surabaya"
+   },
+   {
+      "id":248,
+      "soal":"Gaya yang menyebabkan benda jatuh ke bawah adalah gaya",
+      "jawaban":"Gravitasi"
+   },
+   {
+      "id":249,
+      "soal":"Tari piring berasal dari provinsi",
+      "jawaban":"Sumatera Barat"
+   },
+   {
+      "id":250,
+      "soal":"Bahan tambang yang digunakan sebagai perhiasan adalah emas dan",
+      "jawaban":"Perak"
+   },
+   {
+      "id":251,
+      "soal":"Ibu kota negara Malaysia adalah",
+      "jawaban":"Kuala Lumpur"
+   },
+   {
+      "id":252,
+      "soal":"Jumlah hari dalam satu tahun kabisat adalah",
+      "jawaban":"Tiga ratus enam puluh enam"
+   },
+   {
+      "id":253,
+      "soal":"Bagian telinga yang berfungsi untuk menangkap suara adalah",
+      "jawaban":"Daun telinga"
+   },
+   {
+      "id":254,
+      "soal":"Olahraga yang memukul bola kecil dengan raket di atas meja disebut",
+      "jawaban":"Tenis meja"
+   },
+   {
+      "id":255,
+      "soal":"Binatang yang bisa berubah warna kulitnya untuk melindungi diri adalah",
+      "jawaban":"Bunglon"
+   },
+   {
+      "id":256,
+      "soal":"Peninggalan sejarah berupa tulisan pada batu disebut",
+      "jawaban":"Prasasti"
+   },
+   {
+      "id":257,
+      "soal":"Indra yang digunakan untuk meraba permukaan benda adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":258,
+      "soal":"Warna lampu lalu lintas yang menandakan kendaraan harus hati-hati adalah",
+      "jawaban":"Kuning"
+   },
+   {
+      "id":259,
+      "soal":"Tumbuhan yang hidup menempel pada tumbuhan lain namun tidak merugikan disebut",
+      "jawaban":"Epifit"
+   },
+   {
+      "id":260,
+      "soal":"Samudra yang berada di sebelah barat pulau Sumatera adalah samudra",
+      "jawaban":"Hindia"
+   },
+   {
+      "id":261,
+      "soal":"Benda yang volumenya tetap tetapi bentuknya berubah mengikuti wadah adalah",
+      "jawaban":"Cair"
+   },
+   {
+      "id":262,
+      "soal":"Alat bantu untuk melihat benda yang sangat jauh di ruang angkasa adalah",
+      "jawaban":"Teleskop"
+   },
+   {
+      "id":263,
+      "soal":"Pembangkit listrik yang menggunakan tenaga air disebut",
+      "jawaban":"PLTA"
+   },
+   {
+      "id":264,
+      "soal":"Sila kelima Pancasila dilambangkan dengan padi dan",
+      "jawaban":"Kapas"
+   },
+   {
+      "id":265,
+      "soal":"Gigi manusia yang berfungsi untuk merobek makanan adalah gigi",
+      "jawaban":"Taring"
+   },
+   {
+      "id":266,
+      "soal":"Tempat hidup suatu makhluk hidup disebut",
+      "jawaban":"Habitat"
+   },
+   {
+      "id":267,
+      "soal":"Hasil dari sembilan dikali sembilan adalah",
+      "jawaban":"Delapan puluh satu"
+   },
+   {
+      "id":268,
+      "soal":"Alat pernapasan pada tumbuhan yang berada di daun disebut",
+      "jawaban":"Stomata"
+   },
+   {
+      "id":269,
+      "soal":"Ibu kota negara Korea Selatan adalah",
+      "jawaban":"Seoul"
+   },
+   {
+      "id":270,
+      "soal":"Benda yang tidak dapat ditembus cahaya disebut benda",
+      "jawaban":"Gelap"
+   },
+   {
+      "id":271,
+      "soal":"Candi Borobudur merupakan peninggalan dari kerajaan",
+      "jawaban":"Syailendra"
+   },
+   {
+      "id":272,
+      "soal":"Hewan yang memiliki belalai untuk mengambil makanan adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":273,
+      "soal":"Olahraga yang menggunakan raket dan kok disebut",
+      "jawaban":"Bulutangkis"
+   },
+   {
+      "id":274,
+      "soal":"Arah mata angin yang berada di antara selatan dan timur adalah",
+      "jawaban":"Tenggara"
+   },
+   {
+      "id":275,
+      "soal":"Negara paling luas di dunia adalah negara",
+      "jawaban":"Rusia"
+   },
+   {
+      "id":276,
+      "soal":"Alat indra untuk mencium bau adalah",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":277,
+      "soal":"Air yang membeku karena suhu sangat dingin disebut",
+      "jawaban":"Es"
+   },
+   {
+      "id":278,
+      "soal":"Ibu kota provinsi Sumatera Barat adalah",
+      "jawaban":"Padang"
+   },
+   {
+      "id":279,
+      "soal":"Lawan kata dari siang adalah",
+      "jawaban":"Malam"
+   },
+   {
+      "id":280,
+      "soal":"Bagian pohon yang mengangkut air dari akar ke daun adalah",
+      "jawaban":"Batang"
+   },
+   {
+      "id":281,
+      "soal":"Hewan yang jalannya melompat dan tinggal di Australia adalah",
+      "jawaban":"Kanguru"
+   },
+   {
+      "id":282,
+      "soal":"Satuan suhu yang paling umum digunakan di Indonesia adalah",
+      "jawaban":"Celsius"
+   },
+   {
+      "id":283,
+      "soal":"Zat yang membuat cabai terasa pedas disebut",
+      "jawaban":"Kapsaisin"
+   },
+   {
+      "id":284,
+      "soal":"Bangun ruang yang bentuknya seperti kotak tisu disebut",
+      "jawaban":"Balok"
+   },
+   {
+      "id":285,
+      "soal":"Burung yang menjadi simbol perdamaian adalah burung",
+      "jawaban":"Merpati"
+   },
+   {
+      "id":286,
+      "soal":"Alat musik yang dipetik dan memiliki enam dawai adalah",
+      "jawaban":"Gitar"
+   },
+   {
+      "id":287,
+      "soal":"Benua terbesar di dunia adalah benua",
+      "jawaban":"Asia"
+   },
+   {
+      "id":288,
+      "soal":"Proses penguapan air laut menjadi awan disebut",
+      "jawaban":"Evaporasi"
+   },
+   {
+      "id":289,
+      "soal":"Setelah hari Sabtu adalah hari",
+      "jawaban":"Minggu"
+   },
+   {
+      "id":290,
+      "soal":"Hewan yang memiliki racun pada ekornya adalah",
+      "jawaban":"Kalajengking"
+   },
+   {
+      "id":291,
+      "soal":"Rumah adat khas Jawa berbentuk atap kerucut tumpul disebut rumah",
+      "jawaban":"Joglo"
+   },
+   {
+      "id":292,
+      "soal":"Garis yang digunakan untuk mengukur jarak utara atau selatan khatulistiwa disebut",
+      "jawaban":"Lintang"
+   },
+   {
+      "id":293,
+      "soal":"Ibu kota negara Inggris adalah",
+      "jawaban":"London"
+   },
+   {
+      "id":294,
+      "soal":"Benda yang bentuk dan volumenya selalu berubah mengikuti wadah adalah",
+      "jawaban":"Gas"
+   },
+   {
+      "id":295,
+      "soal":"Planet yang memiliki cincin paling indah adalah planet",
+      "jawaban":"Saturnus"
+   },
+   {
+      "id":296,
+      "soal":"Bagian telur yang berwarna kuning disebut",
+      "jawaban":"Kuning telur"
+   },
+   {
+      "id":297,
+      "soal":"Hewan yang membantu petani membajak sawah secara tradisional adalah",
+      "jawaban":"Kerbau"
+   },
+   {
+      "id":298,
+      "soal":"Penyakit yang ditandai dengan bintik merah dan gatal di kulit disebut",
+      "jawaban":"Cacar"
+   },
+   {
+      "id":299,
+      "soal":"Hasil dari seratus dibagi empat adalah",
+      "jawaban":"Duapuluh lima"
+   },
+   {
+      "id":300,
+      "soal":"Alat pernapasan manusia adalah",
+      "jawaban":"Paru-paru"
+   },
+   {
+      "id":301,
+      "soal":"Tumbuhan yang batangnya beruas-ruas dan bisa tumbuh sangat tinggi adalah",
+      "jawaban":"Bambu"
+   },
+   {
+      "id":302,
+      "soal":"Indra yang digunakan untuk mendengar suara musik adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":303,
+      "soal":"Perubahan wujud cair menjadi padat disebut",
+      "jawaban":"Membeku"
+   },
+   {
+      "id":304,
+      "soal":"Ibu kota negara Perancis adalah",
+      "jawaban":"Paris"
+   },
+   {
+      "id":305,
+      "soal":"Hewan laut yang memiliki delapan lengan disebut",
+      "jawaban":"Gurita"
+   },
+   {
+      "id":306,
+      "soal":"Zat yang memberikan energi utama bagi tubuh manusia adalah",
+      "jawaban":"Karbohidrat"
+   },
+   {
+      "id":307,
+      "soal":"Planet yang dijuluki Bintang Fajar adalah",
+      "jawaban":"Venus"
+   },
+   {
+      "id":308,
+      "soal":"Alat untuk menimbang berat badan disebut",
+      "jawaban":"Timbangan"
+   },
+   {
+      "id":309,
+      "soal":"Pahlawan wanita dari Aceh yang melawan Belanda adalah",
+      "jawaban":"Cut Nyak Dien"
+   },
+   {
+      "id":310,
+      "soal":"Bangun datar yang memiliki empat sisi sama panjang disebut",
+      "jawaban":"Persegi"
+   },
+   {
+      "id":311,
+      "soal":"Ibu kota provinsi Sulawesi Selatan adalah",
+      "jawaban":"Makassar"
+   },
+   {
+      "id":312,
+      "soal":"Bagian mata yang berfungsi melindungi mata dari debu adalah",
+      "jawaban":"Kelopak mata"
+   },
+   {
+      "id":313,
+      "soal":"Hewan yang merayap di dinding dan bisa memutuskan ekornya adalah",
+      "jawaban":"Cicak"
+   },
+   {
+      "id":314,
+      "soal":"Alat musik kecapi dimainkan dengan cara di",
+      "jawaban":"Petik"
+   },
+   {
+      "id":315,
+      "soal":"Sila kedua Pancasila dilambangkan dengan gambar",
+      "jawaban":"Rantai"
+   },
+   {
+      "id":316,
+      "soal":"Hasil dari tujuh puluh dikurangi tiga puluh adalah",
+      "jawaban":"Empat puluh"
+   },
+   {
+      "id":317,
+      "soal":"Negara yang terletak di benua Australia adalah negara",
+      "jawaban":"Australia"
+   },
+   {
+      "id":318,
+      "soal":"Tumbuhan merambat yang buahnya manis dan berbentuk bulat-bulat kecil adalah",
+      "jawaban":"Anggur"
+   },
+   {
+      "id":319,
+      "soal":"Alat untuk menyedot debu di lantai disebut",
+      "jawaban":"Vacuum cleaner"
+   },
+   {
+      "id":320,
+      "soal":"Burung yang terkenal dengan suara merdunya di pagi hari adalah burung",
+      "jawaban":"Kutilang"
+   },
+   {
+      "id":321,
+      "soal":"Ibu kota negara India adalah",
+      "jawaban":"New Delhi"
+   },
+   {
+      "id":322,
+      "soal":"Gaya yang dihasilkan oleh magnet disebut gaya",
+      "jawaban":"Magnet"
+   },
+   {
+      "id":323,
+      "soal":"Zat padat yang bentuknya tetap dan tidak mudah berubah disebut benda",
+      "jawaban":"Padat"
+   },
+   {
+      "id":324,
+      "soal":"Tempat peristirahatan terakhir para pahlawan disebut",
+      "jawaban":"Taman Makam Pahlawan"
+   },
+   {
+      "id":325,
+      "soal":"Hasil dari enam dikali delapan adalah",
+      "jawaban":"Empat puluh delapan"
+   },
+   {
+      "id":326,
+      "soal":"Pakaian adat khas daerah Jakarta adalah baju",
+      "jawaban":"Sadariah"
+   },
+   {
+      "id":327,
+      "soal":"Planet yang paling jauh dari matahari dalam sistem kita adalah",
+      "jawaban":"Neptunus"
+   },
+   {
+      "id":328,
+      "soal":"Indra manusia yang peka terhadap cahaya adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":329,
+      "soal":"Hewan yang memiliki gading panjang adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":330,
+      "soal":"Benda yang ditarik kuat oleh magnet disebut benda",
+      "jawaban":"Feromagnetik"
+   },
+   {
+      "id":331,
+      "soal":"Ibu kota provinsi Jawa Tengah adalah",
+      "jawaban":"Semarang"
+   },
+   {
+      "id":332,
+      "soal":"Bagian tumbuhan yang berfungsi sebagai tempat fotosintesis adalah",
+      "jawaban":"Daun"
+   },
+   {
+      "id":333,
+      "soal":"Olahraga yang dilakukan di dalam air disebut",
+      "jawaban":"Renang"
+   },
+   {
+      "id":334,
+      "soal":"Penyakit yang disebabkan oleh nyamuk Aedes aegypti adalah",
+      "jawaban":"Demam berdarah"
+   },
+   {
+      "id":335,
+      "soal":"Hasil dari delapan puluh dibagi dua adalah",
+      "jawaban":"Empat puluh"
+   },
+   {
+      "id":336,
+      "soal":"Pahlawan yang berjuang untuk emansipasi wanita adalah",
+      "jawaban":"Raden Ajeng Kartini"
+   },
+   {
+      "id":337,
+      "soal":"Alat musik rebana dimainkan dengan cara di",
+      "jawaban":"Pukul"
+   },
+   {
+      "id":338,
+      "soal":"Benua yang mendapat julukan Benua Hitam adalah benua",
+      "jawaban":"Afrika"
+   },
+   {
+      "id":339,
+      "soal":"Setelah bulan Januari adalah bulan",
+      "jawaban":"Februari"
+   },
+   {
+      "id":340,
+      "soal":"Hewan terkecil yang bisa masuk ke telinga adalah",
+      "jawaban":"Semut"
+   },
+   {
+      "id":341,
+      "soal":"Warna pelangi setelah warna merah adalah warna",
+      "jawaban":"Jingga"
+   },
+   {
+      "id":342,
+      "soal":"Bangun datar yang tidak memiliki sudut adalah",
+      "jawaban":"Lingkaran"
+   },
+   {
+      "id":343,
+      "soal":"Ibu kota negara Thailand adalah",
+      "jawaban":"Bangkok"
+   },
+   {
+      "id":344,
+      "soal":"Perubahan wujud cair menjadi gas disebut",
+      "jawaban":"Menguap"
+   },
+   {
+      "id":345,
+      "soal":"Hewan yang memiliki punuk untuk menyimpan cadangan makanan adalah",
+      "jawaban":"Unta"
+   },
+   {
+      "id":346,
+      "soal":"Zat warna hijau pada tumbuhan disebut",
+      "jawaban":"Klorofil"
+   },
+   {
+      "id":347,
+      "soal":"Samudra terkecil di dunia adalah samudra",
+      "jawaban":"Arktik"
+   },
+   {
+      "id":348,
+      "soal":"Benda yang digunakan untuk menggosok gigi adalah",
+      "jawaban":"Sikat gigi"
+   },
+   {
+      "id":349,
+      "soal":"Hasil dari lima belas ditambah lima belas adalah",
+      "jawaban":"Tiga puluh"
+   },
+   {
+      "id":350,
+      "soal":"Lagu Garuda Pancasila diciptakan oleh",
+      "jawaban":"Sudharnoto"
+   },
+   {
+      "id":351,
+      "soal":"Suku asli yang mendiami pulau Papua adalah suku",
+      "jawaban":"Asmat"
+   },
+   {
+      "id":352,
+      "soal":"Bagian tubuh yang berfungsi untuk berbicara adalah",
+      "jawaban":"Mulut"
+   },
+   {
+      "id":353,
+      "soal":"Ibu kota negara Cina adalah",
+      "jawaban":"Beijing"
+   },
+   {
+      "id":354,
+      "soal":"Planet yang dihuni oleh makhluk hidup adalah planet",
+      "jawaban":"Bumi"
+   },
+   {
+      "id":355,
+      "soal":"Hewan yang bisa merayap di langit-langit rumah adalah",
+      "jawaban":"Cicak"
+   },
+   {
+      "id":356,
+      "soal":"Sila ketiga Pancasila dilambangkan dengan pohon",
+      "jawaban":"Beringin"
+   },
+   {
+      "id":357,
+      "soal":"Hasil dari sembilan dikali tiga adalah",
+      "jawaban":"Duapuluh tujuh"
+   },
+   {
+      "id":358,
+      "soal":"Arah mata angin yang berada di antara utara dan barat adalah",
+      "jawaban":"Barat Laut"
+   },
+   {
+      "id":359,
+      "soal":"Tumbuhan yang melindungi diri dengan getah adalah pohon",
+      "jawaban":"Karet"
+   },
+   {
+      "id":360,
+      "soal":"Indra yang peka terhadap suara adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":361,
+      "soal":"Warna bendera negara Jepang adalah putih dengan lingkaran merah di",
+      "jawaban":"Tengah"
+   },
+   {
+      "id":362,
+      "soal":"Benda yang permukaannya kasar contohnya adalah",
+      "jawaban":"Batu"
+   },
+   {
+      "id":363,
+      "soal":"Ibu kota negara Mesir adalah",
+      "jawaban":"Kairo"
+   },
+   {
+      "id":364,
+      "soal":"Hasil dari seratus dikurangi satu adalah",
+      "jawaban":"Sembilan puluh sembilan"
+   },
+   {
+      "id":365,
+      "soal":"Bagian tanaman yang paling indah dan berwarna-warni adalah",
+      "jawaban":"Bunga"
+   },
+   {
+      "id":366,
+      "soal":"Hewan yang memiliki lari paling cepat di dunia adalah",
+      "jawaban":"Cheetah"
+   },
+   {
+      "id":367,
+      "soal":"Olahraga basket dimainkan oleh berapa orang per tim",
+      "jawaban":"Lima"
+   },
+   {
+      "id":368,
+      "soal":"Garis yang memisahkan waktu di dunia disebut garis",
+      "jawaban":"Bujur"
+   },
+   {
+      "id":369,
+      "soal":"Hasil dari sepuluh dikali sepuluh adalah",
+      "jawaban":"Seratus"
+   },
+   {
+      "id":370,
+      "soal":"Indra manusia yang berfungsi untuk meraba adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":371,
+      "soal":"Ibu kota provinsi Maluku adalah",
+      "jawaban":"Ambon"
+   },
+   {
+      "id":372,
+      "soal":"Planet merah adalah sebutan untuk",
+      "jawaban":"Mars"
+   },
+   {
+      "id":373,
+      "soal":"Tumbuhan yang bisa menutup daunnya saat disentuh adalah",
+      "jawaban":"Putri malu"
+   },
+   {
+      "id":374,
+      "soal":"Bagian tubuh manusia yang berfungsi untuk mendengar adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":375,
+      "soal":"Suku asli yang berasal dari Jawa Barat adalah suku",
+      "jawaban":"Sunda"
+   },
+   {
+      "id":376,
+      "soal":"Negara yang dijuluki Negeri Sakura adalah",
+      "jawaban":"Jepang"
+   },
+   {
+      "id":377,
+      "soal":"Candi peninggalan agama Budha terbesar adalah candi",
+      "jawaban":"Borobudur"
+   },
+   {
+      "id":378,
+      "soal":"Hasil dari tiga puluh dibagi enam adalah",
+      "jawaban":"Lima"
+   },
+   {
+      "id":379,
+      "soal":"Alat musik kolintang berasal dari daerah",
+      "jawaban":"Sulawesi Utara"
+   },
+   {
+      "id":380,
+      "soal":"Setelah hari Kamis adalah hari",
+      "jawaban":"Jumat"
+   },
+   {
+      "id":381,
+      "soal":"Ibu kota negara Australia adalah",
+      "jawaban":"Canberra"
+   },
+   {
+      "id":382,
+      "soal":"Bagian mata yang berwarna hitam pekat di tengah adalah",
+      "jawaban":"Pupil"
+   },
+   {
+      "id":383,
+      "soal":"Hewan yang hidup di air dan bernapas dengan insang adalah",
+      "jawaban":"Ikan"
+   },
+   {
+      "id":384,
+      "soal":"Bangun datar yang memiliki dua pasang sisi sama panjang disebut",
+      "jawaban":"Persegi panjang"
+   },
+   {
+      "id":385,
+      "soal":"Sila keempat Pancasila dilambangkan dengan kepala",
+      "jawaban":"Banteng"
+   },
+   {
+      "id":386,
+      "soal":"Hasil dari lima belas dikali dua adalah",
+      "jawaban":"Tiga puluh"
+   },
+   {
+      "id":387,
+      "soal":"Alat untuk mengukur panjang meja adalah",
+      "jawaban":"Penggaris"
+   },
+   {
+      "id":388,
+      "soal":"Negara yang dijuluki Negeri Tirai Bambu adalah",
+      "jawaban":"Cina"
+   },
+   {
+      "id":389,
+      "soal":"Ibu kota negara Filipina adalah",
+      "jawaban":"Manila"
+   },
+   {
+      "id":390,
+      "soal":"Hewan yang memiliki cangkang dan hidup di laut adalah",
+      "jawaban":"Kerang"
+   },
+   {
+      "id":391,
+      "soal":"Satuan waktu dalam satu jam terdiri dari berapa menit",
+      "jawaban":"Enam puluh"
+   },
+   {
+      "id":392,
+      "soal":"Bagian tumbuhan yang menyerap sari makanan dari tanah adalah",
+      "jawaban":"Akar"
+   },
+   {
+      "id":393,
+      "soal":"Hasil dari dua puluh lima ditambah dua puluh lima adalah",
+      "jawaban":"Lima puluh"
+   },
+   {
+      "id":394,
+      "soal":"Indra manusia yang peka terhadap bau harum adalah",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":395,
+      "soal":"Ibu kota provinsi Papua adalah",
+      "jawaban":"Jayapura"
+   },
+   {
+      "id":396,
+      "soal":"Planet yang paling dekat dengan matahari adalah",
+      "jawaban":"Merkurius"
+   },
+   {
+      "id":397,
+      "soal":"Hewan yang suka memakan pisang dan pandai memanjat adalah",
+      "jawaban":"Monyet"
+   },
+   {
+      "id":398,
+      "soal":"Alat musik yang digoyang untuk mengeluarkan bunyi adalah",
+      "jawaban":"Angklung"
+   },
+   {
+      "id":399,
+      "soal":"Hasil dari empat puluh dikurangi sepuluh adalah",
+      "jawaban":"Tiga puluh"
+   },
+   {
+      "id":400,
+      "soal":"Matahari terbenam di arah",
+      "jawaban":"Barat"
+   },
+   {
+      "id":401,
+      "soal":"Hewan yang memiliki belalai panjang untuk mengambil makanan adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":402,
+      "soal":"Planet yang memiliki cincin paling indah dan terlihat jelas adalah",
+      "jawaban":"Saturnus"
+   },
+   {
+      "id":403,
+      "soal":"Benda yang digunakan untuk meruncingkan pensil adalah",
+      "jawaban":"Rautan"
+   },
+   {
+      "id":404,
+      "soal":"Lampu lalu lintas warna merah artinya kendaraan harus",
+      "jawaban":"Berhenti"
+   },
+   {
+      "id":405,
+      "soal":"Siapakah pahlawan yang dijuluki Bapak Proklamator Indonesia",
+      "jawaban":"Soekarno Hatta"
+   },
+   {
+      "id":406,
+      "soal":"Bangun datar yang memiliki empat sisi sama panjang disebut",
+      "jawaban":"Persegi"
+   },
+   {
+      "id":407,
+      "soal":"Ibu kota provinsi Jawa Timur adalah",
+      "jawaban":"Surabaya"
+   },
+   {
+      "id":408,
+      "soal":"Indra manusia yang peka terhadap rasa asin dan manis adalah",
+      "jawaban":"Lidah"
+   },
+   {
+      "id":409,
+      "soal":"Arah mata angin yang berada di antara timur dan selatan adalah",
+      "jawaban":"Tenggara"
+   },
+   {
+      "id":410,
+      "soal":"Hewan yang mengalami metamorfosis dari kecebong menjadi",
+      "jawaban":"Katak"
+   },
+   {
+      "id":411,
+      "soal":"Alat musik piano dimainkan dengan cara di",
+      "jawaban":"Tekan"
+   },
+   {
+      "id":412,
+      "soal":"Proses air laut berubah menjadi uap air disebut",
+      "jawaban":"Penguapan"
+   },
+   {
+      "id":413,
+      "soal":"Jumlah jari pada dua tangan manusia normal adalah",
+      "jawaban":"Sepuluh"
+   },
+   {
+      "id":414,
+      "soal":"Benda yang dapat menarik paku yang terbuat dari besi disebut",
+      "jawaban":"Magnet"
+   },
+   {
+      "id":415,
+      "soal":"Ibu kota negara Thailand adalah kota",
+      "jawaban":"Bangkok"
+   },
+   {
+      "id":416,
+      "soal":"Satuan waktu yang terdiri dari tujuh hari adalah satu",
+      "jawaban":"Minggu"
+   },
+   {
+      "id":417,
+      "soal":"Bagian tumbuhan yang berada di dalam tanah disebut",
+      "jawaban":"Akar"
+   },
+   {
+      "id":418,
+      "soal":"Burung yang tidak bisa terbang namun lari sangat cepat adalah",
+      "jawaban":"Burung Unta"
+   },
+   {
+      "id":419,
+      "soal":"Hasil dari lima dikali delapan adalah",
+      "jawaban":"Empat puluh"
+   },
+   {
+      "id":420,
+      "soal":"Penyakit yang disebabkan oleh gigitan nyamuk adalah demam",
+      "jawaban":"Berdarah"
+   },
+   {
+      "id":421,
+      "soal":"Alat yang digunakan untuk memotong kayu adalah",
+      "jawaban":"Gergaji"
+   },
+   {
+      "id":422,
+      "soal":"Benda cair jika dipanaskan akan berubah menjadi",
+      "jawaban":"Gas"
+   },
+   {
+      "id":423,
+      "soal":"Planet yang letaknya paling dekat dengan matahari adalah",
+      "jawaban":"Merkurius"
+   },
+   {
+      "id":424,
+      "soal":"Lagu Indonesia Raya dinyanyikan pertama kali pada tahun",
+      "jawaban":"Seribu sembilan ratus dua puluh delapan"
+   },
+   {
+      "id":425,
+      "soal":"Bangun datar yang memiliki tiga sisi disebut",
+      "jawaban":"Segitiga"
+   },
+   {
+      "id":426,
+      "soal":"Suku asli yang mendiami pulau Bali adalah suku",
+      "jawaban":"Bali"
+   },
+   {
+      "id":427,
+      "soal":"Ibu kota negara Singapura adalah",
+      "jawaban":"Singapura"
+   },
+   {
+      "id":428,
+      "soal":"Cairan yang keluar dari tubuh saat kita kepanasan disebut",
+      "jawaban":"Keringat"
+   },
+   {
+      "id":429,
+      "soal":"Arah mata angin yang berlawanan dengan timur adalah",
+      "jawaban":"Barat"
+   },
+   {
+      "id":430,
+      "soal":"Hewan pemakan daging disebut hewan",
+      "jawaban":"Karnivora"
+   },
+   {
+      "id":431,
+      "soal":"Peralatan mandi yang digunakan untuk membersihkan rambut adalah",
+      "jawaban":"Sampo"
+   },
+   {
+      "id":432,
+      "soal":"Tumbuhan yang memiliki batang berduri tajam adalah bunga",
+      "jawaban":"Mawar"
+   },
+   {
+      "id":433,
+      "soal":"Hasil dari seratus dibagi dua adalah",
+      "jawaban":"Lima puluh"
+   },
+   {
+      "id":434,
+      "soal":"Mata uang negara Jepang adalah",
+      "jawaban":"Yen"
+   },
+   {
+      "id":435,
+      "soal":"Pahlawan nasional yang mengusir Belanda dari Yogyakarta adalah",
+      "jawaban":"Pangeran Diponegoro"
+   },
+   {
+      "id":436,
+      "soal":"Bagian tubuh yang digunakan untuk memegang benda adalah",
+      "jawaban":"Tangan"
+   },
+   {
+      "id":437,
+      "soal":"Laut yang sangat luas dan memisahkan benua disebut",
+      "jawaban":"Samudra"
+   },
+   {
+      "id":438,
+      "soal":"Satuan panjang yang lebih kecil dari meter adalah",
+      "jawaban":"Sentimeter"
+   },
+   {
+      "id":439,
+      "soal":"Setelah bulan Juni adalah bulan",
+      "jawaban":"Juli"
+   },
+   {
+      "id":440,
+      "soal":"Hewan yang memiliki tempurung untuk berlindung adalah",
+      "jawaban":"Kura-kura"
+   },
+   {
+      "id":441,
+      "soal":"Warna pelangi yang berada di urutan paling atas adalah",
+      "jawaban":"Merah"
+   },
+   {
+      "id":442,
+      "soal":"Dasar negara Indonesia yang terdiri dari lima sila adalah",
+      "jawaban":"Pancasila"
+   },
+   {
+      "id":443,
+      "soal":"Ibu kota negara Belanda adalah",
+      "jawaban":"Amsterdam"
+   },
+   {
+      "id":444,
+      "soal":"Tumbuhan yang menyimpan air di batangnya dan hidup di padang pasir adalah",
+      "jawaban":"Kaktus"
+   },
+   {
+      "id":445,
+      "soal":"Gaya yang menyebabkan benda jatuh ke lantai disebut gaya",
+      "jawaban":"Gravitasi"
+   },
+   {
+      "id":446,
+      "soal":"Alat pernapasan manusia adalah paru-paru dan",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":447,
+      "soal":"Ibu kota provinsi Jawa Tengah adalah",
+      "jawaban":"Semarang"
+   },
+   {
+      "id":448,
+      "soal":"Indra manusia yang peka terhadap cahaya adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":449,
+      "soal":"Hewan yang jalannya melompat dan tinggal di Australia adalah",
+      "jawaban":"Kanguru"
+   },
+   {
+      "id":450,
+      "soal":"Hasil dari enam dikali tujuh adalah",
+      "jawaban":"Empat puluh dua"
+   },
+   {
+      "id":451,
+      "soal":"Bahan utama pembuatan keju adalah",
+      "jawaban":"Susu"
+   },
+   {
+      "id":452,
+      "soal":"Planet yang dijuluki sebagai planet merah adalah",
+      "jawaban":"Mars"
+   },
+   {
+      "id":453,
+      "soal":"Candi Hindu terbesar di Indonesia adalah candi",
+      "jawaban":"Prambanan"
+   },
+   {
+      "id":454,
+      "soal":"Alat musik tradisional Jawa yang dipukul disebut",
+      "jawaban":"Gamelan"
+   },
+   {
+      "id":455,
+      "soal":"Satuan waktu yang terdiri dari enam puluh detik adalah",
+      "jawaban":"Menit"
+   },
+   {
+      "id":456,
+      "soal":"Bagian mata yang mengatur banyaknya cahaya yang masuk disebut",
+      "jawaban":"Pupil"
+   },
+   {
+      "id":457,
+      "soal":"Ayam bernapas menggunakan",
+      "jawaban":"Paru-paru"
+   },
+   {
+      "id":458,
+      "soal":"Ibu kota negara Korea Selatan adalah",
+      "jawaban":"Seoul"
+   },
+   {
+      "id":459,
+      "soal":"Setelah hari Minggu adalah hari",
+      "jawaban":"Senin"
+   },
+   {
+      "id":460,
+      "soal":"Benda yang volumenya berubah sesuai wadahnya adalah benda",
+      "jawaban":"Gas"
+   },
+   {
+      "id":461,
+      "soal":"Hewan pemakan tumbuhan disebut",
+      "jawaban":"Herbivora"
+   },
+   {
+      "id":462,
+      "soal":"Rumah adat suku Papua yang berbentuk seperti jamur adalah",
+      "jawaban":"Honai"
+   },
+   {
+      "id":463,
+      "soal":"Hasil dari delapan puluh dikurangi lima puluh adalah",
+      "jawaban":"Tiga puluh"
+   },
+   {
+      "id":464,
+      "soal":"Matahari tenggelam di arah",
+      "jawaban":"Barat"
+   },
+   {
+      "id":465,
+      "soal":"Bagian batang pohon yang keras disebut",
+      "jawaban":"Kayu"
+   },
+   {
+      "id":466,
+      "soal":"Indra manusia untuk mencium bau adalah",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":467,
+      "soal":"Negara tetangga Indonesia yang terletak di sebelah selatan adalah",
+      "jawaban":"Australia"
+   },
+   {
+      "id":468,
+      "soal":"Gigi yang berfungsi untuk memotong makanan adalah gigi",
+      "jawaban":"Seri"
+   },
+   {
+      "id":469,
+      "soal":"Alat musik yang ditiup dan terbuat dari logam adalah",
+      "jawaban":"Terompet"
+   },
+   {
+      "id":470,
+      "soal":"Hasil dari sembilan dikali empat adalah",
+      "jawaban":"Tiga puluh enam"
+   },
+   {
+      "id":471,
+      "soal":"Zat hijau pada daun disebut",
+      "jawaban":"Klorofil"
+   },
+   {
+      "id":472,
+      "soal":"Ibu kota negara Inggris adalah kota",
+      "jawaban":"London"
+   },
+   {
+      "id":473,
+      "soal":"Setelah bulan September adalah bulan",
+      "jawaban":"Oktober"
+   },
+   {
+      "id":474,
+      "soal":"Hewan yang suka memakan kacang dan pandai memanjat adalah",
+      "jawaban":"Tupai"
+   },
+   {
+      "id":475,
+      "soal":"Warna bendera negara Indonesia adalah merah dan",
+      "jawaban":"Putih"
+   },
+   {
+      "id":476,
+      "soal":"Planet terbesar dalam tata surya kita adalah",
+      "jawaban":"Yupiter"
+   },
+   {
+      "id":477,
+      "soal":"Alat untuk menimbang berat benda disebut",
+      "jawaban":"Timbangan"
+   },
+   {
+      "id":478,
+      "soal":"Tari Pendet berasal dari daerah",
+      "jawaban":"Bali"
+   },
+   {
+      "id":479,
+      "soal":"Bagian tubuh yang berfungsi untuk mendengar adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":480,
+      "soal":"Hasil dari dua belas ditambah dua belas adalah",
+      "jawaban":"Dua puluh empat"
+   },
+   {
+      "id":481,
+      "soal":"Benda padat jika dibakar akan menjadi",
+      "jawaban":"Abu"
+   },
+   {
+      "id":482,
+      "soal":"Samudra terluas di dunia adalah samudra",
+      "jawaban":"Pasifik"
+   },
+   {
+      "id":483,
+      "soal":"Ibu kota provinsi Maluku adalah kota",
+      "jawaban":"Ambon"
+   },
+   {
+      "id":484,
+      "soal":"Pahlawan wanita dari Jawa Barat adalah",
+      "jawaban":"Dewi Sartika"
+   },
+   {
+      "id":485,
+      "soal":"Bangun datar yang memiliki sisi sama panjang dan empat sudut siku-siku adalah",
+      "jawaban":"Persegi"
+   },
+   {
+      "id":486,
+      "soal":"Hewan yang memiliki duri di tubuhnya untuk perlindungan adalah",
+      "jawaban":"Landak"
+   },
+   {
+      "id":487,
+      "soal":"Setelah angka sembilan puluh sembilan adalah",
+      "jawaban":"Seratus"
+   },
+   {
+      "id":488,
+      "soal":"Arah mata angin utama ada sebanyak",
+      "jawaban":"Delapan"
+   },
+   {
+      "id":489,
+      "soal":"Tumbuhan yang bisa menutup daunnya saat disentuh adalah",
+      "jawaban":"Putri Malu"
+   },
+   {
+      "id":490,
+      "soal":"Indra manusia yang peka terhadap suara adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":491,
+      "soal":"Sila kelima Pancasila dilambangkan dengan padi dan",
+      "jawaban":"Kapas"
+   },
+   {
+      "id":492,
+      "soal":"Hasil dari lima puluh dibagi lima adalah",
+      "jawaban":"Sepuluh"
+   },
+   {
+      "id":493,
+      "soal":"Ibu kota negara Jerman adalah",
+      "jawaban":"Berlin"
+   },
+   {
+      "id":494,
+      "soal":"Benda yang permukaannya sangat halus dan bening adalah",
+      "jawaban":"Kaca"
+   },
+   {
+      "id":495,
+      "soal":"Alat pernapasan ikan yang hidup di air adalah",
+      "jawaban":"Insang"
+   },
+   {
+      "id":496,
+      "soal":"Bagian tumbuhan yang berfungsi sebagai tempat fotosintesis adalah",
+      "jawaban":"Daun"
+   },
+   {
+      "id":497,
+      "soal":"Suku asli Jakarta adalah suku",
+      "jawaban":"Betawi"
+   },
+   {
+      "id":498,
+      "soal":"Setelah hari Rabu adalah hari",
+      "jawaban":"Kamis"
+   },
+   {
+      "id":499,
+      "soal":"Gunung tertinggi di dunia adalah gunung",
+      "jawaban":"Everest"
+   },
+   {
+      "id":500,
+      "soal":"Lagu kebangsaan Indonesia adalah",
+      "jawaban":"Indonesia Raya"
+   },
+   {
+      "id":501,
+      "soal":"Hewan laut yang bernapas dengan paru-paru dan melahirkan adalah",
+      "jawaban":"Paus"
+   },
+   {
+      "id":502,
+      "soal":"Planet yang dikenal memiliki cincin adalah planet",
+      "jawaban":"Saturnus"
+   },
+   {
+      "id":503,
+      "soal":"Alat pernapasan manusia disebut",
+      "jawaban":"Paru-paru"
+   },
+   {
+      "id":504,
+      "soal":"Benda yang permukaannya bisa memantulkan bayangan adalah",
+      "jawaban":"Cermin"
+   },
+   {
+      "id":505,
+      "soal":"Ibu kota provinsi Kalimantan Timur adalah",
+      "jawaban":"Samarinda"
+   },
+   {
+      "id":506,
+      "soal":"Setelah hari Jumat adalah hari",
+      "jawaban":"Sabtu"
+   },
+   {
+      "id":507,
+      "soal":"Indra manusia untuk meraba adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":508,
+      "soal":"Sila pertama Pancasila dilambangkan dengan",
+      "jawaban":"Bintang"
+   },
+   {
+      "id":509,
+      "soal":"Hasil dari sembilan dikali sembilan adalah",
+      "jawaban":"Delapan puluh satu"
+   },
+   {
+      "id":510,
+      "soal":"Tumbuhan yang akarnya menggantung di pohon adalah",
+      "jawaban":"Beringin"
+   },
+   {
+      "id":511,
+      "soal":"Ibu kota negara Perancis adalah",
+      "jawaban":"Paris"
+   },
+   {
+      "id":512,
+      "soal":"Satuan berat benda yang umum digunakan adalah",
+      "jawaban":"Kilogram"
+   },
+   {
+      "id":513,
+      "soal":"Hewan yang memiliki bisa beracun dan melata adalah",
+      "jawaban":"Ular"
+   },
+   {
+      "id":514,
+      "soal":"Bagian bunga yang paling indah dan berwarna-warni adalah",
+      "jawaban":"Mahkota"
+   },
+   {
+      "id":515,
+      "soal":"Hasil dari lima belas dikali dua adalah",
+      "jawaban":"Tiga puluh"
+   },
+   {
+      "id":516,
+      "soal":"Arah yang berlawanan dengan utara adalah",
+      "jawaban":"Selatan"
+   },
+   {
+      "id":517,
+      "soal":"Burung yang menjadi lambang negara Indonesia adalah burung",
+      "jawaban":"Garuda"
+   },
+   {
+      "id":518,
+      "soal":"Alat musik angklung berasal dari daerah",
+      "jawaban":"Jawa Barat"
+   },
+   {
+      "id":519,
+      "soal":"Bagian tubuh manusia yang memompa darah adalah",
+      "jawaban":"Jantung"
+   },
+   {
+      "id":520,
+      "soal":"Setelah bulan Desember adalah bulan",
+      "jawaban":"Januari"
+   },
+   {
+      "id":521,
+      "soal":"Benda cair yang membeku karena dingin disebut",
+      "jawaban":"Es"
+   },
+   {
+      "id":522,
+      "soal":"Hewan pemakan segala disebut",
+      "jawaban":"Omnivora"
+   },
+   {
+      "id":523,
+      "soal":"Planet yang letaknya paling jauh dari matahari adalah",
+      "jawaban":"Neptunus"
+   },
+   {
+      "id":524,
+      "soal":"Mata uang negara Malaysia adalah",
+      "jawaban":"Ringgit"
+   },
+   {
+      "id":525,
+      "soal":"Ibu kota negara Australia adalah",
+      "jawaban":"Canberra"
+   },
+   {
+      "id":526,
+      "soal":"Satuan suhu yang digunakan di Indonesia adalah derajat",
+      "jawaban":"Celsius"
+   },
+   {
+      "id":527,
+      "soal":"Bagian mata yang berwarna hitam di tengah disebut",
+      "jawaban":"Pupil"
+   },
+   {
+      "id":528,
+      "soal":"Hewan yang merayap di dinding dan makan nyamuk adalah",
+      "jawaban":"Cicak"
+   },
+   {
+      "id":529,
+      "soal":"Hasil dari delapan ditambah delapan adalah",
+      "jawaban":"Enam belas"
+   },
+   {
+      "id":530,
+      "soal":"Pahlawan yang mengusir penjajah dari Maluku adalah",
+      "jawaban":"Pattimura"
+   },
+   {
+      "id":531,
+      "soal":"Alat pernapasan berudu atau anak katak adalah",
+      "jawaban":"Insang"
+   },
+   {
+      "id":532,
+      "soal":"Ibu kota provinsi Bali adalah",
+      "jawaban":"Denpasar"
+   },
+   {
+      "id":533,
+      "soal":"Bunga nasional Indonesia yang disebut Puspa Bangsa adalah",
+      "jawaban":"Melati"
+   },
+   {
+      "id":534,
+      "soal":"Setelah angka seratus adalah angka",
+      "jawaban":"Seratus satu"
+   },
+   {
+      "id":535,
+      "soal":"Garis khatulistiwa membagi bumi menjadi bagian utara dan",
+      "jawaban":"Selatan"
+   },
+   {
+      "id":536,
+      "soal":"Hewan yang memiliki tanduk besar dan hidup di sawah adalah",
+      "jawaban":"Kerbau"
+   },
+   {
+      "id":537,
+      "soal":"Hasil dari sepuluh dikali lima adalah",
+      "jawaban":"Lima puluh"
+   },
+   {
+      "id":538,
+      "soal":"Alat musik gamelan dimainkan dengan cara di",
+      "jawaban":"Pukul"
+   },
+   {
+      "id":539,
+      "soal":"Tumbuhan yang melindungi diri dengan getah adalah pohon",
+      "jawaban":"Nangka"
+   },
+   {
+      "id":540,
+      "soal":"Indra yang digunakan untuk mendengar adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":541,
+      "soal":"Warna lampu kuning pada jalan raya artinya kendaraan harus",
+      "jawaban":"Hati hati"
+   },
+   {
+      "id":542,
+      "soal":"Bangun datar yang memiliki dua pasang sisi sama panjang adalah",
+      "jawaban":"Persegi panjang"
+   },
+   {
+      "id":543,
+      "soal":"Ibu kota negara Italia adalah",
+      "jawaban":"Roma"
+   },
+   {
+      "id":544,
+      "soal":"Hasil dari dua puluh dikurangi tujuh adalah",
+      "jawaban":"Tiga belas"
+   },
+   {
+      "id":545,
+      "soal":"Benda padat jika diletakkan di dalam air tidak akan",
+      "jawaban":"Larut"
+   },
+   {
+      "id":546,
+      "soal":"Hewan yang sering dijuluki si raja hutan adalah",
+      "jawaban":"Singa"
+   },
+   {
+      "id":547,
+      "soal":"Planet yang paling panas di tata surya adalah",
+      "jawaban":"Venus"
+   },
+   {
+      "id":548,
+      "soal":"Ibu kota provinsi Sulawesi Selatan adalah",
+      "jawaban":"Makassar"
+   },
+   {
+      "id":549,
+      "soal":"Setelah hari Selasa adalah hari",
+      "jawaban":"Rabu"
+   },
+   {
+      "id":550,
+      "soal":"Zat warna daun disebut juga dengan",
+      "jawaban":"Klorofil"
+   },
+   {
+      "id":551,
+      "soal":"Mata uang negara Filipina adalah",
+      "jawaban":"Peso"
+   },
+   {
+      "id":552,
+      "soal":"Hasil dari delapan belas dibagi tiga adalah",
+      "jawaban":"Enam"
+   },
+   {
+      "id":553,
+      "soal":"Pahlawan yang melawan penjajah di Aceh adalah",
+      "jawaban":"Teuku Umar"
+   },
+   {
+      "id":554,
+      "soal":"Bagian telinga yang paling dalam disebut saluran",
+      "jawaban":"Eustachius"
+   },
+   {
+      "id":555,
+      "soal":"Hewan yang memiliki lidah panjang untuk menangkap serangga adalah",
+      "jawaban":"Bunglon"
+   },
+   {
+      "id":556,
+      "soal":"Suku asli yang mendiami pulau Kalimantan adalah suku",
+      "jawaban":"Dayak"
+   },
+   {
+      "id":557,
+      "soal":"Setelah bulan Maret adalah bulan",
+      "jawaban":"April"
+   },
+   {
+      "id":558,
+      "soal":"Ibu kota negara India adalah",
+      "jawaban":"New Delhi"
+   },
+   {
+      "id":559,
+      "soal":"Bangun ruang yang bentuknya seperti bola tenis disebut",
+      "jawaban":"Bola"
+   },
+   {
+      "id":560,
+      "soal":"Hewan laut yang tubuhnya transparan dan menyengat adalah",
+      "jawaban":"Ubur ubur"
+   },
+   {
+      "id":561,
+      "soal":"Hasil dari seratus dikali dua adalah",
+      "jawaban":"Dua ratus"
+   },
+   {
+      "id":562,
+      "soal":"Gunung berapi yang masih aktif disebut gunung",
+      "jawaban":"Berapi"
+   },
+   {
+      "id":563,
+      "soal":"Alat musik sasando berasal dari daerah",
+      "jawaban":"Nusa Tenggara Timur"
+   },
+   {
+      "id":564,
+      "soal":"Bagian tubuh manusia yang berfungsi untuk mencerna makanan adalah",
+      "jawaban":"Lambung"
+   },
+   {
+      "id":565,
+      "soal":"Arah mata angin yang berada di antara utara dan timur adalah",
+      "jawaban":"Timur Laut"
+   },
+   {
+      "id":566,
+      "soal":"Tumbuhan yang batangnya berongga dan hidup di air adalah",
+      "jawaban":"Teratai"
+   },
+   {
+      "id":467,
+      "soal":"Indra manusia yang peka terhadap bau harum adalah",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":568,
+      "soal":"Ibu kota negara Spanyol adalah kota",
+      "jawaban":"Madrid"
+   },
+   {
+      "id":569,
+      "soal":"Satuan waktu yang terdiri dari enam puluh menit adalah satu",
+      "jawaban":"Jam"
+   },
+   {
+      "id":570,
+      "soal":"Setelah hari Sabtu adalah hari",
+      "jawaban":"Minggu"
+   },
+   {
+      "id":571,
+      "soal":"Hewan yang memiliki cangkang siput dan hidup di laut adalah",
+      "jawaban":"Kelomang"
+   },
+   {
+      "id":572,
+      "soal":"Hasil dari lima belas ditambah sepuluh adalah",
+      "jawaban":"Dua puluh lima"
+   },
+   {
+      "id":573,
+      "soal":"Benda padat yang dipanaskan bisa berubah menjadi cair disebut",
+      "jawaban":"Mencair"
+   },
+   {
+      "id":574,
+      "soal":"Planet yang dihuni oleh manusia adalah planet",
+      "jawaban":"Bumi"
+   },
+   {
+      "id":575,
+      "soal":"Ibu kota negara Arab Saudi adalah",
+      "jawaban":"Riyadh"
+   },
+   {
+      "id":576,
+      "soal":"Pahlawan yang dikenal sebagai Bapak Koperasi adalah",
+      "jawaban":"Mohammad Hatta"
+   },
+   {
+      "id":577,
+      "soal":"Alat musik yang digesek untuk mengeluarkan bunyi adalah",
+      "jawaban":"Biola"
+   },
+   {
+      "id":578,
+      "soal":"Bagian mata yang mengatur cahaya masuk adalah",
+      "jawaban":"Iris"
+   },
+   {
+      "id":579,
+      "soal":"Tumbuhan yang batangnya berduri untuk melindungi diri adalah",
+      "jawaban":"Kaktus"
+   },
+   {
+      "id":580,
+      "soal":"Hewan yang memiliki satu cula di hidungnya adalah",
+      "jawaban":"Badak"
+   },
+   {
+      "id":581,
+      "soal":"Hasil dari tiga puluh dibagi lima adalah",
+      "jawaban":"Enam"
+   },
+   {
+      "id":582,
+      "soal":"Satuan untuk mengukur panjang kain adalah",
+      "jawaban":"Meter"
+   },
+   {
+      "id":583,
+      "soal":"Suku asli Sumatera Utara adalah suku",
+      "jawaban":"Batak"
+   },
+   {
+      "id":584,
+      "soal":"Setelah hari Kamis adalah hari",
+      "jawaban":"Jumat"
+   },
+   {
+      "id":585,
+      "soal":"Indra manusia yang peka terhadap sentuhan halus adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":586,
+      "soal":"Arah mata angin yang berada di antara selatan dan barat adalah",
+      "jawaban":"Barat Daya"
+   },
+   {
+      "id":587,
+      "soal":"Hewan yang aktif mencari makan di malam hari disebut hewan",
+      "jawaban":"Nokturnal"
+   },
+   {
+      "id":588,
+      "soal":"Hasil dari sembilan dikali tiga adalah",
+      "jawaban":"Dua puluh tujuh"
+   },
+   {
+      "id":589,
+      "soal":"Ibu kota negara Vietnam adalah",
+      "jawaban":"Hanoi"
+   },
+   {
+      "id":590,
+      "soal":"Benda cair yang menguap karena panas matahari adalah",
+      "jawaban":"Air"
+   },
+   {
+      "id":591,
+      "soal":"Penyakit batuk yang disebabkan oleh virus adalah",
+      "jawaban":"Flu"
+   },
+   {
+      "id":592,
+      "soal":"Gunung api terbesar di Indonesia adalah gunung",
+      "jawaban":"Kerinci"
+   },
+   {
+      "id":593,
+      "soal":"Bagian bunga yang menghasilkan serbuk sari adalah",
+      "jawaban":"Benang sari"
+   },
+   {
+      "id":594,
+      "soal":"Satuan berat yang lebih besar dari gram adalah",
+      "jawaban":"Kilogram"
+   },
+   {
+      "id":595,
+      "soal":"Indra manusia untuk melihat benda jauh adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":596,
+      "soal":"Hewan yang memiliki kantong di perutnya adalah",
+      "jawaban":"Kanguru"
+   },
+   {
+      "id":597,
+      "soal":"Hasil dari lima dikali lima adalah",
+      "jawaban":"Dua puluh lima"
+   },
+   {
+      "id":598,
+      "soal":"Ibu kota provinsi Sumatera Utara adalah",
+      "jawaban":"Medan"
+   },
+   {
+      "id":599,
+      "soal":"Setelah bulan Mei adalah bulan",
+      "jawaban":"Juni"
+   },
+   {
+      "id":600,
+      "soal":"Lagu Garuda Pancasila diciptakan oleh",
+      "jawaban":"Sudharnoto"
+   },
+   {
+      "id":601,
+      "soal":"Hewan yang membantu petani membajak sawah adalah",
+      "jawaban":"Kerbau"
+   },
+   {
+      "id":602,
+      "soal":"Planet terkecil dalam sistem tata surya kita adalah",
+      "jawaban":"Merkurius"
+   },
+   {
+      "id":603,
+      "soal":"Alat pernapasan manusia adalah paru-paru dan",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":604,
+      "soal":"Benda padat jika dipanaskan sampai mencair disebut proses",
+      "jawaban":"Meleleh"
+   },
+   {
+      "id":605,
+      "soal":"Ibu kota provinsi Jawa Barat adalah",
+      "jawaban":"Bandung"
+   },
+   {
+      "id":606,
+      "soal":"Setelah hari Senin adalah hari",
+      "jawaban":"Selasa"
+   },
+   {
+      "id":607,
+      "soal":"Indra manusia untuk merasa panas dingin adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":608,
+      "soal":"Sila kedua Pancasila dilambangkan dengan",
+      "jawaban":"Rantai"
+   },
+   {
+      "id":609,
+      "soal":"Hasil dari sepuluh ditambah sepuluh adalah",
+      "jawaban":"Dua puluh"
+   },
+   {
+      "id":610,
+      "soal":"Tumbuhan yang batangnya besar dan kuat disebut pohon",
+      "jawaban":"Kayu"
+   },
+   {
+      "id":611,
+      "soal":"Ibu kota negara Jepang adalah",
+      "jawaban":"Tokyo"
+   },
+   {
+      "id":612,
+      "soal":"Satuan berat yang digunakan untuk timbangan emas adalah",
+      "jawaban":"Gram"
+   },
+   {
+      "id":613,
+      "soal":"Hewan yang memiliki kulit sangat keras dan hidup di rawa adalah",
+      "jawaban":"Buaya"
+   },
+   {
+      "id":614,
+      "soal":"Bagian pohon yang menyerap air dari tanah adalah",
+      "jawaban":"Akar"
+   },
+   {
+      "id":615,
+      "soal":"Hasil dari delapan dikali dua adalah",
+      "jawaban":"Enam belas"
+   },
+   {
+      "id":616,
+      "soal":"Arah yang berlawanan dengan barat adalah",
+      "jawaban":"Timur"
+   },
+   {
+      "id":617,
+      "soal":"Burung yang memiliki paruh sangat panjang dan tajam adalah burung",
+      "jawaban":"Pelatuk"
+   },
+   {
+      "id":618,
+      "soal":"Alat musik seruling dimainkan dengan cara di",
+      "jawaban":"Tiup"
+   },
+   {
+      "id":619,
+      "soal":"Bagian tubuh manusia yang berfungsi untuk mendengar adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":620,
+      "soal":"Setelah bulan Agustus adalah bulan",
+      "jawaban":"September"
+   },
+   {
+      "id":621,
+      "soal":"Benda cair yang didinginkan di kulkas akan menjadi",
+      "jawaban":"Padat"
+   },
+   {
+      "id":622,
+      "soal":"Hewan yang memakan serangga disebut",
+      "jawaban":"Insektivora"
+   },
+   {
+      "id":623,
+      "soal":"Planet yang paling besar di tata surya adalah",
+      "jawaban":"Yupiter"
+   },
+   {
+      "id":624,
+      "soal":"Mata uang negara Amerika Serikat adalah",
+      "jawaban":"Dolar"
+   },
+   {
+      "id":625,
+      "soal":"Ibu kota negara Malaysia adalah",
+      "jawaban":"Kuala Lumpur"
+   },
+   {
+      "id":626,
+      "soal":"Satuan waktu yang terdiri dari dua puluh empat jam adalah satu",
+      "jawaban":"Hari"
+   },
+   {
+      "id":627,
+      "soal":"Bagian mata yang memberikan warna pada mata disebut",
+      "jawaban":"Iris"
+   },
+   {
+      "id":628,
+      "soal":"Hewan yang memiliki duri tajam di punggungnya adalah",
+      "jawaban":"Landak"
+   },
+   {
+      "id":629,
+      "soal":"Hasil dari dua puluh lima dikali dua adalah",
+      "jawaban":"Lima puluh"
+   },
+   {
+      "id":630,
+      "soal":"Pahlawan yang berjuang untuk pendidikan wanita di Jawa Tengah adalah",
+      "jawaban":"Kartini"
+   },
+   {
+      "id":631,
+      "soal":"Alat pernapasan katak dewasa adalah paru-paru dan",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":632,
+      "soal":"Ibu kota provinsi Sumatera Barat adalah",
+      "jawaban":"Padang"
+   },
+   {
+      "id":633,
+      "soal":"Bunga yang menjadi simbol negara Belanda adalah bunga",
+      "jawaban":"Tulip"
+   },
+   {
+      "id":634,
+      "soal":"Setelah angka sembilan adalah angka",
+      "jawaban":"Sepuluh"
+   },
+   {
+      "id":635,
+      "soal":"Garis lintang nol derajat disebut garis",
+      "jawaban":"Khatulistiwa"
+   },
+   {
+      "id":636,
+      "soal":"Hewan yang memiliki gading panjang dan telinga lebar adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":637,
+      "soal":"Hasil dari enam ditambah empat adalah",
+      "jawaban":"Sepuluh"
+   },
+   {
+      "id":638,
+      "soal":"Alat musik sasando dimainkan dengan cara di",
+      "jawaban":"Petik"
+   },
+   {
+      "id":639,
+      "soal":"Tumbuhan yang akarnya berada di dalam air adalah",
+      "jawaban":"Enceng gondok"
+   },
+   {
+      "id":640,
+      "soal":"Indra manusia yang peka terhadap cahaya adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":641,
+      "soal":"Warna lampu merah pada jalan raya artinya kendaraan harus",
+      "jawaban":"Berhenti"
+   },
+   {
+      "id":642,
+      "soal":"Bangun datar yang memiliki empat sisi dan dua pasang sisi sama panjang adalah",
+      "jawaban":"Persegi panjang"
+   },
+   {
+      "id":643,
+      "soal":"Ibu kota negara Inggris adalah",
+      "jawaban":"London"
+   },
+   {
+      "id":644,
+      "soal":"Hasil dari lima belas dikurangi tujuh adalah",
+      "jawaban":"Delapan"
+   },
+   {
+      "id":645,
+      "soal":"Benda padat jika dipanaskan bisa berubah menjadi cair disebut",
+      "jawaban":"Mencair"
+   },
+   {
+      "id":646,
+      "soal":"Hewan yang jalannya melata dan tidak memiliki kaki adalah",
+      "jawaban":"Ular"
+   },
+   {
+      "id":647,
+      "soal":"Planet yang paling dekat dengan bumi adalah",
+      "jawaban":"Venus"
+   },
+   {
+      "id":648,
+      "soal":"Ibu kota provinsi Jawa Tengah adalah",
+      "jawaban":"Semarang"
+   },
+   {
+      "id":649,
+      "soal":"Setelah hari Rabu adalah hari",
+      "jawaban":"Kamis"
+   },
+   {
+      "id":650,
+      "soal":"Zat yang diperlukan tumbuhan untuk fotosintesis adalah karbon",
+      "jawaban":"Dioksida"
+   },
+   {
+      "id":651,
+      "soal":"Mata uang negara Korea Selatan adalah",
+      "jawaban":"Won"
+   },
+   {
+      "id":652,
+      "soal":"Hasil dari dua puluh satu dibagi tiga adalah",
+      "jawaban":"Tujuh"
+   },
+   {
+      "id":653,
+      "soal":"Pahlawan yang melawan Belanda di daerah Banten adalah Sultan Ageng",
+      "jawaban":"Tirtayasa"
+   },
+   {
+      "id":654,
+      "soal":"Bagian telinga yang berfungsi menjaga keseimbangan tubuh adalah",
+      "jawaban":"Telinga dalam"
+   },
+   {
+      "id":655,
+      "soal":"Hewan yang memiliki cangkang sangat keras di punggungnya adalah",
+      "jawaban":"Kura kura"
+   },
+   {
+      "id":656,
+      "soal":"Suku asli yang mendiami pulau Jawa adalah suku",
+      "jawaban":"Jawa"
+   },
+   {
+      "id":657,
+      "soal":"Setelah bulan April adalah bulan",
+      "jawaban":"Mei"
+   },
+   {
+      "id":658,
+      "soal":"Ibu kota negara Tiongkok adalah",
+      "jawaban":"Beijing"
+   },
+   {
+      "id":659,
+      "soal":"Bangun ruang yang bentuknya seperti kotak sepatu adalah",
+      "jawaban":"Balok"
+   },
+   {
+      "id":660,
+      "soal":"Hewan yang hidup di kutub utara dan memiliki bulu tebal adalah beruang",
+      "jawaban":"Kutub"
+   },
+   {
+      "id":661,
+      "soal":"Hasil dari sembilan ditambah sembilan adalah",
+      "jawaban":"Delapan belas"
+   },
+   {
+      "id":662,
+      "soal":"Gunung yang puncaknya tertutup salju di Papua adalah Puncak",
+      "jawaban":"Jaya"
+   },
+   {
+      "id":663,
+      "soal":"Alat musik biola dimainkan dengan cara di",
+      "jawaban":"Gesek"
+   },
+   {
+      "id":664,
+      "soal":"Bagian tubuh manusia yang berfungsi untuk mengunyah makanan adalah",
+      "jawaban":"Gigi"
+   },
+   {
+      "id":665,
+      "soal":"Arah mata angin yang berada di antara utara dan barat adalah",
+      "jawaban":"Barat Laut"
+   },
+   {
+      "id":666,
+      "soal":"Tumbuhan yang melindungi diri dengan rambut halus yang gatal adalah",
+      "jawaban":"Bambu"
+   },
+   {
+      "id":667,
+      "soal":"Indra manusia yang peka terhadap rasa pait adalah",
+      "jawaban":"Lidah"
+   },
+   {
+      "id":668,
+      "soal":"Ibu kota negara Rusia adalah kota",
+      "jawaban":"Moskow"
+   },
+   {
+      "id":669,
+      "soal":"Satuan waktu yang terdiri dari tujuh hari adalah",
+      "jawaban":"Minggu"
+   },
+   {
+      "id":670,
+      "soal":"Setelah hari Jumat adalah hari",
+      "jawaban":"Sabtu"
+   },
+   {
+      "id":671,
+      "soal":"Hewan yang memiliki paruh besar dan kantong untuk menangkap ikan adalah",
+      "jawaban":"Pelikan"
+   },
+   {
+      "id":672,
+      "soal":"Hasil dari tujuh dikali tiga adalah",
+      "jawaban":"Dua puluh satu"
+   },
+   {
+      "id":673,
+      "soal":"Benda padat yang dibekukan dari air disebut",
+      "jawaban":"Es batu"
+   },
+   {
+      "id":674,
+      "soal":"Planet yang letaknya nomor dua dari matahari adalah",
+      "jawaban":"Venus"
+   },
+   {
+      "id":675,
+      "soal":"Ibu kota negara India adalah",
+      "jawaban":"New Delhi"
+   },
+   {
+      "id":676,
+      "soal":"Pahlawan yang berjuang melawan Belanda di tanah Batak adalah",
+      "jawaban":"Sisingamangaraja"
+   },
+   {
+      "id":677,
+      "soal":"Alat musik drum dimainkan dengan cara di",
+      "jawaban":"Pukul"
+   },
+   {
+      "id":678,
+      "soal":"Bagian mata yang mengatur lebar pupil disebut",
+      "jawaban":"Iris"
+   },
+   {
+      "id":679,
+      "soal":"Tumbuhan yang melindungi diri dengan duri pada buahnya adalah",
+      "jawaban":"Durian"
+   },
+   {
+      "id":680,
+      "soal":"Hewan yang memiliki leher sangat panjang untuk makan daun adalah",
+      "jawaban":"Jerapah"
+   },
+   {
+      "id":681,
+      "soal":"Hasil dari delapan dikurangi empat adalah",
+      "jawaban":"Empat"
+   },
+   {
+      "id":682,
+      "soal":"Satuan untuk mengukur berat emas adalah",
+      "jawaban":"Gram"
+   },
+   {
+      "id":683,
+      "soal":"Suku asli yang berasal dari Sulawesi Utara adalah suku",
+      "jawaban":"Minahasa"
+   },
+   {
+      "id":684,
+      "soal":"Setelah hari Minggu adalah hari",
+      "jawaban":"Senin"
+   },
+   {
+      "id":685,
+      "soal":"Indra manusia yang peka terhadap sentuhan adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":686,
+      "soal":"Arah mata angin yang berada di antara selatan dan timur adalah",
+      "jawaban":"Tenggara"
+   },
+   {
+      "id":687,
+      "soal":"Hewan yang mengalami metamorfosis dari ulat adalah",
+      "jawaban":"Kupu kupu"
+   },
+   {
+      "id":688,
+      "soal":"Hasil dari tujuh dikali empat adalah",
+      "jawaban":"Dua puluh delapan"
+   },
+   {
+      "id":689,
+      "soal":"Ibu kota negara Filipina adalah",
+      "jawaban":"Manila"
+   },
+   {
+      "id":690,
+      "soal":"Benda cair yang membeku menjadi padat disebut proses",
+      "jawaban":"Membeku"
+   },
+   {
+      "id":691,
+      "soal":"Penyakit yang disebabkan oleh kekurangan vitamin C adalah",
+      "jawaban":"Sariawan"
+   },
+   {
+      "id":692,
+      "soal":"Gunung berapi tertinggi di pulau Jawa adalah gunung",
+      "jawaban":"Semeru"
+   },
+   {
+      "id":693,
+      "soal":"Bagian bunga yang berfungsi sebagai alat kelamin betina adalah",
+      "jawaban":"Putik"
+   },
+   {
+      "id":694,
+      "soal":"Satuan berat yang lebih kecil dari kilogram adalah",
+      "jawaban":"Gram"
+   },
+   {
+      "id":695,
+      "soal":"Indra manusia untuk melihat adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":696,
+      "soal":"Hewan yang memiliki kantong di perutnya dan tinggal di Australia adalah",
+      "jawaban":"Kanguru"
+   },
+   {
+      "id":697,
+      "soal":"Hasil dari enam dikali enam adalah",
+      "jawaban":"Tiga puluh enam"
+   },
+   {
+      "id":698,
+      "soal":"Ibu kota provinsi Sulawesi Utara adalah kota",
+      "jawaban":"Manado"
+   },
+   {
+      "id":699,
+      "soal":"Setelah bulan Mei adalah bulan",
+      "jawaban":"Juni"
+   },
+   {
+      "id":700,
+      "soal":"Dasar negara Indonesia yang terdiri dari lima sila adalah",
+      "jawaban":"Pancasila"
+   },
+   {
+      "id":701,
+      "soal":"Ibu kota negara Indonesia adalah kota",
+      "jawaban":"Jakarta"
+   },
+   {
+      "id":702,
+      "soal":"Lagu kebangsaan negara Indonesia berjudul",
+      "jawaban":"Indonesia Raya"
+   },
+   {
+      "id":703,
+      "soal":"Lambang negara Indonesia adalah burung",
+      "jawaban":"Garuda"
+   },
+   {
+      "id":704,
+      "soal":"Dasar negara Indonesia adalah",
+      "jawaban":"Pancasila"
+   },
+   {
+      "id":705,
+      "soal":"Presiden pertama Republik Indonesia adalah",
+      "jawaban":"Soekarno"
+   },
+   {
+      "id":706,
+      "soal":"Bendera negara Indonesia berwarna merah dan",
+      "jawaban":"Putih"
+   },
+   {
+      "id":707,
+      "soal":"Bentuk negara Indonesia adalah",
+      "jawaban":"Republik"
+   },
+   {
+      "id":708,
+      "soal":"Sila pertama Pancasila dilambangkan dengan gambar",
+      "jawaban":"Bintang"
+   },
+   {
+      "id":709,
+      "soal":"Sila kedua Pancasila dilambangkan dengan gambar",
+      "jawaban":"Rantai"
+   },
+   {
+      "id":710,
+      "soal":"Sila ketiga Pancasila dilambangkan dengan pohon",
+      "jawaban":"Beringin"
+   },
+   {
+      "id":711,
+      "soal":"Sila keempat Pancasila dilambangkan dengan kepala",
+      "jawaban":"Banteng"
+   },
+   {
+      "id":712,
+      "soal":"Sila kelima Pancasila dilambangkan dengan padi dan",
+      "jawaban":"Kapas"
+   },
+   {
+      "id":713,
+      "soal":"Planet tempat manusia tinggal adalah planet",
+      "jawaban":"Bumi"
+   },
+   {
+      "id":714,
+      "soal":"Matahari terbit dari arah",
+      "jawaban":"Timur"
+   },
+   {
+      "id":715,
+      "soal":"Matahari terbenam di arah",
+      "jawaban":"Barat"
+   },
+   {
+      "id":716,
+      "soal":"Alat pernapasan manusia adalah",
+      "jawaban":"Paru-paru"
+   },
+   {
+      "id":717,
+      "soal":"Alat pernapasan ikan adalah",
+      "jawaban":"Insang"
+   },
+   {
+      "id":718,
+      "soal":"Hewan yang hidup di darat dan air disebut",
+      "jawaban":"Amfibi"
+   },
+   {
+      "id":719,
+      "soal":"Hewan pemakan tumbuhan disebut",
+      "jawaban":"Herbivora"
+   },
+   {
+      "id":720,
+      "soal":"Hewan pemakan daging disebut",
+      "jawaban":"Karnivora"
+   },
+   {
+      "id":721,
+      "soal":"Hewan pemakan segalanya disebut",
+      "jawaban":"Omnivora"
+   },
+   {
+      "id":722,
+      "soal":"Zat hijau pada daun disebut",
+      "jawaban":"Klorofil"
+   },
+   {
+      "id":723,
+      "soal":"Proses memasak makanan pada tumbuhan disebut",
+      "jawaban":"Fotosintesis"
+   },
+   {
+      "id":724,
+      "soal":"Bagian tumbuhan yang menyerap air adalah",
+      "jawaban":"Akar"
+   },
+   {
+      "id":725,
+      "soal":"Planet terbesar dalam tata surya adalah",
+      "jawaban":"Yupiter"
+   },
+   {
+      "id":726,
+      "soal":"Planet terkecil dalam tata surya adalah",
+      "jawaban":"Merkurius"
+   },
+   {
+      "id":727,
+      "soal":"Planet yang memiliki cincin adalah",
+      "jawaban":"Saturnus"
+   },
+   {
+      "id":728,
+      "soal":"Ibu kota negara Malaysia adalah",
+      "jawaban":"Kuala Lumpur"
+   },
+   {
+      "id":729,
+      "soal":"Mata uang negara Indonesia adalah",
+      "jawaban":"Rupiah"
+   },
+   {
+      "id":730,
+      "soal":"Mata uang negara Amerika Serikat adalah",
+      "jawaban":"Dolar"
+   },
+   {
+      "id":731,
+      "soal":"Benua terkecil di dunia adalah benua",
+      "jawaban":"Australia"
+   },
+   {
+      "id":732,
+      "soal":"Samudra terluas di dunia adalah samudra",
+      "jawaban":"Pasifik"
+   },
+   {
+      "id":733,
+      "soal":"Indra manusia untuk melihat adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":734,
+      "soal":"Indra manusia untuk mendengar adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":735,
+      "soal":"Indra manusia untuk mencium bau adalah",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":736,
+      "soal":"Indra manusia untuk mengecap rasa adalah",
+      "jawaban":"Lidah"
+   },
+   {
+      "id":737,
+      "soal":"Indra manusia untuk meraba adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":738,
+      "soal":"Candi Borobudur terletak di provinsi",
+      "jawaban":"Jawa Tengah"
+   },
+   {
+      "id":739,
+      "soal":"Candi Prambanan merupakan peninggalan agama",
+      "jawaban":"Hindu"
+   },
+   {
+      "id":740,
+      "soal":"Danau terbesar di Indonesia adalah danau",
+      "jawaban":"Toba"
+   },
+   {
+      "id":741,
+      "soal":"Gunung tertinggi di pulau Jawa adalah gunung",
+      "jawaban":"Semeru"
+   },
+   {
+      "id":742,
+      "soal":"Sungai terpanjang di Indonesia adalah sungai",
+      "jawaban":"Kapuas"
+   },
+   {
+      "id":743,
+      "soal":"Pusat tata surya kita adalah",
+      "jawaban":"Matahari"
+   },
+   {
+      "id":744,
+      "soal":"Satelit alami bumi adalah",
+      "jawaban":"Bulan"
+   },
+   {
+      "id":745,
+      "soal":"Jumlah provinsi di Indonesia saat ini adalah",
+      "jawaban":"Tiga puluh delapan"
+   },
+   {
+      "id":746,
+      "soal":"Bahan utama pembuatan tempe adalah",
+      "jawaban":"Kedelai"
+   },
+   {
+      "id":747,
+      "soal":"Alat musik angklung berasal dari",
+      "jawaban":"Jawa Barat"
+   },
+   {
+      "id":748,
+      "soal":"Alat musik sasando berasal dari",
+      "jawaban":"Nusa Tenggara Timur"
+   },
+   {
+      "id":749,
+      "soal":"Rumah adat khas Papua adalah",
+      "jawaban":"Honai"
+   },
+   {
+      "id":750,
+      "soal":"Tari Pendet berasal dari daerah",
+      "jawaban":"Bali"
+   },
+   {
+      "id":751,
+      "soal":"Hasil dari sepuluh dikali lima adalah",
+      "jawaban":"Limapuluh"
+   },
+   {
+      "id":752,
+      "soal":"Hasil dari seratus dibagi dua adalah",
+      "jawaban":"Limapuluh"
+   },
+   {
+      "id":753,
+      "soal":"Benda cair yang didinginkan akan menjadi",
+      "jawaban":"Padat"
+   },
+   {
+      "id":754,
+      "soal":"Benda padat yang dipanaskan akan menjadi",
+      "jawaban":"Cair"
+   },
+   {
+      "id":755,
+      "soal":"Warna primer adalah merah kuning dan",
+      "jawaban":"Biru"
+   },
+   {
+      "id":756,
+      "soal":"Pahlawan yang dijuluki Bapak Pendidikan adalah",
+      "jawaban":"Ki Hajar Dewantara"
+   },
+   {
+      "id":757,
+      "soal":"Hari kemerdekaan Indonesia dirayakan setiap tanggal",
+      "jawaban":"Tujuh belas Agustus"
+   },
+   {
+      "id":758,
+      "soal":"Alat untuk mengukur suhu disebut",
+      "jawaban":"Termometer"
+   },
+   {
+      "id":759,
+      "soal":"Hewan yang memiliki belalai adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":760,
+      "soal":"Hewan yang memiliki leher panjang adalah",
+      "jawaban":"Jerapah"
+   },
+   {
+      "id":761,
+      "soal":"Hewan yang pandai melompat dan tinggal di Australia adalah",
+      "jawaban":"Kanguru"
+   },
+   {
+      "id":762,
+      "soal":"Hewan tercepat di darat adalah",
+      "jawaban":"Cheetah"
+   },
+   {
+      "id":763,
+      "soal":"Burung yang tidak bisa terbang adalah burung",
+      "jawaban":"Unta"
+   },
+   {
+      "id":764,
+      "soal":"Gigi yang berfungsi untuk memotong makanan adalah gigi",
+      "jawaban":"Seri"
+   },
+   {
+      "id":765,
+      "soal":"Gigi yang berfungsi untuk merobek makanan adalah gigi",
+      "jawaban":"Taring"
+   },
+   {
+      "id":766,
+      "soal":"Vitamin yang baik untuk mata adalah vitamin",
+      "jawaban":"A"
+   },
+   {
+      "id":767,
+      "soal":"Vitamin yang baik untuk tulang adalah vitamin",
+      "jawaban":"D"
+   },
+   {
+      "id":768,
+      "soal":"Suku asli Jakarta adalah suku",
+      "jawaban":"Betawi"
+   },
+   {
+      "id":769,
+      "soal":"Pakaian adat kebaya berasal dari daerah",
+      "jawaban":"Jawa"
+   },
+   {
+      "id":770,
+      "soal":"Senjata tradisional khas Jawa adalah",
+      "jawaban":"Keris"
+   },
+   {
+      "id":771,
+      "soal":"Samudra yang berada di sebelah timur Indonesia adalah samudra",
+      "jawaban":"Pasifik"
+   },
+   {
+      "id":772,
+      "soal":"Arah mata angin di antara utara dan barat adalah",
+      "jawaban":"Barat Laut"
+   },
+   {
+      "id":773,
+      "soal":"Setelah hari Senin adalah hari",
+      "jawaban":"Selasa"
+   },
+   {
+      "id":774,
+      "soal":"Sebelum bulan Mei adalah bulan",
+      "jawaban":"April"
+   },
+   {
+      "id":775,
+      "soal":"Jumlah hari dalam seminggu adalah",
+      "jawaban":"Tujuh hari"
+   },
+   {
+      "id":776,
+      "soal":"Alat untuk menimbang berat badan adalah",
+      "jawaban":"Timbangan"
+   },
+   {
+      "id":777,
+      "soal":"Benda yang ditarik oleh magnet terbuat dari",
+      "jawaban":"Besi"
+   },
+   {
+      "id":778,
+      "soal":"Perubahan uap air menjadi titik air disebut",
+      "jawaban":"Mengembun"
+   },
+   {
+      "id":779,
+      "soal":"Ibu kota negara Thailand adalah",
+      "jawaban":"Bangkok"
+   },
+   {
+      "id":780,
+      "soal":"Negara yang pernah menjajah Indonesia paling lama adalah",
+      "jawaban":"Belanda"
+   },
+   {
+      "id":781,
+      "soal":"Hasil dari dua puluh empat dibagi dua adalah",
+      "jawaban":"Duabelas"
+   },
+   {
+      "id":782,
+      "soal":"Bagian telur yang berwarna kuning disebut",
+      "jawaban":"Kuning telur"
+   },
+   {
+      "id":783,
+      "soal":"Tumbuhan yang memiliki duri untuk melindungi diri adalah",
+      "jawaban":"Kaktus"
+   },
+   {
+      "id":784,
+      "soal":"Satuan untuk panjang benda adalah",
+      "jawaban":"Meter"
+   },
+   {
+      "id":785,
+      "soal":"Satuan untuk berat benda adalah",
+      "jawaban":"Kilogram"
+   },
+   {
+      "id":786,
+      "soal":"Planet yang dijuluki planet merah adalah",
+      "jawaban":"Mars"
+   },
+   {
+      "id":787,
+      "soal":"Lampu lalu lintas warna kuning berarti harus",
+      "jawaban":"Hati-hati"
+   },
+   {
+      "id":788,
+      "soal":"Lampu lalu lintas warna hijau berarti boleh",
+      "jawaban":"Jalan"
+   },
+   {
+      "id":789,
+      "soal":"Siapa pencipta lagu Indonesia Raya",
+      "jawaban":"W.R. Supratman"
+   },
+   {
+      "id":790,
+      "soal":"Apa kepanjangan dari SD",
+      "jawaban":"Sekolah Dasar"
+   },
+   {
+      "id":791,
+      "soal":"Sesuatu yang menempati ruang dan memiliki massa disebut",
+      "jawaban":"Benda"
+   },
+   {
+      "id":792,
+      "soal":"Air laut rasanya",
+      "jawaban":"Asin"
+   },
+   {
+      "id":793,
+      "soal":"Negara tetangga yang berbatasan langsung dengan Papua adalah",
+      "jawaban":"Papua Nugini"
+   },
+   {
+      "id":794,
+      "soal":"Hewan yang bisa berubah warna kulitnya adalah",
+      "jawaban":"Bunglon"
+   },
+   {
+      "id":795,
+      "soal":"Lawan kata dari siang adalah",
+      "jawaban":"Malam"
+   },
+   {
+      "id":796,
+      "soal":"Lawan kata dari besar adalah",
+      "jawaban":"Kecil"
+   },
+   {
+      "id":797,
+      "soal":"Alat pernapasan pada tumbuhan di daun disebut",
+      "jawaban":"Stomata"
+   },
+   {
+      "id":798,
+      "soal":"Bagian tubuh yang menyokong berdirinya manusia adalah",
+      "jawaban":"Tulang"
+   },
+   {
+      "id":799,
+      "soal":"Ibu kota negara Jepang adalah",
+      "jawaban":"Tokyo"
+   },
+   {
+      "id":800,
+      "soal":"Ibu kota negara Korea Selatan adalah",
+      "jawaban":"Seoul"
+   },
+   {
+      "id":801,
+      "soal":"Tumbuhan kaktus hidup di daerah",
+      "jawaban":"Gurun"
+   },
+   {
+      "id":802,
+      "soal":"Arah mata angin utama berjumlah",
+      "jawaban":"Delapan"
+   },
+   {
+      "id":803,
+      "soal":"Hewan laut yang menyusui adalah",
+      "jawaban":"Paus"
+   },
+   {
+      "id":804,
+      "soal":"Benda yang digunakan untuk menggosok gigi adalah",
+      "jawaban":"Sikat gigi"
+   },
+   {
+      "id":805,
+      "soal":"Bahan bakar untuk kendaraan bermotor adalah",
+      "jawaban":"Bensin"
+   },
+   {
+      "id":806,
+      "soal":"Setelah angka sembilan adalah",
+      "jawaban":"Sepuluh"
+   },
+   {
+      "id":807,
+      "soal":"Provinsi di paling ujung timur Indonesia adalah",
+      "jawaban":"Papua"
+   },
+   {
+      "id":808,
+      "soal":"Samudra yang membatasi Indonesia di sebelah selatan adalah",
+      "jawaban":"Hindia"
+   },
+   {
+      "id":809,
+      "soal":"Siapa presiden Indonesia saat ini",
+      "jawaban":"Prabowo Subianto"
+   },
+   {
+      "id":810,
+      "soal":"Alat untuk melihat benda sangat jauh di langit adalah",
+      "jawaban":"Teleskop"
+   },
+   {
+      "id":811,
+      "soal":"Gaya yang dihasilkan oleh magnet disebut gaya",
+      "jawaban":"Magnet"
+   },
+   {
+      "id":812,
+      "soal":"Bagian bunga yang paling menarik adalah",
+      "jawaban":"Mahkota"
+   },
+   {
+      "id":813,
+      "soal":"Tempat menyimpan buku di sekolah disebut",
+      "jawaban":"Perpustakaan"
+   },
+   {
+      "id":814,
+      "soal":"Ibu kota provinsi Jawa Barat adalah",
+      "jawaban":"Bandung"
+   },
+   {
+      "id":815,
+      "soal":"Pulau terbesar di Indonesia adalah",
+      "jawaban":"Kalimantan"
+   },
+   {
+      "id":816,
+      "soal":"Warna lampu lalu lintas paling bawah adalah",
+      "jawaban":"Hijau"
+   },
+   {
+      "id":817,
+      "soal":"Hewan yang memiliki tempurung adalah",
+      "jawaban":"Kura-kura"
+   },
+   {
+      "id":818,
+      "soal":"Proses es mencair menjadi air disebut",
+      "jawaban":"Mencair"
+   },
+   {
+      "id":819,
+      "soal":"Alat untuk menghitung adalah",
+      "jawaban":"Kalkulator"
+   },
+   {
+      "id":820,
+      "soal":"Negara yang menjajah Indonesia selama tiga setengah tahun adalah",
+      "jawaban":"Jepang"
+   },
+   {
+      "id":821,
+      "soal":"Lawan kata tajam adalah",
+      "jawaban":"Tumpul"
+   },
+   {
+      "id":822,
+      "soal":"Lawan kata panjang adalah",
+      "jawaban":"Pendek"
+   },
+   {
+      "id":823,
+      "soal":"Bulan yang memiliki jumlah hari paling sedikit adalah",
+      "jawaban":"Februari"
+   },
+   {
+      "id":824,
+      "soal":"Ibu kota provinsi Sumatera Utara adalah",
+      "jawaban":"Medan"
+   },
+   {
+      "id":825,
+      "soal":"Ibu kota provinsi Jawa Timur adalah",
+      "jawaban":"Surabaya"
+   },
+   {
+      "id":826,
+      "soal":"Apa warna primer campuran merah dan kuning",
+      "jawaban":"Oranye"
+   },
+   {
+      "id":827,
+      "soal":"Tumbuhan yang batangnya merambat contohnya",
+      "jawaban":"Semangka"
+   },
+   {
+      "id":828,
+      "soal":"Alat untuk memotong kertas adalah",
+      "jawaban":"Gunting"
+   },
+   {
+      "id":829,
+      "soal":"Hewan yang memiliki cula adalah",
+      "jawaban":"Badak"
+   },
+   {
+      "id":830,
+      "soal":"Siapa wakil presiden Indonesia pertama",
+      "jawaban":"Mohammad Hatta"
+   },
+   {
+      "id":831,
+      "soal":"Arah jam berputar ke arah",
+      "jawaban":"Kanan"
+   },
+   {
+      "id":832,
+      "soal":"Satuan waktu yang terdiri dari 60 menit adalah",
+      "jawaban":"Satu jam"
+   },
+   {
+      "id":833,
+      "soal":"Jumlah hari dalam setahun normal adalah",
+      "jawaban":"Tiga ratus enam puluh lima"
+   },
+   {
+      "id":834,
+      "soal":"Planet nomor tiga dari matahari adalah",
+      "jawaban":"Bumi"
+   },
+   {
+      "id":835,
+      "soal":"Hewan yang menghasilkan telur adalah",
+      "jawaban":"Ayam"
+   },
+   {
+      "id":836,
+      "soal":"Tumbuhan yang menyimpan air di batang adalah",
+      "jawaban":"Kaktus"
+   },
+   {
+      "id":837,
+      "soal":"Indra untuk merasakan halus kasar adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":838,
+      "soal":"Apa ibu kota negara Inggris",
+      "jawaban":"London"
+   },
+   {
+      "id":839,
+      "soal":"Pesta olah raga dunia setiap empat tahun disebut",
+      "jawaban":"Olimpiade"
+   },
+   {
+      "id":840,
+      "soal":"Benda yang bisa memantulkan cahaya adalah",
+      "jawaban":"Cermin"
+   },
+   {
+      "id":841,
+      "soal":"Apa kepanjangan dari NKRI",
+      "jawaban":"Negara Kesatuan Republik Indonesia"
+   },
+   {
+      "id":842,
+      "soal":"Hasil dari delapan dikali delapan adalah",
+      "jawaban":"Enam puluh empat"
+   },
+   {
+      "id":843,
+      "soal":"Hewan yang memiliki gading adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":844,
+      "soal":"Apa nama ibu kota negara Perancis",
+      "jawaban":"Paris"
+   },
+   {
+      "id":845,
+      "soal":"Tari piring berasal dari daerah",
+      "jawaban":"Sumatera Barat"
+   },
+   {
+      "id":846,
+      "soal":"Bagian mata yang mengatur cahaya masuk adalah",
+      "jawaban":"Pupil"
+   },
+   {
+      "id":847,
+      "soal":"Apa lawan kata dari rajin",
+      "jawaban":"Malas"
+   },
+   {
+      "id":848,
+      "soal":"Hewan pemakan serangga disebut",
+      "jawaban":"Insektivora"
+   },
+   {
+      "id":849,
+      "soal":"Kapan proklamasi kemerdekaan Indonesia dilakukan",
+      "jawaban":"Tujuh belas Agustus seribu sembilan ratus empat puluh lima"
+   },
+   {
+      "id":850,
+      "soal":"Apa nama samudra di sebelah barat pulau Sumatera",
+      "jawaban":"Samudra Hindia"
+   },
+   {
+      "id":851,
+      "soal":"Hewan yang memiliki cangkang dan hidup di darat serta air adalah",
+      "jawaban":"Kura-kura"
+   },
+   {
+      "id":852,
+      "soal":"Planet merah adalah sebutan untuk planet",
+      "jawaban":"Mars"
+   },
+   {
+      "id":853,
+      "soal":"Apa ibu kota provinsi Jawa Tengah",
+      "jawaban":"Semarang"
+   },
+   {
+      "id":854,
+      "soal":"Alat pernapasan tumbuhan yang berada di batang disebut",
+      "jawaban":"Lentisel"
+   },
+   {
+      "id":855,
+      "soal":"Benda yang tidak dapat ditarik magnet disebut",
+      "jawaban":"Non magnetis"
+   },
+   {
+      "id":856,
+      "soal":"Apa ibu kota negara Korea Utara",
+      "jawaban":"Pyongyang"
+   },
+   {
+      "id":857,
+      "soal":"Hewan yang berubah dari ulat menjadi indah adalah",
+      "jawaban":"Kupu-kupu"
+   },
+   {
+      "id":858,
+      "soal":"Vitamin yang banyak terdapat pada buah wortel adalah",
+      "jawaban":"Vitamin A"
+   },
+   {
+      "id":859,
+      "soal":"Indra yang digunakan untuk mengecap rasa makanan adalah",
+      "jawaban":"Lidah"
+   },
+   {
+      "id":860,
+      "soal":"Apa lawan kata dari tinggi",
+      "jawaban":"Rendah"
+   },
+   {
+      "id":861,
+      "soal":"Setelah hari Rabu adalah hari",
+      "jawaban":"Kamis"
+   },
+   {
+      "id":862,
+      "soal":"Gunung tertinggi di dunia adalah gunung",
+      "jawaban":"Everest"
+   },
+   {
+      "id":863,
+      "soal":"Bahan utama untuk membuat cokelat adalah",
+      "jawaban":"Kakao"
+   },
+   {
+      "id":864,
+      "soal":"Apa ibu kota negara Belanda",
+      "jawaban":"Amsterdam"
+   },
+   {
+      "id":865,
+      "soal":"Hewan yang suka menghisap darah manusia adalah nyamuk dan",
+      "jawaban":"Lintah"
+   },
+   {
+      "id":866,
+      "soal":"Tumbuhan yang menggugurkan daunnya di musim kemarau adalah pohon",
+      "jawaban":"Jati"
+   },
+   {
+      "id":867,
+      "soal":"Alat musik yang dipukul dan berasal dari Jawa adalah",
+      "jawaban":"Gamelan"
+   },
+   {
+      "id":868,
+      "soal":"Siapa pencipta lagu Ibu Kita Kartini",
+      "jawaban":"W.R. Supratman"
+   },
+   {
+      "id":869,
+      "soal":"Satuan untuk daya listrik adalah",
+      "jawaban":"Watt"
+   },
+   {
+      "id":870,
+      "soal":"Apa ibu kota negara Filipina",
+      "jawaban":"Manila"
+   },
+   {
+      "id":871,
+      "soal":"Hewan yang memiliki kemampuan berubah warna kulit adalah",
+      "jawaban":"Bunglon"
+   },
+   {
+      "id":872,
+      "soal":"Penyakit yang disebabkan kekurangan vitamin B satu disebut",
+      "jawaban":"Beri-beri"
+   },
+   {
+      "id":873,
+      "soal":"Hasil dari lima dikali sembilan adalah",
+      "jawaban":"Empat puluh lima"
+   },
+   {
+      "id":874,
+      "soal":"Arah mata angin antara barat dan utara adalah",
+      "jawaban":"Barat Laut"
+   },
+   {
+      "id":875,
+      "soal":"Provinsi yang berada di paling barat Indonesia adalah",
+      "jawaban":"Aceh"
+   },
+   {
+      "id":876,
+      "soal":"Ikan bernapas menggunakan",
+      "jawaban":"Insang"
+   },
+   {
+      "id":877,
+      "soal":"Benda yang bisa menghantarkan listrik disebut",
+      "jawaban":"Konduktor"
+   },
+   {
+      "id":878,
+      "soal":"Planet paling panas dalam tata surya adalah",
+      "jawaban":"Venus"
+   },
+   {
+      "id":879,
+      "soal":"Apa nama samudra terluas di dunia",
+      "jawaban":"Samudra Pasifik"
+   },
+   {
+      "id":880,
+      "soal":"Alat peraga untuk melihat peta dunia berbentuk bulat disebut",
+      "jawaban":"Globe"
+   },
+   {
+      "id":881,
+      "soal":"Setelah angka sembilan ratus sembilan puluh sembilan adalah",
+      "jawaban":"Seribu"
+   },
+   {
+      "id":882,
+      "soal":"Pahlawan yang dijuluki Bapak Pendidikan Nasional adalah",
+      "jawaban":"Ki Hajar Dewantara"
+   },
+   {
+      "id":883,
+      "soal":"Gaya yang membuat benda tetap menempel di bumi disebut gaya",
+      "jawaban":"Gravitasi"
+   },
+   {
+      "id":884,
+      "soal":"Tumbuhan yang batangnya berongga contohnya",
+      "jawaban":"Kangkung"
+   },
+   {
+      "id":885,
+      "soal":"Indra yang peka terhadap suara adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":886,
+      "soal":"Ibu kota negara Thailand adalah",
+      "jawaban":"Bangkok"
+   },
+   {
+      "id":887,
+      "soal":"Mata uang negara Jepang adalah",
+      "jawaban":"Yen"
+   },
+   {
+      "id":888,
+      "soal":"Hewan pemakan serangga disebut",
+      "jawaban":"Insektivora"
+   },
+   {
+      "id":889,
+      "soal":"Hasil dari seratus dibagi empat adalah",
+      "jawaban":"Dua puluh lima"
+   },
+   {
+      "id":890,
+      "soal":"Lagu kebangsaan Indonesia adalah",
+      "jawaban":"Indonesia Raya"
+   },
+   {
+      "id":891,
+      "soal":"Sila ketiga Pancasila berbunyi",
+      "jawaban":"Persatuan Indonesia"
+   },
+   {
+      "id":892,
+      "soal":"Rumah adat suku Minangkabau disebut rumah",
+      "jawaban":"Gadang"
+   },
+   {
+      "id":893,
+      "soal":"Benua terbesar di dunia adalah benua",
+      "jawaban":"Asia"
+   },
+   {
+      "id":894,
+      "soal":"Hewan yang memilki lari tercepat adalah",
+      "jawaban":"Cheetah"
+   },
+   {
+      "id":895,
+      "soal":"Warna lampu lalu lintas yang artinya jalan terus adalah",
+      "jawaban":"Hijau"
+   },
+   {
+      "id":896,
+      "soal":"Ibu kota negara Rusia adalah",
+      "jawaban":"Moskow"
+   },
+   {
+      "id":897,
+      "soal":"Benda cair yang berubah menjadi uap disebut",
+      "jawaban":"Menguap"
+   },
+   {
+      "id":898,
+      "soal":"Jumlah hari dalam satu minggu adalah",
+      "jawaban":"Tujuh hari"
+   },
+   {
+      "id":899,
+      "soal":"Hewan yang tidur sambil bergelantungan terbalik adalah",
+      "jawaban":"Kelelawar"
+   },
+   {
+      "id":900,
+      "soal":"Indra manusia yang berfungsi sebagai peraba adalah",
+      "jawaban":"Kulit"
+   },
+   {
+      "id":901,
+      "soal":"Apa ibu kota negara Singapura",
+      "jawaban":"Singapura"
+   },
+   {
+      "id":902,
+      "soal":"Tumbuhan yang akarnya di atas tanah untuk bernapas disebut akar",
+      "jawaban":"Napas"
+   },
+   {
+      "id":903,
+      "soal":"Penyakit karena kekurangan zat besi disebut",
+      "jawaban":"Anemia"
+   },
+   {
+      "id":904,
+      "soal":"Hasil dari delapan dikali tujuh adalah",
+      "jawaban":"Lima puluh enam"
+   },
+   {
+      "id":905,
+      "soal":"Planet yang paling dekat dengan bumi adalah",
+      "jawaban":"Venus"
+   },
+   {
+      "id":906,
+      "soal":"Setelah hari Sabtu adalah hari",
+      "jawaban":"Minggu"
+   },
+   {
+      "id":907,
+      "soal":"Hewan yang membantu menarik delman adalah",
+      "jawaban":"Kuda"
+   },
+   {
+      "id":908,
+      "soal":"Apa ibu kota provinsi Bali",
+      "jawaban":"Denpasar"
+   },
+   {
+      "id":909,
+      "soal":"Zat yang diperlukan tubuh untuk membangun otot adalah",
+      "jawaban":"Protein"
+   },
+   {
+      "id":910,
+      "soal":"Samudra yang berada di antara benua Asia dan Amerika adalah",
+      "jawaban":"Pasifik"
+   },
+   {
+      "id":911,
+      "soal":"Alat musik piano berasal dari negara",
+      "jawaban":"Italia"
+   },
+   {
+      "id":912,
+      "soal":"Hewan yang memiliki gading adalah",
+      "jawaban":"Gajah"
+   },
+   {
+      "id":913,
+      "soal":"Warna bendera negara Singapura adalah merah dan",
+      "jawaban":"Putih"
+   },
+   {
+      "id":914,
+      "soal":"Apa lawan kata dari lapar",
+      "jawaban":"Kenyang"
+   },
+   {
+      "id":915,
+      "soal":"Sesuatu yang ditarik bumi ke pusatnya disebut gaya",
+      "jawaban":"Gravitasi"
+   },
+   {
+      "id":916,
+      "soal":"Apa ibu kota negara Jerman",
+      "jawaban":"Berlin"
+   },
+   {
+      "id":917,
+      "soal":"Bagian tumbuhan yang menghasilkan biji adalah",
+      "jawaban":"Bunga"
+   },
+   {
+      "id":918,
+      "soal":"Satuan untuk mengukur suhu adalah derajat",
+      "jawaban":"Celsius"
+   },
+   {
+      "id":919,
+      "soal":"Setelah bulan Juli adalah bulan",
+      "jawaban":"Agustus"
+   },
+   {
+      "id":920,
+      "soal":"Ikan yang memiliki kumis dan hidup di air tawar adalah ikan",
+      "jawaban":"Lele"
+   },
+   {
+      "id":921,
+      "soal":"Alat untuk membersihkan lantai disebut",
+      "jawaban":"Sapu"
+   },
+   {
+      "id":922,
+      "soal":"Candi borobudur merupakan peninggalan agama",
+      "jawaban":"Buddha"
+   },
+   {
+      "id":923,
+      "soal":"Ibu kota negara Arab Saudi adalah",
+      "jawaban":"Riyadh"
+   },
+   {
+      "id":924,
+      "soal":"Arah mata angin yang berlawanan dengan selatan adalah",
+      "jawaban":"Utara"
+   },
+   {
+      "id":925,
+      "soal":"Benda padat yang berubah langsung menjadi gas disebut",
+      "jawaban":"Menyublim"
+   },
+   {
+      "id":926,
+      "soal":"Hewan yang mengeluarkan tinta untuk melarikan diri adalah",
+      "jawaban":"Cumi-cumi"
+   },
+   {
+      "id":927,
+      "soal":"Bagian mata yang mengatur lebar sempitnya pupil adalah",
+      "jawaban":"Iris"
+   },
+   {
+      "id":928,
+      "soal":"Vitamin yang penting untuk kesehatan gigi dan gusi adalah",
+      "jawaban":"Vitamin C"
+   },
+   {
+      "id":929,
+      "soal":"Ibu kota negara Cina adalah",
+      "jawaban":"Beijing"
+   },
+   {
+      "id":930,
+      "soal":"Hasil dari lima belas ditambah dua puluh adalah",
+      "jawaban":"Tiga puluh lima"
+   },
+   {
+      "id":931,
+      "soal":"Satuan waktu yang terdiri dari enam puluh detik adalah",
+      "jawaban":"Satu menit"
+   },
+   {
+      "id":932,
+      "soal":"Hewan yang memilki satu cula di kepalanya adalah",
+      "jawaban":"Badak"
+   },
+   {
+      "id":933,
+      "soal":"Apa ibu kota negara Inggris",
+      "jawaban":"London"
+   },
+   {
+      "id":934,
+      "soal":"Tari piring berasal dari provinsi",
+      "jawaban":"Sumatera Barat"
+   },
+   {
+      "id":935,
+      "soal":"Alat musik tiup yang terbuat dari bambu adalah",
+      "jawaban":"Suling"
+   },
+   {
+      "id":936,
+      "soal":"Setelah angka sembilan adalah",
+      "jawaban":"Sepuluh"
+   },
+   {
+      "id":937,
+      "soal":"Apa nama ibu kota negara Italia",
+      "jawaban":"Roma"
+   },
+   {
+      "id":938,
+      "soal":"Hewan yang mengalami metamorfosis sempurna adalah",
+      "jawaban":"Kupu-kupu"
+   },
+   {
+      "id":939,
+      "soal":"Bagian tubuh manusia untuk mencerna makanan awal adalah",
+      "jawaban":"Mulut"
+   },
+   {
+      "id":940,
+      "soal":"Mata uang negara Korea Selatan adalah",
+      "jawaban":"Won"
+   },
+   {
+      "id":941,
+      "soal":"Setelah bulan September adalah bulan",
+      "jawaban":"Oktober"
+   },
+   {
+      "id":942,
+      "soal":"Penyakit yang ditandai dengan demam dan bintik merah adalah",
+      "jawaban":"Campak"
+   },
+   {
+      "id":943,
+      "soal":"Gaya yang timbul karena dua permukaan benda bergesekan disebut gaya",
+      "jawaban":"Gesek"
+   },
+   {
+      "id":944,
+      "soal":"Tumbuhan yang akarnya berfungsi untuk menopang batang adalah akar",
+      "jawaban":"Tunjang"
+   },
+   {
+      "id":945,
+      "soal":"Hewan pemakan daging disebut juga dengan",
+      "jawaban":"Karnivora"
+   },
+   {
+      "id":946,
+      "soal":"Ibu kota provinsi Jawa Timur adalah",
+      "jawaban":"Surabaya"
+   },
+   {
+      "id":947,
+      "soal":"Planet terbesar di sistem tata surya adalah",
+      "jawaban":"Yupiter"
+   },
+   {
+      "id":948,
+      "soal":"Hasil dari dua puluh empat dibagi dua adalah",
+      "jawaban":"Dua belas"
+   },
+   {
+      "id":949,
+      "soal":"Lawan kata dari siang adalah",
+      "jawaban":"Malam"
+   },
+   {
+      "id":950,
+      "soal":"Burung yang tidak bisa terbang namun bisa berenang adalah",
+      "jawaban":"Pinguin"
+   },
+   {
+      "id":951,
+      "soal":"Bahan utama pembuat ban kendaraan adalah",
+      "jawaban":"Karet"
+   },
+   {
+      "id":952,
+      "soal":"Satuan waktu yang terdiri dari 3600 detik adalah",
+      "jawaban":"Satu jam"
+   },
+   {
+      "id":953,
+      "soal":"Apa ibu kota negara Perancis",
+      "jawaban":"Paris"
+   },
+   {
+      "id":954,
+      "soal":"Indra manusia yang peka terhadap bau adalah",
+      "jawaban":"Hidung"
+   },
+   {
+      "id":955,
+      "soal":"Sila kelima Pancasila dilambangkan dengan padi dan",
+      "jawaban":"Kapas"
+   },
+   {
+      "id":956,
+      "soal":"Hewan yang memiliki kantong di perutnya adalah",
+      "jawaban":"Kanguru"
+   },
+   {
+      "id":957,
+      "soal":"Setelah hari Minggu adalah hari",
+      "jawaban":"Senin"
+   },
+   {
+      "id":958,
+      "soal":"Apa nama samudra di sebelah selatan Indonesia",
+      "jawaban":"Samudra Hindia"
+   },
+   {
+      "id":959,
+      "soal":"Hasil dari sembilan dikali sembilan adalah",
+      "jawaban":"Delapan puluh satu"
+   },
+   {
+      "id":960,
+      "soal":"Bagian tubuh manusia untuk memompa darah adalah",
+      "jawaban":"Jantung"
+   },
+   {
+      "id":961,
+      "soal":"Ibu kota negara Malaysia adalah",
+      "jawaban":"Kuala Lumpur"
+   },
+   {
+      "id":962,
+      "soal":"Zat yang menyebabkan rasa manis pada buah disebut",
+      "jawaban":"Fruktosa"
+   },
+   {
+      "id":963,
+      "soal":"Hewan yang memilki punuk untuk menyimpan lemak adalah",
+      "jawaban":"Unta"
+   },
+   {
+      "id":964,
+      "soal":"Satuan untuk berat benda adalah",
+      "jawaban":"Kilogram"
+   },
+   {
+      "id":965,
+      "soal":"Setelah bulan Januari adalah bulan",
+      "jawaban":"Februari"
+   },
+   {
+      "id":966,
+      "soal":"Benda yang digunakan untuk mengukur waktu adalah",
+      "jawaban":"Jam"
+   },
+   {
+      "id":967,
+      "soal":"Apa ibu kota negara Vietnam",
+      "jawaban":"Hanoi"
+   },
+   {
+      "id":968,
+      "soal":"Lawan kata dari rajin adalah",
+      "jawaban":"Malas"
+   },
+   {
+      "id":969,
+      "soal":"Penyakit yang disebabkan gigitan nyamuk Aedes Aegypti adalah",
+      "jawaban":"Demam berdarah"
+   },
+   {
+      "id":970,
+      "soal":"Indra yang peka terhadap cahaya adalah",
+      "jawaban":"Mata"
+   },
+   {
+      "id":971,
+      "soal":"Setelah angka seratus adalah",
+      "jawaban":"Seratus satu"
+   },
+   {
+      "id":972,
+      "soal":"Planet paling jauh dari matahari adalah",
+      "jawaban":"Neptunus"
+   },
+   {
+      "id":973,
+      "soal":"Tumbuhan yang melindungi diri dengan duri adalah bunga",
+      "jawaban":"Mawar"
+   },
+   {
+      "id":974,
+      "soal":"Ibu kota provinsi Sulawesi Selatan adalah",
+      "jawaban":"Makassar"
+   },
+   {
+      "id":975,
+      "soal":"Apa lawan kata dari besar",
+      "jawaban":"Kecil"
+   },
+   {
+      "id":976,
+      "soal":"Hewan yang melata dan tidak memiliki kaki adalah",
+      "jawaban":"Ular"
+   },
+   {
+      "id":977,
+      "soal":"Hasil dari sepuluh dikali sepuluh adalah",
+      "jawaban":"Seratus"
+   },
+   {
+      "id":978,
+      "soal":"Indra yang peka terhadap rasa pait adalah",
+      "jawaban":"Lidah"
+   },
+   {
+      "id":979,
+      "soal":"Satuan panjang satu kilometer sama dengan berapa meter",
+      "jawaban":"Seribu meter"
+   },
+   {
+      "id":980,
+      "soal":"Setelah hari Selasa adalah hari",
+      "jawaban":"Rabu"
+   },
+   {
+      "id":981,
+      "soal":"Pusat tata surya kita adalah",
+      "jawaban":"Matahari"
+   },
+   {
+      "id":982,
+      "soal":"Apa nama ibu kota negara Australia",
+      "jawaban":"Canberra"
+   },
+   {
+      "id":983,
+      "soal":"Hewan yang menghasilkan madu adalah",
+      "jawaban":"Lebah"
+   },
+   {
+      "id":984,
+      "soal":"Benda cair yang didinginkan sampai nol derajat disebut",
+      "jawaban":"Es"
+   },
+   {
+      "id":985,
+      "soal":"Bagian mata yang mengatur cahaya masuk adalah",
+      "jawaban":"Iris"
+   },
+   {
+      "id":986,
+      "soal":"Apa lawan kata dari gemuk",
+      "jawaban":"Kurus"
+   },
+   {
+      "id":987,
+      "soal":"Hasil dari dua puluh lima ditambah dua puluh lima adalah",
+      "jawaban":"Lima puluh"
+   },
+   {
+      "id":988,
+      "soal":"Hewan yang sering dijuluki raja hutan adalah",
+      "jawaban":"Singa"
+   },
+   {
+      "id":989,
+      "soal":"Apa ibu kota negara India",
+      "jawaban":"New Delhi"
+   },
+   {
+      "id":990,
+      "soal":"Bagian bunga yang paling wangi biasanya adalah",
+      "jawaban":"Mahkota"
+   },
+   {
+      "id":991,
+      "soal":"Setelah bulan Maret adalah bulan",
+      "jawaban":"April"
+   },
+   {
+      "id":992,
+      "soal":"Apa lawan kata dari siang",
+      "jawaban":"Malam"
+   },
+   {
+      "id":993,
+      "soal":"Penyakit batuk yang disebabkan virus dan menular adalah",
+      "jawaban":"Influenza"
+   },
+   {
+      "id":994,
+      "soal":"Indra yang peka terhadap getaran udara adalah",
+      "jawaban":"Telinga"
+   },
+   {
+      "id":995,
+      "soal":"Apa ibu kota negara Filipina",
+      "jawaban":"Manila"
+   },
+   {
+      "id":996,
+      "soal":"Hasil dari seratus dikurangi lima puluh adalah",
+      "jawaban":"Lima puluh"
+   },
+   {
+      "id":997,
+      "soal":"Hewan yang memiliki cangkang keras di punggungnya adalah",
+      "jawaban":"Kura-kura"
+   },
+   {
+      "id":998,
+      "soal":"Satuan untuk waktu adalah",
+      "jawaban":"Detik"
+   },
+   {
+      "id":999,
+      "soal":"Dasar negara Indonesia yang terdiri dari lima sila adalah",
+      "jawaban":"Pancasila"
+   },
+   {
+      "id":1000,
+      "soal":"Sila pertama Pancasila dilambangkan dengan",
+      "jawaban":"Bintang"
+   }
 ]
